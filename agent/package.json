@@ -1,0 +1,12 @@
+{
+  "name": "stragta-news-agent",
+  "version": "1.0.0",
+  "description": "Daily news fetcher for Stragta insights section",
+  "main": "news-agent.js",
+  "scripts": {
+    "start": "node news-agent.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

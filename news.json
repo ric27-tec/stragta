@@ -1,0 +1,36 @@
+{
+  "lang": "en",
+  "lastUpdated": "2026-03-21T17:39:36.567Z",
+  "articles": [
+    {
+      "id": "genie-3-release",
+      "date": "2026-03-21",
+      "headline": "Google DeepMind Releases Genie 3, a Breakthrough World Model for Interactive Simulations",
+      "summary": "Google DeepMind launched Genie 3, a foundation world model generating interactive 3D environments at 720p and 24 FPS for several minutes, with physical consistency and promptable events. It advances AI agent training through embodied learning, hailed as a key step toward AGI. The model excels in long-term simulations unlike its predecessor Genie 2.",
+      "source": "Superhuman AI",
+      "sourceUrl": "https://www.superhuman.ai/p/openai-google-and-anthropic-release-new-models",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/faa6a747-8c1c-43c1-8155-91aa43268f01/landscape_Group_1000004120.png",
+      "category": "Research"
+    },
+    {
+      "id": "claude-opus-upgrade",
+      "date": "2026-03-21",
+      "headline": "Anthropic Launches Claude Opus 4.1 with Industry-Leading Coding Performance",
+      "summary": "Anthropic rolled out Claude Opus 4.1, boosting multi-file code refactoring and precise corrections in large codebases without new bugs. It achieves 74.5% on SWE-bench Verified, surpassing predecessors. The upgrade targets enterprise coding needs.",
+      "source": "Superhuman AI",
+      "sourceUrl": "https://www.superhuman.ai/p/openai-google-and-anthropic-release-new-models",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/faa6a747-8c1c-43c1-8155-91aa43268f01/landscape_Group_1000004120.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "gemini-personal-intelligence",
+      "date": "2026-01-14",
+      "headline": "Google Announces Personal Intelligence Beta for Gemini",
+      "summary": "Google introduced Personal Intelligence, a beta feature for Gemini connecting Gmail, Photos, YouTube, and Search for contextual, personalized responses with user opt-in. It rolls out first to U.S. subscribers, enhancing cross-app reasoning. The feature improves AI tailoring to individual data securely.",
+      "source": "Champaign Magazine",
+      "sourceUrl": "https://champaignmagazine.com/2026/01/18/ai-by-ai-weekly-top-5-january-12-18-2026/",
+      "imageUrl": "",
+      "category": "Strategy"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+.env
+server/.env
+node_modules/
+server/node_modules/
+agent/node_modules/
+.DS_Store
+.env.*
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+*.log
+dist/
+build/
+.cache/
