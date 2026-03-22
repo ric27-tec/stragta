@@ -1,6 +1,6 @@
 /* ============================================================
    agent/news-agent.js
-   
+
    Fetches today's tech news and writes the JSON file.
    Supports English and Spanish via --lang flag.
 
@@ -14,14 +14,14 @@
 
    MODEL: perplexity/sonar via OpenRouter
    Perplexity/sonar searches the live web — real articles, real URLs.
-   Cost: ~$0.003 per run (~$2/year running daily in both languages).
    ============================================================ */
 
 require('dotenv').config({ path: '../server/.env' });
-const fs   = require('fs');
+
+const fs = require('fs');
 const path = require('path');
 
-const KEY  = process.env.OPENROUTER_API_KEY;
+const KEY = process.env.OPENROUTER_API_KEY;
 
 if (!KEY) {
   console.error('ERROR: OPENROUTER_API_KEY not set in server/.env');
@@ -38,13 +38,18 @@ if (!['en', 'es'].includes(LANG)) {
   process.exit(1);
 }
 
-const IS_SPANISH   = LANG === 'es';
-const OUTPUT_FILE  = path.join(__dirname, '..', IS_SPANISH ? 'news-es.json' : 'news.json');
-const TODAY        = new Date().toISOString().split('T')[0];
-const MAX = 3;
+const IS_SPANISH = LANG === 'es';
+const OUTPUT_FILE = path.join(
+  __dirname,
+  '..',
+  IS_SPANISH ? 'news-es.json' : 'news.json'
+);
+const TODAY = new Date().toISOString().split('T')[0];
 
 // ── PROMPTS ───────────────────────────────────────────────────
-const THREE_DAYS_AGO = new Date(Date.now() - 3*24*60*60*1000).toISOString().split('T')[0];
+const THREE_DAYS_AGO = new Date(
+  Date.now() - 3 * 24 * 60 * 60 * 1000
+).toISOString().split('T')[0];
 
 const PROMPT_EN = `Today is ${TODAY}. Search the web for technology news published on or after ${THREE_DAYS_AGO}. Only use articles from the last 3 days — reject anything older.
 
@@ -102,9 +107,39 @@ Tu respuesta completa debe ser este JSON y nada más:
 Categorías: "Adopción de IA" "Estrategia" "Investigación" "Regulación" "Automatización"
 EMPIEZA TU RESPUESTA CON { — nada antes.`;
 
+// ── HELPERS ───────────────────────────────────────────────────
+function normalizeHeadline(text) {
+  return (text || '')
+    .toLowerCase()
+    .replace(/[^\w\s]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function dedupeArticles(articles) {
+  const seenUrls = new Set();
+  const seenHeadlines = new Set();
+  const result = [];
+
+  for (const article of articles) {
+    const url = (article.sourceUrl || '').trim();
+    const headline = normalizeHeadline(article.headline);
+
+    if (url && seenUrls.has(url)) continue;
+    if (headline && seenHeadlines.has(headline)) continue;
+
+    if (url) seenUrls.add(url);
+    if (headline) seenHeadlines.add(headline);
+
+    result.push(article);
+  }
+
+  return result;
+}
+
 // ── FETCH ─────────────────────────────────────────────────────
 async function fetchNews() {
-  const label  = IS_SPANISH ? 'Spanish' : 'English';
+  const label = IS_SPANISH ? 'Spanish' : 'English';
   const prompt = IS_SPANISH ? PROMPT_ES : PROMPT_EN;
 
   console.log(`Fetching ${label} news for ${TODAY}...`);
@@ -112,15 +147,15 @@ async function fetchNews() {
   const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
-      'Authorization': `Bearer ${KEY}`,
-      'Content-Type':  'application/json',
-      'HTTP-Referer':  'https://stragta.com',
-      'X-Title':       `Stragta News Agent (${LANG})`,
+      Authorization: `Bearer ${KEY}`,
+      'Content-Type': 'application/json',
+      'HTTP-Referer': 'https://stragta.com',
+      'X-Title': `Stragta News Agent (${LANG})`,
     },
     body: JSON.stringify({
-      model:      'perplexity/sonar',  // has live web search built in
+      model: 'perplexity/sonar',
       max_tokens: 4000,
-      messages:   [{ role: 'user', content: prompt }],
+      messages: [{ role: 'user', content: prompt }],
     }),
   });
 
@@ -129,25 +164,21 @@ async function fetchNews() {
     throw new Error(`OpenRouter ${res.status}: ${err}`);
   }
 
-  const data    = await res.json();
+  const data = await res.json();
   const content = data.choices[0].message.content;
 
-  // Strip accidental markdown fences
   const cleaned = content.replace(/```json|```/g, '').trim();
 
   let parsed;
   try {
-    // Attempt 1: direct parse
     parsed = JSON.parse(cleaned);
   } catch {
     try {
-      // Attempt 2: find JSON block containing "articles"
       const match = cleaned.match(/\{[\s\S]*"articles"[\s\S]*\}/);
       if (!match) throw new Error('no match');
       parsed = JSON.parse(match[0]);
     } catch {
       try {
-        // Attempt 3: find any JSON object at all
         const match2 = cleaned.match(/\{[\s\S]*\}/);
         if (!match2) throw new Error('no match');
         parsed = JSON.parse(match2[0]);
@@ -160,40 +191,43 @@ async function fetchNews() {
   return parsed.articles || [];
 }
 
-// ── OG IMAGE SCRAPER ─────────────────────────────────────────
-// Fetches each article URL and extracts the og:image meta tag.
-// Free — no API needed. Runs in parallel for speed.
-// Timeout: 5 seconds per article so a slow site never blocks the run.
-
+// ── OG IMAGE SCRAPER ──────────────────────────────────────────
 async function scrapeOgImage(url) {
-  // Skip YouTube entirely — thumbnails look like clickbait
   if (url.includes('youtube.com') || url.includes('youtu.be')) return '';
 
   try {
     const controller = new AbortController();
-    const timeout    = setTimeout(() => controller.abort(), 5000);
+    const timeout = setTimeout(() => controller.abort(), 5000);
 
     const res = await fetch(url, {
-      signal:  controller.signal,
+      signal: controller.signal,
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; Stragta-NewsBot/1.0)',
-        'Accept':     'text/html',
+        Accept: 'text/html',
       },
     });
+
     clearTimeout(timeout);
 
     if (!res.ok) return '';
     const html = await res.text();
 
-    const og      = html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i);
-    const twitter = html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
-    const found   = og?.[1] || twitter?.[1] || '';
+    const og = html.match(
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i
+    );
+    const twitter = html.match(
+      /<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i
+    );
+    const found = og?.[1] || twitter?.[1] || '';
 
-    // Must be an absolute URL starting with https
     if (!found.startsWith('https://')) return '';
-
-    // Skip logos, favicons, and generic site icons
-    if (found.includes('logo') || found.includes('favicon') || found.includes('icon')) return '';
+    if (
+      found.includes('logo') ||
+      found.includes('favicon') ||
+      found.includes('icon')
+    ) {
+      return '';
+    }
 
     return found;
   } catch {
@@ -203,15 +237,23 @@ async function scrapeOgImage(url) {
 
 async function enrichWithImages(articles) {
   console.log('Fetching article images...');
+
   const results = await Promise.all(
     articles.map(async (article) => {
-      if (article.imageUrl) return article; // already has one
+      if (article.imageUrl) return article;
+
       const imageUrl = await scrapeOgImage(article.sourceUrl);
-      if (imageUrl) console.log(`  Got image for: ${article.headline.slice(0, 50)}...`);
-      else           console.log(`  No image for:  ${article.headline.slice(0, 50)}...`);
+
+      if (imageUrl) {
+        console.log(`  Got image for: ${article.headline.slice(0, 50)}...`);
+      } else {
+        console.log(`  No image for:  ${article.headline.slice(0, 50)}...`);
+      }
+
       return { ...article, imageUrl };
     })
   );
+
   return results;
 }
 
@@ -225,22 +267,28 @@ async function run() {
       process.exit(1);
     }
 
-    // Try to get real OG images from each article's page
     const enriched = await enrichWithImages(fresh);
 
-    // Hard filter — drop anything older than 7 days regardless of what the model returned
-    const cutoffDate = new Date(Date.now() - 7*24*60*60*1000);
-    const filtered = enriched.filter(a => {
+    // Hard filter: drop anything older than 7 days
+    const cutoffDate = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+    const filtered = enriched.filter((a) => {
       const d = new Date(a.date);
       if (d < cutoffDate) {
-        console.log(`  Dropped stale article (${a.date}): ${a.headline.slice(0,50)}...`);
+        console.log(
+          `  Dropped stale article (${a.date}): ${a.headline.slice(0, 50)}...`
+        );
         return false;
       }
       return true;
     });
 
     const articlesToUse = filtered.length > 0 ? filtered : enriched;
-    if (filtered.length === 0) console.warn('  Warning: all articles were older than 7 days — using anyway');
+
+    if (filtered.length === 0) {
+      console.warn(
+        '  Warning: all articles were older than 7 days — using anyway'
+      );
+    }
 
     // Load existing articles
     let existing = [];
@@ -248,28 +296,56 @@ async function run() {
       try {
         const current = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
         existing = current.articles || [];
-      } catch { existing = []; }
+      } catch {
+        existing = [];
+      }
     }
 
-    // Drop articles older than 7 days
+    // Drop existing articles older than 7 days
     const cutoff = new Date();
     cutoff.setDate(cutoff.getDate() - 7);
-    existing = existing.filter(a => new Date(a.date) >= cutoff);
+    existing = existing.filter((a) => new Date(a.date) >= cutoff);
 
-    // Deduplicate by id, prepend today's, keep only 3 total
-    const existingIds = new Set(existing.map(a => a.id));
-    const newOnes     = articlesToUse.filter(a => !existingIds.has(a.id));
-    const merged      = [...newOnes, ...existing].slice(0, 3);
+    // Merge today's articles with existing ones, newest first
+    const combined = [...articlesToUse, ...existing].sort(
+      (a, b) => new Date(b.date) - new Date(a.date)
+    );
 
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify({
-      lang:        LANG,
-      lastUpdated: new Date().toISOString(),
-      articles:    merged,
-    }, null, 2), 'utf8');
+    // Deduplicate by URL and headline, keep only 3
+    const merged = dedupeArticles(combined).slice(0, 3);
 
-    console.log(`Done. Wrote ${newOnes.length} new articles to ${path.basename(OUTPUT_FILE)}`);
-    newOnes.forEach(a => console.log(`  [${a.category}] ${a.headline}`));
+    // Identify truly new ones for logging
+    const existingUrls = new Set(existing.map((a) => (a.sourceUrl || '').trim()));
+    const existingHeadlines = new Set(
+      existing.map((a) => normalizeHeadline(a.headline))
+    );
 
+    const newOnes = merged.filter((a) => {
+      const url = (a.sourceUrl || '').trim();
+      const headline = normalizeHeadline(a.headline);
+      return !existingUrls.has(url) && !existingHeadlines.has(headline);
+    });
+
+    fs.writeFileSync(
+      OUTPUT_FILE,
+      JSON.stringify(
+        {
+          lang: LANG,
+          lastUpdated: new Date().toISOString(),
+          articles: merged,
+        },
+        null,
+        2
+      ),
+      'utf8'
+    );
+
+    console.log(
+      `Done. Wrote ${newOnes.length} new articles to ${path.basename(
+        OUTPUT_FILE
+      )}`
+    );
+    newOnes.forEach((a) => console.log(`  [${a.category}] ${a.headline}`));
   } catch (err) {
     console.error('News agent failed:', err.message);
     process.exit(1);
