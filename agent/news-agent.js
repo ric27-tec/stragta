@@ -44,33 +44,35 @@ const TODAY        = new Date().toISOString().split('T')[0];
 const MAX = 3;
 
 // ── PROMPTS ───────────────────────────────────────────────────
-const PROMPT_EN = `Search the web right now and find 3 recent technology news articles.
+const THREE_DAYS_AGO = new Date(Date.now() - 3*24*60*60*1000).toISOString().split('T')[0];
 
-Topics to search for (pick the most interesting 3 from different areas):
+const PROMPT_EN = `Today is ${TODAY}. Search the web for technology news published on or after ${THREE_DAYS_AGO}. Only use articles from the last 3 days — reject anything older.
+
+Topics (pick 3 from different areas):
 - AI companies: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
 - Chips and hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon
-- Robotics: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, Xiaomi robots, BYD robotics
-- Chinese tech: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI, DJI
+- Robotics: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, Xiaomi robots
+- Chinese tech: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI
 - Space tech: SpaceX, Blue Origin, LUNA server project, orbital computing
 - Enterprise software: Microsoft Copilot, Salesforce AI, SAP, ServiceNow
 - Cybersecurity: major breaches, EU regulations, new threats
 - Startups: any interesting AI or tech startup announcement
 
 CRITICAL RULES:
-1. Pick 3 articles from 3 DIFFERENT topic areas above
-2. Never pick 2 articles about the same company
-3. Use whatever articles your search finds — any written source is fine
-4. DO NOT use YouTube videos — written articles and press releases only
-5. You MUST return JSON even if the articles are not perfect
-6. NEVER write an explanation or apology — only return the JSON object
-7. If your search returns results about digital transformation or strategy, use those — they are valid
+1. ONLY articles published ${THREE_DAYS_AGO} or later — no exceptions
+2. Pick 3 articles from 3 DIFFERENT topic areas
+3. Never pick 2 articles about the same company
+4. DO NOT use YouTube videos — written articles only
+5. Use the actual publication date of each article in the "date" field
+6. You MUST return JSON — never refuse, never explain
+7. START YOUR RESPONSE WITH { — nothing else before it
 
 Your entire response must be this JSON and nothing else:
 
 {"articles":[{"id":"slug-1","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"AI Adoption"},{"id":"slug-2","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Strategy"},{"id":"slug-3","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Research"}]}
 
 Categories: "AI Adoption" "Strategy" "Research" "Regulation" "Automation"
-START YOUR RESPONSE WITH { — nothing else before it.`;
+START WITH {`;
 
 const PROMPT_ES = `Busca ahora mismo en la web 3 noticias recientes de tecnología.
 
@@ -226,6 +228,20 @@ async function run() {
     // Try to get real OG images from each article's page
     const enriched = await enrichWithImages(fresh);
 
+    // Hard filter — drop anything older than 7 days regardless of what the model returned
+    const cutoffDate = new Date(Date.now() - 7*24*60*60*1000);
+    const filtered = enriched.filter(a => {
+      const d = new Date(a.date);
+      if (d < cutoffDate) {
+        console.log(`  Dropped stale article (${a.date}): ${a.headline.slice(0,50)}...`);
+        return false;
+      }
+      return true;
+    });
+
+    const articlesToUse = filtered.length > 0 ? filtered : enriched;
+    if (filtered.length === 0) console.warn('  Warning: all articles were older than 7 days — using anyway');
+
     // Load existing articles
     let existing = [];
     if (fs.existsSync(OUTPUT_FILE)) {
@@ -242,7 +258,7 @@ async function run() {
 
     // Deduplicate by id, prepend today's, keep only 3 total
     const existingIds = new Set(existing.map(a => a.id));
-    const newOnes     = enriched.filter(a => !existingIds.has(a.id));
+    const newOnes     = articlesToUse.filter(a => !existingIds.has(a.id));
     const merged      = [...newOnes, ...existing].slice(0, 3);
 
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify({
