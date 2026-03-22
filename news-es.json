@@ -1,32 +1,22 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-22T07:35:02.171Z",
+  "lastUpdated": "2026-03-22T12:21:00.949Z",
   "articles": [
     {
-      "id": "openai-estrategia-cambio-2026-03-17",
-      "date": "2026-03-17",
-      "headline": "OpenAI prepara un giro drástico de estrategia para frenar a Anthropic en programación",
-      "summary": "OpenAI planea depriorizar proyectos secundarios para enfocarse en herramientas de programación como Codex y GPT-5.4, respondiendo a la dominancia de Anthropic con Claude Code y Cowork en el mercado empresarial. Este cambio busca reforzar su posición competitiva ante una posible salida a bolsa.",
-      "source": "El Confidencial",
-      "sourceUrl": "https://www.elconfidencial.com/tecnologia/2026-03-17/openai-anthropic-ia-codex-claude-programacion_4321924/",
-      "imageUrl": "https://images.ecestaticos.com/h_rOfafDxJ8BTHPG65Tk6irVsbs=/0x0:2272x1516/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/143/1f0/839/1431f0839360822cd81996e0c577284c.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "nvidia-gtc-pentagono-2026-03-21",
+      "id": "nvidia-gtc-2026",
       "date": "2026-03-21",
-      "headline": "Noticias Inteligencia Artificial 21 Marzo 2026: NVIDIA GTC, Pentágono, GPT-5.4",
-      "summary": "NVIDIA prepara anuncios en GTC mientras el conflicto Anthropic-Pentágono recibe apoyo de 150 jueces retirados y empleados de Google y OpenAI. OpenAI anticipa actualizaciones en su DevDay para API de agentes y capacidades de GPT-5.4. Anthropic podría lanzar Claude 5 el 28 de marzo.",
+      "headline": "Noticias Inteligencia Artificial 21 Marzo 2026: NVIDIA GTC, Pentágono y GPT-5.4",
+      "summary": "NVIDIA presenta avances en GTC, mientras el conflicto Anthropic-Pentágono se intensifica con apoyo de jueces retirados y empleados de Google y OpenAI. Se esperan actualizaciones de OpenAI DevDay y posible lanzamiento de Claude 5 por Anthropic. El impacto financiero para Anthropic podría ser de miles de millones.",
       "source": "Javadex",
       "sourceUrl": "https://www.javadex.es/blog/noticias-inteligencia-artificial-21-marzo-2026-nvidia-gtc-pentagono-gpt54",
       "imageUrl": "https://www.javadex.es/og-image.jpg",
       "category": "Investigación"
     },
     {
-      "id": "openai-cambio-estrategia",
+      "id": "openai-estrategia-cambio-2026-03-17",
       "date": "2026-03-17",
-      "headline": "OpenAI prepara un giro drástico de estrategia para frenar a Anthropic",
-      "summary": "OpenAI planea concentrar recursos en herramientas de programación como Codex y GPT-5.4 para competir con Anthropic en el mercado corporativo de IA. Fidji Simo describió el avance de Anthropic como una llamada de atención, impulsando mayor integración entre equipos.",
+      "headline": "OpenAI prepara un giro drástico de estrategia para frenar a Anthropic en programación",
+      "summary": "OpenAI planea depriorizar proyectos secundarios para enfocarse en herramientas de programación como Codex y GPT-5.4, respondiendo a la dominancia de Anthropic con Claude Code y Cowork en el mercado empresarial. Este cambio busca reforzar su posición competitiva ante una posible salida a bolsa.",
       "source": "El Confidencial",
       "sourceUrl": "https://www.elconfidencial.com/tecnologia/2026-03-17/openai-anthropic-ia-codex-claude-programacion_4321924/",
       "imageUrl": "https://images.ecestaticos.com/h_rOfafDxJ8BTHPG65Tk6irVsbs=/0x0:2272x1516/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/143/1f0/839/1431f0839360822cd81996e0c577284c.jpg",
