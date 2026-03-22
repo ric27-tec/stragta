@@ -1,16 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-22T12:20:56.060Z",
+  "lastUpdated": "2026-03-22T12:31:14.754Z",
   "articles": [
     {
-      "id": "openai-strategy-shift",
+      "id": "xai-musk-prediction",
       "date": "2026-03-20",
-      "headline": "OpenAI Undergoing Major Strategic Shift to Refocus on Core Business and Enterprise Productivity",
-      "summary": "OpenAI is scaling back side projects to consolidate ChatGPT, Codex, and Atlas into a single desktop superapp, aiming to nail its core business. This move emphasizes enterprise productivity amid competitive pressures. Reports highlight a push towards enterprise-focused AI solutions.[1]",
+      "headline": "AI Leaders Weekly Briefing – Mistral AI and NVIDIA Form Nemotron Coalition for Open-Source Models",
+      "summary": "Mistral AI and NVIDIA have partnered with Thinking Machines Lab and Black Forest Labs to co-develop frontier-level open-source AI models through the Nemotron Coalition. Mistral also launched its Forge enterprise training platform to help companies build proprietary AI models. This initiative aims to challenge leading closed-source models like ChatGPT and Claude.",
       "source": "Distill Intelligence",
       "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20",
       "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20/og.png",
-      "category": "Strategy"
+      "category": "Research"
+    },
+    {
+      "id": "mistral-small-release",
+      "date": "2026-03-20",
+      "headline": "Mistral Releases Small 4: Open-Source Mixture-of-Experts Model with Multimodal Capabilities",
+      "summary": "Mistral unveiled Small 4, an open-source Apache-licensed model with 120 billion parameters, 256 token context, combining reasoning, vision, and agentic coding abilities. It features Magestral vision and pixel capabilities for multimodal tasks. This release bolsters Mistral's position in accessible AI development.",
+      "source": "YouTube AI Updates Weekly",
+      "sourceUrl": "https://www.youtube.com/watch?v=cB03SXOEfwY",
+      "imageUrl": "",
+      "category": "AI Adoption"
     },
     {
       "id": "xai-musk-prediction",
