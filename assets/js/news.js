@@ -115,7 +115,9 @@ async function loadNews() {
   const lang   = detectLang();
   const grid   = document.getElementById('news-grid');
   const updEl  = document.getElementById('news-updated');
-  const file   = lang === 'es' ? '/news-es.json' : '/news.json';
+  const file = lang === 'es'
+      ? './news-es.json?t=' + Date.now()
+      : './news.json?t=' + Date.now();
 
   let articles = [];
 
