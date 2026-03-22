@@ -2,18 +2,21 @@ name: Daily News Fetch
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 7:00 AM UTC daily
-  workflow_dispatch:        # also allows manual trigger from GitHub UI
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -33,10 +36,10 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: cd agent && node news-agent.js --lang es
 
-      - name: Commit updated news.json files
+      - name: Commit updated news files
         run: |
           git config user.name  "Stragta News Bot"
           git config user.email "bot@stragta.com"
           git add news.json news-es.json
           git diff --staged --quiet || git commit -m "Daily news update $(date +%Y-%m-%d)"
-          git push
+          git push origin HEAD
