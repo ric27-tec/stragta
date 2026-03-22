@@ -16,7 +16,7 @@
    Perplexity/sonar searches the live web — real articles, real URLs.
    ============================================================ */
 
-require('dotenv').config({ path: '../server/.env' });
+require('dotenv').config({ path: '../.env' });
 
 const fs = require('fs');
 const path = require('path');
@@ -24,7 +24,7 @@ const path = require('path');
 const KEY = process.env.OPENROUTER_API_KEY;
 
 if (!KEY) {
-  console.error('ERROR: OPENROUTER_API_KEY not set in server/.env');
+  console.error('ERROR: OPENROUTER_API_KEY not set in .env or GitHub Actions secrets');
   process.exit(1);
 }
 
