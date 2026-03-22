@@ -1,0 +1,45 @@
+name: Daily News Fetch
+
+on:
+  schedule:
+    - cron: '0 7 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install agent dependencies
+        run: cd agent && npm install
+
+      - name: Fetch English news
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: cd agent && node news-agent.js
+
+      - name: Fetch Spanish news
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: cd agent && node news-agent.js --lang es
+
+      - name: Commit updated news files
+        run: |
+          git config user.name  "Stragta News Bot"
+          git config user.email "bot@stragta.com"
+          git add news.json news-es.json
+          git diff --staged --quiet || git commit -m "Daily news update $(date +%Y-%m-%d)"
+          git push origin HEAD
