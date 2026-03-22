@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-21T17:39:36.567Z",
+  "lastUpdated": "2026-03-22T01:32:57.092Z",
   "articles": [
     {
-      "id": "genie-3-release",
-      "date": "2026-03-21",
-      "headline": "Google DeepMind Releases Genie 3, a Breakthrough World Model for Interactive Simulations",
-      "summary": "Google DeepMind launched Genie 3, a foundation world model generating interactive 3D environments at 720p and 24 FPS for several minutes, with physical consistency and promptable events. It advances AI agent training through embodied learning, hailed as a key step toward AGI. The model excels in long-term simulations unlike its predecessor Genie 2.",
+      "id": "anthropic-claude-opus-upgrade",
+      "date": "2026-02-28",
+      "headline": "Anthropic Launches Claude Opus 4.1 with Advanced Coding Capabilities",
+      "summary": "Anthropic released Claude Opus 4.1, an incremental upgrade to Claude Opus 4 that significantly improves multi-file code refactoring and large codebase analysis. The model achieved an industry-leading 74.5% on the SWE-bench Verified benchmark, demonstrating substantial improvements in coding performance.",
       "source": "Superhuman AI",
       "sourceUrl": "https://www.superhuman.ai/p/openai-google-and-anthropic-release-new-models",
       "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/faa6a747-8c1c-43c1-8155-91aa43268f01/landscape_Group_1000004120.png",
       "category": "Research"
     },
     {
-      "id": "claude-opus-upgrade",
-      "date": "2026-03-21",
-      "headline": "Anthropic Launches Claude Opus 4.1 with Industry-Leading Coding Performance",
-      "summary": "Anthropic rolled out Claude Opus 4.1, boosting multi-file code refactoring and precise corrections in large codebases without new bugs. It achieves 74.5% on SWE-bench Verified, surpassing predecessors. The upgrade targets enterprise coding needs.",
+      "id": "google-deepmind-genie-3-world-model",
+      "date": "2026-02-28",
+      "headline": "Google DeepMind Releases Genie 3, Revolutionary World Model for Interactive 3D Simulations",
+      "summary": "Google DeepMind unveiled Genie 3, a foundation world model that generates interactive 3D environments at 720p resolution and 24 frames per second, vastly surpassing its predecessor Genie 2. The model demonstrates unprecedented physical consistency and intuitive understanding of real-world physics without explicit programming.",
       "source": "Superhuman AI",
       "sourceUrl": "https://www.superhuman.ai/p/openai-google-and-anthropic-release-new-models",
       "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/publication/thumbnail/faa6a747-8c1c-43c1-8155-91aa43268f01/landscape_Group_1000004120.png",
-      "category": "AI Adoption"
+      "category": "Research"
     },
     {
-      "id": "gemini-personal-intelligence",
-      "date": "2026-01-14",
-      "headline": "Google Announces Personal Intelligence Beta for Gemini",
-      "summary": "Google introduced Personal Intelligence, a beta feature for Gemini connecting Gmail, Photos, YouTube, and Search for contextual, personalized responses with user opt-in. It rolls out first to U.S. subscribers, enhancing cross-app reasoning. The feature improves AI tailoring to individual data securely.",
-      "source": "Champaign Magazine",
-      "sourceUrl": "https://champaignmagazine.com/2026/01/18/ai-by-ai-weekly-top-5-january-12-18-2026/",
-      "imageUrl": "",
-      "category": "Strategy"
+      "id": "openai-gpt-5-series-agent-capabilities",
+      "date": "2026-02-28",
+      "headline": "OpenAI Advances GPT-5 Series with Enhanced Reasoning and Agent-Based Workflows",
+      "summary": "OpenAI released GPT-5.2 and GPT-5.4 models that combine advanced reasoning, coding, and agent-based workflows with computer-use capabilities enabling direct application interaction. These models support complex enterprise tasks including data analysis and spreadsheet modeling across ChatGPT Health and other integrated services.",
+      "source": "dig.watch",
+      "sourceUrl": "https://dig.watch/updates/ai-competition-google-openai-anthropic-xai",
+      "imageUrl": "https://diplo-media.s3.eu-central-1.amazonaws.com/2026/03/ai-competition-google-openai-anthropic-xai.jpg",
+      "category": "AI Adoption"
     }
   ]
 }
