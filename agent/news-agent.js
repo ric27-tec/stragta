@@ -53,7 +53,7 @@ const THREE_DAYS_AGO = new Date(
 
 const PROMPT_EN = `Today is ${TODAY}. Search the web for technology news published on or after ${THREE_DAYS_AGO}. Only use articles from the last 3 days — reject anything older.
 
-Topics (pick 3 from different areas):
+Topics (pick 5 from different areas):
 - AI companies: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
 - Chips and hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon
 - Robotics: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, Xiaomi robots
@@ -65,7 +65,7 @@ Topics (pick 3 from different areas):
 
 CRITICAL RULES:
 1. ONLY articles published ${THREE_DAYS_AGO} or later — no exceptions
-2. Pick 3 articles from 3 DIFFERENT topic areas
+2. Pick 5 articles from 5 DIFFERENT topic areas
 3. Never pick 2 articles about the same company
 4. DO NOT use YouTube videos — written articles only
 5. Use the actual publication date of each article in the "date" field
@@ -74,14 +74,20 @@ CRITICAL RULES:
 
 Your entire response must be this JSON and nothing else:
 
-{"articles":[{"id":"slug-1","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"AI Adoption"},{"id":"slug-2","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Strategy"},{"id":"slug-3","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Research"}]}
+{"articles":[
+{"id":"slug-1","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"AI Adoption"},
+{"id":"slug-2","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Strategy"},
+{"id":"slug-3","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Research"},
+{"id":"slug-4","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Regulation"},
+{"id":"slug-5","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Automation"}
+]}
 
 Categories: "AI Adoption" "Strategy" "Research" "Regulation" "Automation"
 START WITH {`;
 
-const PROMPT_ES = `Busca ahora mismo en la web 3 noticias recientes de tecnología.
+const PROMPT_ES = `Busca ahora mismo en la web 5 noticias recientes de tecnología.
 
-Temas donde buscar (elige los 3 más interesantes de áreas distintas):
+Temas donde buscar (elige 5 de áreas distintas):
 - Empresas de IA: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
 - Chips y hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm
 - Robótica: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, robots Xiaomi
@@ -92,7 +98,7 @@ Temas donde buscar (elige los 3 más interesantes de áreas distintas):
 - Startups: cualquier anuncio interesante de startup de IA o tecnología
 
 REGLAS CRÍTICAS:
-1. Elige 3 artículos de 3 áreas temáticas DIFERENTES
+1. Elige 5 artículos de 5 áreas temáticas DIFERENTES
 2. Nunca elijas 2 artículos sobre la misma empresa
 3. Usa los artículos que encuentre tu búsqueda — cualquier fuente escrita sirve
 4. NO uses vídeos de YouTube — solo artículos escritos y comunicados de prensa
@@ -102,7 +108,13 @@ REGLAS CRÍTICAS:
 
 Tu respuesta completa debe ser este JSON y nada más:
 
-{"articles":[{"id":"slug-1","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Adopción de IA"},{"id":"slug-2","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Estrategia"},{"id":"slug-3","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Investigación"}]}
+{"articles":[
+{"id":"slug-1","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Adopción de IA"},
+{"id":"slug-2","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Estrategia"},
+{"id":"slug-3","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Investigación"},
+{"id":"slug-4","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Regulación"},
+{"id":"slug-5","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Automatización"}
+]}
 
 Categorías: "Adopción de IA" "Estrategia" "Investigación" "Regulación" "Automatización"
 EMPIEZA TU RESPUESTA CON { — nada antes.`;
