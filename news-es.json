@@ -1,1 +1,26 @@
-{"lang":"es","lastUpdated":"2026-03-22T00:00:00Z","articles":[]}
+{
+  "lang": "es",
+  "lastUpdated": "2026-03-22T02:26:01.150Z",
+  "articles": [
+    {
+      "id": "openai-cambio-estrategia",
+      "date": "2026-03-17",
+      "headline": "OpenAI prepara un giro drástico de estrategia para frenar a Anthropic",
+      "summary": "OpenAI planea concentrar recursos en herramientas de programación como Codex y GPT-5.4 para competir con Anthropic en el mercado corporativo de IA. Fidji Simo describió el avance de Anthropic como una llamada de atención, impulsando mayor integración entre equipos.",
+      "source": "El Confidencial",
+      "sourceUrl": "https://www.elconfidencial.com/tecnologia/2026-03-17/openai-anthropic-ia-codex-claude-programacion_4321924/",
+      "imageUrl": "https://images.ecestaticos.com/h_rOfafDxJ8BTHPG65Tk6irVsbs=/0x0:2272x1516/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/143/1f0/839/1431f0839360822cd81996e0c577284c.jpg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "nvidia-gtc-pentagono",
+      "date": "2026-03-21",
+      "headline": "Noticias Inteligencia Artificial 21 Marzo 2026: NVIDIA GTC y conflicto Anthropic-Pentágono",
+      "summary": "Anthropic recibió apoyo de más de 150 jueces retirados y empleados de Google y OpenAI en su demanda contra el Pentágono. Se espera anuncio de Claude 5 el 28 de marzo y actualizaciones en OpenAI DevDay con GPT-5.4.",
+      "source": "Javadex",
+      "sourceUrl": "https://www.javadex.es/blog/noticias-inteligencia-artificial-21-marzo-2026-nvidia-gtc-pentagono-gpt54",
+      "imageUrl": "https://www.javadex.es/og-image.jpg",
+      "category": "Investigación"
+    }
+  ]
+}
