@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-22T07:34:56.311Z",
+  "lastUpdated": "2026-03-22T12:20:56.060Z",
   "articles": [
+    {
+      "id": "openai-strategy-shift",
+      "date": "2026-03-20",
+      "headline": "OpenAI Undergoing Major Strategic Shift to Refocus on Core Business and Enterprise Productivity",
+      "summary": "OpenAI is scaling back side projects to consolidate ChatGPT, Codex, and Atlas into a single desktop superapp, aiming to nail its core business. This move emphasizes enterprise productivity amid competitive pressures. Reports highlight a push towards enterprise-focused AI solutions.[1]",
+      "source": "Distill Intelligence",
+      "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20",
+      "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20/og.png",
+      "category": "Strategy"
+    },
     {
       "id": "xai-musk-prediction",
       "date": "2026-03-20",
@@ -10,26 +20,6 @@
       "source": "Storyboard18",
       "sourceUrl": "https://www.storyboard18.com/digital/elon-musk-says-xai-will-match-openai-google-and-anthropic-by-2026-92333.htm",
       "imageUrl": "https://images.storyboard18.com/storyboard18/2025/08/Elon-Musk1-2025-08-280c53c071184915c4e1bd5a8a903d95-1019x573.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "xai-roadmap-2026",
-      "date": "2026-03-16",
-      "headline": "Elon Musk says xAI will match OpenAI, Google and Anthropic by 2026",
-      "summary": "Elon Musk outlined an ambitious roadmap for xAI, stating the company aims to reach parity with leading AI developers by the end of 2026, with plans to significantly outpace competitors within three years. The company is focusing on hiring top engineering talent and improving coding capabilities while coordinating closely with SpaceX on computing infrastructure.",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/digital/elon-musk-says-xai-will-match-openai-google-and-anthropic-by-2026-92333.htm",
-      "imageUrl": "https://images.storyboard18.com/storyboard18/2025/08/Elon-Musk1-2025-08-280c53c071184915c4e1bd5a8a903d95-1019x573.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "mistral-nvidia-coalition",
-      "date": "2026-03-20",
-      "headline": "Mistral AI and NVIDIA Form Nemotron Coalition for Open-Source AI Development",
-      "summary": "Mistral AI and NVIDIA announced the formation of the Nemotron Coalition alongside partners including Thinking Machines Lab and Black Forest Labs to co-develop frontier-level open-source AI models. Mistral also launched its 'Forge' enterprise training platform to help companies build proprietary AI models.",
-      "source": "Distill Intelligence",
-      "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20",
-      "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20/og.png",
       "category": "Strategy"
     }
   ]
