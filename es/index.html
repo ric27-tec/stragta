@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>STRAGTA: Consultoría Tecnológica</title>
+  <meta name="description" content="Stragta ayuda a empresas a navegar la IA y la tecnología emergente. Estrategia, implementación, formación ejecutiva. Madrid, UE, España y Latinoamérica."/>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+
+  <!-- Styles — one level up since this file is in /es/ -->
+  <link rel="stylesheet" href="../assets/css/styles.css"/>
+
+  <style>
+    /* ── REVIEWS CAROUSEL ── */
+    #reviews {
+      padding: 7rem 5%;
+      background: var(--bg);
+      border-top: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .reviews-header {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      margin-bottom: 3rem;
+      gap: 2rem;
+      flex-wrap: wrap;
+    }
+    .reviews-nav { display: flex; gap: 0.6rem; }
+    .rev-btn {
+      width: 38px; height: 38px;
+      border: 1px solid var(--border2);
+      background: transparent; cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      color: var(--muted); transition: all 0.2s; border-radius: 0;
+    }
+    .rev-btn:hover { border-color: var(--text); color: var(--text); }
+    .rev-btn svg { width: 14px; height: 14px; }
+    .reviews-track-wrap { position: relative; overflow: hidden; }
+    .reviews-track {
+      display: flex; gap: 1.4rem;
+      transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+      will-change: transform;
+    }
+    .rev-card {
+      background: var(--card); border: 1px solid var(--border);
+      padding: 2.4rem; flex: 0 0 calc(33.333% - 1rem);
+      display: flex; flex-direction: column; gap: 1.2rem;
+      transition: border-color 0.2s;
+    }
+    .rev-card:hover { border-color: var(--border2); }
+    .rev-stars { display: flex; gap: 3px; }
+    .rev-stars svg { width: 14px; height: 14px; fill: #B8F020; color: #B8F020; }
+    .rev-quote {
+      font-size: 0.92rem; line-height: 1.82;
+      color: var(--text); font-weight: 400; flex: 1;
+    }
+    .rev-quote::before {
+      content: '\201C'; font-size: 1.4rem; color: var(--muted2);
+      line-height: 0; vertical-align: -0.3em; margin-right: 2px;
+    }
+    .rev-author {
+      border-top: 1px solid var(--border); padding-top: 1rem;
+      display: flex; align-items: center; gap: 0.8rem;
+    }
+    .rev-avatar {
+      width: 36px; height: 36px; border-radius: 50%;
+      background: var(--bg2); border: 1px solid var(--border);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 0.72rem; font-weight: 800; color: var(--muted);
+      flex-shrink: 0; letter-spacing: .04em;
+    }
+    .rev-name { font-size: 0.8rem; font-weight: 700; color: var(--text); letter-spacing: -0.01em; }
+    .rev-role { font-size: 0.7rem; color: var(--muted); font-weight: 500; margin-top: 1px; }
+    .reviews-dots { display: flex; gap: 6px; justify-content: center; margin-top: 2rem; }
+    .rev-dot {
+      width: 6px; height: 6px; border-radius: 50%;
+      background: var(--border2); cursor: pointer;
+      transition: all 0.2s; border: none; padding: 0;
+    }
+    .rev-dot.active { background: var(--text); width: 20px; border-radius: 3px; }
+    .form-success { margin-top: 0.8rem; font-size: 0.8rem; font-weight: 600; color: #3a7012; letter-spacing: 0.02em; }
+    .form-error   { margin-top: 0.8rem; font-size: 0.8rem; font-weight: 600; color: #a03020; letter-spacing: 0.02em; }
+    @media (max-width: 900px) {
+      .rev-card { flex: 0 0 calc(85vw - 2rem); }
+      #reviews { padding-left: 4%; padding-right: 4%; }
+      .reviews-header { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav id="main-nav">
+    <a class="nav-logo" href="/stragta/">STRAGTA</a>
+    <div class="nav-right">
+      <a class="nav-lang" href="/stragta/">EN</a>
+      <a class="nav-cta" href="#contact">Hablemos</a>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section id="hero">
+    <h1 class="hero-title reveal">
+      Probamos lo que viene.<br/>
+      <em>Para que implementes lo que funciona.</em>
+    </h1>
+    <div class="hero-body">
+      <p class="hero-sub reveal d1">La tecnología avanza rápido, pero no toda herramienta nueva merece adoptarse. Evaluamos hardware, software, sistemas de IA, seguridad y flujos de trabajo digitales para que las organizaciones tomen mejores decisiones, formen mejor a sus equipos e implementen lo que realmente funciona.</p>
+      <div class="hero-ctas reveal d2">
+        <a href="#contact" class="btn-primary">Iniciar una conversación</a>
+        <a href="#services" class="btn-text">Nuestros servicios →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services">
+    <div class="services-top">
+      <div>
+        <div class="section-label reveal">Lo que hacemos</div>
+        <h2 class="section-title reveal d1">Para empresas<br/>listas para cambiar.</h2>
+      </div>
+      <p class="services-desc reveal d2">Cada proyecto comienza escuchando. No vendemos software ni imponemos plantillas. Somos tu guía estratégica, traduciendo lo que emerge en decisiones que puedes tomar con confianza hoy.</p>
+    </div>
+    <div class="services-grid reveal">
+
+      <div class="srv">
+        <div class="srv-num">01</div>
+        <svg class="srv-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4">
+          <polyline points="2,20 9,12 15,16 23,6"/>
+          <circle cx="23" cy="6" r="2" fill="currentColor" stroke="none"/>
+          <line x1="2" y1="24" x2="26" y2="24"/>
+        </svg>
+        <h3 class="srv-title">Estrategia Tecnológica</h3>
+        <p class="srv-desc">Auditamos tu stack, comparamos con tu sector, filtramos el ruido de los proveedores y entregamos una hoja de ruta clara. Tu próximo paso debe ser el correcto, no solo el de moda.</p>
+        <div class="srv-tags">
+          <span class="srv-tag">Auditoría Tech</span>
+          <span class="srv-tag">Hoja de ruta</span>
+          <span class="srv-tag">Selección de proveedor</span>
+          <span class="srv-tag">Análisis ROI</span>
+        </div>
+      </div>
+
+      <div class="srv">
+        <div class="srv-num">02</div>
+        <svg class="srv-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4">
+          <circle cx="14" cy="8" r="4"/>
+          <path d="M4 27c0-5.523 4.477-10 10-10s10 4.477 10 10"/>
+          <path d="M20 4l3-3M23 7l-3-3" stroke-width="1.1"/>
+        </svg>
+        <h3 class="srv-title">Transformación Digital</h3>
+        <p class="srv-desc">La tecnología sin gestión del cambio es solo software acumulando polvo. Guiamos a tu organización por el lado humano: generando adhesión interna, rediseñando procesos, haciendo que el cambio perdure.</p>
+        <div class="srv-tags">
+          <span class="srv-tag">Gestión del cambio</span>
+          <span class="srv-tag">Diseño de procesos</span>
+          <span class="srv-tag">Cultura digital</span>
+          <span class="srv-tag">KPIs</span>
+        </div>
+      </div>
+
+      <div class="srv">
+        <div class="srv-num">03</div>
+        <svg class="srv-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4">
+          <rect x="2" y="16" width="24" height="9" rx="1"/>
+          <path d="M8 16v-6l6-5 6 5v6"/>
+          <line x1="6" y1="21" x2="8" y2="21"/>
+          <line x1="11" y1="21" x2="13" y2="21"/>
+        </svg>
+        <h3 class="srv-title">Formación Ejecutiva</h3>
+        <p class="srv-desc">Programas intensivos y prácticos para directivos. Tu equipo de liderazgo sale con habilidades reales y un lenguaje común para navegar la tecnología, no solo un certificado que nadie volverá a abrir.</p>
+        <div class="srv-tags">
+          <span class="srv-tag">Alfabetización IA</span>
+          <span class="srv-tag">Talleres</span>
+          <span class="srv-tag">Presencial y remoto</span>
+          <span class="srv-tag">Programas a medida</span>
+        </div>
+      </div>
+
+      <div class="srv">
+        <div class="srv-num">04</div>
+        <svg class="srv-icon" viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.4">
+          <rect x="2" y="2" width="24" height="24" rx="2"/>
+          <path d="M8 14l4 4 8-8"/>
+          <circle cx="14" cy="14" r="5" stroke-dasharray="3 2"/>
+        </svg>
+        <h3 class="srv-title">Integración de IA</h3>
+        <p class="srv-desc">Mapeamos tus operaciones, identificamos dónde la IA genera valor real y la implementamos correctamente. Tu equipo la adopta de verdad, en lugar de licenciarla y olvidarla.</p>
+        <div class="srv-tags">
+          <span class="srv-tag">IA Generativa</span>
+          <span class="srv-tag">Automatización</span>
+          <span class="srv-tag">Auditoría IA</span>
+          <span class="srv-tag">Integración LLM</span>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- PHILOSOPHY -->
+  <section id="philosophy">
+    <div class="phil-inner">
+      <div class="section-label reveal">Nuestra convicción</div>
+      <blockquote class="phil-quote reveal d1">La mayoría de la tecnología fracasa. No porque sea mala, sino porque está <em>mal introducida.</em></blockquote>
+      <p class="reveal d2" style="font-size:.8rem;font-weight:600;color:var(--muted);letter-spacing:.06em;text-transform:uppercase">Empezamos entendiendo tu negocio. La tecnología viene después.</p>
+      <div style="margin-top:2.5rem" class="reveal d3">
+        <a href="#contact" class="btn-primary">Trabaja con nosotros</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section id="process">
+    <div class="process-header">
+      <div class="section-label reveal">Cómo funciona</div>
+      <h2 class="section-title reveal d1">Tres pasos. Sin relleno.</h2>
+    </div>
+    <div class="process-grid reveal">
+      <div class="proc-step">
+        <div class="proc-n">01</div>
+        <h3 class="proc-title">Diagnosticar</h3>
+        <p class="proc-desc">Auditamos tu tecnología, flujos de trabajo y disposición del equipo sin suposiciones previas. Identificamos dónde están las oportunidades y los riesgos reales antes de recomendar nada.</p>
+      </div>
+      <div class="proc-step">
+        <div class="proc-n">02</div>
+        <h3 class="proc-title">Diseñar</h3>
+        <p class="proc-desc">Cocreamos una estrategia con tu equipo: elección de tecnología, secuencia, métricas de éxito. Cada recomendación está vinculada a un resultado que ya te importa.</p>
+      </div>
+      <div class="proc-step">
+        <div class="proc-n">03</div>
+        <h3 class="proc-title">Desplegar e Integrar</h3>
+        <p class="proc-desc">Implementamos junto a tu equipo, formamos a quien lo necesita y acompañamos durante toda la adopción. El proyecto termina cuando la tecnología funciona de verdad.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- REVIEWS -->
+  <section id="reviews">
+    <div class="reviews-header">
+      <div>
+        <div class="section-label reveal">Lo que dicen los clientes</div>
+        <h2 class="section-title reveal d1" style="font-size:clamp(1.7rem,2.8vw,2.6rem)">La confianza de equipos<br/>que hacen trabajo real.</h2>
+      </div>
+      <div class="reviews-nav reveal">
+        <button class="rev-btn" id="rev-prev" aria-label="Reseña anterior">
+          <svg viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <polyline points="9,2 4,7 9,12"/>
+          </svg>
+        </button>
+        <button class="rev-btn" id="rev-next" aria-label="Siguiente reseña">
+          <svg viewBox="0 0 14 14" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+            <polyline points="5,2 10,7 5,12"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+    <div class="reviews-track-wrap">
+      <div class="reviews-track" id="reviews-track">
+
+        <div class="rev-card">
+          <div class="rev-stars">
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+          </div>
+          <p class="rev-quote">No llegaron con una solución prediseñada. Pasaron las primeras dos semanas entendiendo cómo trabajamos realmente antes de recomendar nada. Eso marcó toda la diferencia.</p>
+          <div class="rev-author">
+            <div class="rev-avatar">AC</div>
+            <div>
+              <div class="rev-name">Ana Castellano</div>
+              <div class="rev-role">CEO · Instituto Garci, Madrid</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rev-card">
+          <div class="rev-stars">
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+          </div>
+          <p class="rev-quote">Nuestro equipo directivo salió de la formación en IA con un vocabulario compartido y un plan concreto. Por primera vez, desde el consejo hasta los jefes de departamento estaban alineados en hacia dónde íbamos con la tecnología.</p>
+          <div class="rev-author">
+            <div class="rev-avatar">MR</div>
+            <div>
+              <div class="rev-name">Marcos Ríos</div>
+              <div class="rev-role">Director de Operaciones · Grupo Sanitario, Ecuador</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rev-card">
+          <div class="rev-stars">
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+          </div>
+          <p class="rev-quote">Habíamos intentado implementar herramientas de IA dos veces sin resultado. Stragta nos mostró que el problema no eran las herramientas, sino cómo las estábamos introduciendo. Seis semanas después, el equipo las usaba a diario.</p>
+          <div class="rev-author">
+            <div class="rev-avatar">LP</div>
+            <div>
+              <div class="rev-name">Laura Pereira</div>
+              <div class="rev-role">Directora Digital · Servicios Financieros, Madrid</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rev-card">
+          <div class="rev-stars">
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+          </div>
+          <p class="rev-quote">Solo la auditoría tecnológica valió todo el proyecto. Descubrimos que pagábamos por tres herramientas que hacían lo mismo. La hoja de ruta que entregaron se pagó sola en el primer mes.</p>
+          <div class="rev-author">
+            <div class="rev-avatar">JV</div>
+            <div>
+              <div class="rev-name">Jorge Valverde</div>
+              <div class="rev-role">COO · Empresa de Logística, Colombia</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="rev-card">
+          <div class="rev-stars">
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+            <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
+          </div>
+          <p class="rev-quote">Trabajar con Stragta de forma remota desde México fue completamente fluido. Entendieron el contexto local, la dinámica del equipo y la realidad presupuestaria. Nada de soluciones genéricas.</p>
+          <div class="rev-author">
+            <div class="rev-avatar">SE</div>
+            <div>
+              <div class="rev-name">Sofía Enciso</div>
+              <div class="rev-role">Directora General · Agencia de Medios, Ciudad de México</div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <div class="reviews-dots" id="reviews-dots"></div>
+  </section>
+
+  <!-- GLOBE -->
+  <section id="map-section">
+    <div class="map-inner">
+      <div class="map-header-row">
+        <div>
+          <div class="section-label" style="color:rgba(242,240,234,.3)">Perspectiva de crecimiento tecnológico 2026-2030</div>
+          <h2 class="map-title">Dónde invierte<br/>el mundo a continuación.</h2>
+          <p class="map-subtitle">Países sombreados según el crecimiento tecnológico proyectado en IA, computación cuántica, semiconductores e infraestructura digital hasta 2030. Arrastra para explorar.</p>
+        </div>
+        <div class="map-stats">
+          <div class="map-stat">
+            <div class="n">$15.7T</div>
+            <div class="l">Contribución de la IA<br/>al PIB global en 2030</div>
+          </div>
+          <div class="map-stat">
+            <div class="n">€200B</div>
+            <div class="l">Plan InvestAI de la UE<br/>movilizado en 2025</div>
+          </div>
+          <div class="map-stat">
+            <div class="n">¥10T</div>
+            <div class="l">Compromiso de Japón<br/>en chips e IA para 2030</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="globe-wrap">
+      <div id="globe-loading">Cargando globo...</div>
+      <canvas id="globe-canvas" style="display:none"></canvas>
+    </div>
+    <p class="map-note">
+      Fuentes: PwC AI Impact Report 2024 · McKinsey Global Institute AI Readiness Index (Dic. 2025) ·
+      Stanford HAI Global AI Index 2024 · Selecciones AI Factory de EuroHPC 2024-2025 ·
+      Plan de Acción AI Continent de la UE, abril 2025 · Ley de Promoción de IA de Japón 2025 ·
+      Previsión de Semiconductores Goldman Sachs 2025 · WEF Future of Jobs Report 2025
+    </p>
+    <div class="map-legend">
+      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.85)"></div>Crecimiento excepcional proyectado</div>
+      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.52)"></div>Crecimiento fuerte</div>
+      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.24)"></div>Crecimiento moderado</div>
+      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.1)"></div>Trayectoria emergente</div>
+      <div class="legend-item" style="margin-left:auto"><div class="legend-sq"></div>Sede Stragta: Madrid</div>
+    </div>
+  </section>
+
+  <!-- NEWS -->
+  <section id="news">
+    <div class="news-header">
+      <div>
+        <div class="news-badge">En vivo · Actualizado diariamente</div>
+        <div class="section-label">Tecnología e Innovación</div>
+        <h2 class="section-title" style="font-size:clamp(1.7rem,2.8vw,2.6rem)">Lo que está dando<br/>forma al futuro.</h2>
+      </div>
+      <div style="max-width:270px">
+        <p style="font-size:.78rem;color:var(--muted);line-height:1.82;font-weight:400">Curado a diario por nuestro agente de investigación. Titulares que importan a los directivos que navegan el cambio tecnológico.</p>
+        <p class="news-note" id="news-updated"></p>
+      </div>
+    </div>
+    <div class="news-grid" id="news-grid">
+      <div class="news-loading">Cargando noticias...</div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <div class="contact-inner">
+
+      <div>
+        <div class="section-label reveal">Ponte en contacto</div>
+        <h2 class="section-title reveal d1" style="margin-bottom:1.2rem">
+          Veamos qué<br/>es posible.
+        </h2>
+        <p class="reveal d2" style="font-size:.88rem;color:var(--muted);font-weight:400;line-height:1.88;margin-bottom:1.8rem">
+          Rellena esto y uno de nuestros especialistas te responderá en un día hábil.
+          La primera conversación es siempre gratuita. O usa el botón de chat en la esquina ahora mismo.
+        </p>
+
+        <form class="contact-form reveal d3" id="contact-form" onsubmit="handleSubmit(event)">
+          <div class="fg">
+            <label for="name">Nombre completo</label>
+            <input type="text" id="name" name="name" placeholder="Ana García" autocomplete="name" required/>
+          </div>
+          <div class="fg">
+            <label for="email">Email profesional</label>
+            <input type="email" id="email" name="email" placeholder="ana@empresa.com" autocomplete="email" required/>
+          </div>
+          <div class="fg">
+            <label for="company">Empresa</label>
+            <input type="text" id="company" name="company" placeholder="Acme S.L." autocomplete="organization"/>
+          </div>
+          <div class="fg">
+            <label for="interest">Me interesa</label>
+            <select id="interest" name="interest">
+              <option value="">Selecciona un servicio</option>
+              <option value="Estrategia Tecnológica">Estrategia Tecnológica</option>
+              <option value="Transformación Digital">Transformación Digital</option>
+              <option value="Formación Ejecutiva">Formación Ejecutiva</option>
+              <option value="Integración de IA">Integración de IA</option>
+              <option value="Aún no lo sé">Aún no lo sé</option>
+            </select>
+          </div>
+          <div class="fg">
+            <label for="message">¿En qué estás trabajando?</label>
+            <textarea id="message" name="message" placeholder="Cuéntanos tu reto u objetivo..."></textarea>
+          </div>
+          <!-- Honeypot -->
+          <div style="display:none" aria-hidden="true">
+            <input type="text" name="website" tabindex="-1" autocomplete="off"/>
+          </div>
+          <button type="submit" class="submit-btn" id="submit-btn">Enviar mensaje</button>
+          <p class="form-note">Con sede en Madrid · Remoto · España, UE y Latinoamérica</p>
+          <div id="form-status" role="status" aria-live="polite"></div>
+        </form>
+      </div>
+
+      <div class="reveal d1">
+        <div class="section-label" style="margin-bottom:1.4rem">Por qué Stragta</div>
+        <div style="display:flex;flex-direction:column;gap:1.6rem">
+          <div>
+            <div style="font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem">Sin sesgo de proveedor</div>
+            <p style="font-size:.84rem;color:var(--muted);line-height:1.82">No vendemos software. No tenemos acuerdos que condicionen nuestras recomendaciones. Recibes la respuesta honesta, no la conveniente.</p>
+          </div>
+          <div>
+            <div style="font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem">Acompañamos hasta la adopción</div>
+            <p style="font-size:.84rem;color:var(--muted);line-height:1.82">El proyecto termina cuando la tecnología funciona de verdad, no cuando se entrega el documento.</p>
+          </div>
+          <div>
+            <div style="font-size:.72rem;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-bottom:.4rem">Remoto sin concesiones</div>
+            <p style="font-size:.84rem;color:var(--muted);line-height:1.82">Hemos trabajado en remoto con clientes en cuatro continentes. La calidad no cambia con la zona horaria.</p>
+          </div>
+          <div style="padding:1.4rem;border:1px solid var(--border);background:var(--card);margin-top:.4rem">
+            <div style="font-size:.72rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted2);margin-bottom:.5rem">Primera conversación</div>
+            <div style="font-size:1.6rem;font-weight:800;letter-spacing:-.03em;color:var(--text)">Siempre gratuita.</div>
+            <p style="font-size:.78rem;color:var(--muted);margin-top:.4rem;line-height:1.7">Sin compromiso, sin presentación de ventas. Solo una conversación honesta sobre dónde estás y adónde quieres llegar.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <a class="footer-logo" href="/stragta/">STRAGTA</a>
+    <div class="footer-copy">© 2026 STRAGTA · Madrid, España</div>
+    <div class="footer-links">
+      <a href="https://www.instagram.com/stragta" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.tiktok.com/@stragta.com" target="_blank" rel="noopener">TikTok</a>
+      <a href="https://www.youtube.com/@Stragta" target="_blank" rel="noopener">YouTube</a>
+      <a href="https://www.linkedin.com/company/stragta" target="_blank" rel="noopener">LinkedIn</a>
+    </div>
+    <a class="footer-lang" href="/stragta/">English</a>
+  </footer>
+
+  <!-- External libraries -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+
+  <!-- Site scripts — one level up -->
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/globe.js"></script>
+  <script src="../assets/js/chat.js"></script>
+  <script src="../assets/js/news.js" data-lang="es"></script>
+
+  <!-- Reviews carousel -->
+  <script>
+    (function(){
+      const track  = document.getElementById('reviews-track');
+      const dotsEl = document.getElementById('reviews-dots');
+      const cards  = track.querySelectorAll('.rev-card');
+      const total  = cards.length;
+      function visibleCount(){ return window.innerWidth < 900 ? 1 : 3; }
+      let current = 0;
+      const maxIndex = () => total - visibleCount();
+      function buildDots(){
+        dotsEl.innerHTML = '';
+        const steps = maxIndex() + 1;
+        for(let i = 0; i < steps; i++){
+          const btn = document.createElement('button');
+          btn.className = 'rev-dot' + (i === current ? ' active' : '');
+          btn.setAttribute('aria-label', 'Reseña ' + (i+1));
+          btn.addEventListener('click', () => goTo(i));
+          dotsEl.appendChild(btn);
+        }
+      }
+      function updateDots(){
+        dotsEl.querySelectorAll('.rev-dot').forEach((d,i) => d.classList.toggle('active', i === current));
+      }
+      function goTo(idx){
+        current = Math.max(0, Math.min(idx, maxIndex()));
+        const cardW = cards[0].getBoundingClientRect().width;
+        track.style.transform = `translateX(-${current * (cardW + 22)}px)`;
+        updateDots();
+      }
+      document.getElementById('rev-prev').addEventListener('click', () => goTo(current - 1));
+      document.getElementById('rev-next').addEventListener('click', () => goTo(current + 1));
+      let touchStartX = 0;
+      track.addEventListener('touchstart', e => { touchStartX = e.touches[0].clientX; }, {passive:true});
+      track.addEventListener('touchend', e => {
+        const diff = touchStartX - e.changedTouches[0].clientX;
+        if(Math.abs(diff) > 40) goTo(diff > 0 ? current + 1 : current - 1);
+      }, {passive:true});
+      let timer = setInterval(() => goTo(current >= maxIndex() ? 0 : current + 1), 6000);
+      track.addEventListener('mouseenter', () => clearInterval(timer));
+      track.addEventListener('mouseleave', () => {
+        timer = setInterval(() => goTo(current >= maxIndex() ? 0 : current + 1), 6000);
+      });
+      buildDots();
+      window.addEventListener('resize', () => { buildDots(); goTo(current); });
+    })();
+  </script>
+
+</body>
+</html>
