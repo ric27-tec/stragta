@@ -1,12 +1,12 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-22T13:07:40.533Z",
+  "lastUpdated": "2026-03-23T07:59:09.646Z",
   "articles": [
     {
-      "id": "xai-musk-ambition-2026-03-20",
+      "id": "xai-musk-2026-03-20",
       "date": "2026-03-20",
       "headline": "Elon Musk says xAI will match OpenAI, Google and Anthropic by 2026",
-      "summary": "Elon Musk outlined an ambitious roadmap for xAI, predicting it will reach the capabilities of top AI labs like OpenAI, Google, and Anthropic by the end of 2026. He also forecasted that within three years, xAI would surge so far ahead that competitors would be barely visible. The company is focusing on hiring, improving coding capabilities, and coordinating with SpaceX for computing needs.",
+      "summary": "Elon Musk outlined an ambitious roadmap for xAI, predicting it will match leading AI labs like OpenAI, Google, and Anthropic by the end of 2026. He foresees xAI pulling far ahead within three years, requiring a metaphorical James Webb Telescope to spot competitors. The company is focusing on hiring, infrastructure, and coordination with SpaceX amid intensifying AI competition.",
       "source": "Storyboard18",
       "sourceUrl": "https://www.storyboard18.com/digital/elon-musk-says-xai-will-match-openai-google-and-anthropic-by-2026-92333.htm",
       "imageUrl": "https://images.storyboard18.com/storyboard18/2025/08/Elon-Musk1-2025-08-280c53c071184915c4e1bd5a8a903d95-1019x573.jpg",
@@ -14,20 +14,22 @@
     },
     {
       "id": "mistral-nvidia-coalition-2026-03-20",
-      "headline": "Mistral AI and NVIDIA form Nemotron Coalition to co-develop frontier open-source models",
-      "summary": "Mistral AI has partnered with NVIDIA and others like Thinking Machines Lab and Black Forest Labs to form the Nemotron Coalition for creating frontier-level open-source AI models. Mistral also launched its 'Forge' enterprise training platform to help companies build proprietary AI models. This aims to challenge leading closed models like ChatGPT and Claude.",
+      "date": "2026-03-20",
+      "headline": "Mistral AI joins NVIDIA Nemotron Coalition to co-develop frontier open-source models",
+      "summary": "Mistral AI has partnered with NVIDIA as a founding member of the Nemotron Coalition, alongside Thinking Machines Lab and Black Forest Labs, to co-create advanced open-source AI models. Mistral also launched its 'Forge' enterprise training platform for companies to build proprietary AI models. This alliance leverages NVIDIA's compute infrastructure to challenge closed models from ChatGPT, Claude, and Gemini.",
       "source": "Distill Intelligence",
       "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20",
       "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20/og.png",
       "category": "Research"
     },
     {
-      "id": "deepseek-model-ranking-2026-03-20",
-      "headline": "DeepSeek emerges as top contender in 2026 AI model rankings",
-      "summary": "DeepSeek is ranked among the top AI models for 2026, recognized as an emerging competitor with strong performance in recent benchmarks. The model stands out in the competitive landscape alongside leaders like GPT-5.4 and Claude Opus 4.6. Its advancements position it as a key player from Chinese tech developers.",
-      "source": "Vertu",
-      "sourceUrl": "https://vertu.com/guides/top-10-ai-models-2026-complete-ranking/",
-      "imageUrl": "https://blogger.vertu.com/uploads/generated_image_a96498e415.webp",
+      "id": "nvidia-physical-ai-2026-03-17",
+      "date": "2026-03-17",
+      "headline": "NVIDIA unveils Physical AI Data Factory Blueprint for robotics and autonomous vehicles",
+      "summary": "NVIDIA announced the Physical AI Data Factory Blueprint, a reference architecture using accelerated computing to generate high-quality synthetic training data at scale for robotics, AI vision agents, and autonomous vehicles. This tool addresses data needs for physical AI applications during NVIDIA GTC 2026. It highlights convergence of AI labs around NVIDIA for open model development.",
+      "source": "jls42.org",
+      "sourceUrl": "https://jls42.org/en/news/ia-actualites-17-mar-2026",
+      "imageUrl": "https://jls42.org/_astro/ia-actualites-17-mar-2026.HKBnFYAI.webp",
       "category": "Automation"
     }
   ]
