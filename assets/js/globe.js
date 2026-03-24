@@ -123,133 +123,221 @@ const GROWTH_TIERS = {
 
 // Visual styles per tier
 const TIER_FILL = {
-  1: 'rgba(184,240,32,.82)',
-  2: 'rgba(184,240,32,.48)',
-  3: 'rgba(184,240,32,.22)',
-  4: 'rgba(184,240,32,.09)',
+  1: 'rgba(151, 223, 17, 0.29)',
+  2: 'rgba(240, 216, 32, 0.48)',
+  3: 'rgba(240, 219, 32, 0.34)',
+  4: 'rgba(240, 184, 32, 0.29)',
 };
 const TIER_STROKE = {
-  1: 'rgba(184,240,32,.65)',
-  2: 'rgba(184,240,32,.38)',
-  3: 'rgba(184,240,32,.18)',
-  4: 'rgba(184,240,32,.08)',
+  1: 'rgba(22, 22, 22, 0.11)',
+  2: 'rgba(35, 35, 35, 0.14)',
+  3: 'rgba(65, 65, 65, 0.19)',
+  4: 'rgba(44, 44, 44, 0.12)',
 };
-const NO_DATA_FILL   = 'rgba(242,240,234,.045)';
+const NO_DATA_FILL = 'rgba(242,240,234,.045)';
 const NO_DATA_STROKE = 'rgba(242,240,234,.08)';
 
-const HQ_COORDS  = [-3.7, 40.4]; // Madrid
-let   hqPulse    = Math.random() * Math.PI * 2;
+const HQ_COORDS = [-3.7, 40.4];
+let hqPulse = Math.random() * Math.PI * 2;
 
 async function initGlobe() {
-  const canvas  = document.getElementById('globe-canvas');
+  const canvas = document.getElementById('globe-canvas');
   const loading = document.getElementById('globe-loading');
-  const section = document.getElementById('map-section');
-  if (!canvas) return;
+  const section = document.querySelector('.hero-globe-wrap');
 
-  const dpr = window.devicePixelRatio || 1;
-  const W   = section.offsetWidth;
-  const H   = Math.min(W * 0.68, 620);
-  const R   = Math.min(W, H) / 2 - 50;
-
-  canvas.width  = W * dpr;
-  canvas.height = H * dpr;
-  canvas.style.width  = W + 'px';
-  canvas.style.height = H + 'px';
+  if (!canvas || !section) {
+    return;
+  }
 
   const ctx = canvas.getContext('2d');
-  ctx.scale(dpr, dpr);
 
-  let rot  = [-8, -30, 0];
-  const proj   = d3.geoOrthographic().scale(R).translate([W/2, H/2]).rotate(rot).clipAngle(90);
-  const path   = d3.geoPath().projection(proj).context(ctx);
-  const grat   = d3.geoGraticule().step([30, 30])();
-  const sphere = { type: 'Sphere' };
+  let worldData;
+  let features;
+  let borders;
+  let animationId = null;
 
-  let features, borders;
   try {
-    const world = await d3.json('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json');
-    features = topojson.feature(world, world.objects.countries).features;
-    borders  = topojson.mesh(world, world.objects.countries, (a, b) => a !== b);
-    features.forEach(f => { f._tier = GROWTH_TIERS[String(f.id)] || 0; });
+    worldData = await d3.json(
+      'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
+    );
+    features = topojson.feature(
+      worldData,
+      worldData.objects.countries
+    ).features;
+    borders = topojson.mesh(
+      worldData,
+      worldData.objects.countries,
+      (a, b) => a !== b
+    );
+
+    features.forEach((f) => {
+      f._tier = GROWTH_TIERS[String(f.id)] || 0;
+    });
+
     loading.style.display = 'none';
-    canvas.style.display  = 'block';
-  } catch (e) {
+    canvas.style.display = 'block';
+  } catch (error) {
     loading.textContent = 'Globe unavailable offline.';
     return;
   }
 
-  function vis(lon, lat) {
-    const r  = proj.rotate();
-    const l0 = -r[0]*Math.PI/180, p0 = -r[1]*Math.PI/180;
-    const l  =  lon*Math.PI/180,  p  =  lat*Math.PI/180;
-    return Math.sin(p0)*Math.sin(p) + Math.cos(p0)*Math.cos(p)*Math.cos(l-l0) >= 0.04;
+  function createScene() {
+    const dpr = window.devicePixelRatio || 1;
+    const W = section.clientWidth;
+    const H = section.clientHeight;
+    const R = Math.max(140, Math.min(W, H) * 0.34);
+
+    canvas.width = W * dpr;
+    canvas.height = H * dpr;
+    canvas.style.width = `${W}px`;
+    canvas.style.height = `${H}px`;
+
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.scale(dpr, dpr);
+
+    const proj = d3.geoOrthographic()
+      .scale(R)
+      .translate([W / 2, H / 2 + H * 0.15])
+      .rotate([-8, -30, 0])
+      .clipAngle(90);
+
+    const path = d3.geoPath().projection(proj).context(ctx);
+    const grat = d3.geoGraticule().step([30, 30])();
+    const sphere = { type: 'Sphere' };
+    const rot = [-8, -30, 0];
+
+    return {
+      W,
+      H,
+      R,
+      proj,
+      path,
+      grat,
+      sphere,
+      rot,
+    };
+  }
+
+  let scene = createScene();
+
+  function vis(proj, lon, lat) {
+    const r = proj.rotate();
+    const l0 = -r[0] * Math.PI / 180;
+    const p0 = -r[1] * Math.PI / 180;
+    const l = lon * Math.PI / 180;
+    const p = lat * Math.PI / 180;
+
+    return (
+      Math.sin(p0) * Math.sin(p) +
+      Math.cos(p0) * Math.cos(p) * Math.cos(l - l0)
+    ) >= 0.04;
   }
 
   let lastT = 0;
+
   function frame(t) {
-    const dt = t - lastT; lastT = t;
+    const dt = t - lastT;
+    lastT = t;
+
+    const { W, H, R, proj, path, grat, sphere, rot } = scene;
+
     rot[0] += dt * 0.003;
     proj.rotate(rot);
+
     ctx.clearRect(0, 0, W, H);
 
-    // Atmosphere
-    const atmo = ctx.createRadialGradient(W/2,H/2,R*.9, W/2,H/2,R*1.12);
-    atmo.addColorStop(0,'rgba(184,240,32,.016)'); atmo.addColorStop(1,'transparent');
-    ctx.beginPath(); ctx.arc(W/2,H/2,R*1.12,0,Math.PI*2); ctx.fillStyle=atmo; ctx.fill();
+    const atmo = ctx.createRadialGradient(
+      W / 2,
+      H / 2 + H * 0.08,
+      R * 0.9,
+      W / 2,
+      H / 2 + H * 0.08,
+      R * 1.12
+    );
+    atmo.addColorStop(0, 'rgba(13, 98, 216, 0)');
+    atmo.addColorStop(1, 'transparent');
 
-    // Ocean
-    ctx.beginPath(); path(sphere); ctx.fillStyle='rgba(242,240,234,.016)'; ctx.fill();
+    ctx.beginPath();
+    ctx.arc(W / 2, H / 2 + H * 0.08, R * 1.12, 0, Math.PI * 2);
+    ctx.fillStyle = atmo;
+    ctx.fill();
 
-    // Graticule
-    ctx.beginPath(); path(grat); ctx.strokeStyle='rgba(242,240,234,.036)'; ctx.lineWidth=.4; ctx.stroke();
+    ctx.beginPath();
+    path(sphere);
+    ctx.fillStyle = 'rgba(18, 27, 38, 0.84)';
+    ctx.fill();
 
-    // Countries
-    features.forEach(f => {
-      ctx.beginPath(); path(f);
-      ctx.fillStyle   = f._tier ? TIER_FILL[f._tier]  : NO_DATA_FILL;
+    ctx.beginPath();
+    path(grat);
+    ctx.strokeStyle = 'rgba(255, 255, 255, 0.54)';
+    ctx.lineWidth = 0.4;
+    ctx.stroke();
+
+    features.forEach((f) => {
+      ctx.beginPath();
+      path(f);
+      ctx.fillStyle = f._tier ? TIER_FILL[f._tier] : NO_DATA_FILL;
       ctx.strokeStyle = f._tier ? TIER_STROKE[f._tier] : NO_DATA_STROKE;
-      ctx.lineWidth   = .4; ctx.fill(); ctx.stroke();
+      ctx.lineWidth = 0.4;
+      ctx.fill();
+      ctx.stroke();
     });
 
-    // Sphere outline
-    ctx.beginPath(); path(sphere); ctx.strokeStyle='rgba(242,240,234,.09)'; ctx.lineWidth=.8; ctx.stroke();
+    ctx.beginPath();
+    path(borders);
+    ctx.strokeStyle = 'rgba(28, 28, 28, 0.04)';
+    ctx.lineWidth = 0.35;
+    ctx.stroke();
 
-    // Madrid HQ diamond
-    if (vis(HQ_COORDS[0], HQ_COORDS[1])) {
-      const p = proj(HQ_COORDS); if (!p) { requestAnimationFrame(frame); return; }
-      const [cx, cy] = p;
-      const pt = (((t*.001) + hqPulse) % 3.2) / 3.2;
-      ctx.beginPath(); ctx.arc(cx,cy, 3+pt*18, 0,Math.PI*2);
-      ctx.strokeStyle=`rgba(184,240,32,${(1-pt)*.9})`; ctx.lineWidth=1.2; ctx.stroke();
-      const s=6;
-      ctx.beginPath(); ctx.moveTo(cx,cy-s); ctx.lineTo(cx+s,cy); ctx.lineTo(cx,cy+s); ctx.lineTo(cx-s,cy); ctx.closePath();
-      ctx.fillStyle='#B8F020'; ctx.fill();
-      ctx.fillStyle='rgba(184,240,32,.9)'; ctx.font='700 8.5px "Manrope",sans-serif';
-      ctx.textAlign = cx>W*.76 ? 'right' : 'left';
-      ctx.fillText('Stragta HQ', ctx.textAlign==='right' ? cx-10 : cx+10, cy+3.5);
+    ctx.beginPath();
+    path(sphere);
+    ctx.strokeStyle = 'rgba(34, 34, 34, 0)';
+    ctx.lineWidth = 0.8;
+    ctx.stroke();
+
+    if (vis(proj, HQ_COORDS[0], HQ_COORDS[1])) {
+      const p = proj(HQ_COORDS);
+
+      if (p) {
+        const [cx, cy] = p;
+        const pt = (((t * 0.001) + hqPulse) % 3.2) / 3.2;
+
+        ctx.beginPath();
+        ctx.arc(cx, cy, 3 + pt * 18, 0, Math.PI * 2);
+        ctx.strokeStyle = `rgba(184,240,32,${(1 - pt) * 0.9})`;
+        ctx.lineWidth = 1.2;
+        ctx.stroke();
+
+        const s = 6;
+        ctx.beginPath();
+        ctx.moveTo(cx, cy - s);
+        ctx.lineTo(cx + s, cy);
+        ctx.lineTo(cx, cy + s);
+        ctx.lineTo(cx - s, cy);
+        ctx.closePath();
+        ctx.fillStyle = '#ffee0000';
+        ctx.fill();
+
+        ctx.fillStyle = 'rgba(232, 232, 232, 0.94)';
+        ctx.font = '700 8.5px "Manrope", sans-serif';
+        ctx.textAlign = cx > W * 0.76 ? 'right' : 'left';
+        ctx.fillText(
+          'Stragta HQ',
+          ctx.textAlign === 'right' ? cx - 10 : cx + 10,
+          cy + 3.5
+        );
+      }
     }
 
-    requestAnimationFrame(frame);
+    animationId = requestAnimationFrame(frame);
   }
-  requestAnimationFrame(frame);
 
-  // Drag (mouse)
-  let drag=false, last=null;
-  canvas.addEventListener('mousedown', e=>{ drag=true; last=[e.clientX,e.clientY]; });
-  window.addEventListener('mouseup', ()=>drag=false);
-  window.addEventListener('mousemove', e=>{
-    if(!drag||!last)return;
-    rot[0]+=(e.clientX-last[0])*.28; rot[1]-=(e.clientY-last[1])*.28;
-    rot[1]=Math.max(-80,Math.min(80,rot[1])); last=[e.clientX,e.clientY];
-  });
-  // Drag (touch)
-  canvas.addEventListener('touchstart', e=>{ drag=true; last=[e.touches[0].clientX,e.touches[0].clientY]; },{passive:true});
-  window.addEventListener('touchend', ()=>drag=false);
-  window.addEventListener('touchmove', e=>{
-    if(!drag||!last)return;
-    rot[0]+=(e.touches[0].clientX-last[0])*.28; rot[1]-=(e.touches[0].clientY-last[1])*.28;
-    rot[1]=Math.max(-80,Math.min(80,rot[1])); last=[e.touches[0].clientX,e.touches[0].clientY];
-  },{passive:true});
+  function resizeGlobe() {
+    scene = createScene();
+  }
+
+  requestAnimationFrame(frame);
+  window.addEventListener('resize', resizeGlobe);
 }
 
 initGlobe();

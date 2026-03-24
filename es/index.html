@@ -68,6 +68,13 @@
     ]
   }
   </script>
+<!-- PACO -->
+  <script
+  src="https://paco-production-9beb.up.railway.app/embed.js"
+  data-name="PACO"
+  data-primary="#1A1A17">
+  </script>
+
 </head>
 <body>
 
@@ -80,18 +87,26 @@
   </div>
 </nav>
 
+<div class="hero-services-shell">
   <!-- HERO -->
-  <section id="hero">
+    <section id="hero">
+    <div class="hero-globe-bg" aria-hidden="true">
+          <div class="hero-globe-overlay"></div>
+        <div class="globe-wrap hero-globe-wrap">
+          <div id="globe-loading">Cargando globo...</div>
+          <canvas id="globe-canvas" style="display:none"></canvas>
+        </div>
+    </div>
+
+    <div class="hero-content">
     <h1 class="hero-title reveal">
-      Probamos lo que viene.<br/>
+      Probamos y evaluamos tecnología.<br/>
       <em>Para que implementes lo que funciona.</em>
     </h1>
     <div class="hero-body">
-      <p class="hero-sub reveal d1">La tecnología avanza rápido, pero no toda herramienta nueva merece adoptarse. Evaluamos hardware, software, sistemas de IA, seguridad y flujos de trabajo digitales para que las organizaciones tomen mejores decisiones, formen mejor a sus equipos e implementen lo que realmente funciona.</p>
-      <div class="hero-ctas reveal d2">
-        <a href="#contact" class="btn-primary">Iniciar una conversación</a>
-        <a href="#services" class="btn-text">Nuestros servicios →</a>
-      </div>
+      <p class="hero-sub reveal d1">La tecnología avanza rápido, pero no toda novedad merece adoptarse. 
+        Ayudamos a las organizaciones a analizar hardware, software, sistemas de IA, seguridad y flujos 
+        de trabajo digitales para decidir mejor, formar mejor a sus equipos e implementar con confianza.</p>
     </div>
   </section>
 
@@ -102,7 +117,8 @@
         <div class="section-label reveal" style="color:var(--accent)">Lo que hacemos</div>
         <h2 class="section-title reveal d1">Para empresas<br/>listas para cambiar.</h2>
       </div>
-      <p class="services-desc reveal d2">Cada proyecto comienza escuchando. No vendemos software ni imponemos plantillas. Somos tu guía estratégica, traduciendo lo que emerge en decisiones que puedes tomar con confianza hoy.</p>
+      <p class="services-desc reveal d2">Cada proyecto comienza escuchando. No vendemos software ni imponemos plantillas. 
+        Somos tu guía estratégica, traduciendo lo que emerge en decisiones que puedes tomar con confianza hoy.</p>
     </div>
     <div class="services-grid reveal">
 
@@ -166,7 +182,8 @@
           <circle cx="14" cy="14" r="5" stroke-dasharray="3 2"/>
         </svg>
         <h3 class="srv-title">Integración de IA</h3>
-        <p class="srv-desc">Mapeamos tus operaciones, identificamos dónde la IA genera valor real y la implementamos correctamente. Tu equipo la adopta de verdad, en lugar de licenciarla y olvidarla.</p>
+        <p class="srv-desc">Mapeamos tus operaciones, identificamos dónde la IA genera valor real y la implementamos correctamente. 
+          Tu equipo la adopta de verdad, en lugar de licenciarla y olvidarla.</p>
         <div class="srv-tags">
           <span class="srv-tag">IA Generativa</span>
           <span class="srv-tag">Automatización</span>
@@ -177,16 +194,15 @@
 
     </div>
   </section>
+</div>
 
   <!-- PHILOSOPHY -->
   <section id="philosophy">
     <div class="phil-inner">
       <div class="section-label reveal">Nuestra convicción</div>
       <blockquote class="phil-quote reveal d1">La mayoría de la tecnología fracasa. No porque sea mala, sino porque está <em>mal introducida.</em></blockquote>
-      <p class="reveal d2" style="font-size:.8rem;font-weight:600;color:var(--muted);letter-spacing:.06em;text-transform:uppercase">Empezamos entendiendo tu negocio. La tecnología viene después.</p>
-      <div style="margin-top:2.5rem" class="reveal d3">
-        <a href="#contact" class="btn-primary">Trabaja con nosotros</a>
-      </div>
+      <p class="reveal d2" style="font-size:.8rem;font-weight:600;color:var(--muted);letter-spacing:.06em;text-transform:uppercase">
+        Empezamos entendiendo tu negocio. La tecnología viene después.</p>
     </div>
   </section>
 
@@ -200,7 +216,8 @@
       <div class="proc-step">
         <div class="proc-n">01</div>
         <h3 class="proc-title">Diagnosticar</h3>
-        <p class="proc-desc">Auditamos tu tecnología, flujos de trabajo y disposición del equipo sin suposiciones previas. Identificamos dónde están las oportunidades y los riesgos reales antes de recomendar nada.</p>
+        <p class="proc-desc">Auditamos tu tecnología, flujos de trabajo y disposición del equipo sin suposiciones previas. 
+          Identificamos dónde están las oportunidades y los riesgos reales antes de recomendar nada.</p>
       </div>
       <div class="proc-step">
         <div class="proc-n">02</div>
@@ -210,7 +227,8 @@
       <div class="proc-step">
         <div class="proc-n">03</div>
         <h3 class="proc-title">Desplegar e Integrar</h3>
-        <p class="proc-desc">Implementamos junto a tu equipo, formamos a quien lo necesita y acompañamos durante toda la adopción. El proyecto termina cuando la tecnología funciona de verdad.</p>
+        <p class="proc-desc">Implementamos junto a tu equipo, formamos a quien lo necesita y acompañamos durante toda la adopción. 
+          El proyecto termina cuando la tecnología funciona de verdad.</p>
       </div>
     </div>
   </section>
@@ -220,7 +238,7 @@
     <div class="reviews-header">
       <div>
         <div class="section-label reveal">Lo que dicen los clientes</div>
-        <h2 class="section-title reveal d1" style="font-size:clamp(1.7rem,2.8vw,2.6rem)">La confianza de equipos<br/>que hacen trabajo real.</h2>
+        <h2 class="section-title reveal d1" style="font-size:clamp(1.7rem,2.8vw,2.6rem)">Equipos que hacen trabajo real.<br/>confían en nosotros.</h2>
       </div>
       <div class="reviews-nav reveal">
         <button class="rev-btn" id="rev-prev" aria-label="Reseña anterior">
@@ -246,12 +264,15 @@
             <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
             <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
           </div>
-          <p class="rev-quote">No llegaron con una solución prediseñada. Pasaron las primeras dos semanas entendiendo cómo trabajamos realmente antes de recomendar nada. Eso marcó toda la diferencia.</p>
+          <p class="rev-quote">Hemos realizado una inmersión en el uso de la IA en la producción audiovisual con Stragta. 
+            Su formación actualizada, su experiencia, sus consejos y recomendaciones nos han abierto caminos para entender 
+            que la IA bien usada es una herramienta que puede formar parte de un flujo de trabajo profesional.
+</p>
           <div class="rev-author">
-            <div class="rev-avatar">AC</div>
+            <div class="rev-avatar">TJP</div>
             <div>
-              <div class="rev-name">Ana Castellano</div>
-              <div class="rev-role">CEO · Instituto Imñagen y Sonido, Madrid</div>
+              <div class="rev-name">Tania J.P</div>
+              <div class="rev-role">Docente en el CIFP José Luis Garci, Madrid</div>
             </div>
           </div>
         </div>
@@ -333,49 +354,6 @@
     <div class="reviews-dots" id="reviews-dots"></div>
   </section>
 
-  <!-- GLOBE -->
-  <section id="map-section">
-    <div class="map-inner">
-      <div class="map-header-row">
-        <div>
-          <div class="section-label" style="color:rgba(242,240,234,.3)">Perspectiva de crecimiento tecnológico 2026-2030</div>
-          <h2 class="map-title">Dónde invierte<br/>el mundo a continuación.</h2>
-          <p class="map-subtitle">Países sombreados según el crecimiento tecnológico proyectado en IA, computación cuántica, semiconductores e infraestructura digital hasta 2030. Arrastra para explorar.</p>
-        </div>
-        <div class="map-stats">
-          <div class="map-stat">
-            <div class="n">$15.7T</div>
-            <div class="l">Contribución de la IA<br/>al PIB global en 2030</div>
-          </div>
-          <div class="map-stat">
-            <div class="n">€200B</div>
-            <div class="l">Plan InvestAI de la UE<br/>movilizado en 2025</div>
-          </div>
-          <div class="map-stat">
-            <div class="n">¥10T</div>
-            <div class="l">Compromiso de Japón<br/>en chips e IA para 2030</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="globe-wrap">
-      <div id="globe-loading">Cargando globo...</div>
-      <canvas id="globe-canvas" style="display:none"></canvas>
-    </div>
-    <p class="map-note">
-      Fuentes: PwC AI Impact Report 2024 · McKinsey Global Institute AI Readiness Index (Dic. 2025) ·
-      Stanford HAI Global AI Index 2024 · Selecciones AI Factory de EuroHPC 2024-2025 ·
-      Plan de Acción AI Continent de la UE, abril 2025 · Ley de Promoción de IA de Japón 2025 ·
-      Previsión de Semiconductores Goldman Sachs 2025 · WEF Future of Jobs Report 2025
-    </p>
-    <div class="map-legend">
-      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.85)"></div>Crecimiento excepcional proyectado</div>
-      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.52)"></div>Crecimiento fuerte</div>
-      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.24)"></div>Crecimiento moderado</div>
-      <div class="legend-item"><div class="legend-dot" style="background:rgba(184,240,32,.1)"></div>Trayectoria emergente</div>
-      <div class="legend-item" style="margin-left:auto"><div class="legend-sq"></div>Sede Stragta: Madrid</div>
-    </div>
-  </section>
 
   <!-- NEWS -->
   <section id="news">
@@ -475,7 +453,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <a class="footer-logo" href="/stragta/">STRAGTA</a>
+    <a class="footer-logo" href="#">STRAGTA</a>
     <div class="footer-copy">© 2026 STRAGTA · Madrid, España</div>
     <div class="footer-links">
       <a href="https://www.instagram.com/stragta" target="_blank" rel="noopener">Instagram</a>

@@ -67,6 +67,14 @@
     ]
   }
   </script>
+
+  <!-- PACO -->
+  <script
+  src="https://paco-production-9beb.up.railway.app/embed.js"
+  data-name="PACO"
+  data-primary="#1A1A17">
+  </script>
+
 </head>
 <body>
 
@@ -79,17 +87,29 @@
       </div>
     </nav>
 
+<div class="hero-services-shell">
+
   <!-- HERO -->
   <section id="hero">
-    <h1 class="hero-title reveal">
-      We test what's next.<br/>
-      <em>So you can implement what works.</em>
-    </h1>
-    <div class="hero-body">
-      <p class="hero-sub reveal d1">Technology moves fast, but not every new tool deserves adoption. We test and compare hardware, software, AI systems, security, and digital workflows so organizations can make better decisions, train smarter, and implement what truly works.</p>
-      <div class="hero-ctas reveal d2">
-        <a href="#contact" class="btn-primary">Start a conversation</a>
-        <a href="#services" class="btn-text">Our services →</a>
+    <div class="hero-globe-bg" aria-hidden="true">
+          <div class="hero-globe-overlay"></div>
+        <div class="globe-wrap hero-globe-wrap">
+          <div id="globe-loading">Rendering globe...</div>
+          <canvas id="globe-canvas" style="display:none"></canvas>
+        </div>
+    </div>
+
+    <div class="hero-content">
+      <h1 class="hero-title reveal">
+        We test and evaluate technology.<br/>
+        <em>So you can implement what works.</em>
+      </h1>
+      <div class="hero-body">
+        <p class="hero-sub reveal d1">
+          Technology moves fast, but not every new tool deserves adoption.
+          We help organizations assess hardware, software, AI systems, security, and digital workflows
+          so they can make better decisions, train their teams more effectively, and implement with confidence.
+        </p>
       </div>
     </div>
   </section>
@@ -101,7 +121,8 @@
         <div class="section-label reveal" style="color:var(--accent)">What we do</div>
         <h2 class="section-title reveal d1">For businesses<br/>ready to change.</h2>
       </div>
-      <p class="services-desc reveal d2">Every engagement begins with listening. We don't sell software or push templates. We become your strategic guide, translating what's emerging into decisions you can confidently make today.</p>
+      <p class="services-desc reveal d2">Every engagement begins with listening. We don't sell software or push templates. 
+        We become your strategic guide, translating what's emerging into decisions you can confidently make today.</p>
     </div>
     <div class="services-grid reveal">
 
@@ -113,7 +134,8 @@
           <line x1="2" y1="24" x2="26" y2="24"/>
         </svg>
         <h3 class="srv-title">Technology Strategy</h3>
-        <p class="srv-desc">We audit your stack, benchmark against your sector, cut through vendor noise, and deliver a clear roadmap. Your next move should be the right one, not just the trending one.</p>
+        <p class="srv-desc">We audit your stack, benchmark against your sector, cut through vendor noise, and deliver a clear roadmap. 
+          Your next move should be the right one, not just the trending one.</p>
         <div class="srv-tags">
           <span class="srv-tag">Tech Audit</span>
           <span class="srv-tag">Roadmapping</span>
@@ -130,7 +152,8 @@
           <path d="M20 4l3-3M23 7l-3-3" stroke-width="1.1"/>
         </svg>
         <h3 class="srv-title">Digital Transformation</h3>
-        <p class="srv-desc">Technology without change management is just software collecting dust. We guide your organisation through the human side: building buy-in, redesigning processes, making change stick.</p>
+        <p class="srv-desc">Technology without change management is just software collecting dust. 
+          We guide your organisation through the human side: building buy-in, redesigning processes, making change stick.</p>
         <div class="srv-tags">
           <span class="srv-tag">Change Management</span>
           <span class="srv-tag">Process Design</span>
@@ -148,7 +171,8 @@
           <line x1="11" y1="21" x2="13" y2="21"/>
         </svg>
         <h3 class="srv-title">Executive Training</h3>
-        <p class="srv-desc">Intensive, hands-on programs for decision-makers. Your leadership leaves with real skills and a shared language for navigating technology, not just a certificate they'll never open again.</p>
+        <p class="srv-desc">Intensive, hands-on programs for decision-makers. Your leadership leaves with real skills and 
+          a shared language for navigating technology, not just a certificate they'll never open again.</p>
         <div class="srv-tags">
           <span class="srv-tag">AI Literacy</span>
           <span class="srv-tag">Workshops</span>
@@ -165,7 +189,8 @@
           <circle cx="14" cy="14" r="5" stroke-dasharray="3 2"/>
         </svg>
         <h3 class="srv-title">AI Integration</h3>
-        <p class="srv-desc">We map your operations, identify where AI delivers real value, and implement it properly. Your team actually adopts it, rather than licensing it and forgetting it.</p>
+        <p class="srv-desc">We map your operations, identify where AI delivers real value, and implement it properly. 
+          Your team actually adopts it, rather than licensing it and forgetting it.</p>
         <div class="srv-tags">
           <span class="srv-tag">Generative AI</span>
           <span class="srv-tag">Automation</span>
@@ -177,15 +202,15 @@
     </div>
   </section>
 
+</div>
+
   <!-- PHILOSOPHY -->
   <section id="philosophy">
     <div class="phil-inner">
       <div class="section-label reveal">Our belief</div>
       <blockquote class="phil-quote reveal d1">Most technology fails. Not because it's bad, but because it's <em>poorly introduced.</em></blockquote>
-      <p class="reveal d2" style="font-size:.8rem;font-weight:600;color:var(--muted);letter-spacing:.06em;text-transform:uppercase">We start by understanding your business. Technology comes second.</p>
-      <div style="margin-top:2.5rem" class="reveal d3">
-        <a href="#contact" class="btn-primary">Work with us</a>
-      </div>
+      <p class="reveal d2" style="font-size:.8rem;font-weight:600;color:var(--muted);letter-spacing:.06em;text-transform:uppercase">
+        We start by understanding your business. Technology comes second.</p>
     </div>
   </section>
 
@@ -199,17 +224,20 @@
       <div class="proc-step">
         <div class="proc-n">01</div>
         <h3 class="proc-title">Diagnose</h3>
-        <p class="proc-desc">We audit your technology, workflows, and team readiness with no assumptions. We identify where real opportunities and risks live before recommending anything.</p>
+        <p class="proc-desc">We audit your technology, workflows, and team readiness with no assumptions. 
+          We identify where real opportunities and risks live before recommending anything.</p>
       </div>
       <div class="proc-step">
         <div class="proc-n">02</div>
         <h3 class="proc-title">Design</h3>
-        <p class="proc-desc">We co-create a strategy with your team: technology choices, sequencing, success metrics. Every recommendation is tied to an outcome you already care about.</p>
+        <p class="proc-desc">We co-create a strategy with your team: technology choices, sequencing, success metrics. E
+          very recommendation is tied to an outcome you already care about.</p>
       </div>
       <div class="proc-step">
         <div class="proc-n">03</div>
         <h3 class="proc-title">Deploy and Embed</h3>
-        <p class="proc-desc">We implement alongside your team, train who needs it, and stay through adoption. The engagement ends when the technology is genuinely working.</p>
+        <p class="proc-desc">We implement alongside your team, train who needs it, and stay through adoption. 
+          The engagement ends when the technology is genuinely working.</p>
       </div>
     </div>
   </section>
@@ -246,12 +274,13 @@
             <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
             <svg viewBox="0 0 14 14"><polygon points="7,1 8.8,5.3 13.5,5.7 10,8.8 11.1,13.4 7,10.8 2.9,13.4 4,8.8 0.5,5.7 5.2,5.3"/></svg>
           </div>
-          <p class="rev-quote">They did not come in with a pre-packaged solution. They spent the first two weeks understanding how we actually work before recommending anything. That made all the difference.</p>
+          <p class="rev-quote">We completed an in-depth exploration of AI in audiovisual production with Stragta. Their up-to-date training, 
+            experience, advice, and recommendations helped us understand that, when used properly, AI can become part of a professional workflow.</p>
           <div class="rev-author">
             <div class="rev-avatar">AC</div>
             <div>
-              <div class="rev-name">Ana Castellano</div>
-              <div class="rev-role">CEO · Instituto de Imágen y sonido, Madrid</div>
+              <div class="rev-name">Tania J.P</div>
+              <div class="rev-role">Professor at CIFP José Luis Garci, Madrid</div>
             </div>
           </div>
         </div>
@@ -337,64 +366,6 @@
     <div class="reviews-dots" id="reviews-dots"></div>
   </section>
 
-  <!-- GLOBE -->
-  <section id="map-section">
-    <div class="map-inner">
-      <div class="map-header-row">
-        <div>
-          <div class="section-label" style="color:rgba(242,240,234,.3)">Tech Growth Outlook 2026-2030</div>
-          <h2 class="map-title">Where the world is<br/>investing next.</h2>
-          <p class="map-subtitle">Countries shaded by projected technological growth across AI, quantum computing, semiconductors, and digital infrastructure through 2030. Drag to explore.</p>
-        </div>
-        <div class="map-stats">
-          <div class="map-stat">
-            <div class="n">$15.7T</div>
-            <div class="l">AI contribution to<br/>global GDP by 2030</div>
-          </div>
-          <div class="map-stat">
-            <div class="n">€200B</div>
-            <div class="l">EU InvestAI plan<br/>mobilised 2025</div>
-          </div>
-          <div class="map-stat">
-            <div class="n">¥10T</div>
-            <div class="l">Japan chip and AI<br/>pledge by 2030</div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="globe-wrap">
-      <div id="globe-loading">Rendering globe...</div>
-      <canvas id="globe-canvas" style="display:none"></canvas>
-    </div>
-    <p class="map-note">
-      Sources: PwC AI Impact Report 2024 · McKinsey Global Institute AI Readiness Index (Dec 2025) ·
-      Stanford HAI Global AI Index 2024 · EuroHPC AI Factory selections 2024-2025 ·
-      EU AI Continent Action Plan April 2025 · Japan AI Promotion Act 2025 ·
-      Goldman Sachs Semiconductor Forecast 2025 · WEF Future of Jobs Report 2025
-    </p>
-    <div class="map-legend">
-      <div class="legend-item">
-        <div class="legend-dot" style="background:rgba(184,240,32,.85)"></div>
-        Exceptional growth projected
-      </div>
-      <div class="legend-item">
-        <div class="legend-dot" style="background:rgba(184,240,32,.52)"></div>
-        Strong growth
-      </div>
-      <div class="legend-item">
-        <div class="legend-dot" style="background:rgba(184,240,32,.24)"></div>
-        Moderate growth
-      </div>
-      <div class="legend-item">
-        <div class="legend-dot" style="background:rgba(184,240,32,.1)"></div>
-        Emerging trajectory
-      </div>
-      <div class="legend-item" style="margin-left:auto">
-        <div class="legend-sq"></div>
-        Stragta HQ: Madrid
-      </div>
-    </div>
-  </section>
 
   <!-- NEWS -->
   <section id="news">
