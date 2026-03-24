@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-23T07:59:16.979Z",
+  "lastUpdated": "2026-03-24T07:51:43.309Z",
   "articles": [
+    {
+      "id": "amd-samsung-ai-memory",
+      "date": "2026-03-23",
+      "headline": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions",
+      "summary": "Samsung y AMD amplían colaboración en soluciones de memoria AI de próxima generación. Esto fortalece la posición de AMD en GPUs como Instinct MI350 y MI400 para 2026, enfocadas en cómputo de alto rendimiento IA.",
+      "source": "Design-Reuse",
+      "sourceUrl": "https://www.design-reuse.com/news/202529902-amd-nvidia-and-others-reportedly-to-debut-new-chips-at-ces-2026-spotlighting-tsmc-3nm-and-5nm/",
+      "imageUrl": "",
+      "category": "Empresas de IA"
+    },
+    {
+      "id": "nvidia-rubin-preview",
+      "date": "2026-03-23",
+      "headline": "NVIDIA Previews Next-Generation Rubin Chip for 2026 Launch",
+      "summary": "NVIDIA anticipa su chip Rubin para segunda mitad de 2026 con rendimiento FP4 de 50 petaflops, más del doble de Blackwell. Negocia con Samsung por HBM4 basado en DRAM 1c para ventaja competitiva sobre SK Hynix.",
+      "source": "36Kr",
+      "sourceUrl": "https://eu.36kr.com/en/p/3599471093432578",
+      "imageUrl": "https://img.36krcdn.com/hsossms/20251217/v2_675045fc40a2491aaaf70e0fb0db9295@5888275@ai_oswg1103669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "category": "Empresas de IA"
+    },
     {
       "id": "nvidia-gtc-2026",
       "date": "2026-03-21",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.javadex.es/blog/noticias-inteligencia-artificial-21-marzo-2026-nvidia-gtc-pentagono-gpt54",
       "imageUrl": "https://www.javadex.es/og-image.jpg",
       "category": "Investigación"
-    },
-    {
-      "id": "nvidia-inference-pivot-gtc-2026",
-      "date": "2026-03-20",
-      "headline": "NVIDIA pivota hacia IA inferencia y revela hoja de ruta en GTC 2026",
-      "summary": "NVIDIA anunció un cambio estratégico significativo hacia flujos de trabajo de IA inferencia y agentes, alejándose de su enfoque anterior en entrenamiento en la nube. La compañía presentó su próxima generación de hardware incluyendo la CPU Vera y la arquitectura GPU Feynman para 2028.",
-      "source": "Distill Intelligence",
-      "sourceUrl": "https://www.distillintelligence.com/briefings/semiconductors-ai-chips-2026-03-20",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tsmc-a16-production-2026",
-      "date": "2026-03-20",
-      "headline": "TSMC iniciará producción de tecnología A16 en 2026",
-      "summary": "La tecnología A16 de TSMC comenzará producción en 2026 con transistores nanosheet y soluciones innovadoras de raíl de potencia trasero. NVIDIA se ha asegurado como primer cliente del nodo de proceso de vanguardia para sus GPUs de nueva generación.",
-      "source": "Leading AI Hardware Companies",
-      "sourceUrl": "https://cwsw-102.stagingview.net/leading-ai-hardware-companies/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-23T07:59:09.646Z",
+  "lastUpdated": "2026-03-24T07:51:35.022Z",
   "articles": [
+    {
+      "id": "nvidia-nemotron",
+      "date": "2026-03-22",
+      "headline": "NVIDIA launches the Nemotron Coalition at GTC 2026",
+      "summary": "NVIDIA announced the Nemotron Coalition at GTC 2026 to advance AI model development. The initiative focuses on collaborative efforts in AI capabilities. This launch highlights NVIDIA's push in chips and hardware for AI infrastructure.",
+      "source": "Tom’s Hardware",
+      "sourceUrl": "https://www.youtube.com/watch?v=o4sYcZLUu7w",
+      "imageUrl": "",
+      "category": "Research"
+    },
+    {
+      "id": "openai-headcount",
+      "date": "2026-03-21",
+      "headline": "OpenAI plans to almost double its headcount this year",
+      "summary": "OpenAI plans to increase its staff from about 4,500 to 8,000 by the end of 2026 to compete with Anthropic and Google. The new hires will focus on product development, engineering, research, and sales. The company has expanded its San Francisco office space to over 1 million square feet to accommodate growth.",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/",
+      "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265992523-e1774135124291.jpg?resize=1200,600",
+      "category": "AI Adoption"
+    },
     {
       "id": "xai-musk-2026-03-20",
       "date": "2026-03-20",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.storyboard18.com/digital/elon-musk-says-xai-will-match-openai-google-and-anthropic-by-2026-92333.htm",
       "imageUrl": "https://images.storyboard18.com/storyboard18/2025/08/Elon-Musk1-2025-08-280c53c071184915c4e1bd5a8a903d95-1019x573.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "mistral-nvidia-coalition-2026-03-20",
-      "date": "2026-03-20",
-      "headline": "Mistral AI joins NVIDIA Nemotron Coalition to co-develop frontier open-source models",
-      "summary": "Mistral AI has partnered with NVIDIA as a founding member of the Nemotron Coalition, alongside Thinking Machines Lab and Black Forest Labs, to co-create advanced open-source AI models. Mistral also launched its 'Forge' enterprise training platform for companies to build proprietary AI models. This alliance leverages NVIDIA's compute infrastructure to challenge closed models from ChatGPT, Claude, and Gemini.",
-      "source": "Distill Intelligence",
-      "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20",
-      "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-20/og.png",
-      "category": "Research"
-    },
-    {
-      "id": "nvidia-physical-ai-2026-03-17",
-      "date": "2026-03-17",
-      "headline": "NVIDIA unveils Physical AI Data Factory Blueprint for robotics and autonomous vehicles",
-      "summary": "NVIDIA announced the Physical AI Data Factory Blueprint, a reference architecture using accelerated computing to generate high-quality synthetic training data at scale for robotics, AI vision agents, and autonomous vehicles. This tool addresses data needs for physical AI applications during NVIDIA GTC 2026. It highlights convergence of AI labs around NVIDIA for open model development.",
-      "source": "jls42.org",
-      "sourceUrl": "https://jls42.org/en/news/ia-actualites-17-mar-2026",
-      "imageUrl": "https://jls42.org/_astro/ia-actualites-17-mar-2026.HKBnFYAI.webp",
-      "category": "Automation"
     }
   ]
 }
