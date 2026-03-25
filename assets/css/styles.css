@@ -78,7 +78,7 @@ nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
 
 /* ── HERO ── */
 #hero {
-  min-height: 40vh;
+  min-height: 20vh;
   display: flex; flex-direction: column; justify-content: center;
   padding: 120px 5% 80px;
   background: var(--bg);
@@ -101,7 +101,7 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   gap: 2rem; flex-wrap: wrap;
 }
 .hero-sub {
-  font-size: 0.97rem; font-weight: 400;
+  font-size: 0.87rem; font-weight: 400;
   color: var(--muted); max-width: 440px; line-height: 1.9;
 }
 .hero-ctas { display: flex; gap: 0.9rem; flex-shrink: 0; align-items: left; }
@@ -197,7 +197,7 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
 
 .hero-services-shell {
   position: relative;
-  overflow: visible;
+  overflow: hidden;
   background: #f2f0ea;
 }
 
@@ -257,8 +257,8 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   background:
     radial-gradient(circle at 50% 50%,
       rgba(242, 240, 234, 0) 0%,
-      rgba(242, 240, 234, 0.04) 58%,
-      rgba(242, 240, 234, 0.22) 78%,
+      rgba(242, 240, 234, 0) 58%,
+      rgba(242, 240, 234, 0) 78%,
       rgba(242, 240, 234, 0.48) 100%);
 }
 
@@ -283,7 +283,7 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   .hero-globe-bg {
     left: 50%;
     top: 28vh;
-    transform: translateX(-12%);
+    transform: translateX(-15%);
     width: min(95vw, 760px);
     height: min(95vw, 760px);
   }
@@ -291,13 +291,17 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
 
 @media (max-width: 768px) {
   .hero-globe-bg {
-    left: 50%;
+    left: 60%;
     top: 48vh;
     transform: translateX(-15%);
     width: 75vw;
     height: 75vw;
   }
+  .hero-sub {
+    max-width: 62%;
+
 }
+
 
 
 /* ── SERVICES ── */
