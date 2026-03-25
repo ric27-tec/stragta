@@ -283,7 +283,7 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   .hero-globe-bg {
     left: 50%;
     top: 28vh;
-    transform: translateX(-15%);
+    transform: translateX(-5%);
     width: min(95vw, 760px);
     height: min(95vw, 760px);
   }
@@ -291,17 +291,13 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
 
 @media (max-width: 768px) {
   .hero-globe-bg {
-    left: 50%;
+    left: 70%;
     top: 48vh;
-    transform: translateX(-15%);
-    width: 50vw;
-    height: 50vw;
+    transform: translateX(-5%);
+    width: 75vw;
+    height: 75vw;
   }
-  .hero-sub {
-    max-width: 62%;
-
 }
-
 
 
 /* ── SERVICES ── */
@@ -701,7 +697,7 @@ footer {
   .map-inner, .map-legend, .map-note { padding-left: 4%; padding-right: 4%; }
 
   h1.hero-title { font-size: 2.8rem; letter-spacing: -0.025em; }
-  .hero-body { flex-direction: column; align-items: flex-start; max-width: 62%;}
+  .hero-body { flex-direction: column; align-items: flex-start; }
   .services-top, .contact-inner { grid-template-columns: 1fr; gap: 2rem; }
   .services-grid, .process-grid { grid-template-columns: 1fr; }
   .map-header-row { flex-direction: column; gap: 1.5rem; }
@@ -864,5 +860,4 @@ footer {
 
     #contact .section-title {
   color: var(--cream);
-}
 }
