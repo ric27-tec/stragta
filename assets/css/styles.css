@@ -292,10 +292,10 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
 @media (max-width: 768px) {
   .hero-globe-bg {
     left: 70%;
-    top: 48vh;
+    top: 78vh;
     transform: translateX(-5%);
-    width: 75vw;
-    height: 75vw;
+    width: 50vw;
+    height: 50vw;
   }
 }
 
