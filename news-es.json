@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-24T07:51:43.309Z",
+  "lastUpdated": "2026-03-25T07:50:12.634Z",
   "articles": [
+    {
+      "id": "amd-mi400-preview",
+      "date": "2026-03-23",
+      "headline": "AMD Pre-discloses Instinct MI400 Series GPUs for 2026 Launch",
+      "summary": "AMD has previewed its Instinct MI400 series GPUs set for 2026, advancing AI high-performance computing alongside the new MI350 series. This positions AMD strongly in the AI GPU market competing with NVIDIA's offerings.",
+      "source": "36Kr",
+      "sourceUrl": "https://eu.36kr.com/en/p/3599471093432578",
+      "imageUrl": "https://img.36krcdn.com/hsossms/20251217/v2_675045fc40a2491aaaf70e0fb0db9295@5888275@ai_oswg1103669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "category": "Empresas de IA"
+    },
     {
       "id": "amd-samsung-ai-memory",
       "date": "2026-03-23",
@@ -10,16 +20,6 @@
       "source": "Design-Reuse",
       "sourceUrl": "https://www.design-reuse.com/news/202529902-amd-nvidia-and-others-reportedly-to-debut-new-chips-at-ces-2026-spotlighting-tsmc-3nm-and-5nm/",
       "imageUrl": "",
-      "category": "Empresas de IA"
-    },
-    {
-      "id": "nvidia-rubin-preview",
-      "date": "2026-03-23",
-      "headline": "NVIDIA Previews Next-Generation Rubin Chip for 2026 Launch",
-      "summary": "NVIDIA anticipa su chip Rubin para segunda mitad de 2026 con rendimiento FP4 de 50 petaflops, más del doble de Blackwell. Negocia con Samsung por HBM4 basado en DRAM 1c para ventaja competitiva sobre SK Hynix.",
-      "source": "36Kr",
-      "sourceUrl": "https://eu.36kr.com/en/p/3599471093432578",
-      "imageUrl": "https://img.36krcdn.com/hsossms/20251217/v2_675045fc40a2491aaaf70e0fb0db9295@5888275@ai_oswg1103669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
       "category": "Empresas de IA"
     },
     {
