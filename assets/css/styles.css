@@ -299,6 +299,34 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   }
 }
 
+@media screen and (max-width: 768px) {
+  .hero p,
+  .banner p,
+  .intro p {
+    max-width: 72%;
+    position: relative;
+    z-index: 2;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero p,
+  .banner p,
+  .intro p {
+    font-size: 1.05rem;
+    line-height: 1.55;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .hero p,
+  .banner p,
+  .intro p {
+    font-size: 1.05rem;
+    line-height: 1.55;
+  }
+}
+
 /* ── SERVICES ── */
 #services {
   padding: 7rem 10%;
