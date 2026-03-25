@@ -279,28 +279,23 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   padding-top: 6rem;
 }
 
-@media (max-width: 768px) {
-  #hero {
-    min-height: 980px;
-    padding: 7.5rem 1.4rem 22rem;
-    align-items: flex-start;
-  }
-
-  #hero .hero-sub {
-    max-width: 92%;
-    font-size: 0.95rem;
-    line-height: 1.7;
-    position: relative;
-    z-index: 3;
-  }
-
+@media (max-width: 980px) {
   .hero-globe-bg {
     left: 50%;
-    top: 60vh;
-    transform: translateX(-8%);
-    width: 102vw;
-    height: 102vw;
-    z-index: 1;
+    top: 28vh;
+    transform: translateX(-12%);
+    width: min(95vw, 760px);
+    height: min(95vw, 760px);
+  }
+}
+
+@media (max-width: 768px) {
+  .hero-globe-bg {
+    left: 50%;
+    top: 48vh;
+    transform: translateX(-15%);
+    width: 75vw;
+    height: 75vw;
   }
 }
 
