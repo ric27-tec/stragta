@@ -281,25 +281,27 @@ function normalizeHeadline(text) {
 
 function dedupeArticles(articles) {
   const seenUrls = new Set();
-  const seenHeadlines = new Set();
+  const seenHeadlineKeys = new Set();
   const result = [];
 
   for (const article of articles) {
     const url = (article.sourceUrl || '').trim();
-    const headline = normalizeHeadline(article.headline);
+    const headlineKey = normalizeHeadline(article.headline);
 
     if (url && seenUrls.has(url)) {
       continue;
     }
-    if (headline && seenHeadlines.has(headline)) {
+
+    if (headlineKey && seenHeadlineKeys.has(headlineKey)) {
       continue;
     }
 
     if (url) {
       seenUrls.add(url);
     }
-    if (headline) {
-      seenHeadlines.add(headline);
+
+    if (headlineKey) {
+      seenHeadlineKeys.add(headlineKey);
     }
 
     result.push(article);
@@ -521,37 +523,82 @@ function mergeWithExisting(existingArticles, freshArticles) {
       !article.sourceUrl.includes('youtu.be')
     );
 
-  const recentExisting = normalizedExisting.filter((article) =>
-    isWithinLastSevenDays(article.date)
-  );
-
-  const olderExisting = normalizedExisting.filter((article) =>
-    !isWithinLastSevenDays(article.date)
-  );
-
-  const validFresh = freshArticles.filter((article) =>
-    isWithinLastSevenDays(article.date)
-  );
-
-  const primaryPool = [...validFresh, ...recentExisting].sort((a, b) => {
-    const dateA = parseFlexibleDate(a.date) || new Date(0);
-    const dateB = parseFlexibleDate(b.date) || new Date(0);
-    return dateB - dateA;
-  });
-
-  let merged = dedupeArticles(primaryPool);
-
-  if (merged.length < 3) {
-    const backupPool = [...merged, ...olderExisting].sort((a, b) => {
+  const validFresh = freshArticles
+    .filter((article) => isWithinLastSevenDays(article.date))
+    .sort((a, b) => {
       const dateA = parseFlexibleDate(a.date) || new Date(0);
       const dateB = parseFlexibleDate(b.date) || new Date(0);
       return dateB - dateA;
     });
 
-    merged = dedupeArticles(backupPool);
+  const recentExisting = normalizedExisting
+    .filter((article) => isWithinLastSevenDays(article.date))
+    .sort((a, b) => {
+      const dateA = parseFlexibleDate(a.date) || new Date(0);
+      const dateB = parseFlexibleDate(b.date) || new Date(0);
+      return dateB - dateA;
+    });
+
+  const olderExisting = normalizedExisting
+    .filter((article) => !isWithinLastSevenDays(article.date))
+    .sort((a, b) => {
+      const dateA = parseFlexibleDate(a.date) || new Date(0);
+      const dateB = parseFlexibleDate(b.date) || new Date(0);
+      return dateB - dateA;
+    });
+
+  const merged = [];
+  const seenUrls = new Set();
+  const seenHeadlineKeys = new Set();
+
+  function tryAdd(article) {
+    const url = (article.sourceUrl || '').trim();
+    const headlineKey = normalizeHeadline(article.headline);
+
+    if (url && seenUrls.has(url)) {
+      return;
+    }
+
+    if (headlineKey && seenHeadlineKeys.has(headlineKey)) {
+      return;
+    }
+
+    if (url) {
+      seenUrls.add(url);
+    }
+
+    if (headlineKey) {
+      seenHeadlineKeys.add(headlineKey);
+    }
+
+    merged.push(article);
   }
 
-  return merged.slice(0, 3);
+  // 1) Fresh news always gets first priority
+  for (const article of validFresh) {
+    tryAdd(article);
+    if (merged.length === 3) {
+      return merged;
+    }
+  }
+
+  // 2) Fill with recent existing articles
+  for (const article of recentExisting) {
+    tryAdd(article);
+    if (merged.length === 3) {
+      return merged;
+    }
+  }
+
+  // 3) If still short, use older valid existing articles as backup
+  for (const article of olderExisting) {
+    tryAdd(article);
+    if (merged.length === 3) {
+      return merged;
+    }
+  }
+
+  return merged;
 }
 
 async function run() {
