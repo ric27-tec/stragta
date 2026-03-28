@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-28T20:48:38.660Z",
+  "lastUpdated": "2026-03-28T20:59:11.689Z",
   "articles": [
     {
-      "id": "ventas-canal-espana-hardware-2026",
+      "id": "ia-innovations-marzo-2026",
       "date": "27 March 2026",
-      "headline": "Las ventas del canal TIC en España crecen un 8% en el inicio de 2026, pero se complican por subida de precios de hardware y crisis de memorias",
-      "summary": "Los mayoristas facturaron un 8% más en las primeras 11 semanas de 2026 respecto a 2025, impulsados por IA, cloud y ciberseguridad, con portátiles (+26%) y servidores (+38%) liderando. Sin embargo, la crisis de memorias y tensiones geopolíticas provocarán subidas de precios, afectando stocks y planificación de compras en empresas y pymes. Esto impacta directamente en costes operativos y cadenas de suministro de hardware.",
-      "source": "ChannelPartner",
-      "sourceUrl": "https://www.channelpartner.es/negocio/las-ventas-del-canal-en-espana-crecen-en-este-comienzo-de-ano-aunque-el-panorama-se-complicara-por-la-subida-de-precios-del-hardware/",
-      "imageUrl": "https://img.channelpartner.es/wp-content/uploads/2026/03/27135331/Elena-Montanes-country-manager-de-Context.jpg",
-      "category": "Estrategia"
+      "headline": "Marzo 2026: Revolución en IA con innovaciones de Google, Apple y China que redefinen negocios",
+      "summary": "Google lanzó Gemini 3.1 Pro y xAI Grok 4.20 con sistemas multi-agente, mientras MiniMax ofrece rendimiento frontier a bajo coste y Goldman Sachs contrata Devin 2.0 como primer empleado IA. Gartner prevé que el 40% de apps empresariales integren agentes IA en 2026, acelerando adopción y ventaja competitiva para empresas que actúen rápido. OpenAI firma acuerdos con Accenture y McKinsey para agentes empresariales, impactando productividad y costes operativos.",
+      "source": "RJCoders",
+      "sourceUrl": "https://rjcoders.com/blog/post/marzo-2026-revolucion-inteligencia-artificial-innovaciones-negocios",
+      "imageUrl": "https://rjcoders.com/assets/images/og-image.jpg",
+      "category": "Adopción de IA"
     },
     {
-      "id": "startups-capital-riesgo-ia-deeptech-25-marzo",
-      "date": "25 March 2026",
-      "headline": "Inversiones en IA y deeptech dominan capital de riesgo global el 25 de marzo de 2026, con foco en robótica y automatización industrial",
-      "summary": "La IA concentra la mayoría del capital de riesgo, priorizando equipos con acceso a GPU y conversión rápida a productos; deeptech como semiconductores, robótica y automatización se convierten en activos estratégicos. Esto señala oportunidades para empresas en eficiencia operativa y riesgos para competidores sin inversión en AI físico. Impacta planificación de inversiones y competitividad en manufactura y logística.",
-      "source": "Sergey Tereshkin",
-      "sourceUrl": "https://sergeytereshkin.mx/publications/noticias-startups-capital-riesgo-25-marzo-2026",
-      "imageUrl": "https://sergeytereshkin.mx/upload/resize_cache/iblock/e0f/1200_630_1/6r636kdg0sed4c4aryyhliptqx03947i.png",
-      "category": "Investigación"
+      "id": "roi-ia-agentes-2026",
+      "date": "27 March 2026",
+      "headline": "IA agéntica y edge computing generan ROI real en logística, comercio e industria pesada",
+      "summary": "La IA pasa de experimentación a impacto en cuenta de resultados, con edge computing reduciendo dependencia cloud, costes energéticos y mejorando respuesta en entornos industriales. Copilotos IA multiplican capacidades humanas en salud y fabricación, optimizando operaciones sin degradar empleo. Directivos deben orquestar transiciones para sostenibilidad y eficiencia.",
+      "source": "La Ecuación Digital",
+      "sourceUrl": "https://www.laecuaciondigital.com/tecnologias/inteligencia-artificial/el-retorno-de-la-inversion-en-inteligencia-artificial-redefine-la-operativa-de-la-primera-linea-en-2026/",
+      "imageUrl": "https://www.laecuaciondigital.com/wp-content/uploads/2026/01/inteligencia-artificial-tendencias.jpg",
+      "category": "Adopción de IA"
     },
     {
-      "id": "amd-mi400-preview",
-      "date": "23 March 2026",
-      "headline": "AMD Pre-discloses Instinct MI400 Series GPUs for 2026 Launch",
-      "summary": "AMD has previewed its Instinct MI400 series GPUs set for 2026, advancing AI high-performance computing alongside the new MI350 series. This positions AMD strongly in the AI GPU market competing with NVIDIA's offerings.",
-      "source": "36Kr",
-      "sourceUrl": "https://eu.36kr.com/en/p/3599471093432578",
-      "imageUrl": "https://img.36krcdn.com/hsossms/20251217/v2_675045fc40a2491aaaf70e0fb0db9295@5888275@ai_oswg1103669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "category": "Empresas de IA"
+      "id": "tendencias-pymes-2026",
+      "date": "27 March 2026",
+      "headline": "6 tendencias tecnológicas para pymes en 2026: IA y automatización ahorran hasta 30% en costes",
+      "summary": "IA generativa, cloud y automatización inteligente liberan tiempo en tareas repetitivas, con ahorros operativos del 30% según h&k. Estrategias de datos como activo clave y gobernanza aseguran ROI en IA para pymes. Más de la mitad de pymes ahorra 10 horas semanales, impulsando competitividad.",
+      "source": "Cyberlidería",
+      "sourceUrl": "https://cyberlideriamgzn.es/6-tendencias-tecnologicas-que-marcaran-el-futuro-de-las-pymes-en-2026/",
+      "imageUrl": "https://cyberlideriamgzn.es/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-22-at-15.47.06-1.jpeg",
+      "category": "Automatización"
     }
   ]
 }
