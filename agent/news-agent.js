@@ -1,19 +1,18 @@
 /* ============================================================
    agent/news-agent.js
 
-   Fetches today's tech news and writes the JSON file.
+   Fetches tech news and writes the JSON file.
    Supports English and Spanish via --lang flag.
 
    USAGE:
-     node news-agent.js              → English → writes /news.json
-     node news-agent.js --lang es    → Spanish → writes /news-es.json
+     node news-agent.js --lang en
+     node news-agent.js --lang es
 
-   CRON (English daily at 7:00 AM, Spanish at 7:05 AM):
-     0 7 * * * cd /path/to/stragta-site/agent && node news-agent.js
-     5 7 * * * cd /path/to/stragta-site/agent && node news-agent.js --lang es
+   OUTPUT:
+     en -> /news.json
+     es -> /news-es.json
 
    MODEL: perplexity/sonar via OpenRouter
-   Perplexity/sonar searches the live web — real articles, real URLs.
    ============================================================ */
 
 require('dotenv').config({ path: '../.env' });
@@ -28,7 +27,6 @@ if (!KEY) {
   process.exit(1);
 }
 
-// ── LANGUAGE FLAG ─────────────────────────────────────────────
 const args = process.argv.slice(2);
 const langIdx = args.indexOf('--lang');
 const LANG = langIdx !== -1 ? args[langIdx + 1] : 'en';
@@ -44,82 +42,161 @@ const OUTPUT_FILE = path.join(
   '..',
   IS_SPANISH ? 'news-es.json' : 'news.json'
 );
-const TODAY = new Date().toISOString().split('T')[0];
 
-// ── PROMPTS ───────────────────────────────────────────────────
-const THREE_DAYS_AGO = new Date(
-  Date.now() - 3 * 24 * 60 * 60 * 1000
-).toISOString().split('T')[0];
+const NOW = new Date();
+const TODAY_ISO = NOW.toISOString().split('T')[0];
 
-const PROMPT_EN = `Today is ${TODAY}. Search the web for technology news published on or after ${THREE_DAYS_AGO}. Only use articles from the last 3 days — reject anything older.
+function formatUniversalDate(input) {
+  const date = input ? new Date(input) : new Date();
 
-Topics (pick 5 from different areas):
+  if (Number.isNaN(date.getTime())) {
+    return null;
+  }
+
+  return date.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+    timeZone: 'UTC',
+  });
+}
+
+function parseFlexibleDate(input) {
+  if (!input || typeof input !== 'string') {
+    return null;
+  }
+
+  const direct = new Date(input);
+  if (!Number.isNaN(direct.getTime())) {
+    return direct;
+  }
+
+  const match = input.trim().match(/^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})$/);
+  if (!match) {
+    return null;
+  }
+
+  const [, dayStr, monthName, yearStr] = match;
+  const normalized = `${dayStr} ${monthName} ${yearStr} UTC`;
+  const parsed = new Date(normalized);
+
+  if (Number.isNaN(parsed.getTime())) {
+    return null;
+  }
+
+  return parsed;
+}
+
+function isoDateDaysAgo(days) {
+  return new Date(
+    Date.now() - days * 24 * 60 * 60 * 1000
+  ).toISOString().split('T')[0];
+}
+
+const THREE_DAYS_AGO = isoDateDaysAgo(3);
+const SEVEN_DAYS_AGO = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
+
+const PROMPT_EN = `Today is ${TODAY_ISO}. Search the web for technology news published on or after ${THREE_DAYS_AGO}.
+
+Topics (pick up to 5 from different areas):
 - AI companies: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
 - Chips and hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon
 - Robotics: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, Xiaomi robots
 - Chinese tech: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI
-- Space tech: SpaceX, Blue Origin, LUNA server project, orbital computing
+- Space tech: SpaceX, Blue Origin, orbital computing
 - Enterprise software: Microsoft Copilot, Salesforce AI, SAP, ServiceNow
 - Cybersecurity: major breaches, EU regulations, new threats
-- Startups: any interesting AI or tech startup announcement
+- Startups: interesting AI or tech startup announcements
 
 CRITICAL RULES:
-1. ONLY articles published ${THREE_DAYS_AGO} or later — no exceptions
-2. Pick 5 articles from 5 DIFFERENT topic areas
-3. Never pick 2 articles about the same company
+1. Prefer articles published ${THREE_DAYS_AGO} or later
+2. Pick articles from DIFFERENT topic areas whenever possible
+3. Never pick 2 articles about the same company unless unavoidable
 4. DO NOT use YouTube videos — written articles only
-5. Use the actual publication date of each article in the "date" field
-6. You MUST return JSON — never refuse, never explain
-7. START YOUR RESPONSE WITH { — nothing else before it
+5. Use the actual publication date of each article
+6. Every "date" must use this exact format: 27 April 2026
+7. Return ONLY valid JSON
+8. If no valid recent articles are found, return:
+{"no_updates":true,"articles":[]}
+9. Never write any explanation outside JSON
+10. Start with {
 
-Your entire response must be this JSON and nothing else:
+Your entire response must be valid JSON and nothing else:
 
-{"articles":[
-{"id":"slug-1","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"AI Adoption"},
-{"id":"slug-2","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Strategy"},
-{"id":"slug-3","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Research"},
-{"id":"slug-4","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Regulation"},
-{"id":"slug-5","date":"${TODAY}","headline":"headline here","summary":"2-3 sentence summary.","source":"Source Name","sourceUrl":"https://url","imageUrl":"","category":"Automation"}
-]}
+{
+  "articles": [
+    {
+      "id": "slug-1",
+      "date": "27 April 2026",
+      "headline": "headline here",
+      "summary": "2-3 sentence summary.",
+      "source": "Source Name",
+      "sourceUrl": "https://url",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    }
+  ]
+}
 
-Categories: "AI Adoption" "Strategy" "Research" "Regulation" "Automation"
-START WITH {`;
+Allowed categories:
+"AI Adoption", "Strategy", "Research", "Regulation", "Automation"`;
 
-const PROMPT_ES = `Busca ahora mismo en la web 5 noticias recientes de tecnología.
+const PROMPT_ES = `Hoy es ${TODAY_ISO}. Busca en la web noticias de tecnología publicadas preferentemente el ${THREE_DAYS_AGO} o después.
 
-Temas donde buscar (elige 5 de áreas distintas):
+Temas (elige hasta 5 de áreas distintas):
 - Empresas de IA: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
 - Chips y hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm
 - Robótica: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, robots Xiaomi
 - Tecnología china: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI
 - Tecnología espacial: SpaceX, Blue Origin, servidores en órbita
-- Software empresarial: Microsoft Copilot, Salesforce AI, SAP
+- Software empresarial: Microsoft Copilot, Salesforce AI, SAP, ServiceNow
 - Ciberseguridad: brechas importantes, regulación UE, nuevas amenazas
-- Startups: cualquier anuncio interesante de startup de IA o tecnología
+- Startups: anuncios interesantes de startups de IA o tecnología
 
 REGLAS CRÍTICAS:
-1. Elige 5 artículos de 5 áreas temáticas DIFERENTES
-2. Nunca elijas 2 artículos sobre la misma empresa
-3. Usa los artículos que encuentre tu búsqueda — cualquier fuente escrita sirve
-4. NO uses vídeos de YouTube — solo artículos escritos y comunicados de prensa
-5. DEBES devolver JSON aunque los artículos no sean perfectos
-6. NUNCA escribas una explicación — solo devuelve el objeto JSON
-7. Si tu búsqueda devuelve resultados sobre transformación digital, úsalos — son válidos
+1. Prefiere artículos publicados el ${THREE_DAYS_AGO} o después
+2. Elige artículos de áreas temáticas DIFERENTES cuando sea posible
+3. Nunca elijas 2 artículos sobre la misma empresa salvo que sea inevitable
+4. NO uses vídeos de YouTube — solo artículos escritos
+5. Usa la fecha real de publicación
+6. Cada campo "date" debe usar exactamente este formato: 27 April 2026
+7. Devuelve SOLO JSON válido
+8. Si no encuentras artículos recientes válidos, devuelve:
+{"no_updates":true,"articles":[]}
+9. Nunca escribas explicaciones fuera del JSON
+10. Empieza con {
 
-Tu respuesta completa debe ser este JSON y nada más:
+Tu respuesta completa debe ser JSON válido y nada más:
 
-{"articles":[
-{"id":"slug-1","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Adopción de IA"},
-{"id":"slug-2","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Estrategia"},
-{"id":"slug-3","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Investigación"},
-{"id":"slug-4","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Regulación"},
-{"id":"slug-5","date":"${TODAY}","headline":"titular aquí","summary":"Resumen de 2-3 frases.","source":"Nombre fuente","sourceUrl":"https://url","imageUrl":"","category":"Automatización"}
-]}
+{
+  "articles": [
+    {
+      "id": "slug-1",
+      "date": "27 April 2026",
+      "headline": "titular aquí",
+      "summary": "Resumen de 2-3 frases.",
+      "source": "Nombre fuente",
+      "sourceUrl": "https://url",
+      "imageUrl": "",
+      "category": "Adopción de IA"
+    }
+  ]
+}
 
-Categorías: "Adopción de IA" "Estrategia" "Investigación" "Regulación" "Automatización"
-EMPIEZA TU RESPUESTA CON { — nada antes.`;
+Categorías permitidas:
+"Adopción de IA", "Estrategia", "Investigación", "Regulación", "Automatización"`;
 
-// ── HELPERS ───────────────────────────────────────────────────
+function readExistingNews(filePath) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      return null;
+    }
+    return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+  } catch {
+    return null;
+  }
+}
+
 function normalizeHeadline(text) {
   return (text || '')
     .toLowerCase()
@@ -137,11 +214,19 @@ function dedupeArticles(articles) {
     const url = (article.sourceUrl || '').trim();
     const headline = normalizeHeadline(article.headline);
 
-    if (url && seenUrls.has(url)) continue;
-    if (headline && seenHeadlines.has(headline)) continue;
+    if (url && seenUrls.has(url)) {
+      continue;
+    }
+    if (headline && seenHeadlines.has(headline)) {
+      continue;
+    }
 
-    if (url) seenUrls.add(url);
-    if (headline) seenHeadlines.add(headline);
+    if (url) {
+      seenUrls.add(url);
+    }
+    if (headline) {
+      seenHeadlines.add(headline);
+    }
 
     result.push(article);
   }
@@ -149,19 +234,64 @@ function dedupeArticles(articles) {
   return result;
 }
 
-// ── FETCH ─────────────────────────────────────────────────────
-async function fetchNews() {
+function isWithinLastSevenDays(dateString) {
+  const parsed = parseFlexibleDate(dateString);
+  if (!parsed) {
+    return false;
+  }
+  return parsed >= SEVEN_DAYS_AGO;
+}
+
+function sanitizeArticles(rawArticles) {
+  if (!Array.isArray(rawArticles)) {
+    return [];
+  }
+
+  return rawArticles
+    .map((article, index) => {
+      const parsedDate = parseFlexibleDate(article.date);
+
+      if (!parsedDate) {
+        return null;
+      }
+
+      const universalDate = formatUniversalDate(parsedDate);
+
+      return {
+        id: article.id || `${LANG}-news-${index + 1}`,
+        date: universalDate,
+        headline: (article.headline || '').trim(),
+        summary: (article.summary || '').trim(),
+        source: (article.source || '').trim(),
+        sourceUrl: (article.sourceUrl || '').trim(),
+        imageUrl: (article.imageUrl || '').trim(),
+        category: (article.category || '').trim(),
+      };
+    })
+    .filter(Boolean)
+    .filter((article) =>
+      article.headline &&
+      article.summary &&
+      article.source &&
+      article.sourceUrl &&
+      article.sourceUrl.startsWith('http') &&
+      !article.sourceUrl.includes('youtube.com') &&
+      !article.sourceUrl.includes('youtu.be')
+    );
+}
+
+async function fetchNewsFromModel() {
   const label = IS_SPANISH ? 'Spanish' : 'English';
   const prompt = IS_SPANISH ? PROMPT_ES : PROMPT_EN;
 
-  console.log(`Fetching ${label} news for ${TODAY}...`);
+  console.log(`Fetching ${label} news for ${TODAY_ISO}...`);
 
   const res = await fetch('https://openrouter.ai/api/v1/chat/completions', {
     method: 'POST',
     headers: {
       Authorization: `Bearer ${KEY}`,
       'Content-Type': 'application/json',
-      'HTTP-Referer': 'https://stragta.com',
+      'HTTP-Referer': 'https://www.stragta.com',
       'X-Title': `Stragta News Agent (${LANG})`,
     },
     body: JSON.stringify({
@@ -177,8 +307,7 @@ async function fetchNews() {
   }
 
   const data = await res.json();
-  const content = data.choices[0].message.content;
-
+  const content = data?.choices?.[0]?.message?.content || '';
   const cleaned = content.replace(/```json|```/g, '').trim();
 
   let parsed;
@@ -186,26 +315,31 @@ async function fetchNews() {
     parsed = JSON.parse(cleaned);
   } catch {
     try {
-      const match = cleaned.match(/\{[\s\S]*"articles"[\s\S]*\}/);
-      if (!match) throw new Error('no match');
+      const match = cleaned.match(/\{[\s\S]*\}/);
+      if (!match) {
+        throw new Error('No JSON object found');
+      }
       parsed = JSON.parse(match[0]);
     } catch {
-      try {
-        const match2 = cleaned.match(/\{[\s\S]*\}/);
-        if (!match2) throw new Error('no match');
-        parsed = JSON.parse(match2[0]);
-      } catch {
-        throw new Error(`No valid JSON in response:\n${cleaned.slice(0, 500)}`);
-      }
+      console.warn(`Model response was not valid JSON. Keeping existing file.\n${cleaned.slice(0, 500)}`);
+      return { no_updates: true, articles: [] };
     }
   }
 
-  return parsed.articles || [];
+  if (parsed?.no_updates === true) {
+    return { no_updates: true, articles: [] };
+  }
+
+  return {
+    no_updates: false,
+    articles: sanitizeArticles(parsed.articles || []),
+  };
 }
 
-// ── OG IMAGE SCRAPER ──────────────────────────────────────────
 async function scrapeOgImage(url) {
-  if (url.includes('youtube.com') || url.includes('youtu.be')) return '';
+  if (!url || url.includes('youtube.com') || url.includes('youtu.be')) {
+    return '';
+  }
 
   try {
     const controller = new AbortController();
@@ -221,7 +355,10 @@ async function scrapeOgImage(url) {
 
     clearTimeout(timeout);
 
-    if (!res.ok) return '';
+    if (!res.ok) {
+      return '';
+    }
+
     const html = await res.text();
 
     const og = html.match(
@@ -232,7 +369,10 @@ async function scrapeOgImage(url) {
     );
     const found = og?.[1] || twitter?.[1] || '';
 
-    if (!found.startsWith('https://')) return '';
+    if (!found.startsWith('https://')) {
+      return '';
+    }
+
     if (
       found.includes('logo') ||
       found.includes('favicon') ||
@@ -248,11 +388,17 @@ async function scrapeOgImage(url) {
 }
 
 async function enrichWithImages(articles) {
+  if (!articles.length) {
+    return [];
+  }
+
   console.log('Fetching article images...');
 
   const results = await Promise.all(
     articles.map(async (article) => {
-      if (article.imageUrl) return article;
+      if (article.imageUrl) {
+        return article;
+      }
 
       const imageUrl = await scrapeOgImage(article.sourceUrl);
 
@@ -269,74 +415,73 @@ async function enrichWithImages(articles) {
   return results;
 }
 
-// ── WRITE ─────────────────────────────────────────────────────
+function mergeWithExisting(existingArticles, freshArticles) {
+  const safeExisting = Array.isArray(existingArticles) ? existingArticles : [];
+
+  const cleanedExisting = safeExisting
+    .map((article, index) => ({
+      id: article.id || `${LANG}-existing-${index + 1}`,
+      date: formatUniversalDate(article.date) || formatUniversalDate(new Date()),
+      headline: (article.headline || '').trim(),
+      summary: (article.summary || '').trim(),
+      source: (article.source || '').trim(),
+      sourceUrl: (article.sourceUrl || '').trim(),
+      imageUrl: (article.imageUrl || '').trim(),
+      category: (article.category || '').trim(),
+    }))
+    .filter((article) => article.headline && article.summary && article.source && article.sourceUrl)
+    .filter((article) => isWithinLastSevenDays(article.date));
+
+  const cleanedFresh = freshArticles.filter((article) => isWithinLastSevenDays(article.date));
+
+  const combined = [...cleanedFresh, ...cleanedExisting].sort((a, b) => {
+    const dateA = parseFlexibleDate(a.date) || new Date(0);
+    const dateB = parseFlexibleDate(b.date) || new Date(0);
+    return dateB - dateA;
+  });
+
+  return dedupeArticles(combined).slice(0, 3);
+}
+
 async function run() {
   try {
-    const fresh = await fetchNews();
+    const existingData = readExistingNews(OUTPUT_FILE);
+    const existingArticles = existingData?.articles || [];
 
-    if (!fresh.length) {
-      console.error('No articles returned.');
-      process.exit(1);
-    }
+    const fetched = await fetchNewsFromModel();
 
-    const enriched = await enrichWithImages(fresh);
+    if (fetched.no_updates || !fetched.articles.length) {
+      console.warn(`No valid fresh ${LANG} articles found. Keeping existing ${path.basename(OUTPUT_FILE)}.`);
 
-    // Hard filter: drop anything older than 7 days
-    const cutoffDate = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
-    const filtered = enriched.filter((a) => {
-      const d = new Date(a.date);
-      if (d < cutoffDate) {
-        console.log(
-          `  Dropped stale article (${a.date}): ${a.headline.slice(0, 50)}...`
-        );
-        return false;
+      if (existingArticles.length > 0) {
+        process.exit(0);
       }
-      return true;
-    });
 
-    const articlesToUse = filtered.length > 0 ? filtered : enriched;
+      console.warn(`No previous ${path.basename(OUTPUT_FILE)} exists or it is empty. Writing a safe fallback file.`);
 
-    if (filtered.length === 0) {
-      console.warn(
-        '  Warning: all articles were older than 7 days — using anyway'
-      );
+      const fallback = {
+        lang: LANG,
+        lastUpdated: new Date().toISOString(),
+        articles: [],
+      };
+
+      fs.writeFileSync(OUTPUT_FILE, JSON.stringify(fallback, null, 2), 'utf8');
+      process.exit(0);
     }
 
-    // Load existing articles
-    let existing = [];
-    if (fs.existsSync(OUTPUT_FILE)) {
-      try {
-        const current = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf8'));
-        existing = current.articles || [];
-      } catch {
-        existing = [];
-      }
+    const enriched = await enrichWithImages(fetched.articles);
+    const merged = mergeWithExisting(existingArticles, enriched);
+
+    if (!merged.length && existingArticles.length > 0) {
+      console.warn(`Merge produced no valid articles. Keeping existing ${path.basename(OUTPUT_FILE)}.`);
+      process.exit(0);
     }
 
-    // Drop existing articles older than 7 days
-    const cutoff = new Date();
-    cutoff.setDate(cutoff.getDate() - 7);
-    existing = existing.filter((a) => new Date(a.date) >= cutoff);
+    if (!merged.length) {
+      console.warn(`No merged articles available. Writing current fresh articles as fallback.`);
+    }
 
-    // Merge today's articles with existing ones, newest first
-    const combined = [...articlesToUse, ...existing].sort(
-      (a, b) => new Date(b.date) - new Date(a.date)
-    );
-
-    // Deduplicate by URL and headline, keep only 3
-    const merged = dedupeArticles(combined).slice(0, 3);
-
-    // Identify truly new ones for logging
-    const existingUrls = new Set(existing.map((a) => (a.sourceUrl || '').trim()));
-    const existingHeadlines = new Set(
-      existing.map((a) => normalizeHeadline(a.headline))
-    );
-
-    const newOnes = merged.filter((a) => {
-      const url = (a.sourceUrl || '').trim();
-      const headline = normalizeHeadline(a.headline);
-      return !existingUrls.has(url) && !existingHeadlines.has(headline);
-    });
+    const finalArticles = merged.length ? merged : enriched.slice(0, 3);
 
     fs.writeFileSync(
       OUTPUT_FILE,
@@ -344,7 +489,7 @@ async function run() {
         {
           lang: LANG,
           lastUpdated: new Date().toISOString(),
-          articles: merged,
+          articles: finalArticles,
         },
         null,
         2
@@ -352,12 +497,20 @@ async function run() {
       'utf8'
     );
 
-    console.log(
-      `Done. Wrote ${newOnes.length} new articles to ${path.basename(
-        OUTPUT_FILE
-      )}`
-    );
+    const existingUrls = new Set(existingArticles.map((a) => (a.sourceUrl || '').trim()));
+    const existingHeadlines = new Set(existingArticles.map((a) => normalizeHeadline(a.headline)));
+
+    const newOnes = finalArticles.filter((a) => {
+      const url = (a.sourceUrl || '').trim();
+      const headline = normalizeHeadline(a.headline);
+      return !existingUrls.has(url) && !existingHeadlines.has(headline);
+    });
+
+    console.log(`Done. ${path.basename(OUTPUT_FILE)} now contains ${finalArticles.length} articles.`);
+    console.log(`New unique articles added: ${newOnes.length}`);
     newOnes.forEach((a) => console.log(`  [${a.category}] ${a.headline}`));
+
+    process.exit(0);
   } catch (err) {
     console.error('News agent failed:', err.message);
     process.exit(1);
