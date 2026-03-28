@@ -27,18 +27,23 @@ jobs:
         run: cd agent && npm install
 
       - name: Fetch English news
+        if: always()
+        continue-on-error: true
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        run: cd agent && node news-agent.js
+        run: cd agent && node news-agent.js --lang en
 
       - name: Fetch Spanish news
+        if: always()
+        continue-on-error: true
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: cd agent && node news-agent.js --lang es
 
       - name: Commit updated news files
+        if: always()
         run: |
-          git config user.name  "Stragta News Bot"
+          git config user.name "Stragta News Bot"
           git config user.email "bot@stragta.com"
           git add news.json news-es.json
           git diff --staged --quiet || git commit -m "Daily news update $(date +%Y-%m-%d)"
