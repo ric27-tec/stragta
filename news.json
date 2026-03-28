@@ -1,36 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-25T07:50:05.857Z",
+  "lastUpdated": "2026-03-28T20:27:23.017Z",
   "articles": [
     {
+      "id": "openai-sora-shutdown",
+      "date": "27 March 2026",
+      "headline": "OpenAI Shuts Down Sora Video Application, Ending $1 Billion Disney Partnership",
+      "summary": "OpenAI abruptly terminated its Sora video-making application, resulting in the collapse of a $1 billion partnership with Disney. The shutdown marks a significant shift in OpenAI's product strategy and represents a major setback for the company's video generation ambitions.",
+      "source": "Distill Intelligence",
+      "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-27",
+      "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-27/og.png",
+      "category": "Strategy"
+    },
+    {
       "id": "nvidia-nemotron-2026-03-22",
-      "date": "2026-03-22",
+      "date": "22 March 2026",
       "headline": "NVIDIA Launches the Nemotron Coalition at GTC 2026",
       "summary": "NVIDIA announced the launch of the Nemotron Coalition at GTC 2026, uniting partners to advance AI model development. The initiative focuses on collaborative efforts to push the boundaries of AI capabilities using NVIDIA's hardware. This move aims to accelerate innovation in the chips and hardware sector.",
       "source": "Tom’s Hardware",
       "sourceUrl": "https://www.youtube.com/watch?v=o4sYcZLUu7w",
       "imageUrl": "",
       "category": "Research"
-    },
-    {
-      "id": "openai-headcount",
-      "date": "2026-03-21",
-      "headline": "OpenAI plans to almost double its headcount this year",
-      "summary": "OpenAI plans to increase its staff from about 4,500 to 8,000 by the end of 2026 to compete with Anthropic and Google. The new hires will focus on product development, engineering, research, and sales. The company has expanded its San Francisco office space to over 1 million square feet to accommodate growth.",
-      "source": "Fortune",
-      "sourceUrl": "https://fortune.com/2026/03/21/openai-double-headcount-this-year-sam-altman-anthropic-google/",
-      "imageUrl": "https://fortune.com/img-assets/wp-content/uploads/2026/03/GettyImages-2265992523-e1774135124291.jpg?resize=1200,600",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "xai-musk-2026-03-20",
-      "date": "2026-03-20",
-      "headline": "Elon Musk says xAI will match OpenAI, Google and Anthropic by 2026",
-      "summary": "Elon Musk outlined an ambitious roadmap for xAI, predicting it will match leading AI labs like OpenAI, Google, and Anthropic by the end of 2026. He foresees xAI pulling far ahead within three years, requiring a metaphorical James Webb Telescope to spot competitors. The company is focusing on hiring, infrastructure, and coordination with SpaceX amid intensifying AI competition.",
-      "source": "Storyboard18",
-      "sourceUrl": "https://www.storyboard18.com/digital/elon-musk-says-xai-will-match-openai-google-and-anthropic-by-2026-92333.htm",
-      "imageUrl": "https://images.storyboard18.com/storyboard18/2025/08/Elon-Musk1-2025-08-280c53c071184915c4e1bd5a8a903d95-1019x573.jpg",
-      "category": "Strategy"
     }
   ]
 }
