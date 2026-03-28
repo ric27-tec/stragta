@@ -98,20 +98,54 @@ const SEVEN_DAYS_AGO = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000);
 
 const PROMPT_EN = `Today is ${TODAY_ISO}. Search the web for technology news published on or after ${THREE_DAYS_AGO}.
 
-Topics (pick up to 5 from different areas):
+Your job is to select technology news that matters to business decision-makers, not just tech enthusiasts.
+
+PRIORITY AUDIENCE:
+- corporations
+- medium and large businesses
+- SMEs
+- local small businesses evaluating digital tools, AI, automation, cybersecurity, and technology investments
+
+PRIORITY CRITERIA:
+Prefer stories with real business consequences, especially if they affect:
+- financial markets
+- jobs and workforce changes
+- regulation and compliance
+- global trade
+- war, sanctions, or geopolitics
+- supply chains
+- chips, memory, AI infrastructure, or cloud costs
+- cybersecurity risk
+- productivity and adoption of AI tools
+- operational efficiency for businesses
+- major shifts in software, hardware, or AI pricing
+
+IMPORTANT:
+If a technology story causes a major stock market reaction, affects suppliers, changes hardware demand, changes infrastructure cost, or affects business planning, prioritize it.
+
+Examples of high-priority themes:
+- AI models reducing compute or memory costs
+- market-moving semiconductor, memory, cloud, or infrastructure news
+- tech export restrictions, tariffs, sanctions, or war-related supply chain shifts
+- major layoffs, hiring waves, automation, or labor disruption
+- new regulations affecting AI, data, privacy, cybersecurity, or cross-border business
+- major breaches or cyber threats with operational relevance
+- technology changes that affect ordinary companies, SMEs, or local businesses in practical ways
+
+Topics to search across:
 - AI companies: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
-- Chips and hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon
-- Robotics: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, Xiaomi robots
-- Chinese tech: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI
-- Space tech: SpaceX, Blue Origin, orbital computing
-- Enterprise software: Microsoft Copilot, Salesforce AI, SAP, ServiceNow
-- Cybersecurity: major breaches, EU regulations, new threats
-- Startups: interesting AI or tech startup announcements
+- Chips and hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon, Micron, SK Hynix, Western Digital, Sandisk, Seagate
+- Robotics and automation
+- Chinese tech and global competition
+- Space and communications tech if there is real business or infrastructure impact
+- Enterprise software and productivity platforms
+- Cybersecurity
+- Startups only if the announcement has clear market or operational relevance
 
 CRITICAL RULES:
 1. Prefer articles published ${THREE_DAYS_AGO} or later
-2. Pick articles from DIFFERENT topic areas whenever possible
-3. Never pick 2 articles about the same company unless unavoidable
+2. Select up to 5 articles from different business-relevant areas whenever possible
+3. Never pick 2 articles about the same company unless the second one has clearly different business impact
 4. DO NOT use YouTube videos — written articles only
 5. Use the actual publication date of each article
 6. Every "date" must use this exact format: 27 April 2026
@@ -121,6 +155,9 @@ CRITICAL RULES:
 9. Never write any explanation outside JSON
 10. Start with {
 
+Prioritize business relevance over novelty.
+Prefer stories that help an executive, manager, entrepreneur, or shop owner understand what may affect cost, risk, staffing, or competitiveness.
+
 Your entire response must be valid JSON and nothing else:
 
 {
@@ -129,7 +166,7 @@ Your entire response must be valid JSON and nothing else:
       "id": "slug-1",
       "date": "27 April 2026",
       "headline": "headline here",
-      "summary": "2-3 sentence summary.",
+      "summary": "2-3 sentence summary focused on business impact.",
       "source": "Source Name",
       "sourceUrl": "https://url",
       "imageUrl": "",
@@ -143,20 +180,54 @@ Allowed categories:
 
 const PROMPT_ES = `Hoy es ${TODAY_ISO}. Busca en la web noticias de tecnología publicadas preferentemente el ${THREE_DAYS_AGO} o después.
 
-Temas (elige hasta 5 de áreas distintas):
+Tu trabajo es elegir noticias de tecnología que importen a quienes toman decisiones de negocio, no solo a aficionados a la tecnología.
+
+AUDIENCIA PRIORITARIA:
+- corporaciones
+- medianas y grandes empresas
+- pymes
+- pequeños negocios y comercios que evalúan herramientas digitales, IA, automatización, ciberseguridad e inversión tecnológica
+
+CRITERIOS PRIORITARIOS:
+Prefiere noticias con consecuencias reales para los negocios, sobre todo si afectan:
+- mercados financieros
+- empleo, contrataciones, despidos o automatización
+- regulación y cumplimiento
+- comercio internacional
+- guerra, sanciones o geopolítica
+- cadenas de suministro
+- chips, memoria, infraestructura de IA o costes cloud
+- riesgos de ciberseguridad
+- productividad y adopción de IA
+- eficiencia operativa
+- cambios importantes en precios o demanda de software, hardware o servicios de IA
+
+IMPORTANTE:
+Si una noticia tecnológica mueve bolsas, afecta proveedores, cambia la demanda de hardware, reduce costes de infraestructura o altera la planificación empresarial, debe priorizarse.
+
+Ejemplos de temas de alta prioridad:
+- IA que reduzca costes de cómputo o memoria
+- noticias que muevan el mercado de semiconductores, memoria, cloud o infraestructura
+- restricciones de exportación, aranceles, sanciones o impactos de guerra en tecnología
+- despidos, contrataciones masivas, automatización o cambios laborales
+- nuevas regulaciones que afecten IA, datos, privacidad o ciberseguridad
+- brechas o amenazas con impacto operativo
+- cambios tecnológicos que afecten de forma práctica a empresas, pymes o comercios pequeños
+
+Áreas donde buscar:
 - Empresas de IA: OpenAI, Anthropic, Google DeepMind, Mistral, DeepSeek, xAI
-- Chips y hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm
-- Robótica: Tesla Optimus, Boston Dynamics, Figure AI, Unitree, robots Xiaomi
-- Tecnología china: Huawei, Xiaomi, DeepSeek, Baidu, Alibaba AI
-- Tecnología espacial: SpaceX, Blue Origin, servidores en órbita
-- Software empresarial: Microsoft Copilot, Salesforce AI, SAP, ServiceNow
-- Ciberseguridad: brechas importantes, regulación UE, nuevas amenazas
-- Startups: anuncios interesantes de startups de IA o tecnología
+- Chips y hardware: NVIDIA, AMD, Intel, TSMC, Samsung, Qualcomm, Apple Silicon, Micron, SK Hynix, Western Digital, Sandisk, Seagate
+- Robótica y automatización
+- Tecnología china y competencia global
+- Tecnología espacial y comunicaciones solo si tienen impacto real en negocio o infraestructura
+- Software empresarial y plataformas de productividad
+- Ciberseguridad
+- Startups solo si el anuncio tiene relevancia real de mercado u operación
 
 REGLAS CRÍTICAS:
 1. Prefiere artículos publicados el ${THREE_DAYS_AGO} o después
-2. Elige artículos de áreas temáticas DIFERENTES cuando sea posible
-3. Nunca elijas 2 artículos sobre la misma empresa salvo que sea inevitable
+2. Elige hasta 5 artículos de áreas distintas y relevantes para negocio cuando sea posible
+3. Nunca elijas 2 artículos sobre la misma empresa salvo que el segundo tenga un impacto empresarial claramente distinto
 4. NO uses vídeos de YouTube — solo artículos escritos
 5. Usa la fecha real de publicación
 6. Cada campo "date" debe usar exactamente este formato: 27 April 2026
@@ -166,6 +237,9 @@ REGLAS CRÍTICAS:
 9. Nunca escribas explicaciones fuera del JSON
 10. Empieza con {
 
+Prioriza impacto empresarial por encima de novedad o curiosidad.
+Prefiere noticias que ayuden a un directivo, gerente, emprendedor o dueño de negocio a entender qué puede afectar sus costes, riesgos, personal o competitividad.
+
 Tu respuesta completa debe ser JSON válido y nada más:
 
 {
@@ -174,7 +248,7 @@ Tu respuesta completa debe ser JSON válido y nada más:
       "id": "slug-1",
       "date": "27 April 2026",
       "headline": "titular aquí",
-      "summary": "Resumen de 2-3 frases.",
+      "summary": "Resumen de 2-3 frases enfocado en impacto empresarial.",
       "source": "Nombre fuente",
       "sourceUrl": "https://url",
       "imageUrl": "",
