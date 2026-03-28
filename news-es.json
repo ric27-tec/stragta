@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-25T07:50:12.634Z",
+  "lastUpdated": "2026-03-28T20:48:38.660Z",
   "articles": [
     {
+      "id": "ventas-canal-espana-hardware-2026",
+      "date": "27 March 2026",
+      "headline": "Las ventas del canal TIC en España crecen un 8% en el inicio de 2026, pero se complican por subida de precios de hardware y crisis de memorias",
+      "summary": "Los mayoristas facturaron un 8% más en las primeras 11 semanas de 2026 respecto a 2025, impulsados por IA, cloud y ciberseguridad, con portátiles (+26%) y servidores (+38%) liderando. Sin embargo, la crisis de memorias y tensiones geopolíticas provocarán subidas de precios, afectando stocks y planificación de compras en empresas y pymes. Esto impacta directamente en costes operativos y cadenas de suministro de hardware.",
+      "source": "ChannelPartner",
+      "sourceUrl": "https://www.channelpartner.es/negocio/las-ventas-del-canal-en-espana-crecen-en-este-comienzo-de-ano-aunque-el-panorama-se-complicara-por-la-subida-de-precios-del-hardware/",
+      "imageUrl": "https://img.channelpartner.es/wp-content/uploads/2026/03/27135331/Elena-Montanes-country-manager-de-Context.jpg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "startups-capital-riesgo-ia-deeptech-25-marzo",
+      "date": "25 March 2026",
+      "headline": "Inversiones en IA y deeptech dominan capital de riesgo global el 25 de marzo de 2026, con foco en robótica y automatización industrial",
+      "summary": "La IA concentra la mayoría del capital de riesgo, priorizando equipos con acceso a GPU y conversión rápida a productos; deeptech como semiconductores, robótica y automatización se convierten en activos estratégicos. Esto señala oportunidades para empresas en eficiencia operativa y riesgos para competidores sin inversión en AI físico. Impacta planificación de inversiones y competitividad en manufactura y logística.",
+      "source": "Sergey Tereshkin",
+      "sourceUrl": "https://sergeytereshkin.mx/publications/noticias-startups-capital-riesgo-25-marzo-2026",
+      "imageUrl": "https://sergeytereshkin.mx/upload/resize_cache/iblock/e0f/1200_630_1/6r636kdg0sed4c4aryyhliptqx03947i.png",
+      "category": "Investigación"
+    },
+    {
       "id": "amd-mi400-preview",
-      "date": "2026-03-23",
+      "date": "23 March 2026",
       "headline": "AMD Pre-discloses Instinct MI400 Series GPUs for 2026 Launch",
       "summary": "AMD has previewed its Instinct MI400 series GPUs set for 2026, advancing AI high-performance computing alongside the new MI350 series. This positions AMD strongly in the AI GPU market competing with NVIDIA's offerings.",
       "source": "36Kr",
       "sourceUrl": "https://eu.36kr.com/en/p/3599471093432578",
       "imageUrl": "https://img.36krcdn.com/hsossms/20251217/v2_675045fc40a2491aaaf70e0fb0db9295@5888275@ai_oswg1103669oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
       "category": "Empresas de IA"
-    },
-    {
-      "id": "amd-samsung-ai-memory",
-      "date": "2026-03-23",
-      "headline": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions",
-      "summary": "Samsung y AMD amplían colaboración en soluciones de memoria AI de próxima generación. Esto fortalece la posición de AMD en GPUs como Instinct MI350 y MI400 para 2026, enfocadas en cómputo de alto rendimiento IA.",
-      "source": "Design-Reuse",
-      "sourceUrl": "https://www.design-reuse.com/news/202529902-amd-nvidia-and-others-reportedly-to-debut-new-chips-at-ces-2026-spotlighting-tsmc-3nm-and-5nm/",
-      "imageUrl": "",
-      "category": "Empresas de IA"
-    },
-    {
-      "id": "nvidia-gtc-2026",
-      "date": "2026-03-21",
-      "headline": "Noticias Inteligencia Artificial 21 Marzo 2026: NVIDIA GTC, Pentágono y GPT-5.4",
-      "summary": "NVIDIA presenta avances en GTC, mientras el conflicto Anthropic-Pentágono se intensifica con apoyo de jueces retirados y empleados de Google y OpenAI. Se esperan actualizaciones de OpenAI DevDay y posible lanzamiento de Claude 5 por Anthropic. El impacto financiero para Anthropic podría ser de miles de millones.",
-      "source": "Javadex",
-      "sourceUrl": "https://www.javadex.es/blog/noticias-inteligencia-artificial-21-marzo-2026-nvidia-gtc-pentagono-gpt54",
-      "imageUrl": "https://www.javadex.es/og-image.jpg",
-      "category": "Investigación"
     }
   ]
 }
