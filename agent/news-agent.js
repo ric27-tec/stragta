@@ -418,29 +418,66 @@ async function enrichWithImages(articles) {
 function mergeWithExisting(existingArticles, freshArticles) {
   const safeExisting = Array.isArray(existingArticles) ? existingArticles : [];
 
-  const cleanedExisting = safeExisting
-    .map((article, index) => ({
-      id: article.id || `${LANG}-existing-${index + 1}`,
-      date: formatUniversalDate(article.date) || formatUniversalDate(new Date()),
-      headline: (article.headline || '').trim(),
-      summary: (article.summary || '').trim(),
-      source: (article.source || '').trim(),
-      sourceUrl: (article.sourceUrl || '').trim(),
-      imageUrl: (article.imageUrl || '').trim(),
-      category: (article.category || '').trim(),
-    }))
-    .filter((article) => article.headline && article.summary && article.source && article.sourceUrl)
-    .filter((article) => isWithinLastSevenDays(article.date));
+  const normalizedExisting = safeExisting
+    .map((article, index) => {
+      const parsedDate = parseFlexibleDate(article.date);
+      if (!parsedDate) {
+        return null;
+      }
 
-  const cleanedFresh = freshArticles.filter((article) => isWithinLastSevenDays(article.date));
+      return {
+        id: article.id || `${LANG}-existing-${index + 1}`,
+        date: formatUniversalDate(parsedDate),
+        headline: (article.headline || '').trim(),
+        summary: (article.summary || '').trim(),
+        source: (article.source || '').trim(),
+        sourceUrl: (article.sourceUrl || '').trim(),
+        imageUrl: (article.imageUrl || '').trim(),
+        category: (article.category || '').trim(),
+      };
+    })
+    .filter(Boolean)
+    .filter((article) =>
+      article.headline &&
+      article.summary &&
+      article.source &&
+      article.sourceUrl &&
+      article.sourceUrl.startsWith('http') &&
+      !article.sourceUrl.includes('youtube.com') &&
+      !article.sourceUrl.includes('youtu.be')
+    );
 
-  const combined = [...cleanedFresh, ...cleanedExisting].sort((a, b) => {
+  const recentExisting = normalizedExisting.filter((article) =>
+    isWithinLastSevenDays(article.date)
+  );
+
+  const olderExisting = normalizedExisting.filter((article) =>
+    !isWithinLastSevenDays(article.date)
+  );
+
+  const validFresh = freshArticles.filter((article) =>
+    isWithinLastSevenDays(article.date)
+  );
+
+  const primaryPool = [...validFresh, ...recentExisting].sort((a, b) => {
     const dateA = parseFlexibleDate(a.date) || new Date(0);
     const dateB = parseFlexibleDate(b.date) || new Date(0);
     return dateB - dateA;
   });
 
-  return dedupeArticles(combined).slice(0, 3);
+  let merged = dedupeArticles(primaryPool);
+
+  if (merged.length < 3) {
+    const backupPool = [...merged, ...olderExisting].sort((a, b) => {
+      const dateA = parseFlexibleDate(a.date) || new Date(0);
+      const dateB = parseFlexibleDate(b.date) || new Date(0);
+      return dateB - dateA;
+    });
+
+    merged = dedupeArticles(backupPool);
+  }
+
+  return merged.slice(0, 3);
 }
 
 async function run() {
