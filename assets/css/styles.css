@@ -63,7 +63,7 @@ nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
   font-family: var(--f);
   font-size: 0.98rem;
   font-weight: 800;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--text);
 }
@@ -73,7 +73,7 @@ nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
   font-family: var(--f);
   font-size: 0.60rem;
   font-weight: 500;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.08em;
   text-transform: none;
   color: rgba(28, 28, 20, 0.56);
   line-height: 1.15;
@@ -641,7 +641,7 @@ footer {
 }
 .footer-logo {
   font-family: var(--f); font-size: 0.74rem; font-weight: 800;
-  letter-spacing: 0.28em; text-transform: uppercase;
+  letter-spacing: 0.08em; text-transform: uppercase;
   color: rgba(242, 240, 234, 0.5); text-decoration: none;
 }
 .footer-copy { font-size: 0.66rem; font-weight: 500; color: rgba(242, 240, 234, 0.22); }
