@@ -39,7 +39,7 @@ body {
 /* ── NAV ── */
 nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 200;
-  height: 62px;
+  height: 69px;
   display: flex; align-items: center; justify-content: space-between;
   padding: 0 5%;
   background: rgba(242, 240, 234, 0.95);
@@ -50,14 +50,35 @@ nav {
 nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
 
 .nav-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  text-decoration: none;
+  line-height: 1;
+  color: var(--text);
+}
+
+.nav-logo-name {
   font-family: var(--f);
-  font-size: 1rem;
-  font-weight: 900;
-  letter-spacing: 0.28em;
+  font-size: 0.98rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--text);
-  text-decoration: none;
 }
+
+.nav-logo-tagline {
+  margin-top: 0.2rem;
+  font-family: var(--f);
+  font-size: 0.60rem;
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-transform: none;
+  color: rgba(28, 28, 20, 0.56);
+  line-height: 1.15;
+}
+
 .nav-right { display: flex; align-items: center; gap: 1.4rem; }
 
 .nav-lang {
@@ -78,143 +99,83 @@ nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
 
 /* ── HERO ── */
 #hero {
-  min-height: 20vh;
-  display: flex; flex-direction: column; justify-content: center;
-  padding: 120px 5% 80px;
-  background: var(--bg);
-}
-
-h1.hero-title {
-  font-size: clamp(2rem, 7.2vw, 5.2rem);
-  font-weight: 800;
-  line-height: 0.96;
-  letter-spacing: -0.035em;
-  max-width: 980px;
-  margin-bottom: 2.8rem;
-  color: var(--text);
-}
-h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
-
-.hero-body {
-  display: flex; align-items: flex-end;
-  justify-content: space-between;
-  gap: 2rem; flex-wrap: wrap;
-}
-.hero-sub {
-  font-size: 0.87rem; font-weight: 400;
-  color: var(--muted); max-width: 440px; line-height: 1.9;
-}
-.hero-ctas { display: flex; gap: 0.9rem; flex-shrink: 0; align-items: left; }
-
-.btn-primary {
-  padding: 0.78rem 1.9rem;
-  background: var(--text); color: var(--cream);
-  font-size: 0.76rem; font-weight: 700; letter-spacing: 0.06em;
-  text-decoration: none; text-transform: uppercase;
-  transition: opacity 0.2s; white-space: nowrap; display: inline-block;
-}
-.btn-primary:hover { opacity: 0.8; }
-
-.btn-text {
-  font-size: 0.78rem; font-weight: 600; color: var(--muted);
-  text-decoration: none; display: flex; align-items: center;
-  gap: 0.35rem; transition: color 0.2s; letter-spacing: 0.02em;
-}
-.btn-text:hover { color: var(--text); }
-
-/* ── SHARED ── */
-.section-label {
-  font-size: 0.66rem; font-weight: 700;
-  letter-spacing: 0.22em; text-transform: uppercase;
-  color: var(--muted); margin-bottom: 1rem;
-}
-.section-title {
-  font-size: clamp(2rem, 3.8vw, 3.6rem);
-  font-weight: 800; line-height: 1.05; letter-spacing: -0.03em;
-}
-
-#hero {
   position: relative;
-  overflow: hidden;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  padding: 8rem 6vw 6rem;
-  background: linear-gradient(180deg, #0f100d 0%, #12130f 55%, #141510 100%);
-}
-
-.hero-globe-bg {
-  position: absolute;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none; /* background only */
-}
-
-.hero-globe-wrap {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.hero-globe-wrap canvas,
-#globe-canvas {
-  width: 100% !important;
-  height: 100% !important;
-  display: block;
-}
-
-.hero-globe-overlay {
-  position: absolute;
-  inset: 0;
-  z-index: 1;
-  background:
-    radial-gradient(circle at 50% 42%, rgba(184, 240, 32, 0.10) 0%, rgba(184, 240, 32, 0.03) 24%, transparent 48%),
-    linear-gradient(to bottom,
-      rgba(15, 16, 13, 0.88) 0%,
-      rgba(15, 16, 13, 0.50) 24%,
-      rgba(15, 16, 13, 0.30) 50%,
-      rgba(15, 16, 13, 0.58) 76%,
-      rgba(15, 16, 13, 0.90) 100%);
-}
-
-.hero-content {
-  position: relative;
-  z-index: 2;
-  width: 100%;
-}
-
-#globe-loading {
-  position: absolute;
-  inset: 0;
-  display: grid;
-  place-items: center;
-  font-size: 0.78rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: rgba(242, 240, 234, 0.45);
-}
-
-.hero-services-shell {
-  position: relative;
-  overflow: hidden;
-  background: #f2f0ea;
-}
-
-#hero,
-#services {
-  position: relative;
-  z-index: 1;
-  background: transparent;
-}
-
-#hero {
   min-height: 100vh;
   display: flex;
   align-items: center;
   padding: 8rem 6vw 6rem;
   overflow: visible;
+  background: transparent;
 }
+
+h1.hero-title {
+  font-size: clamp(2rem, 7.2vw, 4.2rem);
+  font-weight: 700;
+  line-height: 0.95;
+  letter-spacing: -0.035em;
+  max-width: 900px;
+  margin-bottom: 2.8rem;
+  color: var(--text);
+}
+
+h1.hero-title em {
+  display: block;
+  margin-top: 0.3em;
+  font-style: normal;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.hero-body {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.hero-sub {
+  font-size: 0.87rem;
+  font-weight: 400;
+  color: var(--muted);
+  max-width: 440px;
+  line-height: 1.9;
+}
+
+.hero-ctas {
+  display: flex;
+  gap: 0.9rem;
+  flex-shrink: 0;
+  align-items: left;
+}
+
+.btn-primary {
+  padding: 0.78rem 1.9rem;
+  background: var(--text);
+  color: var(--cream);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: opacity 0.2s;
+  white-space: nowrap;
+  display: inline-block;
+}
+.btn-primary:hover { opacity: 0.8; }
+
+.btn-text {
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: color 0.2s;
+  letter-spacing: 0.02em;
+}
+.btn-text:hover { color: var(--text); }
 
 .hero-content {
   position: relative;
@@ -222,7 +183,6 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   width: 100%;
 }
 
-/* Globo como capa compartida entre hero y services */
 .hero-globe-bg {
   position: absolute;
   left: 50%;
@@ -248,7 +208,6 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   display: block;
 }
 
-/* Overlay muy suave, ya no oscuro */
 .hero-globe-overlay {
   position: absolute;
   inset: 0;
@@ -273,13 +232,43 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
   color: rgba(20, 20, 20, 0.35);
 }
 
+.hero-services-shell {
+  position: relative;
+  overflow: hidden;
+  background: #f2f0ea;
+}
+
+#hero,
+#services {
+  position: relative;
+  z-index: 1;
+  background: transparent;
+}
+
+/* ── SHARED ── */
+.section-label {
+  font-size: 0.66rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.section-title {
+  font-size: clamp(2rem, 3.8vw, 3.6rem);
+  font-weight: 800;
+  line-height: 1.05;
+  letter-spacing: -0.03em;
+}
+
 /* Opcional: que services suba visualmente sobre el globo */
 #services {
   z-index: 2;
   padding-top: 6rem;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
   .hero-globe-bg {
     left: 50%;
     top: 38vh;
@@ -294,7 +283,6 @@ h1.hero-title em { font-style: normal; color: var(--muted); font-weight: 700; }
     display: none !important;
   }
 }
-
 
 /* ── SERVICES ── */
 #services {
