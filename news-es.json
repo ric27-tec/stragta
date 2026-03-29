@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-28T20:59:11.689Z",
+  "lastUpdated": "2026-03-29T07:50:06.311Z",
   "articles": [
     {
       "id": "ia-innovations-marzo-2026",
-      "date": "27 March 2026",
+      "date": "29 March 2026",
       "headline": "Marzo 2026: Revolución en IA con innovaciones de Google, Apple y China que redefinen negocios",
-      "summary": "Google lanzó Gemini 3.1 Pro y xAI Grok 4.20 con sistemas multi-agente, mientras MiniMax ofrece rendimiento frontier a bajo coste y Goldman Sachs contrata Devin 2.0 como primer empleado IA. Gartner prevé que el 40% de apps empresariales integren agentes IA en 2026, acelerando adopción y ventaja competitiva para empresas que actúen rápido. OpenAI firma acuerdos con Accenture y McKinsey para agentes empresariales, impactando productividad y costes operativos.",
+      "summary": "Google lanzó Gemini 3.1 Pro y xAI Grok 4.20 con sistemas multi-agente, mientras MiniMax ofrece rendimiento frontier a bajo coste y Goldman Sachs contrata Devin 2.0 como primer empleado IA. Gartner predice que el 40% de apps empresariales integrarán agentes IA en 2026, acelerando adopción y ventaja competitiva para empresas que actúen rápido[1].",
       "source": "RJCoders",
       "sourceUrl": "https://rjcoders.com/blog/post/marzo-2026-revolucion-inteligencia-artificial-innovaciones-negocios",
       "imageUrl": "https://rjcoders.com/assets/images/og-image.jpg",
       "category": "Adopción de IA"
     },
     {
-      "id": "roi-ia-agentes-2026",
+      "id": "ces-2026-chips-ia",
+      "date": "29 March 2026",
+      "headline": "CES 2026 redefine negocio TIC: NVIDIA e Intel impulsan chips e IA para ecosistemas industriales",
+      "summary": "NVIDIA presenta Alpamayo para IA en conducción y hardware acelerado; Intel lanza Core Ultra Series 3 con IA integrada. Enfoque pasa de gadgets a integración en manufactura, retail y energía, impactando canales de distribución y procesos productivos[9].",
+      "source": "InfoChannel",
+      "sourceUrl": "https://infochannel.info/ces-2026-redefine-el-negocio-tic-del-gadget-al-ecosistema-industrial/",
+      "imageUrl": "https://infochannel.info/wp-content/uploads/2026/01/Tendencias-48.png",
+      "category": "Investigación"
+    },
+    {
+      "id": "roi-ia-agencia-2026",
       "date": "27 March 2026",
-      "headline": "IA agéntica y edge computing generan ROI real en logística, comercio e industria pesada",
-      "summary": "La IA pasa de experimentación a impacto en cuenta de resultados, con edge computing reduciendo dependencia cloud, costes energéticos y mejorando respuesta en entornos industriales. Copilotos IA multiplican capacidades humanas en salud y fabricación, optimizando operaciones sin degradar empleo. Directivos deben orquestar transiciones para sostenibilidad y eficiencia.",
+      "headline": "Retorno de inversión en IA agéntica y edge computing redefine operativa empresarial en 2026",
+      "summary": "IA agéntica resuelve ineficiencias en logística, comercio e industria, pasando de experimentación a ROI real en cuenta de resultados para empresas españolas y pymes, priorizando integración multimodal[4].",
       "source": "La Ecuación Digital",
       "sourceUrl": "https://www.laecuaciondigital.com/tecnologias/inteligencia-artificial/el-retorno-de-la-inversion-en-inteligencia-artificial-redefine-la-operativa-de-la-primera-linea-en-2026/",
       "imageUrl": "https://www.laecuaciondigital.com/wp-content/uploads/2026/01/inteligencia-artificial-tendencias.jpg",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "tendencias-pymes-2026",
-      "date": "27 March 2026",
-      "headline": "6 tendencias tecnológicas para pymes en 2026: IA y automatización ahorran hasta 30% en costes",
-      "summary": "IA generativa, cloud y automatización inteligente liberan tiempo en tareas repetitivas, con ahorros operativos del 30% según h&k. Estrategias de datos como activo clave y gobernanza aseguran ROI en IA para pymes. Más de la mitad de pymes ahorra 10 horas semanales, impulsando competitividad.",
-      "source": "Cyberlidería",
-      "sourceUrl": "https://cyberlideriamgzn.es/6-tendencias-tecnologicas-que-marcaran-el-futuro-de-las-pymes-en-2026/",
-      "imageUrl": "https://cyberlideriamgzn.es/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-22-at-15.47.06-1.jpeg",
-      "category": "Automatización"
     }
   ]
 }

@@ -1,26 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-28T20:27:23.017Z",
+  "lastUpdated": "2026-03-29T07:49:56.880Z",
   "articles": [
     {
-      "id": "openai-sora-shutdown",
-      "date": "27 March 2026",
-      "headline": "OpenAI Shuts Down Sora Video Application, Ending $1 Billion Disney Partnership",
-      "summary": "OpenAI abruptly terminated its Sora video-making application, resulting in the collapse of a $1 billion partnership with Disney. The shutdown marks a significant shift in OpenAI's product strategy and represents a major setback for the company's video generation ambitions.",
-      "source": "Distill Intelligence",
-      "sourceUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-27",
-      "imageUrl": "https://www.distillintelligence.com/briefings/ai-leaders-2026-03-27/og.png",
+      "id": "ai-trade-market-shift",
+      "date": "29 March 2026",
+      "headline": "AI Trade Shifts From Speculation to Proof: Market Demands Profitability Over Potential",
+      "summary": "Despite strong fundamentals, AI infrastructure stocks face correction as markets transition from pricing potential to demanding evidence of durable profits. Nvidia's 73% revenue growth failed to prevent 5% post-earnings decline, signaling investor skepticism about AI monetization timelines and heightening risk for companies with business models vulnerable to AI disruption.",
+      "source": "Crestwood Advisors",
+      "sourceUrl": "https://www.crestwoodadvisors.com/march-2026-economic-update-the-markets-shifts-on-ai-expectations/",
+      "imageUrl": "https://www.crestwoodadvisors.com/wp-content/uploads/2026/03/AdobeStock_1756859801-scaled.jpeg",
       "category": "Strategy"
     },
     {
-      "id": "nvidia-nemotron-2026-03-22",
-      "date": "22 March 2026",
-      "headline": "NVIDIA Launches the Nemotron Coalition at GTC 2026",
-      "summary": "NVIDIA announced the launch of the Nemotron Coalition at GTC 2026, uniting partners to advance AI model development. The initiative focuses on collaborative efforts to push the boundaries of AI capabilities using NVIDIA's hardware. This move aims to accelerate innovation in the chips and hardware sector.",
-      "source": "Tom’s Hardware",
-      "sourceUrl": "https://www.youtube.com/watch?v=o4sYcZLUu7w",
-      "imageUrl": "",
-      "category": "Research"
+      "id": "alibaba-open-source-ai",
+      "date": "29 March 2026",
+      "headline": "Alibaba Joins Open-Source AI Movement: Democratized AI Models Lower Barriers for Startups and Enterprises",
+      "summary": "Alibaba expanded its publicly accessible machine-learning portfolio, joining global momentum toward collaborative AI development. Open-source models enable startups and SMEs to deploy specialized AI applications without building from scratch, reducing development costs and accelerating adoption across industries while intensifying competition in proprietary AI services.",
+      "source": "StyleTech",
+      "sourceUrl": "https://www.styletech.net/post/top-news-in-tech-march-2026",
+      "imageUrl": "https://static.wixstatic.com/media/21a82f_0641a83c41034daab7e70d6c3e9a09e2~mv2.png/v1/fill/w_1080,h_1080,al_c/21a82f_0641a83c41034daab7e70d6c3e9a09e2~mv2.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "meta-custom-ai-chips",
+      "date": "27 March 2026",
+      "headline": "Meta Accelerates Chip Sovereignty: Custom MTIA Series Rivals Commercial AI Processors, Reducing NVIDIA Dependency",
+      "summary": "Meta unveiled four generations of custom AI chips (MTIA 300, 400, 450, 500) to reduce reliance on external vendors, with the MTIA 400 already competitive in internal testing and 450/500 series scheduled for mass deployment by end of 2027. This vertical integration move signals aggressive competition in AI infrastructure and may reshape hardware procurement costs for enterprises.",
+      "source": "DevFlokers",
+      "sourceUrl": "https://www.devflokers.com/blog/ai-news-last-24-hours-march-2026-fintech-impact",
+      "imageUrl": "https://devflokers.onrender.com/api/assets/69c391acb59b1e472d7731e5\n",
+      "category": "Strategy"
     }
   ]
 }
