@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-03-29T07:50:06.311Z",
+  "lastUpdated": "2026-03-30T08:19:48.526Z",
   "articles": [
     {
-      "id": "ia-innovations-marzo-2026",
-      "date": "29 March 2026",
-      "headline": "Marzo 2026: Revolución en IA con innovaciones de Google, Apple y China que redefinen negocios",
-      "summary": "Google lanzó Gemini 3.1 Pro y xAI Grok 4.20 con sistemas multi-agente, mientras MiniMax ofrece rendimiento frontier a bajo coste y Goldman Sachs contrata Devin 2.0 como primer empleado IA. Gartner predice que el 40% de apps empresariales integrarán agentes IA en 2026, acelerando adopción y ventaja competitiva para empresas que actúen rápido[1].",
+      "id": "ia-revolution-march-2026",
+      "date": "27 March 2026",
+      "headline": "Marzo 2026: Revolución en IA con innovaciones de Google, Apple y China que aceleran adopción empresarial",
+      "summary": "Avances como Gemini 3.1 Pro de Google, M2.5 de MiniMax y Siri LLM de Apple reducen costes y potencian agentes IA en empresas. Goldman Sachs contrata Devin 2.0 como primer empleado IA, mientras Gartner predice que 40% de apps empresariales integrarán agentes IA para fin de 2026, impactando productividad y competitividad.",
       "source": "RJCoders",
       "sourceUrl": "https://rjcoders.com/blog/post/marzo-2026-revolucion-inteligencia-artificial-innovaciones-negocios",
       "imageUrl": "https://rjcoders.com/assets/images/og-image.jpg",
       "category": "Adopción de IA"
     },
     {
-      "id": "ces-2026-chips-ia",
-      "date": "29 March 2026",
-      "headline": "CES 2026 redefine negocio TIC: NVIDIA e Intel impulsan chips e IA para ecosistemas industriales",
-      "summary": "NVIDIA presenta Alpamayo para IA en conducción y hardware acelerado; Intel lanza Core Ultra Series 3 con IA integrada. Enfoque pasa de gadgets a integración en manufactura, retail y energía, impactando canales de distribución y procesos productivos[9].",
-      "source": "InfoChannel",
-      "sourceUrl": "https://infochannel.info/ces-2026-redefine-el-negocio-tic-del-gadget-al-ecosistema-industrial/",
-      "imageUrl": "https://infochannel.info/wp-content/uploads/2026/01/Tendencias-48.png",
-      "category": "Investigación"
+      "id": "pymes-tech-trends-2026",
+      "date": "26 March 2026",
+      "headline": "Tendencias tecnológicas 2026: IA y automatización generan 30% ahorros en costes para pymes",
+      "summary": "Adopción de IA generativa, nube y automatización inteligente optimiza tareas, reduce errores y ahorra hasta 10 horas semanales por pyme. Estrategias de datos y gobernanza son clave para ROI en proyectos tecnológicos, mejorando competitividad operativa.",
+      "source": "Cyberlideria",
+      "sourceUrl": "https://cyberlideriamgzn.es/6-tendencias-tecnologicas-que-marcaran-el-futuro-de-las-pymes-en-2026/",
+      "imageUrl": "https://cyberlideriamgzn.es/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-22-at-15.47.06-1.jpeg",
+      "category": "Automatización"
     },
     {
-      "id": "roi-ia-agencia-2026",
-      "date": "27 March 2026",
-      "headline": "Retorno de inversión en IA agéntica y edge computing redefine operativa empresarial en 2026",
-      "summary": "IA agéntica resuelve ineficiencias en logística, comercio e industria, pasando de experimentación a ROI real en cuenta de resultados para empresas españolas y pymes, priorizando integración multimodal[4].",
-      "source": "La Ecuación Digital",
-      "sourceUrl": "https://www.laecuaciondigital.com/tecnologias/inteligencia-artificial/el-retorno-de-la-inversion-en-inteligencia-artificial-redefine-la-operativa-de-la-primera-linea-en-2026/",
-      "imageUrl": "https://www.laecuaciondigital.com/wp-content/uploads/2026/01/inteligencia-artificial-tendencias.jpg",
-      "category": "Adopción de IA"
+      "id": "cloud-strategy-2026",
+      "date": "26 March 2026",
+      "headline": "De tecnología a estrategia: Decisiones en cloud e IA que definen competitividad empresarial en 2026",
+      "summary": "Transición de adopción tecnológica a estrategias integrales en cloud y IA marca liderazgo en mercados. Empresas deben priorizar inversiones que impacten eficiencia operativa y posicionamiento frente a competidores globales.",
+      "source": "Revista Cloud Computing",
+      "sourceUrl": "https://www.revistacloudcomputing.com/2026/03/de-la-tecnologia-a-la-estrategia-las-decisiones-que-marcaran-la-competitividad-empresarial-en-2026/",
+      "imageUrl": "https://www.revistacloudcomputing.com/wp-content/uploads/2026/03/game-changers-lab.webp",
+      "category": "Estrategia"
     }
   ]
 }
