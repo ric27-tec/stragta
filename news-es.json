@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-01T08:13:51.770Z",
+  "lastUpdated": "2026-04-02T08:02:37.568Z",
   "articles": [
     {
-      "id": "arm-ai-chip-datacenter",
+      "id": "expansion-ia-empresas-2026",
+      "date": "31 March 2026",
+      "headline": "Expansión universal de la IA: el 88% de las empresas ya utiliza esta tecnología",
+      "summary": "El 88% de las empresas ya adopta IA, con 23% escalando agentes en funciones específicas y 39% experimentando, aunque solo 10% lo ha implementado ampliamente. Esta tendencia acelera la productividad y eficiencia operativa, pero requiere superar fases piloto para impacto generalizado en negocios.",
+      "source": "Revista Inforetail",
+      "sourceUrl": "https://www.revistainforetail.com/noticiadet/expansion-universal-de-la-ia-el-88-de-las-empresas-ya-utiliza-esta-tecnologia/7fb3f575e4bf8e5acb61263dcf6e87a6",
+      "imageUrl": "https://www.revistainforetail.com//vermultimedia.ashx?c=240e200136cad277eb6152935ff523f8&amp;hd=false",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "ia-productividad-europea-2026",
       "date": "30 March 2026",
-      "headline": "Arm lanza su primer chip propio para centros de datos orientado a inteligencia artificial",
-      "summary": "Arm ha presentado su primer procesador propio para infraestructura de IA, marcando un cambio estratégico desde su modelo de licencias hacia el desarrollo de hardware. La compañía prevé ingresos multimillonarios en los próximos años, lo que podría impactar la competencia en el mercado de semiconductores para IA y los costes de infraestructura en centros de datos.",
-      "source": "tecnoap21",
-      "sourceUrl": "https://tecnoap21.com/2026/03/30/resumen-de-noticias-tecnologicas-del-23-al-29-de-marzo/",
-      "imageUrl": "https://i0.wp.com/tecnoap21.com/wp-content/uploads/2026/03/diario-831.jpg?fit=1200%2C1200&#038;ssl=1",
-      "category": "Estrategia"
+      "headline": "¿Puede la inteligencia artificial ser la piedra filosofal de la productividad europea?",
+      "summary": "Un informe del Banco Europeo de Inversiones revela que la IA y analítica de datos explican el 12% del incremento de productividad en empresas europeas desde 2019, impulsando automatización y nuevos modelos de negocio en sectores como logística, industria y comercio. Empresas tradicionales como Siemens Energy y ABB se benefician fabricando infraestructura para centros de datos de IA, mientras firmas de semiconductores como Infineon lideran en componentes de potencia.",
+      "source": "Cinco Días",
+      "sourceUrl": "https://cincodias.elpais.com/economia/2026-03-30/puede-la-inteligencia-artificial-ser-la-piedra-filosofal-de-la-productividad-europea.html",
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/YRSBTRL5T5CRTBJLJOBCGHQACM.jpg?auth=e5a54641379a327b7bf49a1cc4c28b2945199f9d451ada0fc726943a8240ce62&amp;width=1200",
+      "category": "Adopción de IA"
     },
     {
-      "id": "microsoft-meta-nvidia-valuacion",
-      "date": "29 March 2026",
-      "headline": "Grandes tecnológicas caen en bolsa: Microsoft baja 34%, Meta 31% y Nvidia 19%",
-      "summary": "Las principales empresas de tecnología y IA han experimentado caídas significativas en sus valuaciones, impulsadas por preocupaciones sobre inversiones en IA, impacto geopolítico y conflictos internacionales. Estas fluctuaciones afectan directamente a inversores, costes de adquisición de talento y disponibilidad de capital para empresas tecnológicas y startups.",
-      "source": "El País",
-      "sourceUrl": "https://elpais.com/noticias/inteligencia-artificial/",
-      "imageUrl": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Farc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com%2Fpublic%2FPSMME3J7ZBDOHK4S6ZIIFVDEAQ.png?auth=6297c6ea5303b046503b1d9ef9d5cf46f4eacf1583ad6d61346d8fc8d9f9c948&amp;width=300&amp;height=300&amp;smart=true",
-      "category": "Estrategia"
-    },
-    {
-      "id": "universidades-evaluacion-sin-ia",
-      "date": "29 March 2026",
-      "headline": "Universidades estadounidenses implementan nuevas estrategias de evaluación frente al avance de IA",
-      "summary": "Las universidades estadounidenses están explorando evaluaciones orales como respuesta al impacto de la inteligencia artificial en las aulas. Este cambio en metodologías educativas refleja adaptaciones institucionales frente a la automatización y tiene implicaciones para empresas que contratan talento recién egresado y para la demanda de habilidades futuras.",
+      "id": "agentes-ia-ventaja-competitiva-2026",
+      "date": "30 March 2026",
+      "headline": "Liderar los agentes IA, la próxima ventaja competitiva",
+      "summary": "En 2026, los agentes de IA autónomos redefinen el trabajo empresarial, con empresas vanguardia logrando beneficios hasta tres veces mayores según IDC. Se proyecta que el número de firmas usando IA agencial se triplique en dos años, destacando la necesidad de liderar su implementación para ganar competitividad operativa.",
       "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/estados-unidos/2026/03/29/las-universidades-de-estados-unidos-implementan-nuevas-estrategias-para-evaluar-a-los-estudiantes-sin-depender-de-tecnologia/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/QCKBZALH3VG47J4JLMCUQO2TOI.png?auth=9455c37387dbbb749f323a4e37cce2af9f67e8c4569c192bde4e708f8615f0bc&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Automatización"
+      "sourceUrl": "https://www.infobae.com/opinion/2026/03/30/liderar-los-agentes-ia-la-proxima-ventaja-competitiva/",
+      "imageUrl": "https://www.infobae.com/resizer/v2/PD522AFER5GJLPMSS2SDZMBD4U.png?auth=faf1f9d0e920be7ef5e0161a050b291ecaf0f878706cc2932c8188389f266715&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "category": "Adopción de IA"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-03-29T07:49:56.880Z",
+  "lastUpdated": "2026-04-02T08:02:29.082Z",
   "articles": [
     {
-      "id": "ai-trade-market-shift",
-      "date": "29 March 2026",
-      "headline": "AI Trade Shifts From Speculation to Proof: Market Demands Profitability Over Potential",
-      "summary": "Despite strong fundamentals, AI infrastructure stocks face correction as markets transition from pricing potential to demanding evidence of durable profits. Nvidia's 73% revenue growth failed to prevent 5% post-earnings decline, signaling investor skepticism about AI monetization timelines and heightening risk for companies with business models vulnerable to AI disruption.",
-      "source": "Crestwood Advisors",
-      "sourceUrl": "https://www.crestwoodadvisors.com/march-2026-economic-update-the-markets-shifts-on-ai-expectations/",
-      "imageUrl": "https://www.crestwoodadvisors.com/wp-content/uploads/2026/03/AdobeStock_1756859801-scaled.jpeg",
+      "id": "oracle-ai-infrastructure-spending",
+      "date": "30 March 2026",
+      "headline": "$10 Billion in Savings, 30,000 Jobs Lost: Oracle Goes All-In on AI",
+      "summary": "Oracle is aggressively expanding data-center spending while absorbing new debt to compete in AI infrastructure, resulting in 30,000 job losses. The company's stock has dropped over 50% from September 2025 highs, signaling market concerns about capital intensity and execution risks in the AI race.",
+      "source": "Storm Media",
+      "sourceUrl": "https://world.storm.mg/article/11116880",
+      "imageUrl": "",
+      "category": "Automation"
+    },
+    {
+      "id": "apple-ai-hardware-strategy",
+      "date": "30 March 2026",
+      "headline": "Apple Doubles Down on Hardware and Services in Revamped AI Strategy",
+      "summary": "Apple is shifting AI focus toward on-device processing and ecosystem integration rather than standalone models, prioritizing hardware-software synergy for privacy and performance. This strategy could pressure competitors to innovate beyond software-only solutions and boost device upgrade cycles.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/03/30/top-tech-news-today-march-30-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
       "category": "Strategy"
     },
     {
-      "id": "alibaba-open-source-ai",
-      "date": "29 March 2026",
-      "headline": "Alibaba Joins Open-Source AI Movement: Democratized AI Models Lower Barriers for Startups and Enterprises",
-      "summary": "Alibaba expanded its publicly accessible machine-learning portfolio, joining global momentum toward collaborative AI development. Open-source models enable startups and SMEs to deploy specialized AI applications without building from scratch, reducing development costs and accelerating adoption across industries while intensifying competition in proprietary AI services.",
-      "source": "StyleTech",
-      "sourceUrl": "https://www.styletech.net/post/top-news-in-tech-march-2026",
-      "imageUrl": "https://static.wixstatic.com/media/21a82f_0641a83c41034daab7e70d6c3e9a09e2~mv2.png/v1/fill/w_1080,h_1080,al_c/21a82f_0641a83c41034daab7e70d6c3e9a09e2~mv2.png",
+      "id": "soluna-gpu-infrastructure-growth",
+      "date": "30 March 2026",
+      "headline": "Soluna Reports Record Growth with 4.3GW GPU-Ready Capacity Pipeline",
+      "summary": "Soluna reported record 2025 growth with a 4.3GW pipeline expansion, $142 million capital raise, and new AI infrastructure initiatives addressing demand for flexible GPU-ready capacity. This indicates significant market pressure to provision specialized compute for enterprise AI workloads.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-03-30/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "AI Adoption"
-    },
-    {
-      "id": "meta-custom-ai-chips",
-      "date": "27 March 2026",
-      "headline": "Meta Accelerates Chip Sovereignty: Custom MTIA Series Rivals Commercial AI Processors, Reducing NVIDIA Dependency",
-      "summary": "Meta unveiled four generations of custom AI chips (MTIA 300, 400, 450, 500) to reduce reliance on external vendors, with the MTIA 400 already competitive in internal testing and 450/500 series scheduled for mass deployment by end of 2027. This vertical integration move signals aggressive competition in AI infrastructure and may reshape hardware procurement costs for enterprises.",
-      "source": "DevFlokers",
-      "sourceUrl": "https://www.devflokers.com/blog/ai-news-last-24-hours-march-2026-fintech-impact",
-      "imageUrl": "https://devflokers.onrender.com/api/assets/69c391acb59b1e472d7731e5\n",
-      "category": "Strategy"
     }
   ]
 }
