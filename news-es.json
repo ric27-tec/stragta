@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-02T08:02:37.568Z",
+  "lastUpdated": "2026-04-03T07:59:47.183Z",
   "articles": [
     {
-      "id": "expansion-ia-empresas-2026",
+      "id": "precios-memoria-ram-caen-30",
       "date": "31 March 2026",
-      "headline": "Expansión universal de la IA: el 88% de las empresas ya utiliza esta tecnología",
-      "summary": "El 88% de las empresas ya adopta IA, con 23% escalando agentes en funciones específicas y 39% experimentando, aunque solo 10% lo ha implementado ampliamente. Esta tendencia acelera la productividad y eficiencia operativa, pero requiere superar fases piloto para impacto generalizado en negocios.",
-      "source": "Revista Inforetail",
-      "sourceUrl": "https://www.revistainforetail.com/noticiadet/expansion-universal-de-la-ia-el-88-de-las-empresas-ya-utiliza-esta-tecnologia/7fb3f575e4bf8e5acb61263dcf6e87a6",
-      "imageUrl": "https://www.revistainforetail.com//vermultimedia.ashx?c=240e200136cad277eb6152935ff523f8&amp;hd=false",
+      "headline": "Es oficial: los precios de la memoria RAM caen un 30% en una semana tras la espantada de OpenAI y el logro de Google",
+      "summary": "La caída del 30% en precios de memoria RAM reduce significativamente los costes de infraestructura para empresas que dependen de servidores y cloud computing. Esto impacta directamente en la planificación de presupuestos de IA y almacenamiento para pymes y grandes corporaciones. Proveedores como Micron y SK Hynix ven afectada su demanda, alterando cadenas de suministro globales.",
+      "source": "El Español",
+      "sourceUrl": "https://www.elespanol.com/omicrono/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "mistral-levanta-830-millones",
+      "date": "31 March 2026",
+      "headline": "Mistral levanta 830 millones de dólares en deuda para construir su propio centro de datos cerca de París con 13.800 chips Nvidia",
+      "summary": "Mistral invierte en un data center propio con 13.800 chips Nvidia, reduciendo dependencia de rentals cloud de EE.UU. y bajando costes operativos a largo plazo para adopción de IA en Europa. Esto afecta competitividad de proveedores cloud como AWS y Azure, beneficiando a empresas europeas en cumplimiento regulatorio y soberanía de datos.",
+      "source": "WWWhat's new",
+      "sourceUrl": "https://wwwhatsnew.com",
+      "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "ia-productividad-europea-2026",
-      "date": "30 March 2026",
-      "headline": "¿Puede la inteligencia artificial ser la piedra filosofal de la productividad europea?",
-      "summary": "Un informe del Banco Europeo de Inversiones revela que la IA y analítica de datos explican el 12% del incremento de productividad en empresas europeas desde 2019, impulsando automatización y nuevos modelos de negocio en sectores como logística, industria y comercio. Empresas tradicionales como Siemens Energy y ABB se benefician fabricando infraestructura para centros de datos de IA, mientras firmas de semiconductores como Infineon lideran en componentes de potencia.",
+      "id": "virgin-media-o2-inversion-ericsson-nokia",
+      "date": "31 March 2026",
+      "headline": "Virgin Media O2 invertirá 840 millones de euros en contratos con Ericsson y Nokia",
+      "summary": "La inversión de 840 millones en Ericsson y Nokia amplía cobertura 5G, mejorando conectividad para operaciones empresariales y comercio digital. Medianas empresas y pymes ganan eficiencia operativa en telecomunicaciones, afectando costes de servicios cloud y cadenas de suministro digitales.",
       "source": "Cinco Días",
-      "sourceUrl": "https://cincodias.elpais.com/economia/2026-03-30/puede-la-inteligencia-artificial-ser-la-piedra-filosofal-de-la-productividad-europea.html",
-      "imageUrl": "https://imagenes.elpais.com/resizer/v2/YRSBTRL5T5CRTBJLJOBCGHQACM.jpg?auth=e5a54641379a327b7bf49a1cc4c28b2945199f9d451ada0fc726943a8240ce62&amp;width=1200",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "agentes-ia-ventaja-competitiva-2026",
-      "date": "30 March 2026",
-      "headline": "Liderar los agentes IA, la próxima ventaja competitiva",
-      "summary": "En 2026, los agentes de IA autónomos redefinen el trabajo empresarial, con empresas vanguardia logrando beneficios hasta tres veces mayores según IDC. Se proyecta que el número de firmas usando IA agencial se triplique en dos años, destacando la necesidad de liderar su implementación para ganar competitividad operativa.",
-      "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/opinion/2026/03/30/liderar-los-agentes-ia-la-proxima-ventaja-competitiva/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/PD522AFER5GJLPMSS2SDZMBD4U.png?auth=faf1f9d0e920be7ef5e0161a050b291ecaf0f878706cc2932c8188389f266715&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Adopción de IA"
+      "sourceUrl": "https://cincodias.elpais.com/hemeroteca/2026-03-31/",
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/7QD32BNDDJFE7DKHMBZILYGTDM.png?auth=657181527eaeb17711042ce4612a9a05224329943f59dbfc44009258410eed33",
+      "category": "Estrategia"
     }
   ]
 }
