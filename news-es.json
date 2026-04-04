@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-03T07:59:47.183Z",
+  "lastUpdated": "2026-04-04T07:45:08.519Z",
   "articles": [
+    {
+      "id": "mercado-bienes-tecnologicos-crece",
+      "date": "1 April 2026",
+      "headline": "El mercado de bienes tecnológicos crece un 2,4% en un contexto de incertidumbre",
+      "summary": "El mercado de bienes tecnológicos registra un crecimiento del 2,4% pese a la incertidumbre económica, según Aecoc, lo que señala oportunidades en inversión de hardware y software para empresas. Afecta planificación de compras y cadenas de suministro para medianas empresas y comercios.",
+      "source": "Ultima Hora",
+      "sourceUrl": "https://www.ultimahora.es/hemeroteca/2026-04-01.html",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
     {
       "id": "precios-memoria-ram-caen-30",
       "date": "31 March 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://wwwhatsnew.com",
       "imageUrl": "",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "virgin-media-o2-inversion-ericsson-nokia",
-      "date": "31 March 2026",
-      "headline": "Virgin Media O2 invertirá 840 millones de euros en contratos con Ericsson y Nokia",
-      "summary": "La inversión de 840 millones en Ericsson y Nokia amplía cobertura 5G, mejorando conectividad para operaciones empresariales y comercio digital. Medianas empresas y pymes ganan eficiencia operativa en telecomunicaciones, afectando costes de servicios cloud y cadenas de suministro digitales.",
-      "source": "Cinco Días",
-      "sourceUrl": "https://cincodias.elpais.com/hemeroteca/2026-03-31/",
-      "imageUrl": "https://imagenes.elpais.com/resizer/v2/7QD32BNDDJFE7DKHMBZILYGTDM.png?auth=657181527eaeb17711042ce4612a9a05224329943f59dbfc44009258410eed33",
-      "category": "Estrategia"
     }
   ]
 }
