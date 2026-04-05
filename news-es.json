@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-04T07:45:08.519Z",
+  "lastUpdated": "2026-04-05T07:52:45.205Z",
   "articles": [
+    {
+      "id": "google-chrome-quantum-2026",
+      "date": "2 April 2026",
+      "headline": "Google blindará cuánticamente el protocolo HTTPS en Chrome para mayor ciberseguridad",
+      "summary": "Google prepara protección cuántica para HTTPS en Chrome, endureciendo sitios web contra ataques cuánticos sin sacrificar rendimiento. Esto afecta cumplimiento regulatorio y riesgos de ciberseguridad para empresas dependientes de web, priorizando infraestructura crítica.",
+      "source": "ADSLZone",
+      "sourceUrl": "https://www.adslzone.net/noticias/4/",
+      "imageUrl": "",
+      "category": "Ciberseguridad"
+    },
+    {
+      "id": "tesla-production-miss-2026",
+      "date": "2 April 2026",
+      "headline": "Tesla cae 5,44% en Wall Street tras decepcionar en producción y entregas",
+      "summary": "Acciones de Tesla caen 5,44% por resultados de producción inferiores, impactando mercados financieros y proveedores de automatización. Afecta planificación de inversión en vehículos autónomos y robótica para negocios.",
+      "source": "Bolsamania",
+      "sourceUrl": "https://www.bolsamania.com/argentina/noticias/empresas/2026-04-02",
+      "imageUrl": "",
+      "category": "Automatización"
+    },
     {
       "id": "mercado-bienes-tecnologicos-crece",
       "date": "1 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.ultimahora.es/hemeroteca/2026-04-01.html",
       "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "precios-memoria-ram-caen-30",
-      "date": "31 March 2026",
-      "headline": "Es oficial: los precios de la memoria RAM caen un 30% en una semana tras la espantada de OpenAI y el logro de Google",
-      "summary": "La caída del 30% en precios de memoria RAM reduce significativamente los costes de infraestructura para empresas que dependen de servidores y cloud computing. Esto impacta directamente en la planificación de presupuestos de IA y almacenamiento para pymes y grandes corporaciones. Proveedores como Micron y SK Hynix ven afectada su demanda, alterando cadenas de suministro globales.",
-      "source": "El Español",
-      "sourceUrl": "https://www.elespanol.com/omicrono/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "mistral-levanta-830-millones",
-      "date": "31 March 2026",
-      "headline": "Mistral levanta 830 millones de dólares en deuda para construir su propio centro de datos cerca de París con 13.800 chips Nvidia",
-      "summary": "Mistral invierte en un data center propio con 13.800 chips Nvidia, reduciendo dependencia de rentals cloud de EE.UU. y bajando costes operativos a largo plazo para adopción de IA en Europa. Esto afecta competitividad de proveedores cloud como AWS y Azure, beneficiando a empresas europeas en cumplimiento regulatorio y soberanía de datos.",
-      "source": "WWWhat's new",
-      "sourceUrl": "https://wwwhatsnew.com",
-      "imageUrl": "",
-      "category": "Adopción de IA"
     }
   ]
 }
