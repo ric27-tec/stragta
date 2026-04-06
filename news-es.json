@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-05T07:52:45.205Z",
+  "lastUpdated": "2026-04-06T08:20:55.839Z",
   "articles": [
     {
-      "id": "google-chrome-quantum-2026",
-      "date": "2 April 2026",
-      "headline": "Google blindará cuánticamente el protocolo HTTPS en Chrome para mayor ciberseguridad",
-      "summary": "Google prepara protección cuántica para HTTPS en Chrome, endureciendo sitios web contra ataques cuánticos sin sacrificar rendimiento. Esto afecta cumplimiento regulatorio y riesgos de ciberseguridad para empresas dependientes de web, priorizando infraestructura crítica.",
-      "source": "ADSLZone",
-      "sourceUrl": "https://www.adslzone.net/noticias/4/",
-      "imageUrl": "",
-      "category": "Ciberseguridad"
-    },
-    {
-      "id": "tesla-production-miss-2026",
-      "date": "2 April 2026",
-      "headline": "Tesla cae 5,44% en Wall Street tras decepcionar en producción y entregas",
-      "summary": "Acciones de Tesla caen 5,44% por resultados de producción inferiores, impactando mercados financieros y proveedores de automatización. Afecta planificación de inversión en vehículos autónomos y robótica para negocios.",
-      "source": "Bolsamania",
-      "sourceUrl": "https://www.bolsamania.com/argentina/noticias/empresas/2026-04-02",
-      "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "mercado-bienes-tecnologicos-crece",
-      "date": "1 April 2026",
-      "headline": "El mercado de bienes tecnológicos crece un 2,4% en un contexto de incertidumbre",
-      "summary": "El mercado de bienes tecnológicos registra un crecimiento del 2,4% pese a la incertidumbre económica, según Aecoc, lo que señala oportunidades en inversión de hardware y software para empresas. Afecta planificación de compras y cadenas de suministro para medianas empresas y comercios.",
-      "source": "Ultima Hora",
-      "sourceUrl": "https://www.ultimahora.es/hemeroteca/2026-04-01.html",
+      "id": "geopolitical-energy-crisis-2026",
+      "date": "3 April 2026",
+      "headline": "Conflicto EE.UU.-Israel-Irán dispara petróleo a $109 y cierra Estrecho de Ormuz: mayor disrupción energética desde los 70",
+      "summary": "La guerra en su quinta semana provocó caída de mercados en Asia y Europa, bloqueo del Estrecho de Ormuz y disparo del precio del crudo por encima de $100/barril tras promesas de Trump de ataques más agresivos. Impacto directo en costes de energía, logística y cadenas de suministro global para empresas.",
+      "source": "Crónica del Henares",
+      "sourceUrl": "https://www.cronicadelhenares.com/2026/04/las-diez-noticias-mas-importantes-del_3.html",
       "imageUrl": "",
       "category": "Estrategia"
+    },
+    {
+      "id": "tech-stock-selloff-ai-uncertainty",
+      "date": "3 April 2026",
+      "headline": "Microsoft cae 34% desde máximo histórico; Meta baja 31% y NVIDIA 19% por incertidumbre en IA e impacto geopolítico",
+      "summary": "Las principales empresas tecnológicas sufren correcciones significativas debido a incertidumbre sobre retorno de inversiones en IA y presiones geopolíticas. Señal clara de volatilidad en valuaciones de infraestructura de IA y software empresarial que afecta presupuestos de IT y decisiones de inversión.",
+      "source": "El País",
+      "sourceUrl": "https://elpais.com/noticias/inteligencia-artificial/",
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Farc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com%2Fpublic%2FPSMME3J7ZBDOHK4S6ZIIFVDEAQ.png?auth=6297c6ea5303b046503b1d9ef9d5cf46f4eacf1583ad6d61346d8fc8d9f9c948&amp;width=300&amp;height=300&amp;smart=true",
+      "category": "Estrategia"
+    },
+    {
+      "id": "ai-agent-era-2026",
+      "date": "3 April 2026",
+      "headline": "Transición a IA agente autónoma marca 2026: decisiones automáticas y ejecución independiente requieren nuevos marcos de ética y control",
+      "summary": "La evolución desde IA generativa hacia IA agente que actúa autónomamente, aprende y toma decisiones plantea nuevos retos de regulación, transparencia y responsabilidad. Las empresas deben prepararse para supervisión, trazabilidad y cumplimiento normativo en implementaciones de IA autónoma.",
+      "source": "Infobea",
+      "sourceUrl": "https://www.infobae.com/tecno/2026/01/20/cinco-tendencias-tecnologicas-que-marcaran-este-2026-y-el-futuro-de-la-era-digital/",
+      "imageUrl": "https://www.infobae.com/resizer/v2/35CCEQTPDZALFJORBBKWHAVIVE.png?auth=56eb7e91771b6837cccbd22a57485b842b728b94fcc1ad27f8c02967c29afd4d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "category": "Adopción de IA"
     }
   ]
 }
