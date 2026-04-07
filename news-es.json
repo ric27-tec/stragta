@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-06T08:20:55.839Z",
+  "lastUpdated": "2026-04-07T08:08:54.670Z",
   "articles": [
+    {
+      "id": "israel-quantum-technology-race",
+      "date": "6 April 2026",
+      "headline": "Israel intensifica apuesta en tecnología cuántica en carrera global",
+      "summary": "Israel acelera su participación en la carrera global de computación cuántica, con implicaciones para empresas que evalúan estrategias de inversión en tecnologías emergentes y competencia geopolítica en infraestructura computacional.",
+      "source": "AJN Agencia de Noticias",
+      "sourceUrl": "https://agenciaajn.com/noticia/israel-apuesta-a-la-tecnologia-cuantica-en-medio-de-una-carrera-global-cada-vez-mas-intensa-291900",
+      "imageUrl": "https://agenciaajn.com/new/wp-content/uploads/2026/01/702889-1000x600.webp",
+      "category": "Investigación"
+    },
     {
       "id": "geopolitical-energy-crisis-2026",
       "date": "3 April 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://elpais.com/noticias/inteligencia-artificial/",
       "imageUrl": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Farc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com%2Fpublic%2FPSMME3J7ZBDOHK4S6ZIIFVDEAQ.png?auth=6297c6ea5303b046503b1d9ef9d5cf46f4eacf1583ad6d61346d8fc8d9f9c948&amp;width=300&amp;height=300&amp;smart=true",
       "category": "Estrategia"
-    },
-    {
-      "id": "ai-agent-era-2026",
-      "date": "3 April 2026",
-      "headline": "Transición a IA agente autónoma marca 2026: decisiones automáticas y ejecución independiente requieren nuevos marcos de ética y control",
-      "summary": "La evolución desde IA generativa hacia IA agente que actúa autónomamente, aprende y toma decisiones plantea nuevos retos de regulación, transparencia y responsabilidad. Las empresas deben prepararse para supervisión, trazabilidad y cumplimiento normativo en implementaciones de IA autónoma.",
-      "source": "Infobea",
-      "sourceUrl": "https://www.infobae.com/tecno/2026/01/20/cinco-tendencias-tecnologicas-que-marcaran-este-2026-y-el-futuro-de-la-era-digital/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/35CCEQTPDZALFJORBBKWHAVIVE.png?auth=56eb7e91771b6837cccbd22a57485b842b728b94fcc1ad27f8c02967c29afd4d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Adopción de IA"
     }
   ]
 }
