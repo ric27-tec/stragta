@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-02T08:02:29.082Z",
+  "lastUpdated": "2026-04-09T08:16:48.557Z",
   "articles": [
+    {
+      "id": "softbank-euro-bond",
+      "date": "9 April 2026",
+      "headline": "SoftBank unit plans debut euro bond as group accelerates AI investments",
+      "summary": "SoftBank's mobile unit is arranging its first euro-denominated bond with 6- and 10-year maturities to fund Masayoshi Son's major AI push, following a successful $1B US bond. The group explores $40B in loans for US tech investments. This financing signals aggressive capital raises for AI, impacting global tech funding and competition.",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/04/09/companies/softbank-euro-bond-ai/",
+      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/09/534004.jpg?v=3.1",
+      "category": "Strategy"
+    },
+    {
+      "id": "foxconn-ai-revenue",
+      "date": "6 April 2026",
+      "headline": "Foxconn rides AI server demand as first-quarter revenue jumps 29.7%",
+      "summary": "Foxconn's Q1 revenue surged 29.7% year-over-year, driven by strong AI server and cloud networking demand, signaling robust hyperscaler spending flowing through the supply chain. March revenue hit a record 45.6% increase, but geopolitical risks like Middle East conflict may impact visibility. This indicates sustained AI infrastructure demand benefiting manufacturers beyond chip designers.",
+      "source": "TechStartups (Reuters)",
+      "sourceUrl": "https://techstartups.com/2026/04/06/top-tech-news-today-april-6-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
+      "category": "AI Adoption"
+    },
     {
       "id": "oracle-ai-infrastructure-spending",
       "date": "30 March 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://world.storm.mg/article/11116880",
       "imageUrl": "",
       "category": "Automation"
-    },
-    {
-      "id": "apple-ai-hardware-strategy",
-      "date": "30 March 2026",
-      "headline": "Apple Doubles Down on Hardware and Services in Revamped AI Strategy",
-      "summary": "Apple is shifting AI focus toward on-device processing and ecosystem integration rather than standalone models, prioritizing hardware-software synergy for privacy and performance. This strategy could pressure competitors to innovate beyond software-only solutions and boost device upgrade cycles.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/03/30/top-tech-news-today-march-30-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "soluna-gpu-infrastructure-growth",
-      "date": "30 March 2026",
-      "headline": "Soluna Reports Record Growth with 4.3GW GPU-Ready Capacity Pipeline",
-      "summary": "Soluna reported record 2025 growth with a 4.3GW pipeline expansion, $142 million capital raise, and new AI infrastructure initiatives addressing demand for flexible GPU-ready capacity. This indicates significant market pressure to provision specialized compute for enterprise AI workloads.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-03-30/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
-      "category": "AI Adoption"
     }
   ]
 }
