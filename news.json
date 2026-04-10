@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-09T08:16:48.557Z",
+  "lastUpdated": "2026-04-10T08:19:33.043Z",
   "articles": [
     {
-      "id": "softbank-euro-bond",
-      "date": "9 April 2026",
-      "headline": "SoftBank unit plans debut euro bond as group accelerates AI investments",
-      "summary": "SoftBank's mobile unit is arranging its first euro-denominated bond with 6- and 10-year maturities to fund Masayoshi Son's major AI push, following a successful $1B US bond. The group explores $40B in loans for US tech investments. This financing signals aggressive capital raises for AI, impacting global tech funding and competition.",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/business/2026/04/09/companies/softbank-euro-bond-ai/",
-      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/09/534004.jpg?v=3.1",
-      "category": "Strategy"
-    },
-    {
-      "id": "foxconn-ai-revenue",
-      "date": "6 April 2026",
-      "headline": "Foxconn rides AI server demand as first-quarter revenue jumps 29.7%",
-      "summary": "Foxconn's Q1 revenue surged 29.7% year-over-year, driven by strong AI server and cloud networking demand, signaling robust hyperscaler spending flowing through the supply chain. March revenue hit a record 45.6% increase, but geopolitical risks like Middle East conflict may impact visibility. This indicates sustained AI infrastructure demand benefiting manufacturers beyond chip designers.",
-      "source": "TechStartups (Reuters)",
-      "sourceUrl": "https://techstartups.com/2026/04/06/top-tech-news-today-april-6-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "oracle-ai-infrastructure-spending",
-      "date": "30 March 2026",
-      "headline": "$10 Billion in Savings, 30,000 Jobs Lost: Oracle Goes All-In on AI",
-      "summary": "Oracle is aggressively expanding data-center spending while absorbing new debt to compete in AI infrastructure, resulting in 30,000 job losses. The company's stock has dropped over 50% from September 2025 highs, signaling market concerns about capital intensity and execution risks in the AI race.",
-      "source": "Storm Media",
-      "sourceUrl": "https://world.storm.mg/article/11116880",
-      "imageUrl": "",
+      "id": "ennostar-ai-modules",
+      "date": "10 April 2026",
+      "headline": "Ennostar to Ship First AI Modules Amid Restructuring",
+      "summary": "Taiwan's Ennostar prepares to launch initial AI modules while completing profitable restructuring and investing in optical transceivers. This signals supply chain readiness for AI hardware demand, offering SMEs opportunities in advanced displays and transceivers but tied to chip market volatility.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/10/2003855322",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/04/10/P09-260410-016.jpg",
       "category": "Automation"
+    },
+    {
+      "id": "silver-fox-threat",
+      "date": "10 April 2026",
+      "headline": "Chinese Silver Fox Threat Actor Targets Critical Sectors",
+      "summary": "Suspected Chinese group Silver Fox expands attacks on critical infrastructure, defense, finance, and manufacturing across APAC, causing data theft and disruptions. Businesses face rising cybersecurity risks, operational downtime, and reputational damage, necessitating enhanced defenses and compliance measures.",
+      "source": "CYFIRMA",
+      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-10-april-2026/",
+      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "ai-infra-costs",
+      "date": "7 April 2026",
+      "headline": "AI Infrastructure Boom Faces $7 Trillion Reality Check",
+      "summary": "Global AI data center expansions could require up to $7 trillion in investments due to surging demand for compute, energy, and cooling. Companies like Nvidia, Meta, and xAI face massive costs for gigawatt-scale facilities, forcing strategic prioritization over unchecked growth. This impacts business planning for AI adoption and infrastructure spending.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/07/top-tech-news-today-april-7-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
+      "category": "AI Adoption"
     }
   ]
 }

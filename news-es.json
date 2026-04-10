@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-07T08:08:54.670Z",
+  "lastUpdated": "2026-04-10T08:19:43.686Z",
   "articles": [
+    {
+      "id": "magnificent-seven-repricing-2026",
+      "date": "10 April 2026",
+      "headline": "¿Está la tecnología barata? El mayor repricing del sector en años",
+      "summary": "Los Magnificent Seven han caído a 23x forward PE desde 31x en enero 2026, con hyperscalers proyectando caída en FCF a 94B USD. Esto representa oportunidad de inversión para empresas, pero advierte de destrucción de caja libre en cloud y IA, afectando planificación financiera.",
+      "source": "XTB",
+      "sourceUrl": "https://www.xtb.com/cl/analisis-y-noticias/analisis-de-mercado/esta-la-tecnologia-barata-el-mayor-repricing-del-sector-en-anos",
+      "imageUrl": "https://xas-cdn.xtb.com/build/twigImages/og-image.png",
+      "category": "Mercados Financieros"
+    },
+    {
+      "id": "asml-china-restrictions-2026",
+      "date": "7 April 2026",
+      "headline": "ASML cae ante la propuesta de EEUU para restringir aún más las exportaciones a China",
+      "summary": "Acciones de ASML caen 4% por nuevas propuestas de EE.UU. para limitar exportaciones a China, impactando el mercado de litografía para chips avanzados. Esto altera cadenas de suministro globales, aumenta costes para fabricantes y obliga a replanificar inversiones en semiconductores.",
+      "source": "Bolsamania",
+      "sourceUrl": "https://www.bolsamania.com/noticias/empresas/2026-04-07/2",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
     {
       "id": "israel-quantum-technology-race",
       "date": "6 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://agenciaajn.com/noticia/israel-apuesta-a-la-tecnologia-cuantica-en-medio-de-una-carrera-global-cada-vez-mas-intensa-291900",
       "imageUrl": "https://agenciaajn.com/new/wp-content/uploads/2026/01/702889-1000x600.webp",
       "category": "Investigación"
-    },
-    {
-      "id": "geopolitical-energy-crisis-2026",
-      "date": "3 April 2026",
-      "headline": "Conflicto EE.UU.-Israel-Irán dispara petróleo a $109 y cierra Estrecho de Ormuz: mayor disrupción energética desde los 70",
-      "summary": "La guerra en su quinta semana provocó caída de mercados en Asia y Europa, bloqueo del Estrecho de Ormuz y disparo del precio del crudo por encima de $100/barril tras promesas de Trump de ataques más agresivos. Impacto directo en costes de energía, logística y cadenas de suministro global para empresas.",
-      "source": "Crónica del Henares",
-      "sourceUrl": "https://www.cronicadelhenares.com/2026/04/las-diez-noticias-mas-importantes-del_3.html",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tech-stock-selloff-ai-uncertainty",
-      "date": "3 April 2026",
-      "headline": "Microsoft cae 34% desde máximo histórico; Meta baja 31% y NVIDIA 19% por incertidumbre en IA e impacto geopolítico",
-      "summary": "Las principales empresas tecnológicas sufren correcciones significativas debido a incertidumbre sobre retorno de inversiones en IA y presiones geopolíticas. Señal clara de volatilidad en valuaciones de infraestructura de IA y software empresarial que afecta presupuestos de IT y decisiones de inversión.",
-      "source": "El País",
-      "sourceUrl": "https://elpais.com/noticias/inteligencia-artificial/",
-      "imageUrl": "https://imagenes.elpais.com/resizer/v2/https%3A%2F%2Farc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com%2Fpublic%2FPSMME3J7ZBDOHK4S6ZIIFVDEAQ.png?auth=6297c6ea5303b046503b1d9ef9d5cf46f4eacf1583ad6d61346d8fc8d9f9c948&amp;width=300&amp;height=300&amp;smart=true",
-      "category": "Estrategia"
     }
   ]
 }
