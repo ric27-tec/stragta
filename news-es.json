@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-10T08:19:43.686Z",
+  "lastUpdated": "2026-04-11T07:46:41.324Z",
   "articles": [
     {
-      "id": "magnificent-seven-repricing-2026",
-      "date": "10 April 2026",
-      "headline": "¿Está la tecnología barata? El mayor repricing del sector en años",
-      "summary": "Los Magnificent Seven han caído a 23x forward PE desde 31x en enero 2026, con hyperscalers proyectando caída en FCF a 94B USD. Esto representa oportunidad de inversión para empresas, pero advierte de destrucción de caja libre en cloud y IA, afectando planificación financiera.",
-      "source": "XTB",
-      "sourceUrl": "https://www.xtb.com/cl/analisis-y-noticias/analisis-de-mercado/esta-la-tecnologia-barata-el-mayor-repricing-del-sector-en-anos",
-      "imageUrl": "https://xas-cdn.xtb.com/build/twigImages/og-image.png",
-      "category": "Mercados Financieros"
+      "id": "volkswagen-deja-id4-eeuu",
+      "date": "9 April 2026",
+      "headline": "Volkswagen discontinúa producción de ID.4 en EE.UU. y refoca en línea Atlas",
+      "summary": "Volkswagen termina fabricación del ID.4 en Estados Unidos para concentrarse en la gama Atlas, evidenciando el reajuste del mercado de vehículos eléctricos. Esto refleja presiones competitivas de BYD y Tesla en software vehicular y la dificultad de fabricantes tradicionales para alcanzar competitividad en autonomía.",
+      "source": "OICA",
+      "sourceUrl": "https://oica.net/es/04-08-2026-oicas-5-noticias-importantes-resumidas/",
+      "imageUrl": "https://oica.net/wp-content/uploads/2026/04/Chute-du-petrole-euphorie-boursiere-1024x683.png",
+      "category": "Estrategia"
     },
     {
-      "id": "asml-china-restrictions-2026",
-      "date": "7 April 2026",
-      "headline": "ASML cae ante la propuesta de EEUU para restringir aún más las exportaciones a China",
-      "summary": "Acciones de ASML caen 4% por nuevas propuestas de EE.UU. para limitar exportaciones a China, impactando el mercado de litografía para chips avanzados. Esto altera cadenas de suministro globales, aumenta costes para fabricantes y obliga a replanificar inversiones en semiconductores.",
-      "source": "Bolsamania",
-      "sourceUrl": "https://www.bolsamania.com/noticias/empresas/2026-04-07/2",
+      "id": "transformacion-digital-europa-inversión",
+      "date": "8 April 2026",
+      "headline": "Transformación digital en Europa: del gasto en tecnología a la automatización de decisiones",
+      "summary": "El gasto en transformación digital en Europa crecerá 16,6% anual hasta 2026 y superará 1,2 billones de dólares en EMEA para 2028. El desafío empresarial ha evolucionado: ya no se trata de implementar tecnología, sino de integrar datos y automatizar decisiones para ganar eficiencia y competitividad.",
+      "source": "Valencia Business",
+      "sourceUrl": "http://valencia-business.es/2026/04/08/de-implantar-tecnologia-a-activar-decisiones-asi-evoluciona-la-digitalizacion-en-la-industria/",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Estrategia"
     },
     {
-      "id": "israel-quantum-technology-race",
-      "date": "6 April 2026",
-      "headline": "Israel intensifica apuesta en tecnología cuántica en carrera global",
-      "summary": "Israel acelera su participación en la carrera global de computación cuántica, con implicaciones para empresas que evalúan estrategias de inversión en tecnologías emergentes y competencia geopolítica en infraestructura computacional.",
-      "source": "AJN Agencia de Noticias",
-      "sourceUrl": "https://agenciaajn.com/noticia/israel-apuesta-a-la-tecnologia-cuantica-en-medio-de-una-carrera-global-cada-vez-mas-intensa-291900",
-      "imageUrl": "https://agenciaajn.com/new/wp-content/uploads/2026/01/702889-1000x600.webp",
-      "category": "Investigación"
+      "id": "centinel-automatizacion-contabilidad-ia",
+      "date": "8 April 2026",
+      "headline": "Centinel recauda 1,2 millones de euros para automatizar contabilidad empresarial con IA",
+      "summary": "La startup hispano-argentina Centinel cerró financiación pre-semilla para automatizar procesos contables de grandes empresas mediante IA. Ya opera con clientes en España, Francia y filiales en EE.UU. y América Latina, integrándose como capa sobre sistemas ERP existentes para capturar datos dispersos en Excel y herramientas desconectadas.",
+      "source": "La Razón",
+      "sourceUrl": "https://www.larazon.es/emergente/centinel-levanta-12-millones-euros-automatizar-contabilidad-grandes-empresas_2026041069d8bfa2097ebe16ad738d30.html",
+      "imageUrl": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/04/10/CFAF0722-84B3-4F2A-9564-45BBFB673174/centinel-levanta-12-millones-euros-automatizar-contabilidad-grandes-empresas_98.jpg?crop=7615,4284,x0,y401&width=1900&height=1069&optimize=low&format=webply",
+      "category": "Adopción de IA"
     }
   ]
 }

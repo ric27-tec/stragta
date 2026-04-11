@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-10T08:19:33.043Z",
+  "lastUpdated": "2026-04-11T07:46:28.467Z",
   "articles": [
+    {
+      "id": "ase-new-fab-investment",
+      "date": "11 April 2026",
+      "headline": "ASE plans to invest more than US$3.1bn in new fab",
+      "summary": "ASE Technology Holding plans to invest over US$3.15 billion in a new advanced chip testing facility in Kaohsiung to meet AI-driven customer demand, addressing hardware supply chain bottlenecks. Taiwanese firms like ASE and TSMC face pressure to resolve choke points in global AI supply chains, impacting business operational efficiency and costs.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/11/2003855385",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/04/11/p09-260411-aa1.jpg",
+      "category": "Strategy"
+    },
+    {
+      "id": "samsung-ai-memory-boom",
+      "date": "8 April 2026",
+      "headline": "Samsung’s AI memory boom is rewriting the chip leaderboard",
+      "summary": "Samsung reported first-quarter profit likely surged over 700% due to demand for high-bandwidth memory chips critical for AI systems, reshaping the semiconductor industry. This reflects growing pricing power in memory for AI training and inference, affecting infrastructure costs for businesses investing in AI. Competitors like SK Hynix and Micron are racing for next-gen HBM4 supply to Nvidia and others.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/08/top-tech-news-today-april-8-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
+      "category": "AI Adoption"
+    },
     {
       "id": "ennostar-ai-modules",
       "date": "10 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/10/2003855322",
       "imageUrl": "https://img.taipeitimes.com/images/2026/04/10/P09-260410-016.jpg",
       "category": "Automation"
-    },
-    {
-      "id": "silver-fox-threat",
-      "date": "10 April 2026",
-      "headline": "Chinese Silver Fox Threat Actor Targets Critical Sectors",
-      "summary": "Suspected Chinese group Silver Fox expands attacks on critical infrastructure, defense, finance, and manufacturing across APAC, causing data theft and disruptions. Businesses face rising cybersecurity risks, operational downtime, and reputational damage, necessitating enhanced defenses and compliance measures.",
-      "source": "CYFIRMA",
-      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-10-april-2026/",
-      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
-      "category": "Cybersecurity"
-    },
-    {
-      "id": "ai-infra-costs",
-      "date": "7 April 2026",
-      "headline": "AI Infrastructure Boom Faces $7 Trillion Reality Check",
-      "summary": "Global AI data center expansions could require up to $7 trillion in investments due to surging demand for compute, energy, and cooling. Companies like Nvidia, Meta, and xAI face massive costs for gigawatt-scale facilities, forcing strategic prioritization over unchecked growth. This impacts business planning for AI adoption and infrastructure spending.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/07/top-tech-news-today-april-7-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-      "category": "AI Adoption"
     }
   ]
 }
