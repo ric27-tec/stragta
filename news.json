@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-11T07:46:28.467Z",
+  "lastUpdated": "2026-04-12T08:00:26.764Z",
   "articles": [
+    {
+      "id": "intel-terafab-partnership",
+      "date": "12 April 2026",
+      "headline": "Intel Joins Elon Musk’s Terafab Chip Project for Tesla and xAI",
+      "summary": "Intel partnered with Elon Musk’s Terafab initiative to develop semiconductors for Tesla, SpaceX, and xAI, boosting Intel shares by 4.2% and signaling shifts in AI chip supply chains. This could diversify sourcing away from Asian manufacturers, impacting global trade and hardware costs for AI infrastructure. Businesses gain potential new options amid ongoing chip shortages.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/12/2003855430",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/04/12/P09-260412-306.jpg",
+      "category": "Strategy"
+    },
+    {
+      "id": "amazon-aws-ai-revenue",
+      "date": "9 April 2026",
+      "headline": "Amazon’s AWS AI Revenue Run Rate Tops $15 Billion Amid Surging Demand",
+      "summary": "Amazon's cloud unit reported a $15B AI revenue run rate in Q1 2026, signaling hyperscaler AI spending is driving measurable growth and boosting chip revenue to over $20B annually. This underscores rising cloud and AI infrastructure costs for businesses, with Amazon's 2026 capex tied to committed AI projects. Enterprises face higher investments in AI compute amid Meta's projected $115-135B capex.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/09/top-tech-news-today-april-9-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
+      "category": "AI Adoption"
+    },
     {
       "id": "ase-new-fab-investment",
       "date": "11 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/11/2003855385",
       "imageUrl": "https://img.taipeitimes.com/images/2026/04/11/p09-260411-aa1.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "samsung-ai-memory-boom",
-      "date": "8 April 2026",
-      "headline": "Samsung’s AI memory boom is rewriting the chip leaderboard",
-      "summary": "Samsung reported first-quarter profit likely surged over 700% due to demand for high-bandwidth memory chips critical for AI systems, reshaping the semiconductor industry. This reflects growing pricing power in memory for AI training and inference, affecting infrastructure costs for businesses investing in AI. Competitors like SK Hynix and Micron are racing for next-gen HBM4 supply to Nvidia and others.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/08/top-tech-news-today-april-8-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "ennostar-ai-modules",
-      "date": "10 April 2026",
-      "headline": "Ennostar to Ship First AI Modules Amid Restructuring",
-      "summary": "Taiwan's Ennostar prepares to launch initial AI modules while completing profitable restructuring and investing in optical transceivers. This signals supply chain readiness for AI hardware demand, offering SMEs opportunities in advanced displays and transceivers but tied to chip market volatility.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/10/2003855322",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/10/P09-260410-016.jpg",
-      "category": "Automation"
     }
   ]
 }
