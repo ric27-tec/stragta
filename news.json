@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-12T08:00:26.764Z",
+  "lastUpdated": "2026-04-13T08:59:23.698Z",
   "articles": [
+    {
+      "id": "tsmc-q1-sales",
+      "date": "10 April 2026",
+      "headline": "TSMC rides the AI boom as first-quarter sales jump 35%",
+      "summary": "TSMC reported Q1 revenue up 35% year-over-year to $35.7 billion, exceeding forecasts due to surging demand for AI chips. This signals sustained heavy spending by hyperscalers on AI infrastructure, pressuring supply chains for packaging, memory, power, and cooling. Businesses reliant on advanced semiconductors face ongoing capacity constraints and rising costs.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/10/top-tech-news-today-april-10-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "motorola-price-hikes",
+      "date": "10 April 2026",
+      "headline": "Motorola raises budget phone prices up to 50% due to AI and memory shortages",
+      "summary": "Motorola hiked prices on budget phones by up to 50%, blaming AI-driven chip and memory shortages that disrupt consumer device supply chains. This exacerbates affordability issues for budget hardware, signaling broader impacts on device makers and businesses evaluating mobile tech upgrades. SMEs and local businesses face higher costs for digital tools amid persistent semiconductor constraints.",
+      "source": "Coaio",
+      "sourceUrl": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-cybersecurity-2m4c/",
+      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
+      "category": "Strategy"
+    },
     {
       "id": "intel-terafab-partnership",
       "date": "12 April 2026",
@@ -10,26 +30,6 @@
       "source": "Taipei Times",
       "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/12/2003855430",
       "imageUrl": "https://img.taipeitimes.com/images/2026/04/12/P09-260412-306.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "amazon-aws-ai-revenue",
-      "date": "9 April 2026",
-      "headline": "Amazon’s AWS AI Revenue Run Rate Tops $15 Billion Amid Surging Demand",
-      "summary": "Amazon's cloud unit reported a $15B AI revenue run rate in Q1 2026, signaling hyperscaler AI spending is driving measurable growth and boosting chip revenue to over $20B annually. This underscores rising cloud and AI infrastructure costs for businesses, with Amazon's 2026 capex tied to committed AI projects. Enterprises face higher investments in AI compute amid Meta's projected $115-135B capex.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/09/top-tech-news-today-april-9-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "ase-new-fab-investment",
-      "date": "11 April 2026",
-      "headline": "ASE plans to invest more than US$3.1bn in new fab",
-      "summary": "ASE Technology Holding plans to invest over US$3.15 billion in a new advanced chip testing facility in Kaohsiung to meet AI-driven customer demand, addressing hardware supply chain bottlenecks. Taiwanese firms like ASE and TSMC face pressure to resolve choke points in global AI supply chains, impacting business operational efficiency and costs.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/11/2003855385",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/11/p09-260411-aa1.jpg",
       "category": "Strategy"
     }
   ]

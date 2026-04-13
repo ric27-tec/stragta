@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-11T07:46:41.324Z",
+  "lastUpdated": "2026-04-13T08:59:34.967Z",
   "articles": [
     {
-      "id": "volkswagen-deja-id4-eeuu",
-      "date": "9 April 2026",
-      "headline": "Volkswagen discontinúa producción de ID.4 en EE.UU. y refoca en línea Atlas",
-      "summary": "Volkswagen termina fabricación del ID.4 en Estados Unidos para concentrarse en la gama Atlas, evidenciando el reajuste del mercado de vehículos eléctricos. Esto refleja presiones competitivas de BYD y Tesla en software vehicular y la dificultad de fabricantes tradicionales para alcanzar competitividad en autonomía.",
-      "source": "OICA",
-      "sourceUrl": "https://oica.net/es/04-08-2026-oicas-5-noticias-importantes-resumidas/",
-      "imageUrl": "https://oica.net/wp-content/uploads/2026/04/Chute-du-petrole-euphorie-boursiere-1024x683.png",
-      "category": "Estrategia"
-    },
-    {
-      "id": "transformacion-digital-europa-inversión",
-      "date": "8 April 2026",
-      "headline": "Transformación digital en Europa: del gasto en tecnología a la automatización de decisiones",
-      "summary": "El gasto en transformación digital en Europa crecerá 16,6% anual hasta 2026 y superará 1,2 billones de dólares en EMEA para 2028. El desafío empresarial ha evolucionado: ya no se trata de implementar tecnología, sino de integrar datos y automatizar decisiones para ganar eficiencia y competitividad.",
-      "source": "Valencia Business",
-      "sourceUrl": "http://valencia-business.es/2026/04/08/de-implantar-tecnologia-a-activar-decisiones-asi-evoluciona-la-digitalizacion-en-la-industria/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "centinel-automatizacion-contabilidad-ia",
-      "date": "8 April 2026",
-      "headline": "Centinel recauda 1,2 millones de euros para automatizar contabilidad empresarial con IA",
-      "summary": "La startup hispano-argentina Centinel cerró financiación pre-semilla para automatizar procesos contables de grandes empresas mediante IA. Ya opera con clientes en España, Francia y filiales en EE.UU. y América Latina, integrándose como capa sobre sistemas ERP existentes para capturar datos dispersos en Excel y herramientas desconectadas.",
-      "source": "La Razón",
-      "sourceUrl": "https://www.larazon.es/emergente/centinel-levanta-12-millones-euros-automatizar-contabilidad-grandes-empresas_2026041069d8bfa2097ebe16ad738d30.html",
-      "imageUrl": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/04/10/CFAF0722-84B3-4F2A-9564-45BBFB673174/centinel-levanta-12-millones-euros-automatizar-contabilidad-grandes-empresas_98.jpg?crop=7615,4284,x0,y401&width=1900&height=1069&optimize=low&format=webply",
+      "id": "mckinsey-ia-adopcion-rapida",
+      "date": "10 April 2026",
+      "headline": "Cómo la rapidez en adoptar la IA multiplica los resultados",
+      "summary": "Empresas que aceleran la adopción de IA generan ventaja competitiva al rediseñar productos y procesos, aumentando el EBITDA hasta un 20% y triplicando la inversión en menos de dos años, según McKinsey. Esto resuelve problemas de negocio a gran escala, dificultando la replicación por competidores. Impacta directamente en productividad y eficiencia operativa para corporaciones y pymes.",
+      "source": "Infobae",
+      "sourceUrl": "https://www.infobae.com/estados-unidos/2026/04/10/como-la-rapidez-en-adoptar-la-ia-multiplica-los-resultados/",
+      "imageUrl": "https://www.infobae.com/resizer/v2/Y2IATGBPZVAMHJI73TRBZR7OE4.png?auth=4b49640dee1219e926343cfc98599bfd13ebc47bd0ef77123aee3c818350af4b&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
       "category": "Adopción de IA"
+    },
+    {
+      "id": "ibm-tendencias-2026",
+      "date": "10 April 2026",
+      "headline": "Cinco Tendencias para 2026: Adaptación Rápida y Resiliencia Tecnológica",
+      "summary": "IBM destaca la resiliencia tecnológica y soberanía de IA como prioridades para 2026, permitiendo convertir volatilidad en oportunidad y preparar ecosistemas con computación cuántica. Las organizaciones que se adaptan rápido ganan ventaja competitiva en un año de transformación acelerada por IA. Ayuda a empresas a planificar estrategia y eficiencia operativa.",
+      "source": "Zona Movilidad",
+      "sourceUrl": "https://www.zonamovilidad.es/cinco-tendencias-para-2026-adaptacion-rapida-y-resiliencia-tecnologica-en-el-futuro-empresarial",
+      "imageUrl": "https://www.zonamovilidad.es/fotos/2/2149901780_1.jpg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "tendencias-pymes-2026",
+      "date": "10 April 2026",
+      "headline": "Las 6 tendencias tecnológicas que más impactarán en 2026 a las pequeñas y medianas empresas",
+      "summary": "Para pymes, IA generativa, data como activo y automatización inteligente ahorran hasta 4.000 millones de euros anuales en España, liberando 10 horas semanales por empresa y reduciendo errores en procesos administrativos. Estas tendencias impulsan crecimiento e ingresos, priorizando adopción práctica sobre mera implementación. Clave para competitividad de pequeños negocios.",
+      "source": "Digital Innovation News",
+      "sourceUrl": "https://digitalinnovationnews.es/las-6-tendencias-tecnologicas-que-mas-impactaran-en-2026-a-las-pequenas-y-medianas-empresas/",
+      "imageUrl": "",
+      "category": "Automatización"
     }
   ]
 }
