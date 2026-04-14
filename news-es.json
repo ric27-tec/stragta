@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-13T08:59:34.967Z",
+  "lastUpdated": "2026-04-14T08:24:12.913Z",
   "articles": [
+    {
+      "id": "automacion-cognitiva-2026",
+      "date": "14 April 2026",
+      "headline": "2026: Cuando la tecnología deja de asistir y empieza a tomar decisiones",
+      "summary": "En 2026, las organizaciones cederán decisiones reales a sistemas multiagente y automatización agentic, impactando procesos como atención al cliente, logística y finanzas. Esto obliga a las empresas a responsabilizarse por criterios no humanos, mejorando eficiencia operativa pero requiriendo ajustes en gobernanza y riesgos. Las medianas y grandes empresas deben preparar su infraestructura para esta transición cualitativa.",
+      "source": "Inesdi",
+      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
+      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
+      "category": "Automatización"
+    },
     {
       "id": "mckinsey-ia-adopcion-rapida",
       "date": "10 April 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.zonamovilidad.es/cinco-tendencias-para-2026-adaptacion-rapida-y-resiliencia-tecnologica-en-el-futuro-empresarial",
       "imageUrl": "https://www.zonamovilidad.es/fotos/2/2149901780_1.jpg",
       "category": "Estrategia"
-    },
-    {
-      "id": "tendencias-pymes-2026",
-      "date": "10 April 2026",
-      "headline": "Las 6 tendencias tecnológicas que más impactarán en 2026 a las pequeñas y medianas empresas",
-      "summary": "Para pymes, IA generativa, data como activo y automatización inteligente ahorran hasta 4.000 millones de euros anuales en España, liberando 10 horas semanales por empresa y reduciendo errores en procesos administrativos. Estas tendencias impulsan crecimiento e ingresos, priorizando adopción práctica sobre mera implementación. Clave para competitividad de pequeños negocios.",
-      "source": "Digital Innovation News",
-      "sourceUrl": "https://digitalinnovationnews.es/las-6-tendencias-tecnologicas-que-mas-impactaran-en-2026-a-las-pequenas-y-medianas-empresas/",
-      "imageUrl": "",
-      "category": "Automatización"
     }
   ]
 }
