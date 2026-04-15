@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-14T08:24:12.913Z",
+  "lastUpdated": "2026-04-15T08:25:50.859Z",
   "articles": [
+    {
+      "id": "claude-anthropic-market-shift",
+      "date": "12 April 2026",
+      "headline": "Anthropic gana terreno frente a OpenAI entre usuarios empresariales; ambas son las de más rápido crecimiento en tecnología",
+      "summary": "Según análisis del Wall Street Journal, Anthropic y OpenAI son las empresas de más rápido crecimiento en la historia de la tecnología, pero Anthropic está ganando tracción en el mercado empresarial. OpenAI ha enfocado recursos en servicios de negocio y codificación tras abandonar proyectos secundarios, mientras lanza plan de suscripción de $100 USD para ChatGPT con herramienta Codex. El cambio de posicionamiento refleja competencia intensificada por capturar demanda empresarial de IA.",
+      "source": "Cadena 3",
+      "sourceUrl": "https://www.cadena3.com/amp/noticia/tecnologia/claude-la-estrella-del-humanx-como-la-ia-redefine-el-futuro-empresarial_540233",
+      "imageUrl": "https://images-tools.cadena3.com/tools/r/675717d5-f671-4b09-8ca3-acb9af10f688.jpg?width=1200&height=800",
+      "category": "Estrategia"
+    },
     {
       "id": "automacion-cognitiva-2026",
       "date": "14 April 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.infobae.com/estados-unidos/2026/04/10/como-la-rapidez-en-adoptar-la-ia-multiplica-los-resultados/",
       "imageUrl": "https://www.infobae.com/resizer/v2/Y2IATGBPZVAMHJI73TRBZR7OE4.png?auth=4b49640dee1219e926343cfc98599bfd13ebc47bd0ef77123aee3c818350af4b&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "ibm-tendencias-2026",
-      "date": "10 April 2026",
-      "headline": "Cinco Tendencias para 2026: Adaptación Rápida y Resiliencia Tecnológica",
-      "summary": "IBM destaca la resiliencia tecnológica y soberanía de IA como prioridades para 2026, permitiendo convertir volatilidad en oportunidad y preparar ecosistemas con computación cuántica. Las organizaciones que se adaptan rápido ganan ventaja competitiva en un año de transformación acelerada por IA. Ayuda a empresas a planificar estrategia y eficiencia operativa.",
-      "source": "Zona Movilidad",
-      "sourceUrl": "https://www.zonamovilidad.es/cinco-tendencias-para-2026-adaptacion-rapida-y-resiliencia-tecnologica-en-el-futuro-empresarial",
-      "imageUrl": "https://www.zonamovilidad.es/fotos/2/2149901780_1.jpg",
-      "category": "Estrategia"
     }
   ]
 }

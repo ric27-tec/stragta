@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-13T08:59:23.698Z",
+  "lastUpdated": "2026-04-15T08:25:30.960Z",
   "articles": [
     {
-      "id": "tsmc-q1-sales",
-      "date": "10 April 2026",
-      "headline": "TSMC rides the AI boom as first-quarter sales jump 35%",
-      "summary": "TSMC reported Q1 revenue up 35% year-over-year to $35.7 billion, exceeding forecasts due to surging demand for AI chips. This signals sustained heavy spending by hyperscalers on AI infrastructure, pressuring supply chains for packaging, memory, power, and cooling. Businesses reliant on advanced semiconductors face ongoing capacity constraints and rising costs.",
+      "id": "ai-energy-crunch-2026",
+      "date": "13 April 2026",
+      "headline": "AI Energy Demands Strain Computing Resources, Leading to Rationing",
+      "summary": "AI companies face acute energy shortages forcing rationing of computing power, with data centers struggling to meet explosive demand. The constraints threaten AI deployment timelines and could force major tech companies to prioritize energy-efficient solutions or massive infrastructure investments, while startups face tightening margins and reduced access to top-tier compute resources.",
       "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/10/top-tech-news-today-april-10-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "motorola-price-hikes",
-      "date": "10 April 2026",
-      "headline": "Motorola raises budget phone prices up to 50% due to AI and memory shortages",
-      "summary": "Motorola hiked prices on budget phones by up to 50%, blaming AI-driven chip and memory shortages that disrupt consumer device supply chains. This exacerbates affordability issues for budget hardware, signaling broader impacts on device makers and businesses evaluating mobile tech upgrades. SMEs and local businesses face higher costs for digital tools amid persistent semiconductor constraints.",
-      "source": "Coaio",
-      "sourceUrl": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-cybersecurity-2m4c/",
-      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
+      "sourceUrl": "https://techstartups.com/2026/04/13/top-tech-news-today-april-13-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
       "category": "Strategy"
     },
     {
-      "id": "intel-terafab-partnership",
+      "id": "edge-computing-enterprise-adoption",
       "date": "12 April 2026",
-      "headline": "Intel Joins Elon Musk’s Terafab Chip Project for Tesla and xAI",
-      "summary": "Intel partnered with Elon Musk’s Terafab initiative to develop semiconductors for Tesla, SpaceX, and xAI, boosting Intel shares by 4.2% and signaling shifts in AI chip supply chains. This could diversify sourcing away from Asian manufacturers, impacting global trade and hardware costs for AI infrastructure. Businesses gain potential new options amid ongoing chip shortages.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/12/2003855430",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/12/P09-260412-306.jpg",
+      "headline": "Edge Computing Solidifies as Critical Strategy for Enterprise Operations",
+      "summary": "Edge computing is gaining traction across Industry 4.0, retail, and healthcare as organizations reduce latency and cloud dependency for critical applications. By decentralizing data processing, companies enhance reliability, resilience, and efficiency—marking a fundamental shift in infrastructure strategy that affects cloud cost models and on-premise technology investments.",
+      "source": "Pipefy",
+      "sourceUrl": "https://www.pipefy.com/blog/technology-trends/",
+      "imageUrl": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2025/12/technology-trends-2026-thumb-1440x900.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "coreweve-anthropic-infrastructure",
+      "date": "10 April 2026",
+      "headline": "CoreWeave Secures $3.5B Financing and Multi-Year Anthropic Deal",
+      "summary": "CoreWeave dominates AI infrastructure headlines with a multi-year GPU capacity agreement with Anthropic and an upsized $3.5 billion convertible notes offering. The deal boosts demand visibility for GPU capacity while raising shareholder dilution concerns—a key indicator of capital-intensity in AI infrastructure expansion and investor risk assessment.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-04-10/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "Strategy"
     }
   ]
