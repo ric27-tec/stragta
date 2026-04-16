@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-15T08:25:30.960Z",
+  "lastUpdated": "2026-04-16T08:24:56.791Z",
   "articles": [
     {
-      "id": "ai-energy-crunch-2026",
+      "id": "xenergy-ipo",
+      "date": "16 April 2026",
+      "headline": "Amazon-backed X-energy Files to Raise up to $800M in IPO",
+      "summary": "Nuclear startup X-energy, backed by Amazon, launches IPO to fund advanced reactor tech addressing data center energy needs for AI growth. This signals rising infrastructure investments to mitigate power shortages, potentially stabilizing cloud and AI compute costs long-term.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "ai-energy-rationing",
       "date": "13 April 2026",
       "headline": "AI Energy Demands Strain Computing Resources, Leading to Rationing",
-      "summary": "AI companies face acute energy shortages forcing rationing of computing power, with data centers struggling to meet explosive demand. The constraints threaten AI deployment timelines and could force major tech companies to prioritize energy-efficient solutions or massive infrastructure investments, while startups face tightening margins and reduced access to top-tier compute resources.",
+      "summary": "AI companies face acute energy shortages forcing rationing of computing power, slowing deployment timelines and pressuring Big Tech to invest in energy-efficient infrastructure. This exposes bottlenecks in data centers that threaten AI scalability and raise compute costs, widening the competitive moat for incumbents over startups.",
       "source": "Tech Startups",
       "sourceUrl": "https://techstartups.com/2026/04/13/top-tech-news-today-april-13-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "Strategy"
+      "category": "AI Adoption"
     },
     {
-      "id": "edge-computing-enterprise-adoption",
-      "date": "12 April 2026",
-      "headline": "Edge Computing Solidifies as Critical Strategy for Enterprise Operations",
-      "summary": "Edge computing is gaining traction across Industry 4.0, retail, and healthcare as organizations reduce latency and cloud dependency for critical applications. By decentralizing data processing, companies enhance reliability, resilience, and efficiency—marking a fundamental shift in infrastructure strategy that affects cloud cost models and on-premise technology investments.",
-      "source": "Pipefy",
-      "sourceUrl": "https://www.pipefy.com/blog/technology-trends/",
-      "imageUrl": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2025/12/technology-trends-2026-thumb-1440x900.png",
-      "category": "Strategy"
-    },
-    {
-      "id": "coreweve-anthropic-infrastructure",
-      "date": "10 April 2026",
-      "headline": "CoreWeave Secures $3.5B Financing and Multi-Year Anthropic Deal",
-      "summary": "CoreWeave dominates AI infrastructure headlines with a multi-year GPU capacity agreement with Anthropic and an upsized $3.5 billion convertible notes offering. The deal boosts demand visibility for GPU capacity while raising shareholder dilution concerns—a key indicator of capital-intensity in AI infrastructure expansion and investor risk assessment.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-04-10/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "id": "sifive-valuation",
+      "date": "13 April 2026",
+      "headline": "Nvidia-backed SiFive Hits $3.65 Billion Valuation for Open AI Chips",
+      "summary": "SiFive's RISC-V based chips for AI applications reach $3.65B valuation, offering an open-source alternative amid surging demand for specialized hardware. This could reduce dependency on proprietary architectures, impacting chip supply chains and hardware costs for AI infrastructure.",
+      "source": "Coaio",
+      "sourceUrl": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-13-2026-ai-innovations-e-commerce-battles-2mgc/",
+      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
       "category": "Strategy"
     }
   ]

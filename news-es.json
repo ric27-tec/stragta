@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-15T08:25:50.859Z",
+  "lastUpdated": "2026-04-16T08:25:03.189Z",
   "articles": [
     {
-      "id": "claude-anthropic-market-shift",
-      "date": "12 April 2026",
-      "headline": "Anthropic gana terreno frente a OpenAI entre usuarios empresariales; ambas son las de más rápido crecimiento en tecnología",
-      "summary": "Según análisis del Wall Street Journal, Anthropic y OpenAI son las empresas de más rápido crecimiento en la historia de la tecnología, pero Anthropic está ganando tracción en el mercado empresarial. OpenAI ha enfocado recursos en servicios de negocio y codificación tras abandonar proyectos secundarios, mientras lanza plan de suscripción de $100 USD para ChatGPT con herramienta Codex. El cambio de posicionamiento refleja competencia intensificada por capturar demanda empresarial de IA.",
-      "source": "Cadena 3",
-      "sourceUrl": "https://www.cadena3.com/amp/noticia/tecnologia/claude-la-estrella-del-humanx-como-la-ia-redefine-el-futuro-empresarial_540233",
-      "imageUrl": "https://images-tools.cadena3.com/tools/r/675717d5-f671-4b09-8ca3-acb9af10f688.jpg?width=1200&height=800",
-      "category": "Estrategia"
+      "id": "computacion-ambiental",
+      "date": "13 April 2026",
+      "headline": "Adiós a la pantalla del móvil: llega la era de la tecnología invisible",
+      "summary": "La computación ambiental integra tecnología en el entorno sin pantallas, con ventas de smartphones cayendo un 13% según IDC, lo que obliga a empresas a replantear estrategias de dispositivos móviles y wearables. Interfaces cerebro-computadora como Neuralink permiten control mental, impactando productividad y accesibilidad en operaciones empresariales. Esto altera cadenas de suministro de hardware y demanda de interfaces tradicionales.",
+      "source": "The Objective",
+      "sourceUrl": "https://theobjective.com/tecnologia/2026-04-13/pantalla-movil-llega-tecnologia-invisible/",
+      "imageUrl": "https://theobjective.com/wp-content/uploads/2026/04/Tecnologia-Invisible-Neuralink-Lee-gratis.jpg",
+      "category": "Adopción de IA"
     },
     {
-      "id": "automacion-cognitiva-2026",
-      "date": "14 April 2026",
+      "id": "tecnologias-2026",
+      "date": "13 April 2026",
+      "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
+      "summary": "Tendencias como embodied AI en robots humanoides, movilidad autónoma e infraestructura sostenible transforman eficiencia operativa y automatización en empresas. La ciberseguridad se convierte en condición básica de la vida digital ante riesgos de IA y cómputo cuántico, exigiendo inversiones en protección de sistemas críticos. Impacta planificación de contrataciones y costes en adopción tecnológica.",
+      "source": "Conecta TEC de Monterrey",
+      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
+      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "category": "Automatización"
+    },
+    {
+      "id": "tecnologia-decisiones",
+      "date": "13 April 2026",
       "headline": "2026: Cuando la tecnología deja de asistir y empieza a tomar decisiones",
-      "summary": "En 2026, las organizaciones cederán decisiones reales a sistemas multiagente y automatización agentic, impactando procesos como atención al cliente, logística y finanzas. Esto obliga a las empresas a responsabilizarse por criterios no humanos, mejorando eficiencia operativa pero requiriendo ajustes en gobernanza y riesgos. Las medianas y grandes empresas deben preparar su infraestructura para esta transición cualitativa.",
+      "summary": "La automatización cognitiva permite a sistemas IA coordinarse para decisiones complejas, obligando a organizaciones a asumir responsabilidad legal y operativa. Plataformas de seguridad AI-first y confidential computing responden a riesgos en datos usados para decisiones, afectando cumplimiento regulatorio y ciberseguridad en empresas. Cambia eficiencia operativa y planificación estratégica.",
       "source": "Inesdi",
       "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
       "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
       "category": "Automatización"
-    },
-    {
-      "id": "mckinsey-ia-adopcion-rapida",
-      "date": "10 April 2026",
-      "headline": "Cómo la rapidez en adoptar la IA multiplica los resultados",
-      "summary": "Empresas que aceleran la adopción de IA generan ventaja competitiva al rediseñar productos y procesos, aumentando el EBITDA hasta un 20% y triplicando la inversión en menos de dos años, según McKinsey. Esto resuelve problemas de negocio a gran escala, dificultando la replicación por competidores. Impacta directamente en productividad y eficiencia operativa para corporaciones y pymes.",
-      "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/estados-unidos/2026/04/10/como-la-rapidez-en-adoptar-la-ia-multiplica-los-resultados/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/Y2IATGBPZVAMHJI73TRBZR7OE4.png?auth=4b49640dee1219e926343cfc98599bfd13ebc47bd0ef77123aee3c818350af4b&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Adopción de IA"
     }
   ]
 }
