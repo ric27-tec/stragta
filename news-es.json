@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-16T08:25:03.189Z",
+  "lastUpdated": "2026-04-17T08:24:35.505Z",
   "articles": [
     {
-      "id": "computacion-ambiental",
-      "date": "13 April 2026",
-      "headline": "Adiós a la pantalla del móvil: llega la era de la tecnología invisible",
-      "summary": "La computación ambiental integra tecnología en el entorno sin pantallas, con ventas de smartphones cayendo un 13% según IDC, lo que obliga a empresas a replantear estrategias de dispositivos móviles y wearables. Interfaces cerebro-computadora como Neuralink permiten control mental, impactando productividad y accesibilidad en operaciones empresariales. Esto altera cadenas de suministro de hardware y demanda de interfaces tradicionales.",
-      "source": "The Objective",
-      "sourceUrl": "https://theobjective.com/tecnologia/2026-04-13/pantalla-movil-llega-tecnologia-invisible/",
-      "imageUrl": "https://theobjective.com/wp-content/uploads/2026/04/Tecnologia-Invisible-Neuralink-Lee-gratis.jpg",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "tecnologias-2026",
-      "date": "13 April 2026",
-      "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
-      "summary": "Tendencias como embodied AI en robots humanoides, movilidad autónoma e infraestructura sostenible transforman eficiencia operativa y automatización en empresas. La ciberseguridad se convierte en condición básica de la vida digital ante riesgos de IA y cómputo cuántico, exigiendo inversiones en protección de sistemas críticos. Impacta planificación de contrataciones y costes en adopción tecnológica.",
-      "source": "Conecta TEC de Monterrey",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
-      "category": "Automatización"
-    },
-    {
-      "id": "tecnologia-decisiones",
-      "date": "13 April 2026",
+      "id": "ia-decision-making-2026",
+      "date": "17 April 2026",
       "headline": "2026: Cuando la tecnología deja de asistir y empieza a tomar decisiones",
-      "summary": "La automatización cognitiva permite a sistemas IA coordinarse para decisiones complejas, obligando a organizaciones a asumir responsabilidad legal y operativa. Plataformas de seguridad AI-first y confidential computing responden a riesgos en datos usados para decisiones, afectando cumplimiento regulatorio y ciberseguridad en empresas. Cambia eficiencia operativa y planificación estratégica.",
+      "summary": "Las organizaciones ceden decisiones reales a sistemas de IA, marcando un punto de inflexión en adopción con impactos operativos y de responsabilidad legal. Se enfatiza la seguridad AI-first ante fallos potencialmente fatales, afectando eficiencia y riesgos en empresas de todos los tamaños. Esto obliga a replantear gobernanza y cumplimiento en automatización.",
       "source": "Inesdi",
       "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
       "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
-      "category": "Automatización"
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "meta-dethrones-google",
+      "date": "14 April 2026",
+      "headline": "Meta destrona a Google por primera vez en batalla tecnológica",
+      "summary": "Meta supera a Google en valoración de mercado gracias a su inversión masiva de 135.000 millones en infraestructura de IA, impactando los mercados digitales y la competencia en servicios cloud. SanDisk sube 12% por su inclusión en Nasdaq 100, impulsando demanda de memorias NAND para centros de datos de IA. Esto altera la planificación estratégica de empresas dependientes de publicidad y cloud.",
+      "source": "Espresso Matutino",
+      "sourceUrl": "https://www.espressomatutino.com/p/2026-04-14",
+      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2797d7a3-19ce-4092-bcae-5df937e1e887/169_para_Gemini__1_.jpg?t=1776126332",
+      "category": "Estrategia"
+    },
+    {
+      "id": "logistica-guerra-tecnologia",
+      "date": "14 April 2026",
+      "headline": "La logística en un mundo en guerra: tecnología anticipa riesgos y protege cadenas de suministro",
+      "summary": "La tecnología ayuda a anticipar riesgos geopolíticos en logística, protegiendo cadenas de suministro ante tensiones globales. Impacta directamente en comercio internacional, costes operativos y planificación empresarial para corporaciones y pymes. Reduce vulnerabilidades en un entorno de guerra y sanciones.",
+      "source": "Cinco Días",
+      "sourceUrl": "https://cincodias.elpais.com/opinion/2026-04-14/la-logistica-en-un-mundo-en-guerra-cuando-la-tecnologia-anticipa-riesgos-y-protege-la-cadena-de-suministro.html",
+      "imageUrl": "",
+      "category": "Estrategia"
     }
   ]
 }

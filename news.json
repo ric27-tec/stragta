@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-16T08:24:56.791Z",
+  "lastUpdated": "2026-04-17T08:24:28.323Z",
   "articles": [
     {
-      "id": "xenergy-ipo",
-      "date": "16 April 2026",
-      "headline": "Amazon-backed X-energy Files to Raise up to $800M in IPO",
-      "summary": "Nuclear startup X-energy, backed by Amazon, launches IPO to fund advanced reactor tech addressing data center energy needs for AI growth. This signals rising infrastructure investments to mitigate power shortages, potentially stabilizing cloud and AI compute costs long-term.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "imageUrl": "",
+      "id": "zte-broadband-monetization",
+      "date": "17 April 2026",
+      "headline": "ZTE Highlights Path to Broadband Monetization at FTTH Conference 2026",
+      "summary": "ZTE outlined strategies for broadband providers to monetize networks amid rising data demands from AI and cloud services. This offers SMEs and enterprises tools to enhance connectivity revenue streams and reduce infrastructure costs. Operational efficiency gains are possible for businesses upgrading digital tools.",
+      "source": "ZTE",
+      "sourceUrl": "https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/about/news/ZTE-Highlights-Path-to-Broadband-Monetization-at-FTTH-Conference-2026.html",
+      "imageUrl": "https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/国际新闻/微信分享缩略图4/ZTE Highlights Path to Broadband Monetization at FTTH Conference 2026.jpg",
       "category": "Strategy"
     },
     {
-      "id": "ai-energy-rationing",
-      "date": "13 April 2026",
-      "headline": "AI Energy Demands Strain Computing Resources, Leading to Rationing",
-      "summary": "AI companies face acute energy shortages forcing rationing of computing power, slowing deployment timelines and pressuring Big Tech to invest in energy-efficient infrastructure. This exposes bottlenecks in data centers that threaten AI scalability and raise compute costs, widening the competitive moat for incumbents over startups.",
+      "id": "ransomware-energy-manufacturing",
+      "date": "17 April 2026",
+      "headline": "Rise in Ransomware Attacks Hits Energy and Manufacturing Sectors",
+      "summary": "Gunra Ransomware targeted Thai Petroleum & Trading, while The Gentlemen Ransomware struck Aichi Electric Co., causing data loss, financial damage, and disruptions in energy and manufacturing. These incidents highlight escalating cybersecurity risks for critical infrastructure and supply chains. Businesses must prioritize defenses to avoid operational halts and reputational harm.",
+      "source": "CYFIRMA",
+      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-17-april-2026/",
+      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
+      "category": "Regulation"
+    },
+    {
+      "id": "utilities-ai-spending",
+      "date": "14 April 2026",
+      "headline": "U.S. Utilities Gear Up for $1.4 Trillion Spending Surge to Power AI Data Centers",
+      "summary": "America’s largest utilities plan $1.4 trillion in spending over five years to meet AI-driven electricity demand and upgrade grids, impacting cloud computing costs and infrastructure economics. This will reshape supply chains for chips and large-model AI deployment while creating new regional tech corridors. Businesses face higher energy costs but opportunities in expanded compute-adjacent real estate and industrial policy.",
       "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/13/top-tech-news-today-april-13-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
+      "sourceUrl": "https://techstartups.com/2026/04/14/top-tech-news-today-april-14-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
       "category": "AI Adoption"
-    },
-    {
-      "id": "sifive-valuation",
-      "date": "13 April 2026",
-      "headline": "Nvidia-backed SiFive Hits $3.65 Billion Valuation for Open AI Chips",
-      "summary": "SiFive's RISC-V based chips for AI applications reach $3.65B valuation, offering an open-source alternative amid surging demand for specialized hardware. This could reduce dependency on proprietary architectures, impacting chip supply chains and hardware costs for AI infrastructure.",
-      "source": "Coaio",
-      "sourceUrl": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-13-2026-ai-innovations-e-commerce-battles-2mgc/",
-      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
-      "category": "Strategy"
     }
   ]
 }
