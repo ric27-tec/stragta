@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-17T08:24:28.323Z",
+  "lastUpdated": "2026-04-18T07:56:53.422Z",
   "articles": [
+    {
+      "id": "data-center-delays",
+      "date": "15 April 2026",
+      "headline": "Over Half of U.S. Data Center Projects Delayed or Canceled, Boosting Value of Existing AI Infrastructure",
+      "summary": "More than half of planned U.S. data center builds are delayed or canceled due to supply shortages, power constraints, and reliance on Chinese imports, elevating the value of existing AI facilities amid surging demand. Tech giants like Amazon and Alphabet continue massive investments, but bottlenecks shift competitive advantage to operators with ready capacity. This underscores supply chain fragility, energy risks, and infrastructure chokepoints for businesses planning AI expansions.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/15/top-tech-news-today-april-15-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "broadcom-meta",
+      "date": "14 April 2026",
+      "headline": "Broadcom Announces Extended Partnership with Meta to Support Multi-Gigawatts of Custom Silicon",
+      "summary": "Broadcom extended its technology partnership with Meta to deploy solutions for multi-gigawatt-scale custom AI silicon, deepening hyperscaler demand for AI compute. This enhances revenue visibility for chip suppliers and highlights secular growth in AI infrastructure spending. Enterprises assessing hardware partnerships note strengthened supply chain ties amid capacity races.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-04-14/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "AI Adoption"
+    },
     {
       "id": "zte-broadband-monetization",
       "date": "17 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/about/news/ZTE-Highlights-Path-to-Broadband-Monetization-at-FTTH-Conference-2026.html",
       "imageUrl": "https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/国际新闻/微信分享缩略图4/ZTE Highlights Path to Broadband Monetization at FTTH Conference 2026.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "ransomware-energy-manufacturing",
-      "date": "17 April 2026",
-      "headline": "Rise in Ransomware Attacks Hits Energy and Manufacturing Sectors",
-      "summary": "Gunra Ransomware targeted Thai Petroleum & Trading, while The Gentlemen Ransomware struck Aichi Electric Co., causing data loss, financial damage, and disruptions in energy and manufacturing. These incidents highlight escalating cybersecurity risks for critical infrastructure and supply chains. Businesses must prioritize defenses to avoid operational halts and reputational harm.",
-      "source": "CYFIRMA",
-      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-17-april-2026/",
-      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
-      "category": "Regulation"
-    },
-    {
-      "id": "utilities-ai-spending",
-      "date": "14 April 2026",
-      "headline": "U.S. Utilities Gear Up for $1.4 Trillion Spending Surge to Power AI Data Centers",
-      "summary": "America’s largest utilities plan $1.4 trillion in spending over five years to meet AI-driven electricity demand and upgrade grids, impacting cloud computing costs and infrastructure economics. This will reshape supply chains for chips and large-model AI deployment while creating new regional tech corridors. Businesses face higher energy costs but opportunities in expanded compute-adjacent real estate and industrial policy.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/14/top-tech-news-today-april-14-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
-      "category": "AI Adoption"
     }
   ]
 }
