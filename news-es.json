@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-17T08:24:35.505Z",
+  "lastUpdated": "2026-04-19T08:03:53.814Z",
   "articles": [
     {
-      "id": "ia-decision-making-2026",
-      "date": "17 April 2026",
+      "id": "automation-cognitiva-2026",
+      "date": "19 April 2026",
       "headline": "2026: Cuando la tecnología deja de asistir y empieza a tomar decisiones",
-      "summary": "Las organizaciones ceden decisiones reales a sistemas de IA, marcando un punto de inflexión en adopción con impactos operativos y de responsabilidad legal. Se enfatiza la seguridad AI-first ante fallos potencialmente fatales, afectando eficiencia y riesgos en empresas de todos los tamaños. Esto obliga a replantear gobernanza y cumplimiento en automatización.",
+      "summary": "En 2026, las organizaciones entrarán en la automatización cognitiva con sistemas multiagente que coordinan tareas complejas, toman decisiones prioritarias y ajustan operaciones en tiempo real, impactando eficiencia operativa y reduciendo dependencia humana. Esto representa un punto de inflexión para empresas al aceptar criterio no humano en procesos de negocio, con implicaciones en productividad y planificación estratégica.",
       "source": "Inesdi",
       "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
       "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
+      "category": "Automatización"
+    },
+    {
+      "id": "ia-generativa-canal-negocio",
+      "date": "19 April 2026",
+      "headline": "IA generativa: un arma generadora de oportunidades de negocio en manos de canal",
+      "summary": "La IA generativa se convierte en herramienta real para partners del canal, abriendo oportunidades de diferenciación, crecimiento y nuevos ingresos, pero con desafíos legales y operativos. Empresas y pymes pueden reducir costes y mejorar eficiencia al adoptarla estratégicamente.",
+      "source": "ComputerWorld",
+      "sourceUrl": "https://www.computerworld.es/article/4116847/ia-generativa-un-arma-generadora-de-oportunidades-de-negocio-en-manos-de-canal.html",
+      "imageUrl": "https://www.computerworld.es/wp-content/uploads/2026/01/4116847-0-39807000-1768544291-shutterstock_2556469215.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "category": "Estrategia"
+    },
+    {
+      "id": "agentes-ia-empresas-2026",
+      "date": "16 April 2026",
+      "headline": "Agentes, datos y decisiones: hacia dónde va la tecnología en las empresas",
+      "summary": "La tecnología impulsa valor en velocidad, eficiencia y calidad para empresas mediante agentes IA que optimizan decisiones basadas en datos. Esto permite a corporaciones y pymes mejorar productividad operativa y competitividad al integrar herramientas avanzadas en sus procesos diarios.",
+      "source": "Infobae",
+      "sourceUrl": "https://www.infobae.com/movant/2026/04/16/agentes-datos-y-decisiones-hacia-donde-va-la-tecnologia-en-las-empresas/",
+      "imageUrl": "https://www.infobae.com/resizer/v2/WT7M3YPTEBCWPD6CD2UUWQH37A.jpg?auth=3166ddb64982bb392b974296048fa32c5c148787816b73d29c6cd8d8f3f2e55d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "meta-dethrones-google",
-      "date": "14 April 2026",
-      "headline": "Meta destrona a Google por primera vez en batalla tecnológica",
-      "summary": "Meta supera a Google en valoración de mercado gracias a su inversión masiva de 135.000 millones en infraestructura de IA, impactando los mercados digitales y la competencia en servicios cloud. SanDisk sube 12% por su inclusión en Nasdaq 100, impulsando demanda de memorias NAND para centros de datos de IA. Esto altera la planificación estratégica de empresas dependientes de publicidad y cloud.",
-      "source": "Espresso Matutino",
-      "sourceUrl": "https://www.espressomatutino.com/p/2026-04-14",
-      "imageUrl": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2797d7a3-19ce-4092-bcae-5df937e1e887/169_para_Gemini__1_.jpg?t=1776126332",
-      "category": "Estrategia"
-    },
-    {
-      "id": "logistica-guerra-tecnologia",
-      "date": "14 April 2026",
-      "headline": "La logística en un mundo en guerra: tecnología anticipa riesgos y protege cadenas de suministro",
-      "summary": "La tecnología ayuda a anticipar riesgos geopolíticos en logística, protegiendo cadenas de suministro ante tensiones globales. Impacta directamente en comercio internacional, costes operativos y planificación empresarial para corporaciones y pymes. Reduce vulnerabilidades en un entorno de guerra y sanciones.",
-      "source": "Cinco Días",
-      "sourceUrl": "https://cincodias.elpais.com/opinion/2026-04-14/la-logistica-en-un-mundo-en-guerra-cuando-la-tecnologia-anticipa-riesgos-y-protege-la-cadena-de-suministro.html",
-      "imageUrl": "",
-      "category": "Estrategia"
     }
   ]
 }
