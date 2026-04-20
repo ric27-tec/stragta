@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-19T08:03:53.814Z",
+  "lastUpdated": "2026-04-20T09:05:24.890Z",
   "articles": [
     {
-      "id": "automation-cognitiva-2026",
-      "date": "19 April 2026",
-      "headline": "2026: Cuando la tecnología deja de asistir y empieza a tomar decisiones",
-      "summary": "En 2026, las organizaciones entrarán en la automatización cognitiva con sistemas multiagente que coordinan tareas complejas, toman decisiones prioritarias y ajustan operaciones en tiempo real, impactando eficiencia operativa y reduciendo dependencia humana. Esto representa un punto de inflexión para empresas al aceptar criterio no humano en procesos de negocio, con implicaciones en productividad y planificación estratégica.",
-      "source": "Inesdi",
-      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
-      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
-      "category": "Automatización"
+      "id": "tech-tsunami-2026",
+      "date": "12 December 2026",
+      "headline": "El tsunami tecnológico de 2026: colisión entre IA, cuántica",
+      "summary": "Gobiernos y corporaciones migran a agilidad criptográfica por amenazas cuánticas a algoritmos actuales. Afecta ciberseguridad, costes de nube y cumplimiento para empresas, priorizando inversión en infraestructura resistente.",
+      "source": "Puro Marketing",
+      "sourceUrl": "https://www.puromarketing.com/12/216477/tsunami-tecnologico-2026-colision-entre-cuantica",
+      "imageUrl": "https://www.puromarketing.com/uploads/img/contents/2025/1g7SCEJMLA2u5tmzTaDZ/1g7SCEJMLA2u5tmzTaDZ_post_imagen_prev.jpg",
+      "category": "Ciberseguridad"
     },
     {
-      "id": "ia-generativa-canal-negocio",
-      "date": "19 April 2026",
-      "headline": "IA generativa: un arma generadora de oportunidades de negocio en manos de canal",
-      "summary": "La IA generativa se convierte en herramienta real para partners del canal, abriendo oportunidades de diferenciación, crecimiento y nuevos ingresos, pero con desafíos legales y operativos. Empresas y pymes pueden reducir costes y mejorar eficiencia al adoptarla estratégicamente.",
-      "source": "ComputerWorld",
-      "sourceUrl": "https://www.computerworld.es/article/4116847/ia-generativa-un-arma-generadora-de-oportunidades-de-negocio-en-manos-de-canal.html",
-      "imageUrl": "https://www.computerworld.es/wp-content/uploads/2026/01/4116847-0-39807000-1768544291-shutterstock_2556469215.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "id": "eu-data-center-law",
+      "date": "17 April 2026",
+      "headline": "Una ley europea impide saber el consumo de centros de datos",
+      "summary": "La legislación de la UE clasifica como confidencial el consumo energético y de agua de centros de datos, tras presión de Microsoft y DigitalEurope (Amazon, Google, Meta). Esto bloquea el acceso público a datos clave sobre impacto medioambiental, afectando planificación regulatoria y costes operativos para empresas que dependen de cloud.",
+      "source": "EL PAÍS",
+      "sourceUrl": "https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-ley-europea-a-la-medida-de-las-grandes-tecnologicas-impide-saberlo.html",
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/BHKSNP66PFH7ZPS37C7CPE4WEY.jpg?auth=4dc4574bb3317e374e2b5252155102d45e4a9e586db0a874439e2c692a1d89c1&amp;width=1200",
+      "category": "Regulación"
+    },
+    {
+      "id": "france-tech-independence",
+      "date": "17 April 2026",
+      "headline": "Francia impulsa medida para independizarse tecnológicamente de EE.UU.",
+      "summary": "El gobierno francés busca reducir la dependencia de tecnología estadounidense, similar a iniciativas previas en Extremadura. Esto impacta comercio internacional, cadenas de suministro y estrategias de proveedores en Europa, alterando planificación empresarial para pymes y grandes corporaciones.",
+      "source": "Cadena SER",
+      "sourceUrl": "https://cadenaser.com/nacional/2026/04/17/la-medida-revolucionaria-del-gobierno-frances-que-ya-aplico-extremadura-hace-20-anos-fueron-los-primeros-en-europa-cadena-ser/",
+      "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "agentes-ia-empresas-2026",
-      "date": "16 April 2026",
-      "headline": "Agentes, datos y decisiones: hacia dónde va la tecnología en las empresas",
-      "summary": "La tecnología impulsa valor en velocidad, eficiencia y calidad para empresas mediante agentes IA que optimizan decisiones basadas en datos. Esto permite a corporaciones y pymes mejorar productividad operativa y competitividad al integrar herramientas avanzadas en sus procesos diarios.",
-      "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/movant/2026/04/16/agentes-datos-y-decisiones-hacia-donde-va-la-tecnologia-en-las-empresas/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/WT7M3YPTEBCWPD6CD2UUWQH37A.jpg?auth=3166ddb64982bb392b974296048fa32c5c148787816b73d29c6cd8d8f3f2e55d&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Adopción de IA"
     }
   ]
 }

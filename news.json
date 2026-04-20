@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-18T07:56:53.422Z",
+  "lastUpdated": "2026-04-20T09:05:18.700Z",
   "articles": [
     {
-      "id": "data-center-delays",
-      "date": "15 April 2026",
-      "headline": "Over Half of U.S. Data Center Projects Delayed or Canceled, Boosting Value of Existing AI Infrastructure",
-      "summary": "More than half of planned U.S. data center builds are delayed or canceled due to supply shortages, power constraints, and reliance on Chinese imports, elevating the value of existing AI facilities amid surging demand. Tech giants like Amazon and Alphabet continue massive investments, but bottlenecks shift competitive advantage to operators with ready capacity. This underscores supply chain fragility, energy risks, and infrastructure chokepoints for businesses planning AI expansions.",
+      "id": "openai-cerebras-deal",
+      "date": "17 April 2026",
+      "headline": "OpenAI Commits $20 Billion to Cerebras Chips Over Three Years",
+      "summary": "OpenAI has agreed to spend over $20 billion on Cerebras-powered server capacity, roughly double its previous chipmaker commitment, with potential minority stake warrants. The deal signals a strategic shift in AI competition from model development to long-term control of infrastructure, chips, and servers—a critical factor affecting compute costs and AI deployment timelines for enterprises.",
       "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/15/top-tech-news-today-april-15-2026/",
+      "sourceUrl": "https://techstartups.com/2026/04/17/top-tech-news-today-april-17-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
+      "category": "Strategy"
+    },
+    {
+      "id": "data-center-infrastructure-boom",
+      "date": "17 April 2026",
+      "headline": "Data Center Demand Surges 16% Annually Through 2028 as AI Workloads Drive Gigawatt-Scale Infrastructure Shift",
+      "summary": "International demand for data centers and computing power is expected to increase 16% annually through 2028, with many sites reaching gigawatt-scale capacity. Energy consumption and power availability have become central planning constraints, driving up electricity costs in concentrated regions and forcing developers to explore on-site power generation—a major cost consideration for businesses planning AI deployments.",
+      "source": "Insight Global",
+      "sourceUrl": "https://insightglobal.com/technology-trends/",
+      "imageUrl": "https://insightglobal.com/wp-content/uploads/2026/03/Tech_Trends_Header.png",
       "category": "AI Adoption"
     },
     {
-      "id": "broadcom-meta",
-      "date": "14 April 2026",
-      "headline": "Broadcom Announces Extended Partnership with Meta to Support Multi-Gigawatts of Custom Silicon",
-      "summary": "Broadcom extended its technology partnership with Meta to deploy solutions for multi-gigawatt-scale custom AI silicon, deepening hyperscaler demand for AI compute. This enhances revenue visibility for chip suppliers and highlights secular growth in AI infrastructure spending. Enterprises assessing hardware partnerships note strengthened supply chain ties amid capacity races.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-04-14/",
+      "id": "enterprises-ai-production",
+      "date": "17 April 2026",
+      "headline": "Enterprises Move from AI Pilots to Production with Managed Services, Expanding Software and Cloud Spend",
+      "summary": "Internet Initiative reports that enterprises are transitioning AI projects from pilot phase to production deployments using managed AI services. This shift signals accelerating software spend and cloud adoption among businesses, with practical implications for IT budgets, vendor selection, and competitive positioning for companies offering managed AI infrastructure.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-04-17/",
       "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "AI Adoption"
-    },
-    {
-      "id": "zte-broadband-monetization",
-      "date": "17 April 2026",
-      "headline": "ZTE Highlights Path to Broadband Monetization at FTTH Conference 2026",
-      "summary": "ZTE outlined strategies for broadband providers to monetize networks amid rising data demands from AI and cloud services. This offers SMEs and enterprises tools to enhance connectivity revenue streams and reduce infrastructure costs. Operational efficiency gains are possible for businesses upgrading digital tools.",
-      "source": "ZTE",
-      "sourceUrl": "https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/about/news/ZTE-Highlights-Path-to-Broadband-Monetization-at-FTTH-Conference-2026.html",
-      "imageUrl": "https://www.zte.com.cn/content/dam/zte-site/res-www-zte-com-cn/国际新闻/微信分享缩略图4/ZTE Highlights Path to Broadband Monetization at FTTH Conference 2026.jpg",
-      "category": "Strategy"
     }
   ]
 }
