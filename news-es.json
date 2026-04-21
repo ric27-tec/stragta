@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-20T09:05:24.890Z",
+  "lastUpdated": "2026-04-21T08:51:04.648Z",
   "articles": [
+    {
+      "id": "apple-intel-era-ends",
+      "date": "19 April 2026",
+      "headline": "Apple marca el fin de la era Intel con anuncio de macOS 27",
+      "summary": "Apple ha anunciado oficialmente el fin del soporte a procesadores Intel con el lanzamiento de macOS 27, consolidando la transición completa a chips propios Apple Silicon. Este cambio impacta decisiones de infraestructura empresarial, compatibilidad de software legacy y estrategia de inversión en equipos corporativos.",
+      "source": "Reviblog",
+      "sourceUrl": "https://reviblog.net/noticia/noticias-tecnologia-19-abril-2026/",
+      "imageUrl": "https://reviblog.net/wp-content/uploads/2026/03/Screenshot_20260320-093842-1024x461.png",
+      "category": "Estrategia"
+    },
+    {
+      "id": "greece-social-media-ban-minors",
+      "date": "18 April 2026",
+      "headline": "Grecia prohibirá redes sociales a menores de 15 años a partir de 2027, sumándose a restricciones europeas",
+      "summary": "Grecia se une a una tendencia regulatoria creciente en Europa al prohibir el uso de redes sociales a menores de 15 años a partir de 2027. Esta regulación impacta directamente modelos de negocio de plataformas digitales, afecta la demanda de publicidad dirigida a jóvenes y requiere que empresas adapten estrategias de cumplimiento normativo en el continente.",
+      "source": "Cadena SER Galicia",
+      "sourceUrl": "https://cadenaser.com/galicia/2026/04/18/ciberseguridad-redes-sociales-y-nuevas-leyes-asi-afectan-a-nuestros-derechos-digitales-radio-coruna/",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
     {
       "id": "tech-tsunami-2026",
       "date": "12 December 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.puromarketing.com/12/216477/tsunami-tecnologico-2026-colision-entre-cuantica",
       "imageUrl": "https://www.puromarketing.com/uploads/img/contents/2025/1g7SCEJMLA2u5tmzTaDZ/1g7SCEJMLA2u5tmzTaDZ_post_imagen_prev.jpg",
       "category": "Ciberseguridad"
-    },
-    {
-      "id": "eu-data-center-law",
-      "date": "17 April 2026",
-      "headline": "Una ley europea impide saber el consumo de centros de datos",
-      "summary": "La legislación de la UE clasifica como confidencial el consumo energético y de agua de centros de datos, tras presión de Microsoft y DigitalEurope (Amazon, Google, Meta). Esto bloquea el acceso público a datos clave sobre impacto medioambiental, afectando planificación regulatoria y costes operativos para empresas que dependen de cloud.",
-      "source": "EL PAÍS",
-      "sourceUrl": "https://elpais.com/tecnologia/2026-04-17/cuanto-consume-un-centro-de-datos-una-ley-europea-a-la-medida-de-las-grandes-tecnologicas-impide-saberlo.html",
-      "imageUrl": "https://imagenes.elpais.com/resizer/v2/BHKSNP66PFH7ZPS37C7CPE4WEY.jpg?auth=4dc4574bb3317e374e2b5252155102d45e4a9e586db0a874439e2c692a1d89c1&amp;width=1200",
-      "category": "Regulación"
-    },
-    {
-      "id": "france-tech-independence",
-      "date": "17 April 2026",
-      "headline": "Francia impulsa medida para independizarse tecnológicamente de EE.UU.",
-      "summary": "El gobierno francés busca reducir la dependencia de tecnología estadounidense, similar a iniciativas previas en Extremadura. Esto impacta comercio internacional, cadenas de suministro y estrategias de proveedores en Europa, alterando planificación empresarial para pymes y grandes corporaciones.",
-      "source": "Cadena SER",
-      "sourceUrl": "https://cadenaser.com/nacional/2026/04/17/la-medida-revolucionaria-del-gobierno-frances-que-ya-aplico-extremadura-hace-20-anos-fueron-los-primeros-en-europa-cadena-ser/",
-      "imageUrl": "",
-      "category": "Estrategia"
     }
   ]
 }
