@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-22T08:27:48.020Z",
+  "lastUpdated": "2026-04-23T08:50:38.161Z",
   "articles": [
+    {
+      "id": "powerchip-margin-jump",
+      "date": "23 April 2026",
+      "headline": "Powerchip Reports Substantial Gross Margin Jump on Chip Price Hikes Amid Supply Shortage",
+      "summary": "Contract chipmaker Powerchip raised prices for display driver chips (30%), image sensors (20%), and 8-inch display driver chips (15%) since January, driving significant margin expansion. The company is expanding AI foundry services including advanced 3D packaging for HBM chips and IPDs, positioning itself to capture demand from the prolonged semiconductor supply crunch affecting high-performance computing and AI infrastructure.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/23/2003856067",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/04/23/P09-260423-007.jpg",
+      "category": "Strategy"
+    },
+    {
+      "id": "iran-energy-china-clean-tech",
+      "date": "20 April 2026",
+      "headline": "Iran Energy Crisis Reshapes Global Clean Tech Competition, Beijing Strengthens Dominance",
+      "summary": "Geopolitical tensions and energy market disruptions are forcing countries to accelerate green transitions while managing concerns over China's clean-technology dominance. The supply chain volatility from sanctions and blockades is pushing businesses to prioritize renewable energy and diversified supply chains, reshaping long-term energy procurement strategies and infrastructure investment decisions.",
+      "source": "Politico",
+      "sourceUrl": "https://www.politico.com/news/2026/04/20/iran-war-china-beijing-global-clean-energy-dominance-00880124",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F01%2Fd2%2F7c72090b4c6f91a931d0a732e50b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2197197733",
+      "category": "Regulation"
+    },
     {
       "id": "rba-anthropic-mythos",
       "date": "22 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.japantimes.co.jp/business/2026/04/22/tech/rba-anthropic-mythos-ai-cyberattack/",
       "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/04/22/536415.jpg?v=3.1",
       "category": "Regulation"
-    },
-    {
-      "id": "tech-layoffs-ai-2026",
-      "date": "20 April 2026",
-      "headline": "Tech Sector Layoffs Accelerate in 2026 as Companies Pivot Harder to AI",
-      "summary": "Rising headcount reductions across the tech industry are driven by efficiency gains from AI tools, targeting roles that can be automated or augmented by generative systems. This trend accelerates workforce transformation, prompting businesses to rethink talent strategies amid productivity gains and pressure on knowledge workers.",
-      "source": "TechStartups",
-      "sourceUrl": "https://techstartups.com/2026/04/20/top-tech-news-today-april-20-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
-      "category": "Automation"
-    },
-    {
-      "id": "manufacturing-ai-infrastructure-2026",
-      "date": "19 April 2026",
-      "headline": "The 4 Digital Transformation Trends Shaping Manufacturing in 2026",
-      "summary": "Manufacturers are building AI infrastructure like data centers, power systems, and semiconductors, driven by exploding demand for AI workloads that cascade through supply chains for electrical equipment, cooling, and construction. Elevated capex in advanced logic and memory through 2026 underscores industrial production as a key constraint on AI scalability, creating opportunities in manufacturing value chains.",
-      "source": "TELUS Digital",
-      "sourceUrl": "https://sfpractice.telusdigital.com/posts/the-4-digital-transformation-trends-shaping-manufacturing-in-2026",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }
