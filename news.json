@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-25T08:02:33.644Z",
+  "lastUpdated": "2026-04-27T09:14:24.031Z",
   "articles": [
     {
-      "id": "intel-forecast-2026-04-25",
-      "date": "25 April 2026",
-      "headline": "Intel shares up 20% after blockbuster AI-driven sales forecast",
-      "summary": "Intel reported Q2 revenue forecast of $13.8-14.8 billion, far exceeding Wall Street's $13 billion estimate, driven by surging demand for Xeon processors in AI data centers. CEO Lip-Bu Tan highlighted factory output constraints amid AI build-out, signaling sustained chip demand that impacts enterprise hardware planning and supplier chains. This stock surge underscores Intel's resurgence, affecting competitors like AMD and NVIDIA in AI infrastructure markets.",
+      "id": "taiwan-ai-equity",
+      "date": "27 April 2026",
+      "headline": "Taiwan, S Korea Climb Global Equity Ranks on AI Boom with TSMC and Samsung Surges",
+      "summary": "TSMC shares rose over 40% and Samsung/SK Hynix over 80% this year as key Nvidia suppliers, driving Taiwan and South Korea up equity indexes amid broadening AI hardware demand. Google's NT$27 billion investment approval in Taiwan for data processing and semiconductors underscores supply chain commitments. This strengthens global chip availability but heightens reliance on Asian manufacturers for business AI infrastructure.",
       "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/25/2003856186",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/25/P09-260425-314.jpg",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/27/2003856285",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/04/27/P09-260427-320.jpg",
       "category": "Strategy"
     },
     {
-      "id": "meta-microsoft-layoffs-2026-04-25",
-      "date": "25 April 2026",
-      "headline": "Meta and Microsoft plan workforce reductions to fund AI investments",
-      "summary": "Meta and Microsoft announced plans to trim staff amid escalating AI spending, reflecting Big Tech's shift toward automation over headcount. This follows AI infrastructure ramps and could accelerate enterprise adoption of AI tools while pressuring talent markets. SMEs and corporations should anticipate hiring opportunities in AI ops alongside productivity gains from reduced labor costs.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/25/2003856188",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/25/P09-260425-316.jpg",
+      "id": "tesla-capex-boost",
+      "date": "24 April 2026",
+      "headline": "Tesla Boosts 2026 Capex to Over $25 Billion for AI, Robotaxis, and Humanoid Robots",
+      "summary": "Tesla plans to triple capital spending to over $25 billion on AI self-driving tech, Optimus robots, and robotaxis, testing investor patience amid negative cash flow. This aggressive pivot signals broader auto industry pressure to invest in AI automation, potentially disrupting labor markets and supply chains for robotics components. Shares dropped 3% as analysts question returns compared to Big Tech's cloud-funded AI strategies.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/24/top-tech-news-today-april-24-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
       "category": "Automation"
     },
     {
-      "id": "syenta-funding-2026-04-22",
-      "date": "22 April 2026",
-      "headline": "AI chip startup Syenta raises $26M to address advanced packaging bottlenecks",
-      "summary": "Syenta secured $26 million to commercialize a process reducing chip packaging steps by 40%, targeting AI hardware choke points with former Intel CEO Pat Gelsinger joining the board. This innovation could lower costs and speed production for AI infrastructure, benefiting hyperscalers seeking alternatives to NVIDIA dependency. Businesses evaluating AI server deployments should monitor for supply chain efficiencies.",
-      "source": "TechStartups",
-      "sourceUrl": "https://techstartups.com/2026/04/22/top-tech-news-today-april-22-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
-      "category": "AI Adoption"
+      "id": "maine-data-center-veto",
+      "date": "24 April 2026",
+      "headline": "Maine Gov. Mills Vetoes Data Center Moratorium, Enabling AI Infrastructure Expansion",
+      "summary": "Maine's governor vetoed a bill for the first U.S. statewide data center pause until 2027, supporting critical growth in digital infrastructure for AI and cloud services. This decision benefits businesses planning expansions in data-heavy regions by avoiding construction delays and costs. It signals regulatory support for AI compute needs amid rising enterprise demand.",
+      "source": "POLITICO",
+      "sourceUrl": "https://www.politico.com/news/2026/04/24/maine-gov-mills-vetoes-data-center-bill-00891762",
+      "imageUrl": "",
+      "category": "Regulation"
     }
   ]
 }
