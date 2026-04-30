@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-27T09:14:24.031Z",
+  "lastUpdated": "2026-04-30T09:08:15.316Z",
   "articles": [
     {
-      "id": "taiwan-ai-equity",
-      "date": "27 April 2026",
-      "headline": "Taiwan, S Korea Climb Global Equity Ranks on AI Boom with TSMC and Samsung Surges",
-      "summary": "TSMC shares rose over 40% and Samsung/SK Hynix over 80% this year as key Nvidia suppliers, driving Taiwan and South Korea up equity indexes amid broadening AI hardware demand. Google's NT$27 billion investment approval in Taiwan for data processing and semiconductors underscores supply chain commitments. This strengthens global chip availability but heightens reliance on Asian manufacturers for business AI infrastructure.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/04/27/2003856285",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/04/27/P09-260427-320.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "tesla-capex-boost",
-      "date": "24 April 2026",
-      "headline": "Tesla Boosts 2026 Capex to Over $25 Billion for AI, Robotaxis, and Humanoid Robots",
-      "summary": "Tesla plans to triple capital spending to over $25 billion on AI self-driving tech, Optimus robots, and robotaxis, testing investor patience amid negative cash flow. This aggressive pivot signals broader auto industry pressure to invest in AI automation, potentially disrupting labor markets and supply chains for robotics components. Shares dropped 3% as analysts question returns compared to Big Tech's cloud-funded AI strategies.",
+      "id": "openai-stargate-shift",
+      "date": "29 April 2026",
+      "headline": "OpenAI’s $500 Billion Stargate Data Center Project Undergoes Major Restructuring",
+      "summary": "OpenAI restructured its massive Stargate project with flexible partnerships to address rising costs and maintain AI leadership. This signals ongoing investment opportunities in data centers, energy, and chips but introduces execution risks and supply-chain pressures for infrastructure providers.",
       "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/24/top-tech-news-today-april-24-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
-      "category": "Automation"
+      "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
+      "category": "AI Adoption"
     },
     {
-      "id": "maine-data-center-veto",
-      "date": "24 April 2026",
-      "headline": "Maine Gov. Mills Vetoes Data Center Moratorium, Enabling AI Infrastructure Expansion",
-      "summary": "Maine's governor vetoed a bill for the first U.S. statewide data center pause until 2027, supporting critical growth in digital infrastructure for AI and cloud services. This decision benefits businesses planning expansions in data-heavy regions by avoiding construction delays and costs. It signals regulatory support for AI compute needs amid rising enterprise demand.",
-      "source": "POLITICO",
-      "sourceUrl": "https://www.politico.com/news/2026/04/24/maine-gov-mills-vetoes-data-center-bill-00891762",
-      "imageUrl": "",
-      "category": "Regulation"
+      "id": "google-tpu8i-inference",
+      "date": "27 April 2026",
+      "headline": "Google Launches TPU 8i Inference Chip to Challenge Nvidia Dominance",
+      "summary": "Google's new TPU 8i chip targets AI inference, accounting for the majority of compute spending, reducing per-query costs and power use for agentic AI. This vertical integration pressures Nvidia's GPU market lead, lowering AI infrastructure costs for hyperscalers, startups, and enterprises globally.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/27/top-tech-news-today-april-27-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "supermicro-campus",
+      "date": "27 April 2026",
+      "headline": "Supermicro Announces Largest Silicon Valley Campus for AI Server Expansion",
+      "summary": "Supermicro's new DCBBS facility underscores surging demand for AI servers and cooling as hyperscalers expand GPU capacity. This reinforces capital intensity in semiconductors and infrastructure, signaling strong hardware needs for enterprise AI scaling.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-04-27/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "AI Adoption"
     }
   ]
 }

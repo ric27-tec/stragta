@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-23T08:50:45.572Z",
+  "lastUpdated": "2026-04-30T09:08:28.560Z",
   "articles": [
+    {
+      "id": "arm-ai-chip-strategy",
+      "date": "27 April 2026",
+      "headline": "Arm lanza su primer chip propio para centros de datos de IA, marcando cambio estratégico en el mercado de semiconductores",
+      "summary": "Arm ha presentado su primer chip propio diseñado para centros de datos orientados a inteligencia artificial, transitando de un modelo basado únicamente en licencias a uno que incluye desarrollo de hardware. Este movimiento estratégico tiene implicaciones significativas para empresas que dependen de infraestructura de IA y podría afectar la demanda de chips competidores.",
+      "source": "TecnoAp21",
+      "sourceUrl": "https://tecnoap21.com/2026/04/27/resumen-de-noticias-tecnologicas-del-20-al-26-de-abril/",
+      "imageUrl": "https://i0.wp.com/tecnoap21.com/wp-content/uploads/2026/04/diario-836.png?fit=1200%2C1200&#038;ssl=1",
+      "category": "Estrategia"
+    },
+    {
+      "id": "satelite-10g-telecom",
+      "date": "27 April 2026",
+      "headline": "Telecomunicaciones sin fronteras: conectividad satelital y redes 10G desafían a operadores tradicionales",
+      "summary": "Starlink y operadores chinos ya están desplegando conectividad directa por satélite y redes 10G respectivamente, transformando la infraestructura de telecomunicaciones global. Las empresas tradicionales enfrentarán dificultades de adaptación, lo que afectará modelos de negocio, inversión en infraestructura y competencia en conectividad empresarial.",
+      "source": "ESADE",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Estrategia"
+    },
     {
       "id": "tim-cook-apple-departure",
       "date": "22 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.abc.com.py/tecnologia/2026/04/22/tim-cook-deja-apple-y-otras-noticias-tecnologicas-de-la-semana/",
       "imageUrl": "https://www.abc.com.py/resizer/v2/JXZEEEJSBNGUVPZVXKO5O5EFMY.jpg?auth=c258e4dd3790b5176cd0b117974218dbe2757480a3d88a4d354e99b5b9b7c787&amp;width=770&amp;smart=true",
       "category": "Estrategia"
-    },
-    {
-      "id": "senado-mexico-ia-regulation",
-      "date": "20 April 2026",
-      "headline": "Acotarán IA: Iniciativa en Senado para regular inteligencia artificial y sancionar deepfakes",
-      "summary": "México prepara regulación de IA que sanciona manipulación con contenidos falsos, afectando cumplimiento y adopción en empresas. Las pymes y corporaciones deberán invertir en verificación de datos y herramientas compliant, impactando eficiencia operativa y riesgos legales.",
-      "source": "UnoTV",
-      "sourceUrl": "https://www.unotv.com/nacional/las-de-hoy-20-de-abril-de-2026/",
-      "imageUrl": "https://cdn.amxinfra.com/unotv/images/2026/04/las-de-hoy-13-abril-083526.jpg",
-      "category": "Regulación"
-    },
-    {
-      "id": "china-ia-revolution",
-      "date": "20 April 2026",
-      "headline": "Inteligencia artificial impulsa la cuarta revolución industrial china",
-      "summary": "China planea incorporar IA en 70% de sectores para 2027, fortaleciendo su competitividad global y afectando comercio internacional y cadenas de suministro. Empresas occidentales enfrentan riesgos en mercados y costes por competencia china en automatización y productividad.",
-      "source": "La Jornada",
-      "sourceUrl": "https://www.jornada.com.mx/2026/04/20/economia/018n1eco",
-      "imageUrl": "https://www.jornada.com.mx/2026/04/20/fotos/018n1eco-1.jpg",
-      "category": "Adopción de IA"
     }
   ]
 }
