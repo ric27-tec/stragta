@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-04-30T09:08:15.316Z",
+  "lastUpdated": "2026-05-01T08:56:15.989Z",
   "articles": [
+    {
+      "id": "big-tech-ai-spending",
+      "date": "28 April 2026",
+      "headline": "Big Tech’s AI Spending Race Heads Toward $600B",
+      "summary": "Alphabet, Microsoft, Amazon, Meta, and other tech giants are projected to spend $600 billion on AI infrastructure including chips, data centers, and cloud capacity in 2026, shifting AI from software to a capital-intensive buildout. This elevates compute access as a strategic advantage, altering economics for startups, cloud providers, and chipmakers while raising investor scrutiny on returns amid earnings season.[1]",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/04/28/top-tech-news-today-april-28-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "agentic-ai-2026",
+      "date": "28 April 2026",
+      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
+      "summary": "Agentic AI is advancing from pilots to production, enabling SMEs to redesign processes around AI agents for consistent execution, growth without added headcount, and reduced management layers. Physical AI via robotics-as-a-service lowers barriers for small and mid-sized businesses to automate physical tasks, exemplified by IoT projects cutting service visits by 30% while generating new revenue.[3]",
+      "source": "Entrepreneur",
+      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
+      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
+      "category": "Automation"
+    },
     {
       "id": "openai-stargate-shift",
       "date": "29 April 2026",
@@ -10,26 +30,6 @@
       "source": "Tech Startups",
       "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "google-tpu8i-inference",
-      "date": "27 April 2026",
-      "headline": "Google Launches TPU 8i Inference Chip to Challenge Nvidia Dominance",
-      "summary": "Google's new TPU 8i chip targets AI inference, accounting for the majority of compute spending, reducing per-query costs and power use for agentic AI. This vertical integration pressures Nvidia's GPU market lead, lowering AI infrastructure costs for hyperscalers, startups, and enterprises globally.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/27/top-tech-news-today-april-27-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "supermicro-campus",
-      "date": "27 April 2026",
-      "headline": "Supermicro Announces Largest Silicon Valley Campus for AI Server Expansion",
-      "summary": "Supermicro's new DCBBS facility underscores surging demand for AI servers and cooling as hyperscalers expand GPU capacity. This reinforces capital intensity in semiconductors and infrastructure, signaling strong hardware needs for enterprise AI scaling.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-04-27/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "AI Adoption"
     }
   ]

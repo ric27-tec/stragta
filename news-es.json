@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-04-30T09:08:28.560Z",
+  "lastUpdated": "2026-05-01T08:56:27.150Z",
   "articles": [
     {
-      "id": "arm-ai-chip-strategy",
-      "date": "27 April 2026",
-      "headline": "Arm lanza su primer chip propio para centros de datos de IA, marcando cambio estratégico en el mercado de semiconductores",
-      "summary": "Arm ha presentado su primer chip propio diseñado para centros de datos orientados a inteligencia artificial, transitando de un modelo basado únicamente en licencias a uno que incluye desarrollo de hardware. Este movimiento estratégico tiene implicaciones significativas para empresas que dependen de infraestructura de IA y podría afectar la demanda de chips competidores.",
-      "source": "TecnoAp21",
-      "sourceUrl": "https://tecnoap21.com/2026/04/27/resumen-de-noticias-tecnologicas-del-20-al-26-de-abril/",
-      "imageUrl": "https://i0.wp.com/tecnoap21.com/wp-content/uploads/2026/04/diario-836.png?fit=1200%2C1200&#038;ssl=1",
-      "category": "Estrategia"
+      "id": "freepik-magnific-rebrand",
+      "date": "28 April 2026",
+      "headline": "Freepik cierra su etapa como banco de imágenes y reaparece como Magnific, plataforma de IA generativa con 200 millones de dólares en ingresos anuales",
+      "summary": "La compañía malagueña Freepik pivota hacia IA generativa, alcanzando más de un millón de suscriptores y 200 millones de dólares en ingresos recurrentes anuales. Este cambio resalta la creciente adopción de herramientas de IA en sectores creativos, potencialmente reduciendo costes operativos para pymes y empresas en diseño y marketing digital. Impacta la demanda de software de IA y competitividad en servicios visuales.",
+      "source": "Euronews",
+      "sourceUrl": "https://es.euronews.com/2026/04/28",
+      "imageUrl": "https://static.euronews.com/website/images/euronews-og-image-1200x675.png",
+      "category": "Adopción de IA"
     },
     {
-      "id": "satelite-10g-telecom",
-      "date": "27 April 2026",
-      "headline": "Telecomunicaciones sin fronteras: conectividad satelital y redes 10G desafían a operadores tradicionales",
-      "summary": "Starlink y operadores chinos ya están desplegando conectividad directa por satélite y redes 10G respectivamente, transformando la infraestructura de telecomunicaciones global. Las empresas tradicionales enfrentarán dificultades de adaptación, lo que afectará modelos de negocio, inversión en infraestructura y competencia en conectividad empresarial.",
-      "source": "ESADE",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Estrategia"
+      "id": "musk-openai-trial",
+      "date": "28 April 2026",
+      "headline": "Elon Musk testigo y protagonista de la primera jornada del juicio contra OpenAI",
+      "summary": "El juicio entre Elon Musk y OpenAI inicia con Musk como testigo clave, demandando 150.000 millones de dólares por supuestas violaciones contractuales. Este litigio podría alterar la gobernanza, valoración y estrategia de OpenAI, afectando inversiones en IA, alianzas empresariales y planificación de adopción tecnológica en corporaciones. Genera incertidumbre en el mercado de IA generativa.",
+      "source": "EL PAÍS",
+      "sourceUrl": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "imageUrl": "",
+      "category": "Regulación"
     },
     {
-      "id": "tim-cook-apple-departure",
-      "date": "22 April 2026",
-      "headline": "Tim Cook deja Apple y otras noticias tecnológicas de la semana",
-      "summary": "La salida de Tim Cook de Apple genera incertidumbre en la cadena de suministro y mercados de hardware para empresas dependientes de iOS. Además, Amazon invertirá 5.000 millones más en Anthropic, comprometiéndose a gastar 100.000 millones en AWS, lo que reduce costes de IA para clientes cloud y altera la competencia en infraestructura.",
-      "source": "ABC",
-      "sourceUrl": "https://www.abc.com.py/tecnologia/2026/04/22/tim-cook-deja-apple-y-otras-noticias-tecnologicas-de-la-semana/",
-      "imageUrl": "https://www.abc.com.py/resizer/v2/JXZEEEJSBNGUVPZVXKO5O5EFMY.jpg?auth=c258e4dd3790b5176cd0b117974218dbe2757480a3d88a4d354e99b5b9b7c787&amp;width=770&amp;smart=true",
-      "category": "Estrategia"
+      "id": "ai-security-model-cancelled",
+      "date": "28 April 2026",
+      "headline": "\"Se te puede ir de las manos fácilmente\": cancelado un potente modelo de seguridad basado en IA por riesgo mayor",
+      "summary": "Un avanzado modelo de IA para ciberseguridad, capaz de detectar fallos en milisegundos, es cancelado por riesgos incontrolables. Subraya vulnerabilidades en herramientas de IA para seguridad, obligando a empresas a reevaluar inversiones en ciberdefensas y cumplimiento normativo. Aumenta riesgos operativos y necesidad de estrategias alternativas en protección de datos.",
+      "source": "Cadena SER",
+      "sourceUrl": "https://cadenaser.com/nacional/2026/04/28/se-te-puede-ir-de-las-manos-facilmente-cancelado-un-potente-modelo-de-seguridad-basado-ia-por-un-riesgo-mayor-cadena-ser/",
+      "imageUrl": "https://cadenaser.com/resizer/v2/X36K7GB6SJBULK3PTFEOUZVIM4.jpg?auth=de72ba0e36cbc2d685803066ad854d51044eb8853c10c1f00390f446b290a8c3&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
+      "category": "Ciberseguridad"
     }
   ]
 }
