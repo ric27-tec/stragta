@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-01T08:56:27.150Z",
+  "lastUpdated": "2026-05-02T08:19:12.270Z",
   "articles": [
     {
-      "id": "freepik-magnific-rebrand",
-      "date": "28 April 2026",
-      "headline": "Freepik cierra su etapa como banco de imágenes y reaparece como Magnific, plataforma de IA generativa con 200 millones de dólares en ingresos anuales",
-      "summary": "La compañía malagueña Freepik pivota hacia IA generativa, alcanzando más de un millón de suscriptores y 200 millones de dólares en ingresos recurrentes anuales. Este cambio resalta la creciente adopción de herramientas de IA en sectores creativos, potencialmente reduciendo costes operativos para pymes y empresas en diseño y marketing digital. Impacta la demanda de software de IA y competitividad en servicios visuales.",
-      "source": "Euronews",
-      "sourceUrl": "https://es.euronews.com/2026/04/28",
-      "imageUrl": "https://static.euronews.com/website/images/euronews-og-image-1200x675.png",
-      "category": "Adopción de IA"
+      "id": "samsung-spatial-signage-launch",
+      "date": "29 April 2026",
+      "headline": "Samsung lanza mundialmente Spatial Signage de 32 pulgadas para retail",
+      "summary": "Samsung introduce pantallas 3D sin gafas de formato compacto para estanterías y mostradores, facilitando contenido inmersivo centrado en productos. Pequeños comercios y pymes retail pueden mejorar eficiencia operativa y ventas con rotación 3D a bajo coste, alterando la demanda de hardware publicitario digital.",
+      "source": "El Candelero Tecnológico",
+      "sourceUrl": "https://elcandelerotecnologico.com/2026/04/29/",
+      "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "category": "Estrategia"
     },
     {
-      "id": "musk-openai-trial",
-      "date": "28 April 2026",
-      "headline": "Elon Musk testigo y protagonista de la primera jornada del juicio contra OpenAI",
-      "summary": "El juicio entre Elon Musk y OpenAI inicia con Musk como testigo clave, demandando 150.000 millones de dólares por supuestas violaciones contractuales. Este litigio podría alterar la gobernanza, valoración y estrategia de OpenAI, afectando inversiones en IA, alianzas empresariales y planificación de adopción tecnológica en corporaciones. Genera incertidumbre en el mercado de IA generativa.",
-      "source": "EL PAÍS",
-      "sourceUrl": "https://elpais.com/tecnologia/2026-04-28/elon-musk-testigo-y-protagonista-de-la-primera-jornada-del-juicio-contra-openai-podria-matarnos-a-todos-no-queremos-un-terminator.html",
+      "id": "tech-stocks-rally-ortega",
+      "date": "29 April 2026",
+      "headline": "Ortega: La tecnología norteamericana puede subir otro 20% más",
+      "summary": "El Nasdaq 100 sube 15% y el índice de semiconductores 18 sesiones al alza, con proyecciones de +20% adicional en tecnología USA. Corporaciones y inversores deben ajustar estrategias ante rally en chips y cloud, impactando costes de infraestructura IA y planificación de capital en medianas empresas.",
+      "source": "Capital Radio",
+      "sourceUrl": "https://www.capitalradio.es/noticias/bolsa/ortega-tecnologia-norteamericana-puede-subir-otro-20-mas_144271653.html",
+      "imageUrl": "https://cdn.capitalradio.es/embed/a3405c0f098e7c94b0f4bc6711777372462/WhatsApp-Image-2026-04-28-at-12.33.38.jpeg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "meta-layoffs-china-block",
+      "date": "29 April 2026",
+      "headline": "Meta recorta 8.000 puestos y China bloquea venta de startup IA Manus a Zuckerberg",
+      "summary": "Meta despide el 10% de su plantilla mientras China impide la adquisición de Manus, afectando competencia global en IA. Empresas evalúan riesgos geopolíticos en comercio internacional de IA y ajustes laborales por automatización, con impactos en cadenas de suministro y contrataciones.",
+      "source": "elDiario.es",
+      "sourceUrl": "https://www.eldiario.es/tecnologia/",
       "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "ai-security-model-cancelled",
-      "date": "28 April 2026",
-      "headline": "\"Se te puede ir de las manos fácilmente\": cancelado un potente modelo de seguridad basado en IA por riesgo mayor",
-      "summary": "Un avanzado modelo de IA para ciberseguridad, capaz de detectar fallos en milisegundos, es cancelado por riesgos incontrolables. Subraya vulnerabilidades en herramientas de IA para seguridad, obligando a empresas a reevaluar inversiones en ciberdefensas y cumplimiento normativo. Aumenta riesgos operativos y necesidad de estrategias alternativas en protección de datos.",
-      "source": "Cadena SER",
-      "sourceUrl": "https://cadenaser.com/nacional/2026/04/28/se-te-puede-ir-de-las-manos-facilmente-cancelado-un-potente-modelo-de-seguridad-basado-ia-por-un-riesgo-mayor-cadena-ser/",
-      "imageUrl": "https://cadenaser.com/resizer/v2/X36K7GB6SJBULK3PTFEOUZVIM4.jpg?auth=de72ba0e36cbc2d685803066ad854d51044eb8853c10c1f00390f446b290a8c3&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
-      "category": "Ciberseguridad"
+      "category": "Automatización"
     }
   ]
 }

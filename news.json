@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-01T08:56:15.989Z",
+  "lastUpdated": "2026-05-02T08:19:00.200Z",
   "articles": [
     {
-      "id": "big-tech-ai-spending",
-      "date": "28 April 2026",
-      "headline": "Big Tech’s AI Spending Race Heads Toward $600B",
-      "summary": "Alphabet, Microsoft, Amazon, Meta, and other tech giants are projected to spend $600 billion on AI infrastructure including chips, data centers, and cloud capacity in 2026, shifting AI from software to a capital-intensive buildout. This elevates compute access as a strategic advantage, altering economics for startups, cloud providers, and chipmakers while raising investor scrutiny on returns amid earnings season.[1]",
+      "id": "cognizant-astreya",
+      "date": "29 April 2026",
+      "headline": "Cognizant Buys Astreya for About $600M to Expand AI Infrastructure Services",
+      "summary": "Cognizant acquired Astreya for around $600 million to bolster AI infrastructure, data center services, and enterprise networks. This move signals IT services firms deepening involvement in corporate AI buildouts, offering businesses opportunities to outsource physical AI operations amid rising infrastructure demands. It impacts planning for AI scaling and vendor partnerships.",
       "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/28/top-tech-news-today-april-28-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/02/Meta.jpg",
+      "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
       "category": "AI Adoption"
     },
     {
-      "id": "agentic-ai-2026",
-      "date": "28 April 2026",
+      "id": "agentic-ai-robotics",
+      "date": "29 April 2026",
       "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
-      "summary": "Agentic AI is advancing from pilots to production, enabling SMEs to redesign processes around AI agents for consistent execution, growth without added headcount, and reduced management layers. Physical AI via robotics-as-a-service lowers barriers for small and mid-sized businesses to automate physical tasks, exemplified by IoT projects cutting service visits by 30% while generating new revenue.[3]",
+      "summary": "Agentic AI and robotics-as-a-service are maturing, enabling SMEs to automate processes and physical tasks without heavy capital investment. Examples include reduced service visits via IoT and Amazon sharing robotics tech, cutting labor costs in retail, manufacturing, and construction. This drives operational efficiency and scalability without added headcount.",
       "source": "Entrepreneur",
       "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
       "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
       "category": "Automation"
     },
     {
-      "id": "openai-stargate-shift",
+      "id": "industrial-iot",
       "date": "29 April 2026",
-      "headline": "OpenAI’s $500 Billion Stargate Data Center Project Undergoes Major Restructuring",
-      "summary": "OpenAI restructured its massive Stargate project with flexible partnerships to address rising costs and maintain AI leadership. This signals ongoing investment opportunities in data centers, energy, and chips but introduces execution risks and supply-chain pressures for infrastructure providers.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "AI Adoption"
+      "headline": "10 Technology Trends That Will Impact Companies in 2026",
+      "summary": "Industrial IoT with real-time connectivity via affordable sensors and 5G enables predictive maintenance and ERP integration in production and logistics. Businesses gain efficiency in asset monitoring and environmental control, reducing downtime and costs. This trend supports operational resilience for manufacturers and distributors.",
+      "source": "Pipefy",
+      "sourceUrl": "https://www.pipefy.com/blog/technology-trends/",
+      "imageUrl": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2025/12/technology-trends-2026-thumb-1440x900.png",
+      "category": "Automation"
     }
   ]
 }
