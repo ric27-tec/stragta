@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-02T08:19:00.200Z",
+  "lastUpdated": "2026-05-04T09:13:02.860Z",
   "articles": [
+    {
+      "id": "sandisk-ai-storage-boom",
+      "date": "1 May 2026",
+      "headline": "SanDisk Rides AI Storage Boom with Blowout Quarter and $42B Supply Deals",
+      "summary": "SanDisk reported $5.95 billion in revenue driven by surging AI storage demand, announcing a $6 billion buyback and $42 billion in long-term supply contracts. This highlights storage as a new strategic bottleneck for AI infrastructure, impacting costs for hyperscalers and enterprises beyond GPUs. Businesses face rising demand for memory and storage, reshaping supply chains and capex planning.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/05/01/top-tech-news-today-may-1-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/08/nvidia.jpg",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "agentic-ai-robotics-2026",
+      "date": "1 May 2026",
+      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026: Agentic AI and Robotics-as-a-Service",
+      "summary": "Agentic AI shifts from pilots to production, enabling SMEs to redesign processes for consistent execution without added headcount. Robotics-as-a-service lowers barriers for physical automation in retail and manufacturing, cutting service costs by over 30% in examples. These trends boost operational efficiency and scalability for small and mid-sized businesses.",
+      "source": "Entrepreneur",
+      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
+      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
+      "category": "Automation"
+    },
     {
       "id": "cognizant-astreya",
       "date": "29 April 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
       "category": "AI Adoption"
-    },
-    {
-      "id": "agentic-ai-robotics",
-      "date": "29 April 2026",
-      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
-      "summary": "Agentic AI and robotics-as-a-service are maturing, enabling SMEs to automate processes and physical tasks without heavy capital investment. Examples include reduced service visits via IoT and Amazon sharing robotics tech, cutting labor costs in retail, manufacturing, and construction. This drives operational efficiency and scalability without added headcount.",
-      "source": "Entrepreneur",
-      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
-      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
-      "category": "Automation"
-    },
-    {
-      "id": "industrial-iot",
-      "date": "29 April 2026",
-      "headline": "10 Technology Trends That Will Impact Companies in 2026",
-      "summary": "Industrial IoT with real-time connectivity via affordable sensors and 5G enables predictive maintenance and ERP integration in production and logistics. Businesses gain efficiency in asset monitoring and environmental control, reducing downtime and costs. This trend supports operational resilience for manufacturers and distributors.",
-      "source": "Pipefy",
-      "sourceUrl": "https://www.pipefy.com/blog/technology-trends/",
-      "imageUrl": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2025/12/technology-trends-2026-thumb-1440x900.png",
-      "category": "Automation"
     }
   ]
 }
