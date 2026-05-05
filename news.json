@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-04T09:13:02.860Z",
+  "lastUpdated": "2026-05-05T09:04:57.951Z",
   "articles": [
+    {
+      "id": "microsoft-capex-copilot-growth",
+      "date": "29 April 2026",
+      "headline": "Microsoft raises 2026 capex guidance to $190B amid Copilot surge to 20M paid users",
+      "summary": "Microsoft guided capital spending to $190B for 2026, well above Wall Street estimates, as Microsoft 365 Copilot reached 20M paid enterprise users with 250% year-over-year growth. Accenture's 740K-seat deal represents the largest single Copilot deployment, signaling accelerating enterprise AI adoption and substantial infrastructure investment requirements.",
+      "source": "Telltales",
+      "sourceUrl": "https://telltales.substack.com/p/weekend-update-w2618",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
     {
       "id": "sandisk-ai-storage-boom",
       "date": "1 May 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
       "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
       "category": "Automation"
-    },
-    {
-      "id": "cognizant-astreya",
-      "date": "29 April 2026",
-      "headline": "Cognizant Buys Astreya for About $600M to Expand AI Infrastructure Services",
-      "summary": "Cognizant acquired Astreya for around $600 million to bolster AI infrastructure, data center services, and enterprise networks. This move signals IT services firms deepening involvement in corporate AI buildouts, offering businesses opportunities to outsource physical AI operations amid rising infrastructure demands. It impacts planning for AI scaling and vendor partnerships.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/04/29/top-tech-news-today-april-29-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "AI Adoption"
     }
   ]
 }
