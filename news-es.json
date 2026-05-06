@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-02T08:19:12.270Z",
+  "lastUpdated": "2026-05-06T09:19:39.048Z",
   "articles": [
     {
-      "id": "samsung-spatial-signage-launch",
-      "date": "29 April 2026",
-      "headline": "Samsung lanza mundialmente Spatial Signage de 32 pulgadas para retail",
-      "summary": "Samsung introduce pantallas 3D sin gafas de formato compacto para estanterías y mostradores, facilitando contenido inmersivo centrado en productos. Pequeños comercios y pymes retail pueden mejorar eficiencia operativa y ventas con rotación 3D a bajo coste, alterando la demanda de hardware publicitario digital.",
-      "source": "El Candelero Tecnológico",
-      "sourceUrl": "https://elcandelerotecnologico.com/2026/04/29/",
-      "imageUrl": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tech-stocks-rally-ortega",
-      "date": "29 April 2026",
-      "headline": "Ortega: La tecnología norteamericana puede subir otro 20% más",
-      "summary": "El Nasdaq 100 sube 15% y el índice de semiconductores 18 sesiones al alza, con proyecciones de +20% adicional en tecnología USA. Corporaciones y inversores deben ajustar estrategias ante rally en chips y cloud, impactando costes de infraestructura IA y planificación de capital en medianas empresas.",
-      "source": "Capital Radio",
-      "sourceUrl": "https://www.capitalradio.es/noticias/bolsa/ortega-tecnologia-norteamericana-puede-subir-otro-20-mas_144271653.html",
-      "imageUrl": "https://cdn.capitalradio.es/embed/a3405c0f098e7c94b0f4bc6711777372462/WhatsApp-Image-2026-04-28-at-12.33.38.jpeg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "meta-layoffs-china-block",
-      "date": "29 April 2026",
-      "headline": "Meta recorta 8.000 puestos y China bloquea venta de startup IA Manus a Zuckerberg",
-      "summary": "Meta despide el 10% de su plantilla mientras China impide la adquisición de Manus, afectando competencia global en IA. Empresas evalúan riesgos geopolíticos en comercio internacional de IA y ajustes laborales por automatización, con impactos en cadenas de suministro y contrataciones.",
-      "source": "elDiario.es",
-      "sourceUrl": "https://www.eldiario.es/tecnologia/",
+      "id": "ia-anticipacion-inundaciones-2026",
+      "date": "5 May 2026",
+      "headline": "IA que predice inundaciones repentinas puede reducir pérdidas millonarias para seguros, logística y agricultura",
+      "summary": "Una solución de IA ya en uso en España predice inundaciones repentinas horas antes de que ocurran, aprovechando grandes volúmenes de datos meteorológicos y geográficos. Este tipo de sistemas puede reducir significativamente las pérdidas aseguradoras y de activos en sectores expuestos a fenómenos extremos, como logística, agricultura y utilities, e impulsar nuevas ofertas de servicios basadas en alertas anticipadas y gestión dinámica de riesgos.",
+      "source": "Cadena SER",
+      "sourceUrl": "https://cadenaser.com/nacional/2026/05/05/anticiparse-a-la-catastrofe-asi-trabaja-la-inteligencia-artificial-que-predice-inundaciones-antes-de-que-ocurran-cadena-ser/?outputType=amp",
       "imageUrl": "",
       "category": "Automatización"
+    },
+    {
+      "id": "tech-trends-12-tendencias-2026",
+      "date": "4 May 2026",
+      "headline": "12 tendencias tecnológicas que marcarán la agenda empresarial en 2026",
+      "summary": "Un análisis de las principales tendencias tecnológicas para 2026 identifica, entre otras, móviles conectados directamente a satélites y redes 10G como futuros vectores de más cobertura y velocidad, con impacto directo en operadoras tradicionales y en quienes dependan de comunicaciones de bajo retardo. Esta evolución puede forzar a empresas de telecomunicaciones a replantear sus modelos de infraestructura y precios, mientras abre nuevas oportunidades de conectividad para negocios en zonas remotas o móviles.",
+      "source": "Do Better - ESADE",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Estrategia"
+    },
+    {
+      "id": "poder-ia-belicista-2026",
+      "date": "3 May 2026",
+      "headline": "Google y otras grandes de la IA firman con el Pentágono acceso a sus modelos para tareas clasificadas",
+      "summary": "Google rompió su política antibelicista y firmó un acuerdo con el Pentágono para que sus modelos de IA se usen en asuntos clasificados; el acuerdo se amplía también a xAI, OpenAI, Amazon, Microsoft y Nvidia, abriendo la puerta a uso militar extendido de modelos comerciales de última generación. Esta alianza estrecha entre el sector privado de IA y la defensa estadounidense puede reforzar la competitividad industrial de estas empresas frente a rivales extranjeros, pero también eleva riesgos regulatorios y de reputación para quienes dependan de sus infraestructuras o modelos.",
+      "source": "El País",
+      "sourceUrl": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
+      "imageUrl": "",
+      "category": "Adopción de IA"
     }
   ]
 }

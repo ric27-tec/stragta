@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-05T09:04:57.951Z",
+  "lastUpdated": "2026-05-06T09:19:22.123Z",
   "articles": [
     {
-      "id": "microsoft-capex-copilot-growth",
-      "date": "29 April 2026",
-      "headline": "Microsoft raises 2026 capex guidance to $190B amid Copilot surge to 20M paid users",
-      "summary": "Microsoft guided capital spending to $190B for 2026, well above Wall Street estimates, as Microsoft 365 Copilot reached 20M paid enterprise users with 250% year-over-year growth. Accenture's 740K-seat deal represents the largest single Copilot deployment, signaling accelerating enterprise AI adoption and substantial infrastructure investment requirements.",
-      "source": "Telltales",
-      "sourceUrl": "https://telltales.substack.com/p/weekend-update-w2618",
-      "imageUrl": "",
-      "category": "AI Adoption"
+      "id": "taipei-times-nvidia-asia",
+      "date": "6 May 2026",
+      "headline": "Asian Tech Companies Rally on Nvidia Partnership Deals",
+      "summary": "South Korea's LG Electronics, Taiwan's Nanya Technology, and Chinese automotive suppliers have announced collaborations with Nvidia, signaling expanding AI chip ecosystem partnerships across Asia. This trend affects supply chain positioning and component sourcing strategies for businesses dependent on semiconductor availability and pricing.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/05/06/2003856813",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/05/06/p09-260506-607.jpg",
+      "category": "Strategy"
     },
     {
-      "id": "sandisk-ai-storage-boom",
-      "date": "1 May 2026",
-      "headline": "SanDisk Rides AI Storage Boom with Blowout Quarter and $42B Supply Deals",
-      "summary": "SanDisk reported $5.95 billion in revenue driven by surging AI storage demand, announcing a $6 billion buyback and $42 billion in long-term supply contracts. This highlights storage as a new strategic bottleneck for AI infrastructure, impacting costs for hyperscalers and enterprises beyond GPUs. Businesses face rising demand for memory and storage, reshaping supply chains and capex planning.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/05/01/top-tech-news-today-may-1-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/08/nvidia.jpg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "agentic-ai-robotics-2026",
-      "date": "1 May 2026",
-      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026: Agentic AI and Robotics-as-a-Service",
-      "summary": "Agentic AI shifts from pilots to production, enabling SMEs to redesign processes for consistent execution without added headcount. Robotics-as-a-service lowers barriers for physical automation in retail and manufacturing, cutting service costs by over 30% in examples. These trends boost operational efficiency and scalability for small and mid-sized businesses.",
+      "id": "entrepreneur-agentic-ai-production",
+      "date": "6 May 2026",
+      "headline": "Agentic AI Moves from Pilot Phase to Production Deployment",
+      "summary": "Businesses are transitioning AI agents from experimental stages to production workflows, automating entire process chains rather than isolated tasks. This shift enables growth with fewer staff additions and reduced operational surprises, directly impacting workforce planning and operational efficiency for SMEs and enterprises.",
       "source": "Entrepreneur",
       "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
       "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "deloitte-physical-ai-robotics",
+      "date": "6 May 2026",
+      "headline": "Physical AI and Robotics-as-a-Service Reshape Manufacturing and Logistics",
+      "summary": "Amazon's millionth deployed warehouse robot and BMW's autonomous production routes demonstrate AI moving into physical operations with measurable efficiency gains. Robotics-as-a-service models are reducing barriers to entry for mid-market businesses seeking automation without capital investment.",
+      "source": "Deloitte Insights",
+      "sourceUrl": "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html",
+      "imageUrl": "https://media.deloitte.com/is/image/deloitte/US188546_Social:1200-x-627",
       "category": "Automation"
     }
   ]
