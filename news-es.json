@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-06T09:19:39.048Z",
+  "lastUpdated": "2026-05-07T09:28:05.638Z",
   "articles": [
     {
-      "id": "ia-anticipacion-inundaciones-2026",
-      "date": "5 May 2026",
-      "headline": "IA que predice inundaciones repentinas puede reducir pérdidas millonarias para seguros, logística y agricultura",
-      "summary": "Una solución de IA ya en uso en España predice inundaciones repentinas horas antes de que ocurran, aprovechando grandes volúmenes de datos meteorológicos y geográficos. Este tipo de sistemas puede reducir significativamente las pérdidas aseguradoras y de activos en sectores expuestos a fenómenos extremos, como logística, agricultura y utilities, e impulsar nuevas ofertas de servicios basadas en alertas anticipadas y gestión dinámica de riesgos.",
-      "source": "Cadena SER",
-      "sourceUrl": "https://cadenaser.com/nacional/2026/05/05/anticiparse-a-la-catastrofe-asi-trabaja-la-inteligencia-artificial-que-predice-inundaciones-antes-de-que-ocurran-cadena-ser/?outputType=amp",
-      "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "tech-trends-12-tendencias-2026",
+      "id": "agentic-ai-inflection-2026",
       "date": "4 May 2026",
-      "headline": "12 tendencias tecnológicas que marcarán la agenda empresarial en 2026",
-      "summary": "Un análisis de las principales tendencias tecnológicas para 2026 identifica, entre otras, móviles conectados directamente a satélites y redes 10G como futuros vectores de más cobertura y velocidad, con impacto directo en operadoras tradicionales y en quienes dependan de comunicaciones de bajo retardo. Esta evolución puede forzar a empresas de telecomunicaciones a replantear sus modelos de infraestructura y precios, mientras abre nuevas oportunidades de conectividad para negocios en zonas remotas o móviles.",
-      "source": "Do Better - ESADE",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Estrategia"
+      "headline": "2026 marca el punto de inflexión hacia la IA Agéntica operativa en empresas",
+      "summary": "Tras la fase exploratoria de 2025, la IA agéntica (sistemas capaces de decidir y ejecutar tareas autónomamente) transiciona a despliegue real en entornos empresariales. Esta evolución exige que las organizaciones replanteen su infraestructura legacy basada en CPU tradicionales, acelerando la inversión en aceleradores especializados (GPUs, NPUs, LPUs) y arquitecturas híbridas que impactarán significativamente presupuestos de TI y modernización de data centers.",
+      "source": "SEIDOR",
+      "sourceUrl": "https://www.seidor.com/es-gt/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
+      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
+      "category": "Adopción de IA"
     },
     {
-      "id": "poder-ia-belicista-2026",
-      "date": "3 May 2026",
-      "headline": "Google y otras grandes de la IA firman con el Pentágono acceso a sus modelos para tareas clasificadas",
-      "summary": "Google rompió su política antibelicista y firmó un acuerdo con el Pentágono para que sus modelos de IA se usen en asuntos clasificados; el acuerdo se amplía también a xAI, OpenAI, Amazon, Microsoft y Nvidia, abriendo la puerta a uso militar extendido de modelos comerciales de última generación. Esta alianza estrecha entre el sector privado de IA y la defensa estadounidense puede reforzar la competitividad industrial de estas empresas frente a rivales extranjeros, pero también eleva riesgos regulatorios y de reputación para quienes dependan de sus infraestructuras o modelos.",
-      "source": "El País",
-      "sourceUrl": "https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html",
-      "imageUrl": "",
+      "id": "agentic-web-api-automation-2026",
+      "date": "4 May 2026",
+      "headline": "Web Agéntica: internet con protocolos y APIs para automatización segura entre agentes IA",
+      "summary": "2026 consolida la inteligencia artificial agencial y desarrolla la web agencial, una internet dotada de servicios, protocolos y APIs que permitirán a agentes IA interactuar y ejecutar procesos de forma automatizada. Este cambio afecta directamente a empresas en integración de sistemas, automatización de flujos B2B y oportunidades de nuevos servicios digitales basados en interoperabilidad de agentes.",
+      "source": "Eurecat",
+      "sourceUrl": "https://www.industriaquimica.es/noticias/20251230/tendencias-en-2026-computacion-cuantica-robotica-innovaciones-en-biotecnologia-tecnologias-termoquimicas",
+      "imageUrl": "https://www.industriaquimica.es/media/uploads/noticias/rrss/eurectbio1.jpg",
       "category": "Adopción de IA"
+    },
+    {
+      "id": "embodied-ai-robotics-labor-2026",
+      "date": "4 May 2026",
+      "headline": "Embodied AI: inteligencia artificial en robots humanoides comienza reemplazo laboral masivo",
+      "summary": "La inteligencia artificial integrada en hardware físico (Embodied AI) deja de ser promesa de laboratorio en 2026. Robots humanoides comenzarán a reemplazar puestos ocupados por humanos, particularmente en manufactura, logística y servicios. Este cambio genera impacto inmediato en planificación de empleo, costes de mano de obra y transformación de modelos operativos en sectores vulnerables a automatización.",
+      "source": "Tec de Monterrey / Xiaomi CEO Lei Jun",
+      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
+      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "category": "Automatización"
     }
   ]
 }

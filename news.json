@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-06T09:19:22.123Z",
+  "lastUpdated": "2026-05-07T09:27:52.201Z",
   "articles": [
+    {
+      "id": "palantir-q1-2026-revenue-guidance",
+      "date": "4 May 2026",
+      "headline": "Palantir Reports 104% U.S. Revenue Growth, Raises Full-Year Guidance to +71% Y/Y",
+      "summary": "Palantir delivered a blowout Q1 quarter with U.S. revenue up 104% year-over-year and raised full-year revenue guidance to +71% Y/Y, recalibrating expectations for enterprise AI platform monetization and signaling accelerating adoption of AI-driven analytics across corporate clients.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-04/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "infweek-edge-computing-2026",
+      "date": "4 May 2026",
+      "headline": "Edge Computing Emerges as Tech Sector's Growth Engine in 2026; Fiber and Satellite Infrastructure Investment Accelerates",
+      "summary": "Industry analysis indicates edge computing is moving from experimentation to core growth driver in 2026, with fiber buildouts and satellite network investments (Amazon, others) lowering adoption barriers for real-time AI inference and creating new demand for inference-optimized semiconductors and cloud services.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/digital-transformation/the-year-tech-reinvents-itself-five-predictions-for-2026",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt5efdccad95548487/695c17ebc400da40bf093ad9/01072026predictions_MarekUliaszAlamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Research"
+    },
     {
       "id": "taipei-times-nvidia-asia",
       "date": "6 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/05/06/2003856813",
       "imageUrl": "https://img.taipeitimes.com/images/2026/05/06/p09-260506-607.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "entrepreneur-agentic-ai-production",
-      "date": "6 May 2026",
-      "headline": "Agentic AI Moves from Pilot Phase to Production Deployment",
-      "summary": "Businesses are transitioning AI agents from experimental stages to production workflows, automating entire process chains rather than isolated tasks. This shift enables growth with fewer staff additions and reduced operational surprises, directly impacting workforce planning and operational efficiency for SMEs and enterprises.",
-      "source": "Entrepreneur",
-      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
-      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "deloitte-physical-ai-robotics",
-      "date": "6 May 2026",
-      "headline": "Physical AI and Robotics-as-a-Service Reshape Manufacturing and Logistics",
-      "summary": "Amazon's millionth deployed warehouse robot and BMW's autonomous production routes demonstrate AI moving into physical operations with measurable efficiency gains. Robotics-as-a-service models are reducing barriers to entry for mid-market businesses seeking automation without capital investment.",
-      "source": "Deloitte Insights",
-      "sourceUrl": "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html",
-      "imageUrl": "https://media.deloitte.com/is/image/deloitte/US188546_Social:1200-x-627",
-      "category": "Automation"
     }
   ]
 }
