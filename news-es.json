@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-07T09:28:05.638Z",
+  "lastUpdated": "2026-05-08T08:18:58.932Z",
   "articles": [
+    {
+      "id": "madrid-quantum-tech-hub",
+      "date": "5 May 2026",
+      "headline": "La Comunidad de Madrid se posiciona como polo de referencia mundial en tecnología cuántica",
+      "summary": "Madrid emerge como centro global en computación cuántica con el proyecto Q-Mind, atrayendo inversión e I+D en una tecnología clave para resolver problemas complejos en finanzas, farmacéutica y optimización empresarial. Este posicionamiento puede impactar la disponibilidad de talento y oportunidades de adopción temprana para empresas en la región.",
+      "source": "Comunidad de Madrid",
+      "sourceUrl": "https://www.comunidad.madrid/noticias/2026/05/05/comunidad-madrid-polo-referencia-mundial-tecnologia-cuantica-proyecto-q-mind",
+      "imageUrl": "https://www.comunidad.madrid/docs/styles/16x9_1272w_x1/public/2026-05/foto-3.JPEG?VersionId=8gKslnkcgHzHa82OG2FewRRTdzCfr_OE&amp;itok=tEzgvyiG",
+      "category": "Investigación"
+    },
+    {
+      "id": "familiar-robotics-commercial",
+      "date": "5 May 2026",
+      "headline": "Familiar: nueva mascota robótica para interacción humana y comprensión emocional",
+      "summary": "Lanzamiento de robot de compañía con capacidades de comprensión emocional marca la comercialización de robótica humanoides en segmentos de consumo y potencialmente empresarial. Señal de que el mercado de automatización y robótica accesible está madurando para pequeños negocios y sectores de servicios.",
+      "source": "Última Hora",
+      "sourceUrl": "https://amp.ultimahora.es/noticias/tecnologia-videojuegos/2026/05/05/2623057/asi-familiar-nueva-mascota-robotica-para-interaccion-humana-comprension-emocional.html",
+      "imageUrl": "https://uh.gsstatic.es/sfAttachPlugin/social/4612983.webp",
+      "category": "Automatización"
+    },
     {
       "id": "agentic-ai-inflection-2026",
       "date": "4 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.seidor.com/es-gt/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
       "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "agentic-web-api-automation-2026",
-      "date": "4 May 2026",
-      "headline": "Web Agéntica: internet con protocolos y APIs para automatización segura entre agentes IA",
-      "summary": "2026 consolida la inteligencia artificial agencial y desarrolla la web agencial, una internet dotada de servicios, protocolos y APIs que permitirán a agentes IA interactuar y ejecutar procesos de forma automatizada. Este cambio afecta directamente a empresas en integración de sistemas, automatización de flujos B2B y oportunidades de nuevos servicios digitales basados en interoperabilidad de agentes.",
-      "source": "Eurecat",
-      "sourceUrl": "https://www.industriaquimica.es/noticias/20251230/tendencias-en-2026-computacion-cuantica-robotica-innovaciones-en-biotecnologia-tecnologias-termoquimicas",
-      "imageUrl": "https://www.industriaquimica.es/media/uploads/noticias/rrss/eurectbio1.jpg",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "embodied-ai-robotics-labor-2026",
-      "date": "4 May 2026",
-      "headline": "Embodied AI: inteligencia artificial en robots humanoides comienza reemplazo laboral masivo",
-      "summary": "La inteligencia artificial integrada en hardware físico (Embodied AI) deja de ser promesa de laboratorio en 2026. Robots humanoides comenzarán a reemplazar puestos ocupados por humanos, particularmente en manufactura, logística y servicios. Este cambio genera impacto inmediato en planificación de empleo, costes de mano de obra y transformación de modelos operativos en sectores vulnerables a automatización.",
-      "source": "Tec de Monterrey / Xiaomi CEO Lei Jun",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
-      "category": "Automatización"
     }
   ]
 }

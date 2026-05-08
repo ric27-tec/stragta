@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-07T09:27:52.201Z",
+  "lastUpdated": "2026-05-08T08:18:45.488Z",
   "articles": [
     {
-      "id": "palantir-q1-2026-revenue-guidance",
-      "date": "4 May 2026",
-      "headline": "Palantir Reports 104% U.S. Revenue Growth, Raises Full-Year Guidance to +71% Y/Y",
-      "summary": "Palantir delivered a blowout Q1 quarter with U.S. revenue up 104% year-over-year and raised full-year revenue guidance to +71% Y/Y, recalibrating expectations for enterprise AI platform monetization and signaling accelerating adoption of AI-driven analytics across corporate clients.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-04/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
-      "category": "AI Adoption"
+      "id": "whitehouse-ai-controls-2026-05-05",
+      "date": "5 May 2026",
+      "headline": "White House Mulls Tighter Controls on Advanced AI",
+      "summary": "The Trump administration is shifting from a hands-off approach to considering stricter regulations on advanced AI, urged by policy shifts despite venture capitalist opposition, raising alarms in tech about slowed innovation. This could increase compliance costs and delays for corporations developing or deploying AI systems, affecting strategic planning and R&D budgets. Enterprises must prepare for potential new oversight impacting AI tool adoption and global competitiveness.",
+      "source": "Politico",
+      "sourceUrl": "https://www.politico.com/news/2026/05/05/white-house-mulls-tight-new-controls-on-advanced-ai-00907468",
+      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F73%2F4e%2Fa06a708b484fa984b1698d198643%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1541247207",
+      "category": "Regulation"
     },
     {
-      "id": "infweek-edge-computing-2026",
-      "date": "4 May 2026",
-      "headline": "Edge Computing Emerges as Tech Sector's Growth Engine in 2026; Fiber and Satellite Infrastructure Investment Accelerates",
-      "summary": "Industry analysis indicates edge computing is moving from experimentation to core growth driver in 2026, with fiber buildouts and satellite network investments (Amazon, others) lowering adoption barriers for real-time AI inference and creating new demand for inference-optimized semiconductors and cloud services.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/digital-transformation/the-year-tech-reinvents-itself-five-predictions-for-2026",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt5efdccad95548487/695c17ebc400da40bf093ad9/01072026predictions_MarekUliaszAlamy.jpg?disable=upscale&width=1200&height=630&fit=crop",
-      "category": "Research"
+      "id": "us-ai-vetting-2026-05-05",
+      "date": "5 May 2026",
+      "headline": "US Government Expands Vetting of Frontier AI Models for Security Risks",
+      "summary": "Microsoft, xAI, and Google DeepMind have agreed to pre-deployment safety testing of AI models by the Commerce Department's Center for AI Standards, enabling government vetting for national security risks before public release. This sets a precedent for mandatory evaluations in frontier AI, potentially delaying product launches and raising development costs for tech firms. Businesses relying on these models face risks to timelines and must factor in heightened security compliance.",
+      "source": "Politico",
+      "sourceUrl": "https://www.politico.com/news/2026/05/05/microsoft-xai-google-caisi-safety-testing-00906529",
+      "imageUrl": "",
+      "category": "Regulation"
     },
     {
-      "id": "taipei-times-nvidia-asia",
-      "date": "6 May 2026",
-      "headline": "Asian Tech Companies Rally on Nvidia Partnership Deals",
-      "summary": "South Korea's LG Electronics, Taiwan's Nanya Technology, and Chinese automotive suppliers have announced collaborations with Nvidia, signaling expanding AI chip ecosystem partnerships across Asia. This trend affects supply chain positioning and component sourcing strategies for businesses dependent on semiconductor availability and pricing.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/05/06/2003856813",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/05/06/p09-260506-607.jpg",
+      "id": "ot-cybersecurity-economics",
+      "date": "5 May 2026",
+      "headline": "Rising Breach Costs and Downtime Redefine Economics of OT Cybersecurity as Boardroom Priority",
+      "summary": "Unplanned industrial downtime costs manufacturers up to $50B annually, with one-quarter of breached firms facing over $5M in losses, driving OT cybersecurity into structured budgeting amid $240B global spend by 2026. Insurers are tightening underwriting, making robust defenses a financial imperative beyond prevention. Medium and large businesses, especially in manufacturing and critical infrastructure, should prioritize OT investments to mitigate supply chain disruptions and regulatory fines.",
+      "source": "Industrial Cyber",
+      "sourceUrl": "https://industrialcyber.co/features/rising-breach-costs-and-operational-downtime-redefine-economics-of-ot-cybersecurity-making-it-boardroom-priority/",
+      "imageUrl": "https://industrialcyber.co/wp-content/uploads/2026/04/2026.04.05-Rising-breach-costs-and-operational-downtime-redefine-economics-of-OT-cybersecurity-making-it-boardroom-priority.webp",
       "category": "Strategy"
     }
   ]
