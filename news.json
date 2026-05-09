@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-08T08:18:45.488Z",
+  "lastUpdated": "2026-05-09T08:24:49.143Z",
   "articles": [
     {
-      "id": "whitehouse-ai-controls-2026-05-05",
-      "date": "5 May 2026",
-      "headline": "White House Mulls Tighter Controls on Advanced AI",
-      "summary": "The Trump administration is shifting from a hands-off approach to considering stricter regulations on advanced AI, urged by policy shifts despite venture capitalist opposition, raising alarms in tech about slowed innovation. This could increase compliance costs and delays for corporations developing or deploying AI systems, affecting strategic planning and R&D budgets. Enterprises must prepare for potential new oversight impacting AI tool adoption and global competitiveness.",
-      "source": "Politico",
-      "sourceUrl": "https://www.politico.com/news/2026/05/05/white-house-mulls-tight-new-controls-on-advanced-ai-00907468",
-      "imageUrl": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F73%2F4e%2Fa06a708b484fa984b1698d198643%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1541247207",
+      "id": "ai-industries-2026",
+      "date": "8 May 2026",
+      "headline": "Industries Most Affected by AI in 2026: How Artificial Intelligence Is Changing Work",
+      "summary": "AI is transforming IT, retail, manufacturing, and logistics through automation of coding, inventory forecasting, predictive maintenance, and route optimization, boosting productivity while reshaping jobs. Businesses from SMEs to corporations can leverage these tools to cut repetitive tasks, improve efficiency, and manage workforce transitions. Adoption varies by sector, with strong impacts on operational costs and competitiveness.",
+      "source": "TechTimes",
+      "sourceUrl": "https://www.techtimes.com/articles/316438/20260508/industries-most-affected-ai-2026-how-artificial-intelligence-changing-work.htm",
+      "imageUrl": "https://d.techtimes.com/en/full/464661/it-workplace.jpg",
+      "category": "Automation"
+    },
+    {
+      "id": "canvas-cyberattack",
+      "date": "8 May 2026",
+      "headline": "Online Learning Platform Canvas Hacked in Massive Cyberattack",
+      "summary": "Canvas, serving 30 million students across thousands of schools and universities, suffered a major cyberattack, exposing cybersecurity risks in edtech platforms used by businesses for training. Enterprises and SMEs evaluating digital learning tools must prioritize robust security to mitigate disruptions and compliance issues. This incident highlights vulnerabilities in widely adopted SaaS platforms.",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/technology/",
+      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/2021/07/08/08f7d9a8-3d70-4655-ac3c-559caf5a7adb/cbsnews-blue.png",
       "category": "Regulation"
     },
     {
-      "id": "us-ai-vetting-2026-05-05",
-      "date": "5 May 2026",
-      "headline": "US Government Expands Vetting of Frontier AI Models for Security Risks",
-      "summary": "Microsoft, xAI, and Google DeepMind have agreed to pre-deployment safety testing of AI models by the Commerce Department's Center for AI Standards, enabling government vetting for national security risks before public release. This sets a precedent for mandatory evaluations in frontier AI, potentially delaying product launches and raising development costs for tech firms. Businesses relying on these models face risks to timelines and must factor in heightened security compliance.",
-      "source": "Politico",
-      "sourceUrl": "https://www.politico.com/news/2026/05/05/microsoft-xai-google-caisi-safety-testing-00906529",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "ot-cybersecurity-economics",
-      "date": "5 May 2026",
-      "headline": "Rising Breach Costs and Downtime Redefine Economics of OT Cybersecurity as Boardroom Priority",
-      "summary": "Unplanned industrial downtime costs manufacturers up to $50B annually, with one-quarter of breached firms facing over $5M in losses, driving OT cybersecurity into structured budgeting amid $240B global spend by 2026. Insurers are tightening underwriting, making robust defenses a financial imperative beyond prevention. Medium and large businesses, especially in manufacturing and critical infrastructure, should prioritize OT investments to mitigate supply chain disruptions and regulatory fines.",
-      "source": "Industrial Cyber",
-      "sourceUrl": "https://industrialcyber.co/features/rising-breach-costs-and-operational-downtime-redefine-economics-of-ot-cybersecurity-making-it-boardroom-priority/",
-      "imageUrl": "https://industrialcyber.co/wp-content/uploads/2026/04/2026.04.05-Rising-breach-costs-and-operational-downtime-redefine-economics-of-OT-cybersecurity-making-it-boardroom-priority.webp",
-      "category": "Strategy"
+      "id": "arm-fy2026-results",
+      "date": "6 May 2026",
+      "headline": "Arm Holdings Publishes Full-Year Fiscal 2026 Results",
+      "summary": "Arm Holdings released full-year FY2026 results, offering critical insights into chip licensing trends, AI compute exposure, and the semiconductor IP cycle that impact hardware design costs and supply chains for tech firms. Businesses reliant on Arm-based processors can assess ongoing demand and innovation pace in mobile, edge, and data center chips. This data influences strategic planning for AI infrastructure investments.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-06/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "AI Adoption"
     }
   ]
 }
