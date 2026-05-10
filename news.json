@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-09T08:24:49.143Z",
+  "lastUpdated": "2026-05-10T08:49:11.293Z",
   "articles": [
+    {
+      "id": "ai-infrastructure-nvda-iren",
+      "date": "7 May 2026",
+      "headline": "NVIDIA and IREN Partner to Deploy 5 GW of AI Infrastructure",
+      "summary": "NVIDIA and IREN announced a strategic partnership to accelerate deployment of up to 5 GW of AI infrastructure globally. This signals major near-term capacity buildouts tied to chip-maker demand, with IREN's European expansion providing clearer commercialization timelines for businesses planning AI infrastructure investments.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-07/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "turbo-quant-memory-efficiency",
+      "date": "7 May 2026",
+      "headline": "Google's TurboQuant Algorithm Could Reshape AI Memory Costs and Adoption",
+      "summary": "Google's TurboQuant dramatically reduces memory requirements for running AI systems, triggering immediate stock volatility in memory chipmakers. For businesses planning AI adoption, this innovation signals potential cost reductions but also uncertainty in hardware pricing and infrastructure ROI planning throughout 2026.",
+      "source": "Bloomingbit",
+      "sourceUrl": "https://en.bloomingbit.io/feed/news/109036",
+      "imageUrl": "https://media.bloomingbit.io/PROD/news/bbbf52f3-85fb-4a5c-94ab-49c8804ea8e2.webp",
+      "category": "AI Adoption"
+    },
     {
       "id": "ai-industries-2026",
       "date": "8 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.techtimes.com/articles/316438/20260508/industries-most-affected-ai-2026-how-artificial-intelligence-changing-work.htm",
       "imageUrl": "https://d.techtimes.com/en/full/464661/it-workplace.jpg",
       "category": "Automation"
-    },
-    {
-      "id": "canvas-cyberattack",
-      "date": "8 May 2026",
-      "headline": "Online Learning Platform Canvas Hacked in Massive Cyberattack",
-      "summary": "Canvas, serving 30 million students across thousands of schools and universities, suffered a major cyberattack, exposing cybersecurity risks in edtech platforms used by businesses for training. Enterprises and SMEs evaluating digital learning tools must prioritize robust security to mitigate disruptions and compliance issues. This incident highlights vulnerabilities in widely adopted SaaS platforms.",
-      "source": "CBS News",
-      "sourceUrl": "https://www.cbsnews.com/technology/",
-      "imageUrl": "https://assets1.cbsnewsstatic.com/hub/i/2021/07/08/08f7d9a8-3d70-4655-ac3c-559caf5a7adb/cbsnews-blue.png",
-      "category": "Regulation"
-    },
-    {
-      "id": "arm-fy2026-results",
-      "date": "6 May 2026",
-      "headline": "Arm Holdings Publishes Full-Year Fiscal 2026 Results",
-      "summary": "Arm Holdings released full-year FY2026 results, offering critical insights into chip licensing trends, AI compute exposure, and the semiconductor IP cycle that impact hardware design costs and supply chains for tech firms. Businesses reliant on Arm-based processors can assess ongoing demand and innovation pace in mobile, edge, and data center chips. This data influences strategic planning for AI infrastructure investments.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-06/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
-      "category": "AI Adoption"
     }
   ]
 }
