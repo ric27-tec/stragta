@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-10T08:49:11.293Z",
+  "lastUpdated": "2026-05-11T10:33:10.027Z",
   "articles": [
     {
-      "id": "ai-infrastructure-nvda-iren",
-      "date": "7 May 2026",
-      "headline": "NVIDIA and IREN Partner to Deploy 5 GW of AI Infrastructure",
-      "summary": "NVIDIA and IREN announced a strategic partnership to accelerate deployment of up to 5 GW of AI infrastructure globally. This signals major near-term capacity buildouts tied to chip-maker demand, with IREN's European expansion providing clearer commercialization timelines for businesses planning AI infrastructure investments.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-07/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
-      "category": "Strategy"
-    },
-    {
-      "id": "turbo-quant-memory-efficiency",
-      "date": "7 May 2026",
-      "headline": "Google's TurboQuant Algorithm Could Reshape AI Memory Costs and Adoption",
-      "summary": "Google's TurboQuant dramatically reduces memory requirements for running AI systems, triggering immediate stock volatility in memory chipmakers. For businesses planning AI adoption, this innovation signals potential cost reductions but also uncertainty in hardware pricing and infrastructure ROI planning throughout 2026.",
-      "source": "Bloomingbit",
-      "sourceUrl": "https://en.bloomingbit.io/feed/news/109036",
-      "imageUrl": "https://media.bloomingbit.io/PROD/news/bbbf52f3-85fb-4a5c-94ab-49c8804ea8e2.webp",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "ai-industries-2026",
+      "id": "cyber-threats-agriculture",
       "date": "8 May 2026",
-      "headline": "Industries Most Affected by AI in 2026: How Artificial Intelligence Is Changing Work",
-      "summary": "AI is transforming IT, retail, manufacturing, and logistics through automation of coding, inventory forecasting, predictive maintenance, and route optimization, boosting productivity while reshaping jobs. Businesses from SMEs to corporations can leverage these tools to cut repetitive tasks, improve efficiency, and manage workforce transitions. Adoption varies by sector, with strong impacts on operational costs and competitiveness.",
-      "source": "TechTimes",
-      "sourceUrl": "https://www.techtimes.com/articles/316438/20260508/industries-most-affected-ai-2026-how-artificial-intelligence-changing-work.htm",
-      "imageUrl": "https://d.techtimes.com/en/full/464661/it-workplace.jpg",
+      "headline": "Cyber Threats Grow in Agriculture as Ransomware Targets Supply Chain",
+      "summary": "Ransomware attacks are increasingly targeting the food and agriculture supply chain as data usage in the sector expands. Businesses in agriculture face heightened cybersecurity risks that could disrupt operations, compromise sensitive data, and impact global food supply chains. Companies must prioritize proactive defenses to mitigate financial and operational losses.",
+      "source": "RFD-TV",
+      "sourceUrl": "https://www.rfdtv.com/cyber-threats-grow-in-agriculture-as-ransomware-targets-supply-chain",
+      "imageUrl": "https://rfdtv.brightspotgocdn.com/dims4/default/91e6ed3/2147483647/strip/true/crop/1280x719+0+1/resize/730x410!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-rfdtv.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fff%2F13%2Fffd391004cd79ec1b038d78523d9%2Fdigital-contracts-by-chanakon-adobe-stock.png",
+      "category": "Cybersecurity"
+    },
+    {
+      "id": "business-tech-trends-2026",
+      "date": "8 May 2026",
+      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
+      "summary": "Key trends include agentic AI for process redesign, physical AI via robotics-as-a-service, and AI-driven cybersecurity, enabling SMEs to boost efficiency without heavy investments. These shifts promise controlled growth, reduced labor costs, and automation of physical tasks in retail, manufacturing, and construction. Leaders delaying adoption risk falling behind in productivity and competitiveness.",
+      "source": "Entrepreneur",
+      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
+      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
       "category": "Automation"
+    },
+    {
+      "id": "digital-transformation-2026",
+      "date": "8 May 2026",
+      "headline": "Digital Transformation Is A Business Imperative In 2026",
+      "summary": "Digital transformation has become the baseline for modern businesses, with delays posing significant risks to competitiveness and sustainability. Organizations must adapt to AI, cloud, and automation tools to manage costs, enhance operations, and meet market expectations. SMEs and large firms ignoring this face higher operational risks and lost opportunities.",
+      "source": "The Gateway Digital",
+      "sourceUrl": "https://www.thegatewaydigital.com/resources/digital-transformation-is-a-business-imperative-in-2026/",
+      "imageUrl": "https://www.thegatewaydigital.com/wp-content/uploads/2026/01/Web-banner_Digital-Transformation-banner-copy.jpg",
+      "category": "Strategy"
     }
   ]
 }

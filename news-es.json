@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-08T08:18:58.932Z",
+  "lastUpdated": "2026-05-11T10:33:20.952Z",
   "articles": [
+    {
+      "id": "ia-agencia-2026",
+      "date": "8 May 2026",
+      "headline": "Despliegue gradual de la IA agéntica marcará 2026 con transición a arquitecturas híbridas",
+      "summary": "SEIDOR predice el despliegue operativo de IA agéntica proactiva en 2026, exigiendo migración de infraestructuras legacy a GPUs y NPUs especializadas. Empresas enfrentarán mayores demandas de hardware IA, con impactos en costes de cómputo, eficiencia operativa y planificación de inversiones en chips.",
+      "source": "SEIDOR",
+      "sourceUrl": "https://www.seidor.com/es-gt/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
+      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
+      "category": "Infraestructura"
+    },
+    {
+      "id": "ia-espacio-nvidia",
+      "date": "8 May 2026",
+      "headline": "IA conquista el espacio: modelos entrenados en órbita con Nvidia y StarCloud reducen costes computacionales",
+      "summary": "La colaboración Nvidia-StarCloud demuestra entrenamiento de IA en órbita, aprovechando condiciones térmicas ideales para centros de datos espaciales. Esto promete reducir drásticamente costes de infraestructura cloud para corporaciones, alterando mercados de semiconductores y planificación de data centers terrestres.",
+      "source": "Esade Do Better",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Infraestructura"
+    },
     {
       "id": "madrid-quantum-tech-hub",
       "date": "5 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.comunidad.madrid/noticias/2026/05/05/comunidad-madrid-polo-referencia-mundial-tecnologia-cuantica-proyecto-q-mind",
       "imageUrl": "https://www.comunidad.madrid/docs/styles/16x9_1272w_x1/public/2026-05/foto-3.JPEG?VersionId=8gKslnkcgHzHa82OG2FewRRTdzCfr_OE&amp;itok=tEzgvyiG",
       "category": "Investigación"
-    },
-    {
-      "id": "familiar-robotics-commercial",
-      "date": "5 May 2026",
-      "headline": "Familiar: nueva mascota robótica para interacción humana y comprensión emocional",
-      "summary": "Lanzamiento de robot de compañía con capacidades de comprensión emocional marca la comercialización de robótica humanoides en segmentos de consumo y potencialmente empresarial. Señal de que el mercado de automatización y robótica accesible está madurando para pequeños negocios y sectores de servicios.",
-      "source": "Última Hora",
-      "sourceUrl": "https://amp.ultimahora.es/noticias/tecnologia-videojuegos/2026/05/05/2623057/asi-familiar-nueva-mascota-robotica-para-interaccion-humana-comprension-emocional.html",
-      "imageUrl": "https://uh.gsstatic.es/sfAttachPlugin/social/4612983.webp",
-      "category": "Automatización"
-    },
-    {
-      "id": "agentic-ai-inflection-2026",
-      "date": "4 May 2026",
-      "headline": "2026 marca el punto de inflexión hacia la IA Agéntica operativa en empresas",
-      "summary": "Tras la fase exploratoria de 2025, la IA agéntica (sistemas capaces de decidir y ejecutar tareas autónomamente) transiciona a despliegue real en entornos empresariales. Esta evolución exige que las organizaciones replanteen su infraestructura legacy basada en CPU tradicionales, acelerando la inversión en aceleradores especializados (GPUs, NPUs, LPUs) y arquitecturas híbridas que impactarán significativamente presupuestos de TI y modernización de data centers.",
-      "source": "SEIDOR",
-      "sourceUrl": "https://www.seidor.com/es-gt/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
-      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
-      "category": "Adopción de IA"
     }
   ]
 }
