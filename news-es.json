@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-11T10:33:20.952Z",
+  "lastUpdated": "2026-05-12T09:32:02.120Z",
   "articles": [
     {
-      "id": "ia-agencia-2026",
-      "date": "8 May 2026",
-      "headline": "Despliegue gradual de la IA agéntica marcará 2026 con transición a arquitecturas híbridas",
-      "summary": "SEIDOR predice el despliegue operativo de IA agéntica proactiva en 2026, exigiendo migración de infraestructuras legacy a GPUs y NPUs especializadas. Empresas enfrentarán mayores demandas de hardware IA, con impactos en costes de cómputo, eficiencia operativa y planificación de inversiones en chips.",
-      "source": "SEIDOR",
-      "sourceUrl": "https://www.seidor.com/es-gt/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
-      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
-      "category": "Infraestructura"
+      "id": "apple-publicidad-ia",
+      "date": "12 May 2026",
+      "headline": "Apple acepta pagar 250 millones por 'publicidad engañosa' sobre su Inteligencia Artificial en los iPhone 15 y 16",
+      "summary": "Apple ha cerrado una demanda colectiva en EE.UU. por crear falsas expectativas sobre las capacidades de IA en sus iPhones, acordando pagar 250 millones con compensaciones de hasta 95 dólares por comprador afectado. Esto genera riesgos regulatorios y de cumplimiento para campañas de marketing de IA en hardware, afectando la confianza del consumidor y posibles costes legales para competidores como Samsung o Google. Las empresas deben revisar publicidad de features de IA para evitar demandas similares.",
+      "source": "RTVE",
+      "sourceUrl": "https://www.rtve.es/temas/inteligencia-artificial/62511/",
+      "imageUrl": "https://img2.rtve.es/images/share_facebook.jpg",
+      "category": "Regulación"
     },
     {
       "id": "ia-espacio-nvidia",
-      "date": "8 May 2026",
-      "headline": "IA conquista el espacio: modelos entrenados en órbita con Nvidia y StarCloud reducen costes computacionales",
-      "summary": "La colaboración Nvidia-StarCloud demuestra entrenamiento de IA en órbita, aprovechando condiciones térmicas ideales para centros de datos espaciales. Esto promete reducir drásticamente costes de infraestructura cloud para corporaciones, alterando mercados de semiconductores y planificación de data centers terrestres.",
-      "source": "Esade Do Better",
+      "date": "12 May 2026",
+      "headline": "La IA conquistará el espacio con centros de datos orbitales y colaboración Nvidia-StarCloud",
+      "summary": "Nvidia y StarCloud han entrenado el primer modelo de IA en órbita, aprovechando condiciones térmicas y energéticas ideales para reducir costes de cómputo en comparación con data centers terrestres. Si los lanzamientos se abaratan, 2026 verá proliferación de infraestructura espacial, bajando precios de cloud IA para corporaciones y pymes. Esto altera planificación de inversiones en hardware NVIDIA y proveedores cloud como AWS o Azure.",
+      "source": "Esade",
       "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
       "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Infraestructura"
+      "category": "Infraestructura IA"
     },
     {
-      "id": "madrid-quantum-tech-hub",
-      "date": "5 May 2026",
-      "headline": "La Comunidad de Madrid se posiciona como polo de referencia mundial en tecnología cuántica",
-      "summary": "Madrid emerge como centro global en computación cuántica con el proyecto Q-Mind, atrayendo inversión e I+D en una tecnología clave para resolver problemas complejos en finanzas, farmacéutica y optimización empresarial. Este posicionamiento puede impactar la disponibilidad de talento y oportunidades de adopción temprana para empresas en la región.",
-      "source": "Comunidad de Madrid",
-      "sourceUrl": "https://www.comunidad.madrid/noticias/2026/05/05/comunidad-madrid-polo-referencia-mundial-tecnologia-cuantica-proyecto-q-mind",
-      "imageUrl": "https://www.comunidad.madrid/docs/styles/16x9_1272w_x1/public/2026-05/foto-3.JPEG?VersionId=8gKslnkcgHzHa82OG2FewRRTdzCfr_OE&amp;itok=tEzgvyiG",
-      "category": "Investigación"
+      "id": "gui-a-el-pais",
+      "date": "11 May 2026",
+      "headline": "EL PAÍS pone en marcha GuIA, sistema pionero con IA para automatizar tareas editoriales",
+      "summary": "EL PAÍS lanza GuIA, una herramienta de IA que automatiza etiquetado de contenido y selección de noticias relacionadas, mejorando eficiencia operativa en medios. Medianas empresas y pymes en contenido digital pueden replicar para reducir costes laborales en tareas mecánicas, impulsando adopción de IA en productividad. Potencial impacto en empleo editorial y demanda de software similar como de Google o OpenAI.",
+      "source": "Cadena SER",
+      "sourceUrl": "https://cadenaser.com/nacional/2026/05/11/el-pais-pone-en-marcha-guia-un-sistema-pionero-con-inteligencia-artificial-que-enriquece-la-calidad-de-las-noticias-cadena-ser/",
+      "imageUrl": "https://cadenaser.com/resizer/v2/QMLBODU4XVBTVL47V2EETNKKNU.jpg?auth=39c37df183da99015b5bc1ac0a9e1f8229780adc9724817c1f9e899245838b61&amp;quality=70&amp;width=1200&amp;height=675&amp;smart=true",
+      "category": "Adopción de IA"
     }
   ]
 }
