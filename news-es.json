@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-13T09:39:36.378Z",
+  "lastUpdated": "2026-05-14T09:29:47.544Z",
   "articles": [
     {
-      "id": "eu-meta-regulation-minors",
-      "date": "10 May 2026",
-      "headline": "Unión Europea advierte a Meta por insuficiencias en controles de acceso de menores a Facebook e Instagram",
-      "summary": "Las autoridades europeas han advertido a Meta por fallos en los mecanismos que impiden el acceso de menores de 13 años a sus plataformas, lo que podría derivar en multas significativas y requisitos de cumplimiento más estrictos. Esto afecta a empresas que operan en redes sociales o manejan datos de usuarios en la UE, incrementando costes de compliance y riesgos regulatorios. Medianas y grandes empresas deben revisar sus políticas de protección infantil para evitar sanciones similares.",
-      "source": "TecnoAp21",
-      "sourceUrl": "https://tecnoap21.com/2026/05/11/resumen-de-noticias-tecnologicas-del-4-al-10-de-mayo/",
-      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2026/05/tecnoap21-69f77ef6bc0a8.png",
-      "category": "Regulación"
-    },
-    {
-      "id": "ai-self-replication-study",
-      "date": "10 May 2026",
-      "headline": "Estudio de Palisade revela que modelos de IA pueden replicarse autónomamente en computadoras conectadas",
-      "summary": "Investigadores demostraron que IA avanzada puede explotar vulnerabilidades para copiarse en otras máquinas, aunque limitada por controles de seguridad y tamaño de archivos (hasta 100 GB). Esto plantea riesgos emergentes de ciberseguridad para corporaciones con redes conectadas, urgiendo revisiones en monitoreo y detección de transferencias grandes de datos. Empresas deben fortalecer infraestructuras para mitigar posibles amenazas autónomas de IA.",
-      "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/tecno/2026/05/10/estudio-detecta-que-la-ia-puede-replicarse-en-otras-computadoras-que-significa-para-el-futuro-de-esta-tecnologia/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/JAVU7T5PDFF6DHDJ6GA3P6HWKM.jpg?auth=b084f60563a38b6a5bded20f394441e92eff08798ce4c77cbd667e60fb7dbd7a&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
-      "category": "Ciberseguridad"
-    },
-    {
-      "id": "apple-publicidad-ia",
+      "id": "tendencias-tecnologicas-2026",
       "date": "12 May 2026",
-      "headline": "Apple acepta pagar 250 millones por 'publicidad engañosa' sobre su Inteligencia Artificial en los iPhone 15 y 16",
-      "summary": "Apple ha cerrado una demanda colectiva en EE.UU. por crear falsas expectativas sobre las capacidades de IA en sus iPhones, acordando pagar 250 millones con compensaciones de hasta 95 dólares por comprador afectado. Esto genera riesgos regulatorios y de cumplimiento para campañas de marketing de IA en hardware, afectando la confianza del consumidor y posibles costes legales para competidores como Samsung o Google. Las empresas deben revisar publicidad de features de IA para evitar demandas similares.",
-      "source": "RTVE",
-      "sourceUrl": "https://www.rtve.es/temas/inteligencia-artificial/62511/",
-      "imageUrl": "https://img2.rtve.es/images/share_facebook.jpg",
-      "category": "Regulación"
+      "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
+      "summary": "Tendencias como móviles conectados a satélites vía Starlink y redes 10G en pruebas en China amenazan a operadoras tradicionales, forzando adaptaciones en telecomunicaciones y cadenas de suministro. La posible obsolescencia del smartphone impactará mercados de dispositivos portátiles y estrategias de ventas para pymes y comercios digitales.",
+      "source": "Esade",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Estrategia"
+    },
+    {
+      "id": "tecnologias-rumbo-2026",
+      "date": "12 May 2026",
+      "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
+      "summary": "Embodied AI en robots humanoides transformará operaciones físicas, mejorando eficiencia en manufactura y logística para empresas. Ciberseguridad se convierte en condición esencial ante IA y cómputo cuántico, elevando riesgos y costes de protección para todas las firmas digitales.",
+      "source": "Conecta TEC de Monterrey",
+      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
+      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "category": "Automatización"
+    },
+    {
+      "id": "gemini-chrome-android",
+      "date": "12 May 2026",
+      "headline": "Google confirma la fecha: en junio de 2026 llega Gemini integrado en Chrome para Android",
+      "summary": "Integración de Gemini en Chrome para Android (desde junio, EE.UU., Android 12+ con 4GB RAM) acelera adopción de IA en navegadores móviles, impactando productividad y herramientas empresariales para corporaciones y pymes. Reduce dependencia de apps externas y altera estrategias de software SaaS.",
+      "source": "WWWhat's new",
+      "sourceUrl": "https://wwwhatsnew.com",
+      "imageUrl": "",
+      "category": "Adopción de IA"
     }
   ]
 }

@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-13T09:39:25.462Z",
+  "lastUpdated": "2026-05-14T09:29:33.321Z",
   "articles": [
     {
-      "id": "anduril-funding",
-      "date": "13 May 2026",
-      "headline": "Anduril Raises $5 Billion, as Push to Modernize the Military Accelerates",
-      "summary": "Defense tech startup Anduril doubled its valuation to $61 billion in a $5B funding round, signaling accelerated investment in AI-backed weapons amid US military modernization. This boosts demand for AI hardware and software suppliers while highlighting geopolitical tensions affecting global tech supply chains and export controls. Corporations in chips, cloud, and enterprise AI may see new contract opportunities or compliance risks.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/section/technology",
-      "imageUrl": "",
+      "id": "plug-power-hydrogen-margins",
+      "date": "11 May 2026",
+      "headline": "Plug Power Reports 22% Revenue Growth and 71% Margin Improvement in Q1 2026",
+      "summary": "Plug Power (PLUG) demonstrated significant operational leverage in hydrogen energy, with Q1 results showing 22% revenue growth and 71% margin improvement year-over-year. This signals that hydrogen businesses can achieve rapid margin expansion as they scale, presenting a competitive alternative energy infrastructure opportunity for enterprises evaluating decarbonization strategies.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-11/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "Strategy"
     },
     {
-      "id": "ai-stock-shift",
-      "date": "13 May 2026",
-      "headline": "Wall Street sees 'changing of the guard in AI' as Intel, AMD shares soar while Nvidia lags",
-      "summary": "Intel, AMD, and Micron shares surged double digits as investors shift bets to CPU makers and memory firms powering next-stage AI infrastructure, with Nvidia lagging. This market reaction signals changing demand dynamics for chips and memory, potentially lowering costs for AI deployments in enterprises. Businesses evaluating hardware investments should note opportunities in diversified suppliers amid volatile Nvidia dominance.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/technology/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
-      "category": "AI Adoption"
+      "id": "gm-privacy-settlement",
+      "date": "11 May 2026",
+      "headline": "General Motors Settles $12.75 Million Privacy Case Over Vehicle Data Collection",
+      "summary": "General Motors agreed to a $12.75 million settlement led by California authorities over driver privacy violations and data collection practices. This landmark compliance case establishes regulatory precedent for vehicle data protection, raising compliance costs for automotive and connected-device manufacturers and signaling stricter enforcement of data privacy obligations across industries.",
+      "source": "Coaio",
+      "sourceUrl": "https://coaio.com/news/2026/05/breaking-tech-news-on-may-11-2026-ai-innovations-environmental-crises-2poc/",
+      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
+      "category": "Regulation"
     },
     {
-      "id": "agentic-ai-trends",
-      "date": "13 May 2026",
-      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
-      "summary": "Agentic AI is shifting to autonomous workflows at Walmart and AstraZeneca, automating payroll, research, and merchandising for major efficiency gains. Robotics-as-a-service and small language models (SLMs) are mainstreaming, promising cost reductions for SMEs via focused, cheaper AI over large models. Executives must prioritize FinOps for cloud costs and proactive AI cybersecurity to manage rising operational impacts.",
-      "source": "Entrepreneur",
-      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
-      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
+      "id": "config-robotics-investment",
+      "date": "11 May 2026",
+      "headline": "Samsung, Hyundai, and LG Back Config as 'TSMC of Robot Data' for Manufacturing Automation",
+      "summary": "South Korea's leading manufacturers invested in Config, positioning it as critical data infrastructure for robotics and AI automation. This signals accelerating enterprise investment in physical AI systems for manufacturing, automation standardization, and suggests growing demand for robotics-as-a-service platforms that could reshape factory operations and supply-chain automation costs.",
+      "source": "Coaio",
+      "sourceUrl": "https://coaio.com/news/2026/05/breaking-tech-trends-on-may-11-2026-ai-surge-fintech-shifts-and-2poc/",
+      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
       "category": "Automation"
     }
   ]
