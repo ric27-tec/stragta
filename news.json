@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-14T09:29:33.321Z",
+  "lastUpdated": "2026-05-15T09:42:25.831Z",
   "articles": [
     {
-      "id": "plug-power-hydrogen-margins",
-      "date": "11 May 2026",
-      "headline": "Plug Power Reports 22% Revenue Growth and 71% Margin Improvement in Q1 2026",
-      "summary": "Plug Power (PLUG) demonstrated significant operational leverage in hydrogen energy, with Q1 results showing 22% revenue growth and 71% margin improvement year-over-year. This signals that hydrogen businesses can achieve rapid margin expansion as they scale, presenting a competitive alternative energy infrastructure opportunity for enterprises evaluating decarbonization strategies.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-11/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "id": "rthk-tech-stocks-rally-cisco-cerebras",
+      "date": "15 May 2026",
+      "headline": "Tech stocks rally as Cisco surges and Cerebras jumps on Nasdaq debut",
+      "summary": "Wall Street’s tech rally continued as Cisco rose sharply after stronger earnings and Cerebras posted a strong first-day performance. The move signals ongoing investor confidence in AI and networking infrastructure, which matters for companies planning cloud spend, AI rollouts, and vendor selection.",
+      "source": "RTHK",
+      "sourceUrl": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1854736-20260515.htm?spTabChangeable=0",
+      "imageUrl": "https://newsstatic.rthk.hk/images/mfile_1854736_1_M_20260515051020.jpg",
       "category": "Strategy"
     },
     {
-      "id": "gm-privacy-settlement",
-      "date": "11 May 2026",
-      "headline": "General Motors Settles $12.75 Million Privacy Case Over Vehicle Data Collection",
-      "summary": "General Motors agreed to a $12.75 million settlement led by California authorities over driver privacy violations and data collection practices. This landmark compliance case establishes regulatory precedent for vehicle data protection, raising compliance costs for automotive and connected-device manufacturers and signaling stricter enforcement of data privacy obligations across industries.",
-      "source": "Coaio",
-      "sourceUrl": "https://coaio.com/news/2026/05/breaking-tech-news-on-may-11-2026-ai-innovations-environmental-crises-2poc/",
-      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
+      "id": "cyfirma-weekly-intelligence-report-15-may-2026",
+      "date": "15 May 2026",
+      "headline": "Cyberattacks and ransomware remain a major operational threat for businesses",
+      "summary": "CYFIRMA’s weekly intelligence report highlights ransomware, phishing, vulnerabilities, and data leaks affecting organizations across sectors. For business leaders, the report underscores persistent operational disruption and financial risk, especially for firms with exposed web applications, supply-chain links, or limited incident-response capacity.",
+      "source": "CYFIRMA",
+      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-15-may-2026/",
+      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
     },
     {
-      "id": "config-robotics-investment",
-      "date": "11 May 2026",
-      "headline": "Samsung, Hyundai, and LG Back Config as 'TSMC of Robot Data' for Manufacturing Automation",
-      "summary": "South Korea's leading manufacturers invested in Config, positioning it as critical data infrastructure for robotics and AI automation. This signals accelerating enterprise investment in physical AI systems for manufacturing, automation standardization, and suggests growing demand for robotics-as-a-service platforms that could reshape factory operations and supply-chain automation costs.",
-      "source": "Coaio",
-      "sourceUrl": "https://coaio.com/news/2026/05/breaking-tech-trends-on-may-11-2026-ai-surge-fintech-shifts-and-2poc/",
-      "imageUrl": "https://coaio.com/revolutionizing-software-development-ai-innovations-and-faster-releases-in-2025.jpg",
-      "category": "Automation"
+      "id": "ibm-business-technology-trends-2026",
+      "date": "12 May 2026",
+      "headline": "IBM report frames 2026 as a year of business accountability for AI",
+      "summary": "IBM’s business trends report emphasizes that companies are shifting from AI experimentation to accountable deployment tied to financial outcomes. That is relevant for executives because it reflects rising pressure to prove ROI, manage governance, and integrate AI into core operations rather than isolated pilots.",
+      "source": "IBM",
+      "sourceUrl": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026",
+      "imageUrl": "https://www.ibm.com/thought-leadership/institute-business-value/uploads/en/1529_Report_thumbnail_1456x728_2x_8be4df0a1e.png",
+      "category": "Strategy"
     }
   ]
 }

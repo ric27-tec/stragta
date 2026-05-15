@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-14T09:29:47.544Z",
+  "lastUpdated": "2026-05-15T09:42:37.673Z",
   "articles": [
     {
-      "id": "tendencias-tecnologicas-2026",
+      "id": "agential-ai-consolidation-2026",
       "date": "12 May 2026",
-      "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
-      "summary": "Tendencias como móviles conectados a satélites vía Starlink y redes 10G en pruebas en China amenazan a operadoras tradicionales, forzando adaptaciones en telecomunicaciones y cadenas de suministro. La posible obsolescencia del smartphone impactará mercados de dispositivos portátiles y estrategias de ventas para pymes y comercios digitales.",
-      "source": "Esade",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tecnologias-rumbo-2026",
-      "date": "12 May 2026",
-      "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
-      "summary": "Embodied AI en robots humanoides transformará operaciones físicas, mejorando eficiencia en manufactura y logística para empresas. Ciberseguridad se convierte en condición esencial ante IA y cómputo cuántico, elevando riesgos y costes de protección para todas las firmas digitales.",
-      "source": "Conecta TEC de Monterrey",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "headline": "Agential AI alcanza fase de consolidación: automatización empresarial se acelera en 2026",
+      "summary": "La inteligencia artificial agencial (Agentic AI) se consolida como tendencia crítica con implantación en robótica y automatización de procesos empresariales. Se desarrolla una web agencial que permite a agentes de IA interactuar de forma automatizada, transformando la gestión operativa y reduciendo costes laborales en corporaciones.",
+      "source": "Eurecat",
+      "sourceUrl": "https://www.industriaquimica.es/noticias/20251230/tendencias-en-2026-computacion-cuantica-robotica-innovaciones-en-biotecnologia-tecnologias-termoquimicas",
+      "imageUrl": "https://www.industriaquimica.es/media/uploads/noticias/rrss/eurectbio1.jpg",
       "category": "Automatización"
     },
     {
-      "id": "gemini-chrome-android",
+      "id": "embodied-ai-physical-systems-2026",
       "date": "12 May 2026",
-      "headline": "Google confirma la fecha: en junio de 2026 llega Gemini integrado en Chrome para Android",
-      "summary": "Integración de Gemini en Chrome para Android (desde junio, EE.UU., Android 12+ con 4GB RAM) acelera adopción de IA en navegadores móviles, impactando productividad y herramientas empresariales para corporaciones y pymes. Reduce dependencia de apps externas y altera estrategias de software SaaS.",
-      "source": "WWWhat's new",
-      "sourceUrl": "https://wwwhatsnew.com",
-      "imageUrl": "",
+      "headline": "Embodied AI: inteligencia artificial integrada en hardware físico transforma operaciones empresariales",
+      "summary": "La IA sale de pantallas y se integra en objetos físicos como robots humanoides. Esta transformación de soft a hardware afecta inversiones en automatización, logística y manufactura, con implicaciones directas en productividad operativa y reconfiguración de cadenas de suministro.",
+      "source": "Conecta TEC",
+      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
+      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
       "category": "Adopción de IA"
+    },
+    {
+      "id": "on-device-ai-privacy-infrastructure-2026",
+      "date": "12 May 2026",
+      "headline": "IA en dispositivo: empresas adoptan procesamiento local para reducir costes cloud y cumplir privacidad",
+      "summary": "La ejecución de modelos de IA directamente en dispositivos reduce dependencia de infraestructura cloud y procesa datos sensibles sin enviarlos a servidores remotos. Esto reduce costes de ancho de banda, latencia y riesgos de privacidad, afectando estrategias de inversión tecnológica en pymes y corporaciones.",
+      "source": "DSalamanca",
+      "sourceUrl": "https://www.dsalamanca.es/digitalizados/n-10-tecnologias-nos-esperan-2026",
+      "imageUrl": "https://www.dsalamanca.es/adjuntos/fichero_4266_20260121.jpg",
+      "category": "Estrategia"
     }
   ]
 }
