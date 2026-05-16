@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-15T09:42:25.831Z",
+  "lastUpdated": "2026-05-16T08:45:26.387Z",
   "articles": [
+    {
+      "id": "cpo-ai-data-centers-market-2026-05-13",
+      "date": "13 May 2026",
+      "headline": "Co-packaged optics positioned as a key interconnect for AI data centers",
+      "summary": "A new market forecast says co-packaged optics is moving toward mainstream deployment in AI data centers as operators seek higher bandwidth and lower energy per bit. This is important for businesses exposed to cloud costs, AI infrastructure supply chains, and semiconductor demand because it points to the next wave of networking investment behind AI scaling.",
+      "source": "GlobeNewswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/05/13/3293748/0/en/co-packaged-optics-in-the-ai-data-center-market-and-technology-forecast-report-2026-2034-roadmaps-of-30-key-cpo-firms-and-how-they-identify-their-roadmaps-with-ai-and-rebrand-cpo-a.html",
+      "imageUrl": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "category": "Research"
+    },
+    {
+      "id": "bloomberg-tech-rebounds-trump-china-2026-05-13",
+      "date": "13 May 2026",
+      "headline": "Tech stocks rebound as Trump heads to China and AI tensions stay in focus",
+      "summary": "Bloomberg reported a tech-stock rebound amid inflation data, with AI and semiconductor trade tensions still central to market sentiment. The China trip and chip discussions matter to businesses because export controls, supply chain access, and geopolitics can quickly affect hardware availability, pricing, and capital spending plans.",
+      "source": "Bloomberg Television",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-13/the-close-5-13-2026-video",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "rthk-tech-stocks-rally-cisco-cerebras",
       "date": "15 May 2026",
@@ -10,26 +30,6 @@
       "source": "RTHK",
       "sourceUrl": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1854736-20260515.htm?spTabChangeable=0",
       "imageUrl": "https://newsstatic.rthk.hk/images/mfile_1854736_1_M_20260515051020.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "cyfirma-weekly-intelligence-report-15-may-2026",
-      "date": "15 May 2026",
-      "headline": "Cyberattacks and ransomware remain a major operational threat for businesses",
-      "summary": "CYFIRMA’s weekly intelligence report highlights ransomware, phishing, vulnerabilities, and data leaks affecting organizations across sectors. For business leaders, the report underscores persistent operational disruption and financial risk, especially for firms with exposed web applications, supply-chain links, or limited incident-response capacity.",
-      "source": "CYFIRMA",
-      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-15-may-2026/",
-      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
-      "category": "Regulation"
-    },
-    {
-      "id": "ibm-business-technology-trends-2026",
-      "date": "12 May 2026",
-      "headline": "IBM report frames 2026 as a year of business accountability for AI",
-      "summary": "IBM’s business trends report emphasizes that companies are shifting from AI experimentation to accountable deployment tied to financial outcomes. That is relevant for executives because it reflects rising pressure to prove ROI, manage governance, and integrate AI into core operations rather than isolated pilots.",
-      "source": "IBM",
-      "sourceUrl": "https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/business-trends-2026",
-      "imageUrl": "https://www.ibm.com/thought-leadership/institute-business-value/uploads/en/1529_Report_thumbnail_1456x728_2x_8be4df0a1e.png",
       "category": "Strategy"
     }
   ]

@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-15T09:42:37.673Z",
+  "lastUpdated": "2026-05-16T08:45:34.173Z",
   "articles": [
     {
-      "id": "agential-ai-consolidation-2026",
-      "date": "12 May 2026",
-      "headline": "Agential AI alcanza fase de consolidación: automatización empresarial se acelera en 2026",
-      "summary": "La inteligencia artificial agencial (Agentic AI) se consolida como tendencia crítica con implantación en robótica y automatización de procesos empresariales. Se desarrolla una web agencial que permite a agentes de IA interactuar de forma automatizada, transformando la gestión operativa y reduciendo costes laborales en corporaciones.",
-      "source": "Eurecat",
-      "sourceUrl": "https://www.industriaquimica.es/noticias/20251230/tendencias-en-2026-computacion-cuantica-robotica-innovaciones-en-biotecnologia-tecnologias-termoquimicas",
-      "imageUrl": "https://www.industriaquimica.es/media/uploads/noticias/rrss/eurectbio1.jpg",
-      "category": "Automatización"
-    },
-    {
-      "id": "embodied-ai-physical-systems-2026",
-      "date": "12 May 2026",
-      "headline": "Embodied AI: inteligencia artificial integrada en hardware físico transforma operaciones empresariales",
-      "summary": "La IA sale de pantallas y se integra en objetos físicos como robots humanoides. Esta transformación de soft a hardware afecta inversiones en automatización, logística y manufactura, con implicaciones directas en productividad operativa y reconfiguración de cadenas de suministro.",
-      "source": "Conecta TEC",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "id": "android-show-2026-gemini-googlebook",
+      "date": "13 May 2026",
+      "headline": "Google presenta Googlebook y convierte Gemini en la capa inteligente de Android",
+      "summary": "Google anunció Googlebook, una nueva categoría de portátiles diseñados para ejecutar Android y potenciar Gemini, con funciones como acciones contextuales y ejecución de apps móviles en laptop. Para empresas, esto puede acelerar la adopción de flujos de trabajo móviles en escritorio y abrir nuevas opciones de hardware y productividad en entornos corporativos.",
+      "source": "SuperGeek",
+      "sourceUrl": "https://www.supergeek.cl/noticias/tecnologia/industria/telefonia-movil/android-show-2026-gemini-googlebook-y-todas-las-novedades-de-android/2026-05-13/103342.html",
+      "imageUrl": "https://www.supergeek.cl/noticias/site/artic/20260513/imag/foto_0000000420260513103342/an_1.jpg",
       "category": "Adopción de IA"
     },
     {
-      "id": "on-device-ai-privacy-infrastructure-2026",
-      "date": "12 May 2026",
-      "headline": "IA en dispositivo: empresas adoptan procesamiento local para reducir costes cloud y cumplir privacidad",
-      "summary": "La ejecución de modelos de IA directamente en dispositivos reduce dependencia de infraestructura cloud y procesa datos sensibles sin enviarlos a servidores remotos. Esto reduce costes de ancho de banda, latencia y riesgos de privacidad, afectando estrategias de inversión tecnológica en pymes y corporaciones.",
-      "source": "DSalamanca",
-      "sourceUrl": "https://www.dsalamanca.es/digitalizados/n-10-tecnologias-nos-esperan-2026",
-      "imageUrl": "https://www.dsalamanca.es/adjuntos/fichero_4266_20260121.jpg",
+      "id": "gs-tech-exposure-markets-ai-inflation",
+      "date": "13 May 2026",
+      "headline": "Las grandes tecnológicas y la IA impulsan el mercado mientras suben los precios de la electrónica",
+      "summary": "El mercado reaccionó al alza por el peso de las grandes tecnológicas, mientras los precios de la electrónica vinculados a la IA siguieron presionando la inflación. Para empresas que compran hardware, componentes o servicios cloud, esto apunta a mayores costes y a una posible revisión de presupuestos de infraestructura tecnológica.",
+      "source": "Serenity Markets",
+      "sourceUrl": "https://serenitymarkets.com/noticias-bolsa/gs-lo-que-importa-hoy-las-exposiciones-a-tecnologia-de-la-informacion-en-ee-uu-alcanzan-maximos-de-varios-anos-los-precios-de-la-electronica-debido-a-la-ia-impulsaron-al-alza-el-ipc-culpable",
+      "imageUrl": "https://serenitymarkets.com/wp-content/uploads/2025/04/SM_papers_goldman_premium.jpg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "tech-trends-2026-ciberseguridad-movilidad-autonoma",
+      "date": "13 May 2026",
+      "headline": "La ciberseguridad y la movilidad autónoma figuran entre las tecnologías que marcarán 2026",
+      "summary": "El artículo destaca la inteligencia artificial, la movilidad autónoma y la ciberseguridad como tendencias clave para 2026, incluyendo la IA integrada en hardware y robots. Para negocios, esto refuerza la necesidad de planificar inversiones en seguridad, automatización y nuevas capacidades operativas.",
+      "source": "Tecnológico de Monterrey",
+      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
+      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
       "category": "Estrategia"
     }
   ]
