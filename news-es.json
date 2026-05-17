@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-16T08:45:34.173Z",
+  "lastUpdated": "2026-05-17T09:00:37.645Z",
   "articles": [
+    {
+      "id": "wwwhatsnew-whoop-medicos-ia",
+      "date": "14 May 2026",
+      "headline": "WHOOP añade videoconsultas médicas a demanda desde su app",
+      "summary": "WHOOP está integrando consultas por videollamada con clínicos licenciados directamente en su aplicación para usuarios de EE. UU. Aunque es una noticia de consumo, para empresas de bienestar corporativo y aseguradoras abre una vía clara de integración entre datos de salud, atención remota y servicios digitales. También refuerza la tendencia de monetizar plataformas de datos con servicios de alto valor añadido.",
+      "source": "WWWhat's new",
+      "sourceUrl": "https://wwwhatsnew.com",
+      "imageUrl": "",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "reviblog-noticias-tecnologia-14-mayo-2026",
+      "date": "14 May 2026",
+      "headline": "Anthropic lanza Claude for Small Business con flujos de trabajo integrados",
+      "summary": "Anthropic amplía Claude con una oferta orientada a pequeñas empresas, incorporando flujos de trabajo listos para usar. Para pymes y equipos operativos, esto puede reducir tiempos de implantación y facilitar casos de uso prácticos de IA en soporte, administración y productividad.",
+      "source": "Reviblog",
+      "sourceUrl": "https://reviblog.net/noticia/noticias-tecnologia-14-mayo-2026/",
+      "imageUrl": "https://reviblog.net/wp-content/uploads/2026/03/Screenshot_20260320-093842-1024x461.png",
+      "category": "Adopción de IA"
+    },
     {
       "id": "android-show-2026-gemini-googlebook",
       "date": "13 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.supergeek.cl/noticias/tecnologia/industria/telefonia-movil/android-show-2026-gemini-googlebook-y-todas-las-novedades-de-android/2026-05-13/103342.html",
       "imageUrl": "https://www.supergeek.cl/noticias/site/artic/20260513/imag/foto_0000000420260513103342/an_1.jpg",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "gs-tech-exposure-markets-ai-inflation",
-      "date": "13 May 2026",
-      "headline": "Las grandes tecnológicas y la IA impulsan el mercado mientras suben los precios de la electrónica",
-      "summary": "El mercado reaccionó al alza por el peso de las grandes tecnológicas, mientras los precios de la electrónica vinculados a la IA siguieron presionando la inflación. Para empresas que compran hardware, componentes o servicios cloud, esto apunta a mayores costes y a una posible revisión de presupuestos de infraestructura tecnológica.",
-      "source": "Serenity Markets",
-      "sourceUrl": "https://serenitymarkets.com/noticias-bolsa/gs-lo-que-importa-hoy-las-exposiciones-a-tecnologia-de-la-informacion-en-ee-uu-alcanzan-maximos-de-varios-anos-los-precios-de-la-electronica-debido-a-la-ia-impulsaron-al-alza-el-ipc-culpable",
-      "imageUrl": "https://serenitymarkets.com/wp-content/uploads/2025/04/SM_papers_goldman_premium.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tech-trends-2026-ciberseguridad-movilidad-autonoma",
-      "date": "13 May 2026",
-      "headline": "La ciberseguridad y la movilidad autónoma figuran entre las tecnologías que marcarán 2026",
-      "summary": "El artículo destaca la inteligencia artificial, la movilidad autónoma y la ciberseguridad como tendencias clave para 2026, incluyendo la IA integrada en hardware y robots. Para negocios, esto refuerza la necesidad de planificar inversiones en seguridad, automatización y nuevas capacidades operativas.",
-      "source": "Tecnológico de Monterrey",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
-      "category": "Estrategia"
     }
   ]
 }

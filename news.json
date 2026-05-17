@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-16T08:45:26.387Z",
+  "lastUpdated": "2026-05-17T09:00:30.412Z",
   "articles": [
     {
-      "id": "cpo-ai-data-centers-market-2026-05-13",
-      "date": "13 May 2026",
-      "headline": "Co-packaged optics positioned as a key interconnect for AI data centers",
-      "summary": "A new market forecast says co-packaged optics is moving toward mainstream deployment in AI data centers as operators seek higher bandwidth and lower energy per bit. This is important for businesses exposed to cloud costs, AI infrastructure supply chains, and semiconductor demand because it points to the next wave of networking investment behind AI scaling.",
-      "source": "GlobeNewswire",
-      "sourceUrl": "https://www.globenewswire.com/news-release/2026/05/13/3293748/0/en/co-packaged-optics-in-the-ai-data-center-market-and-technology-forecast-report-2026-2034-roadmaps-of-30-key-cpo-firms-and-how-they-identify-their-roadmaps-with-ai-and-rebrand-cpo-a.html",
-      "imageUrl": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-      "category": "Research"
+      "id": "cisco-block-layoffs-ai",
+      "date": "14 May 2026",
+      "headline": "From Cisco to Block, more companies are pointing to AI when unveiling job cuts",
+      "summary": "A growing number of large employers are citing AI as part of their restructuring rationale, underscoring how automation is reshaping staffing plans and budget priorities. For business leaders, the signal is clear: AI investment is increasingly being funded through headcount reduction and operational streamlining rather than incremental budgets.",
+      "source": "Associated Press",
+      "sourceUrl": "https://halifax.citynews.ca/2026/05/14/from-cisco-to-block-more-companies-are-pointing-to-ai-when-unveiling-job-cuts/",
+      "imageUrl": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2026/05/60ed1ea022bd23977b44764b39bb063bcb8a76743b7646506b37121b696e78f2.jpg",
+      "category": "Automation"
     },
     {
-      "id": "bloomberg-tech-rebounds-trump-china-2026-05-13",
-      "date": "13 May 2026",
-      "headline": "Tech stocks rebound as Trump heads to China and AI tensions stay in focus",
-      "summary": "Bloomberg reported a tech-stock rebound amid inflation data, with AI and semiconductor trade tensions still central to market sentiment. The China trip and chip discussions matter to businesses because export controls, supply chain access, and geopolitics can quickly affect hardware availability, pricing, and capital spending plans.",
-      "source": "Bloomberg Television",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-05-13/the-close-5-13-2026-video",
-      "imageUrl": "",
+      "id": "stocktitan-umc-finfet",
+      "date": "14 May 2026",
+      "headline": "UMC unveils 14nm eHV FinFET platform for next-gen smartphone logic",
+      "summary": "UMC’s new foundry platform sharpens competition in mobile and edge chips by improving power efficiency and density. That matters for companies building smartphones, edge AI devices, and other hardware that depends on tight cost and performance targets.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-14/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
       "category": "Strategy"
     },
     {
-      "id": "rthk-tech-stocks-rally-cisco-cerebras",
-      "date": "15 May 2026",
-      "headline": "Tech stocks rally as Cisco surges and Cerebras jumps on Nasdaq debut",
-      "summary": "Wall Street’s tech rally continued as Cisco rose sharply after stronger earnings and Cerebras posted a strong first-day performance. The move signals ongoing investor confidence in AI and networking infrastructure, which matters for companies planning cloud spend, AI rollouts, and vendor selection.",
-      "source": "RTHK",
-      "sourceUrl": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/en/component/k2/1854736-20260515.htm?spTabChangeable=0",
-      "imageUrl": "https://newsstatic.rthk.hk/images/mfile_1854736_1_M_20260515051020.jpg",
-      "category": "Strategy"
+      "id": "openai-global-governance-us-china",
+      "date": "14 May 2026",
+      "headline": "OpenAI floats idea of global AI governance body with U.S. and China",
+      "summary": "OpenAI’s call for a governance mechanism involving both the U.S. and China highlights how AI policy is becoming a geopolitical issue, not just a technical one. Companies with cross-border data, model deployment, or vendor exposure should watch for compliance and trade implications.",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/05/14/tech/openai-global-governance-us-china/",
+      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/14/540455.jpg?v=3.1",
+      "category": "Regulation"
     }
   ]
 }
