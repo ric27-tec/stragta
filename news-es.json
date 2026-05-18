@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-17T09:00:37.645Z",
+  "lastUpdated": "2026-05-18T11:02:18.851Z",
   "articles": [
     {
-      "id": "wwwhatsnew-whoop-medicos-ia",
-      "date": "14 May 2026",
-      "headline": "WHOOP añade videoconsultas médicas a demanda desde su app",
-      "summary": "WHOOP está integrando consultas por videollamada con clínicos licenciados directamente en su aplicación para usuarios de EE. UU. Aunque es una noticia de consumo, para empresas de bienestar corporativo y aseguradoras abre una vía clara de integración entre datos de salud, atención remota y servicios digitales. También refuerza la tendencia de monetizar plataformas de datos con servicios de alto valor añadido.",
+      "id": "nvidia-h200-china-sales",
+      "date": "15 May 2026",
+      "headline": "EE. UU. autoriza la venta de chips H200 a 10 empresas chinas y Nvidia sube en bolsa",
+      "summary": "La autorización para vender chips H200 a empresas chinas puede mover la demanda de semiconductores de alto rendimiento y aliviar parte de la presión sobre la cadena de suministro de IA. Para corporaciones y proveedores cloud, la noticia afecta disponibilidad, precios y planificación de infraestructura de cómputo.",
+      "source": "Bolsamanía",
+      "sourceUrl": "https://www.bolsamania.com/noticias/tecnologia-electronica/2026-05",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "meta-open-sdks-neural-band",
+      "date": "15 May 2026",
+      "headline": "Meta abre el SDK de web apps para sus gafas con Neural Band",
+      "summary": "Meta permite a desarrolladores crear y distribuir aplicaciones que usan la pantalla y el Neural Band de sus gafas. Para empresas de software y productividad, esto abre una nueva plataforma potencial de interacción y una vía para explorar casos de uso en campo, soporte y operaciones.",
       "source": "WWWhat's new",
       "sourceUrl": "https://wwwhatsnew.com",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Automatización"
     },
     {
-      "id": "reviblog-noticias-tecnologia-14-mayo-2026",
-      "date": "14 May 2026",
-      "headline": "Anthropic lanza Claude for Small Business con flujos de trabajo integrados",
-      "summary": "Anthropic amplía Claude con una oferta orientada a pequeñas empresas, incorporando flujos de trabajo listos para usar. Para pymes y equipos operativos, esto puede reducir tiempos de implantación y facilitar casos de uso prácticos de IA en soporte, administración y productividad.",
-      "source": "Reviblog",
-      "sourceUrl": "https://reviblog.net/noticia/noticias-tecnologia-14-mayo-2026/",
-      "imageUrl": "https://reviblog.net/wp-content/uploads/2026/03/Screenshot_20260320-093842-1024x461.png",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "android-show-2026-gemini-googlebook",
-      "date": "13 May 2026",
-      "headline": "Google presenta Googlebook y convierte Gemini en la capa inteligente de Android",
-      "summary": "Google anunció Googlebook, una nueva categoría de portátiles diseñados para ejecutar Android y potenciar Gemini, con funciones como acciones contextuales y ejecución de apps móviles en laptop. Para empresas, esto puede acelerar la adopción de flujos de trabajo móviles en escritorio y abrir nuevas opciones de hardware y productividad en entornos corporativos.",
-      "source": "SuperGeek",
-      "sourceUrl": "https://www.supergeek.cl/noticias/tecnologia/industria/telefonia-movil/android-show-2026-gemini-googlebook-y-todas-las-novedades-de-android/2026-05-13/103342.html",
-      "imageUrl": "https://www.supergeek.cl/noticias/site/artic/20260513/imag/foto_0000000420260513103342/an_1.jpg",
+      "id": "ia-agentica-2026-seidor",
+      "date": "15 May 2026",
+      "headline": "La IA agéntica entra en despliegue real en 2026, según SEIDOR",
+      "summary": "SEIDOR destaca que 2026 será el punto de inflexión para la IA agéntica, capaz de ejecutar tareas de forma autónoma dentro de límites definidos. Esto es relevante para empresas que buscan automatizar procesos, reducir costes operativos y revisar gobernanza, control y dependencia de infraestructura avanzada.",
+      "source": "SEIDOR",
+      "sourceUrl": "https://www.seidor.com/es-es/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
+      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
       "category": "Adopción de IA"
     }
   ]

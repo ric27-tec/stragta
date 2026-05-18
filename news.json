@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-17T09:00:30.412Z",
+  "lastUpdated": "2026-05-18T11:02:09.574Z",
   "articles": [
     {
-      "id": "cisco-block-layoffs-ai",
-      "date": "14 May 2026",
-      "headline": "From Cisco to Block, more companies are pointing to AI when unveiling job cuts",
-      "summary": "A growing number of large employers are citing AI as part of their restructuring rationale, underscoring how automation is reshaping staffing plans and budget priorities. For business leaders, the signal is clear: AI investment is increasingly being funded through headcount reduction and operational streamlining rather than incremental budgets.",
-      "source": "Associated Press",
-      "sourceUrl": "https://halifax.citynews.ca/2026/05/14/from-cisco-to-block-more-companies-are-pointing-to-ai-when-unveiling-job-cuts/",
-      "imageUrl": "https://halifax.citynews.ca/wp-content/blogs.dir/sites/5/2026/05/60ed1ea022bd23977b44764b39bb063bcb8a76743b7646506b37121b696e78f2.jpg",
-      "category": "Automation"
-    },
-    {
-      "id": "stocktitan-umc-finfet",
-      "date": "14 May 2026",
-      "headline": "UMC unveils 14nm eHV FinFET platform for next-gen smartphone logic",
-      "summary": "UMC’s new foundry platform sharpens competition in mobile and edge chips by improving power efficiency and density. That matters for companies building smartphones, edge AI devices, and other hardware that depends on tight cost and performance targets.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-14/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "id": "techstartups-may-15-2026-top-tech-news-today",
+      "date": "15 May 2026",
+      "headline": "Top Tech News Today, May 15, 2026",
+      "summary": "Samsung’s 45,000-worker strike threat highlights how labor disruption can quickly affect electronics supply chains and production schedules. Business leaders should watch for downstream impacts on component availability, delivery timing, and pricing if the dispute escalates. The same news roundup also underscores broader AI and infrastructure pressures that can ripple through vendor planning.",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/05/15/top-tech-news-today-may-15-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
       "category": "Strategy"
     },
     {
-      "id": "openai-global-governance-us-china",
-      "date": "14 May 2026",
-      "headline": "OpenAI floats idea of global AI governance body with U.S. and China",
-      "summary": "OpenAI’s call for a governance mechanism involving both the U.S. and China highlights how AI policy is becoming a geopolitical issue, not just a technical one. Companies with cross-border data, model deployment, or vendor exposure should watch for compliance and trade implications.",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/business/2026/05/14/tech/openai-global-governance-us-china/",
-      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/05/14/540455.jpg?v=3.1",
-      "category": "Regulation"
+      "id": "entrepreneur-business-technology-trends-2026",
+      "date": "15 May 2026",
+      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
+      "summary": "This piece argues that 2026 is the year agentic AI moves from experiments into production, with businesses redesigning workflows around AI agents rather than isolated automations. It also highlights physical AI and robotics-as-a-service, which could lower the barrier for SMEs to automate repetitive work without heavy upfront capital spending. The business impact is stronger productivity, more predictable operations, and less dependence on manual labor.",
+      "source": "Entrepreneur",
+      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
+      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "stocktitan-may-15-2026-tech-ai-roundup",
+      "date": "15 May 2026",
+      "headline": "Stock Market News for May 15, 2026",
+      "summary": "Several AI and technology companies posted results or updates with direct investor and customer implications, including rapid revenue growth, margin improvement, and commercialization progress. For business decision-makers, the report signals that AI vendors are increasingly proving monetization rather than just promising it, which may affect procurement choices and partner risk assessments. It also suggests investors are rewarding operational execution, not just product narratives.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-15/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "Strategy"
     }
   ]
 }
