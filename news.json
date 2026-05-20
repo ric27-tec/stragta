@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-18T11:02:09.574Z",
+  "lastUpdated": "2026-05-20T10:21:44.624Z",
   "articles": [
+    {
+      "id": "nyt-ai-college-impact-2026",
+      "date": "17 May 2026",
+      "headline": "What A.I. Did to My College Class",
+      "summary": "This opinion piece highlights how AI is changing student behavior, academic integrity, and expectations around knowledge work. For businesses, it underscores the accelerating normalization of AI-assisted writing and analysis, which will affect hiring, training, and how employers assess entry-level skills.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
     {
       "id": "techstartups-may-15-2026-top-tech-news-today",
       "date": "15 May 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
       "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
       "category": "AI Adoption"
-    },
-    {
-      "id": "stocktitan-may-15-2026-tech-ai-roundup",
-      "date": "15 May 2026",
-      "headline": "Stock Market News for May 15, 2026",
-      "summary": "Several AI and technology companies posted results or updates with direct investor and customer implications, including rapid revenue growth, margin improvement, and commercialization progress. For business decision-makers, the report signals that AI vendors are increasingly proving monetization rather than just promising it, which may affect procurement choices and partner risk assessments. It also suggests investors are rewarding operational execution, not just product narratives.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-15/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
-      "category": "Strategy"
     }
   ]
 }
