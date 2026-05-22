@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-20T10:21:53.027Z",
+  "lastUpdated": "2026-05-22T10:20:49.729Z",
   "articles": [
     {
-      "id": "tech-tendencias-2026-caixabank",
-      "date": "20 May 2026",
-      "headline": "Estas serán las 10 tendencias tecnológicas emergentes de 2026",
-      "summary": "El MIT sitúa a la biotecnología, la energía y la inteligencia artificial entre las grandes tendencias tecnológicas de 2026. Para empresas, el punto crítico es la creciente demanda de centros de datos y cómputo para IA generativa, lo que puede presionar costes de infraestructura, energía y cloud.",
-      "source": "CaixaBank",
-      "sourceUrl": "https://www.caixabank.com/es/esfera/content/tendencias-tecnologicas-mit",
-      "imageUrl": "https://www.caixabank.com/docs/contentmedia/122020/mit_mini.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tendencias-2026-tecnologia-esade",
-      "date": "20 May 2026",
+      "id": "tecnologia-2026-esade",
+      "date": "22 May 2026",
       "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
-      "summary": "El análisis destaca la expansión de la movilidad autónoma, las baterías de sodio, los robots humanoides y la IA en el espacio como vectores de cambio. Para negocios e industria, esto apunta a mayor automatización, nuevos costes logísticos y más presión competitiva en operaciones, transporte y computación.",
+      "summary": "Panorama de tendencias con implicaciones directas para costes operativos, productividad y planificación tecnológica: IA, robots humanoides, traducción en tiempo real, conectividad satelital y centros de datos en el espacio. Para empresas, destaca por su posible impacto en automatización, comunicaciones y reducción de costes logísticos e infraestructura.",
       "source": "ESADE",
       "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
       "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Automatización"
+      "category": "Estrategia"
     },
     {
-      "id": "tecnologias-rumbo-2026-tec-monterrey",
-      "date": "20 May 2026",
+      "id": "tec-decision-2026",
+      "date": "22 May 2026",
       "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
-      "summary": "La nota señala que la IA seguirá siendo la tendencia tecnológica más influyente, junto con la movilidad autónoma, la infraestructura sostenible y la ciberseguridad. Para directivos, el mensaje es claro: habrá más integración de IA en decisiones y procesos, pero también más exigencias de protección y cumplimiento digital.",
-      "source": "Tecnológico de Monterrey",
+      "summary": "La nota subraya que la IA seguirá siendo la tendencia más influyente, con adopción en toma de decisiones y en el mundo físico. También resalta movilidad autónoma, infraestructura sostenible y ciberseguridad, áreas clave para empresas que buscan eficiencia operativa, resiliencia y cumplimiento.",
+      "source": "Tec de Monterrey",
       "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
       "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "category": "Estrategia"
+    },
+    {
+      "id": "google-ai-studio-vibe-coding",
+      "date": "22 May 2026",
+      "headline": "Google refuerza el ‘vibe coding’ móvil con AI Studio para crear apps Android sin programar",
+      "summary": "Google avanza hacia una creación de software más rápida y barata al permitir generar apps Android con voz o texto, ejecutar el código en un emulador y enviarlo al móvil para pruebas. Para empresas y pymes, esto puede reducir tiempos y costes de desarrollo de prototipos, apps internas y automatización ligera.",
+      "source": "WWWhat's new",
+      "sourceUrl": "https://wwwhatsnew.com",
+      "imageUrl": "",
       "category": "Adopción de IA"
     }
   ]

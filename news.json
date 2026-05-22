@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-20T10:21:44.624Z",
+  "lastUpdated": "2026-05-22T10:20:42.383Z",
   "articles": [
+    {
+      "id": "cyfirma-foxconn-ransomware-22-may-2026",
+      "date": "22 May 2026",
+      "headline": "Foxconn confirms ransomware attack disrupting North American factories",
+      "summary": "Taiwanese electronics manufacturing giant Foxconn says a cyberattack disrupted operations across multiple North American factories, with the Nitrogen ransomware gang claiming it exfiltrated eight terabytes of data. For businesses, this raises immediate supply-chain and continuity risks, especially for companies depending on electronics manufacturing capacity or just-in-time shipments.",
+      "source": "CYFIRMA",
+      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-22-may-2026/",
+      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
+      "category": "Regulation"
+    },
     {
       "id": "nyt-ai-college-impact-2026",
       "date": "17 May 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://techstartups.com/2026/05/15/top-tech-news-today-may-15-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
       "category": "Strategy"
-    },
-    {
-      "id": "entrepreneur-business-technology-trends-2026",
-      "date": "15 May 2026",
-      "headline": "5 Business Technology Trends Leaders Can't Ignore in 2026",
-      "summary": "This piece argues that 2026 is the year agentic AI moves from experiments into production, with businesses redesigning workflows around AI agents rather than isolated automations. It also highlights physical AI and robotics-as-a-service, which could lower the barrier for SMEs to automate repetitive work without heavy upfront capital spending. The business impact is stronger productivity, more predictable operations, and less dependence on manual labor.",
-      "source": "Entrepreneur",
-      "sourceUrl": "https://www.entrepreneur.com/science-technology/5-business-technology-trends-leaders-cant-ignore-in-2026/501940",
-      "imageUrl": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/02/1771871868-ai-cybersecurity-0226-g-2187706237-edit.jpg?resize=1024,682",
-      "category": "AI Adoption"
     }
   ]
 }
