@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-24T09:17:45.948Z",
+  "lastUpdated": "2026-05-25T11:05:59.048Z",
   "articles": [
     {
-      "id": "tecnologia-esade-tendencias-2026",
-      "date": "21 May 2026",
-      "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
-      "summary": "Aunque es un artículo de tendencias, destaca varias implicaciones de negocio: la expansión de la movilidad autónoma, la traducción en tiempo real, la computación en el espacio y el avance de robots humanoides. Para empresas y comercios, la lectura útil está en el posible impacto sobre costes logísticos, productividad, disponibilidad de talento y nuevas infraestructuras digitales.",
-      "source": "ESADE / dobetter.esade.edu",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tec-decision-2026",
+      "id": "what-technologies-will-mark-the-course-in-2026",
       "date": "22 May 2026",
       "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
-      "summary": "La nota subraya que la IA seguirá siendo la tendencia más influyente, con adopción en toma de decisiones y en el mundo físico. También resalta movilidad autónoma, infraestructura sostenible y ciberseguridad, áreas clave para empresas que buscan eficiencia operativa, resiliencia y cumplimiento.",
-      "source": "Tec de Monterrey",
+      "summary": "La nota destaca la IA como la tendencia tecnológica más influyente para 2026, con impacto directo en la toma de decisiones y en procesos del mundo físico. También subraya la movilidad autónoma, la infraestructura sostenible y la ciberseguridad como ejes clave, lo que apunta a cambios en costes operativos, logística, seguridad y planes de inversión tecnológica.",
+      "source": "Conecta Tec de Monterrey",
       "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
       "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
       "category": "Estrategia"
     },
     {
-      "id": "google-ai-studio-vibe-coding",
+      "id": "do-better-esade-12-trends-2026-tech",
       "date": "22 May 2026",
-      "headline": "Google refuerza el ‘vibe coding’ móvil con AI Studio para crear apps Android sin programar",
-      "summary": "Google avanza hacia una creación de software más rápida y barata al permitir generar apps Android con voz o texto, ejecutar el código en un emulador y enviarlo al móvil para pruebas. Para empresas y pymes, esto puede reducir tiempos y costes de desarrollo de prototipos, apps internas y automatización ligera.",
+      "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
+      "summary": "El artículo repasa tendencias con efectos empresariales claros: vehículos autónomos, camiones autónomos y baterías más baratas para logística, traducción simultánea en tiempo real, conectividad satelital directa al móvil y centros de datos en el espacio. Para empresas, esto puede traducirse en menores costes de transporte, nuevas opciones de conectividad y cambios en infraestructura digital.",
+      "source": "ESADE",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Automatización"
+    },
+    {
+      "id": "wwwhatsnew-security-camera-breach-eSIM-chatgpt-powerpoint",
+      "date": "22 May 2026",
+      "headline": "Brecha masiva en cámaras conectadas revela riesgos de ciberseguridad para empresas y hogares",
+      "summary": "La noticia reporta que una vulnerabilidad permitió acceder a 1,1 millones de cámaras en 118 países, incluyendo dispositivos usados como vigilabebés. Para negocios, refuerza la necesidad de revisar la seguridad de dispositivos IoT, credenciales y accesos remotos, porque una sola falla puede exponer operaciones, clientes y cumplimiento.",
       "source": "WWWhat's new",
       "sourceUrl": "https://wwwhatsnew.com",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Regulación"
     }
   ]
 }
