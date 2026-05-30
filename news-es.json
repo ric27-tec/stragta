@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-25T11:05:59.048Z",
+  "lastUpdated": "2026-05-30T09:11:58.460Z",
   "articles": [
     {
-      "id": "what-technologies-will-mark-the-course-in-2026",
-      "date": "22 May 2026",
-      "headline": "¿Qué tecnologías marcarán el rumbo en 2026?",
-      "summary": "La nota destaca la IA como la tendencia tecnológica más influyente para 2026, con impacto directo en la toma de decisiones y en procesos del mundo físico. También subraya la movilidad autónoma, la infraestructura sostenible y la ciberseguridad como ejes clave, lo que apunta a cambios en costes operativos, logística, seguridad y planes de inversión tecnológica.",
-      "source": "Conecta Tec de Monterrey",
-      "sourceUrl": "https://conecta.tec.mx/es/noticias/nacional/sociedad/que-tecnologias-marcaran-el-rumbo-en-2026",
-      "imageUrl": "https://conecta.tec.mx/sites/default/files/styles/share/public/2025-12/tecnologia-2026-que-nos%20espera.webp?itok=1Yaqr9PA",
+      "id": "qualcomm-bytedance-ai-chips-2026-05-27",
+      "date": "27 May 2026",
+      "headline": "Qualcomm cierra un acuerdo con ByteDance para suministrar chips de centros de datos de IA",
+      "summary": "Bloomberg informó que Qualcomm llegó a un acuerdo con ByteDance para suministrar chips de IA, y las acciones de Qualcomm subieron casi un 5% tras la noticia. Para empresas que compran infraestructura de IA, esto apunta a más competencia en chips para centros de datos y potencial presión en precios y disponibilidad de hardware especializado.",
+      "source": "BLOG CS TIC TV",
+      "sourceUrl": "https://blog.cstictv.com/2026/05/27/",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "do-better-esade-12-trends-2026-tech",
-      "date": "22 May 2026",
-      "headline": "12 tendencias tecnológicas que marcarán la agenda en 2026",
-      "summary": "El artículo repasa tendencias con efectos empresariales claros: vehículos autónomos, camiones autónomos y baterías más baratas para logística, traducción simultánea en tiempo real, conectividad satelital directa al móvil y centros de datos en el espacio. Para empresas, esto puede traducirse en menores costes de transporte, nuevas opciones de conectividad y cambios en infraestructura digital.",
-      "source": "ESADE",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Automatización"
+      "id": "interconnected-2026-ai-cloud-cybersecurity",
+      "date": "27 May 2026",
+      "headline": "Interconnected 2026 destacará cómo agentes de IA, nube y ciberseguridad están transformando a las empresas",
+      "summary": "El evento pone el foco en agentes de IA, nube y ciberseguridad como palancas de transformación empresarial. Aunque es un anuncio de conferencia, refleja las prioridades de inversión que más pesan ahora en eficiencia operativa, automatización y control de riesgo tecnológico.",
+      "source": "G5 Noticias",
+      "sourceUrl": "https://g5noticias.cl/2026/05/27/interconnected-2026-expertos-mostraran-como-agentes-de-ia-nube-y-ciberseguridad-estan-transformando-a-las-empresas/",
+      "imageUrl": "https://g5noticias.cl/wp-content/uploads/2026/05/INTERCONNECTED-165.jpg",
+      "category": "Adopción de IA"
     },
     {
-      "id": "wwwhatsnew-security-camera-breach-eSIM-chatgpt-powerpoint",
-      "date": "22 May 2026",
-      "headline": "Brecha masiva en cámaras conectadas revela riesgos de ciberseguridad para empresas y hogares",
-      "summary": "La noticia reporta que una vulnerabilidad permitió acceder a 1,1 millones de cámaras en 118 países, incluyendo dispositivos usados como vigilabebés. Para negocios, refuerza la necesidad de revisar la seguridad de dispositivos IoT, credenciales y accesos remotos, porque una sola falla puede exponer operaciones, clientes y cumplimiento.",
-      "source": "WWWhat's new",
-      "sourceUrl": "https://wwwhatsnew.com",
-      "imageUrl": "",
+      "id": "seidor-2026-trism-ai-security",
+      "date": "27 May 2026",
+      "headline": "SEIDOR prevé en 2026 una adopción más madura de IA agéntica, gobernanza del riesgo y ciberseguridad preventiva",
+      "summary": "SEIDOR señala que 2026 estará marcado por la adopción gradual de IA agéntica, marcos de gobernanza como AI TRiSM y defensas de ciberseguridad asistidas por IA. Para directivos, el mensaje práctico es que la compra de IA ya no depende solo de funcionalidad, sino también de controles, cumplimiento y gestión del riesgo.",
+      "source": "SEIDOR",
+      "sourceUrl": "https://www.seidor.com/es-es/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
+      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
       "category": "Regulación"
     }
   ]

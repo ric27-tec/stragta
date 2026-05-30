@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-28T10:50:49.478Z",
+  "lastUpdated": "2026-05-30T09:11:50.348Z",
   "articles": [
+    {
+      "id": "broadcom-furiosaai-5g-wifi8",
+      "date": "27 May 2026",
+      "headline": "Broadcom expands AI inference and edge portfolio with FuriosaAI partnership and new 5G/Wi‑Fi 8 platform",
+      "summary": "Broadcom broadened its inference and edge strategy through a FuriosaAI partnership and a combined 5G + Wi‑Fi 8 fixed-wireless platform with Samsung. For businesses, the significance is lower-latency AI infrastructure and faster carrier-grade wireless upgrades that can affect cloud deployment, edge compute planning, and network investment cycles.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-05-27/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "elemental-impact-data-center-innovation-initiative",
+      "date": "27 May 2026",
+      "headline": "Elemental Impact launches data center innovation initiative with Amazon, Google, Meta, and Microsoft",
+      "summary": "Elemental Impact launched a Data Center Innovation Initiative to accelerate deployment of energy and materials technologies in data center environments. The business impact is that major cloud and infrastructure players are coordinating around power, cooling, and materials constraints, which can influence future data center costs and supply-chain planning.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/elemental-impact-launches-the-data-center-innovation-initiative-with-amazon-google-meta-and-microsoft-302782486.html",
+      "imageUrl": "https://mma.prnewswire.com/media/2988279/ELEMENTAL_IMPACT__DCII.jpg?p=facebook",
+      "category": "Strategy"
+    },
     {
       "id": "cyfirma-foxconn-ransomware-22-may-2026",
       "date": "22 May 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-22-may-2026/",
       "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
-    },
-    {
-      "id": "nyt-ai-college-impact-2026",
-      "date": "17 May 2026",
-      "headline": "What A.I. Did to My College Class",
-      "summary": "This opinion piece highlights how AI is changing student behavior, academic integrity, and expectations around knowledge work. For businesses, it underscores the accelerating normalization of AI-assisted writing and analysis, which will affect hiring, training, and how employers assess entry-level skills.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "techstartups-may-15-2026-top-tech-news-today",
-      "date": "15 May 2026",
-      "headline": "Top Tech News Today, May 15, 2026",
-      "summary": "Samsung’s 45,000-worker strike threat highlights how labor disruption can quickly affect electronics supply chains and production schedules. Business leaders should watch for downstream impacts on component availability, delivery timing, and pricing if the dispute escalates. The same news roundup also underscores broader AI and infrastructure pressures that can ripple through vendor planning.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/05/15/top-tech-news-today-may-15-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/05/Microsoft.jpg",
-      "category": "Strategy"
     }
   ]
 }
