@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-05-30T09:11:58.460Z",
+  "lastUpdated": "2026-05-31T09:45:32.157Z",
   "articles": [
     {
-      "id": "qualcomm-bytedance-ai-chips-2026-05-27",
-      "date": "27 May 2026",
-      "headline": "Qualcomm cierra un acuerdo con ByteDance para suministrar chips de centros de datos de IA",
-      "summary": "Bloomberg informó que Qualcomm llegó a un acuerdo con ByteDance para suministrar chips de IA, y las acciones de Qualcomm subieron casi un 5% tras la noticia. Para empresas que compran infraestructura de IA, esto apunta a más competencia en chips para centros de datos y potencial presión en precios y disponibilidad de hardware especializado.",
-      "source": "BLOG CS TIC TV",
-      "sourceUrl": "https://blog.cstictv.com/2026/05/27/",
-      "imageUrl": "",
+      "id": "nvidia-vera-arm-2026-05-28",
+      "date": "28 May 2026",
+      "headline": "Nvidia prepara la CPU Vera con mejor rendimiento que los chips x86 de Intel y AMD, según un reporte del 28 de mayo",
+      "summary": "El avance refuerza la presión competitiva sobre el mercado de CPUs para centros de datos y equipos empresariales. Si se confirma en producto comercial, puede influir en decisiones de compra de infraestructura, eficiencia energética y costes de cómputo en empresas y proveedores cloud.",
+      "source": "DiarioBitcoin",
+      "sourceUrl": "https://www.diariobitcoin.com/tecnologia/la-ia-recompila-el-mundo-agi-biologia-chips-y-vigilancia-marcan-el-28-de-mayo-de-2026/",
+      "imageUrl": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/05/canuto-imagine-1779974969.jpg",
       "category": "Estrategia"
     },
     {
-      "id": "interconnected-2026-ai-cloud-cybersecurity",
-      "date": "27 May 2026",
-      "headline": "Interconnected 2026 destacará cómo agentes de IA, nube y ciberseguridad están transformando a las empresas",
-      "summary": "El evento pone el foco en agentes de IA, nube y ciberseguridad como palancas de transformación empresarial. Aunque es un anuncio de conferencia, refleja las prioridades de inversión que más pesan ahora en eficiencia operativa, automatización y control de riesgo tecnológico.",
-      "source": "G5 Noticias",
-      "sourceUrl": "https://g5noticias.cl/2026/05/27/interconnected-2026-expertos-mostraran-como-agentes-de-ia-nube-y-ciberseguridad-estan-transformando-a-las-empresas/",
-      "imageUrl": "https://g5noticias.cl/wp-content/uploads/2026/05/INTERCONNECTED-165.jpg",
-      "category": "Adopción de IA"
+      "id": "mercedes-mb-drive-assist-pro-2026-05-28",
+      "date": "28 May 2026",
+      "headline": "Mercedes-Benz desplegará MB.DRIVE ASSIST PRO en Stuttgart y Múnich antes de fin de año",
+      "summary": "El anuncio amplía el uso de conducción asistida avanzada en flotas y vehículos premium, con potencial impacto en movilidad corporativa y logística. También señala el ritmo al que la automatización entra en sectores con costes de operación altos y fuertes exigencias regulatorias.",
+      "source": "Crónica del Henares",
+      "sourceUrl": "https://www.cronicadelhenares.com/2026/05/las-doce-noticias-mas-destacadas-del-28.html",
+      "imageUrl": "",
+      "category": "Automatización"
     },
     {
-      "id": "seidor-2026-trism-ai-security",
-      "date": "27 May 2026",
-      "headline": "SEIDOR prevé en 2026 una adopción más madura de IA agéntica, gobernanza del riesgo y ciberseguridad preventiva",
-      "summary": "SEIDOR señala que 2026 estará marcado por la adopción gradual de IA agéntica, marcos de gobernanza como AI TRiSM y defensas de ciberseguridad asistidas por IA. Para directivos, el mensaje práctico es que la compra de IA ya no depende solo de funcionalidad, sino también de controles, cumplimiento y gestión del riesgo.",
-      "source": "SEIDOR",
-      "sourceUrl": "https://www.seidor.com/es-es/noticias/las-10-tendencias-tecnologicas-que-marcaran-2026",
-      "imageUrl": "https://proimg.seidor.com/sites/default/files/styles/open_graph/public/2025-12/BANNER_web%20tendencias_1.png?itok=ds_2bzr4",
+      "id": "ai-first-security-2026-05-28",
+      "date": "28 May 2026",
+      "headline": "La seguridad ‘AI-first’ se vuelve un vector central en la automatización cognitiva de 2026",
+      "summary": "La nota destaca que los sistemas multiagente y la automatización agentic exigen límites claros, trazabilidad y control sobre decisiones automatizadas. Para empresas, esto refuerza la necesidad de gobernanza, auditoría y ciberseguridad antes de desplegar IA en procesos críticos.",
+      "source": "INESDI",
+      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
+      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
       "category": "Regulación"
     }
   ]
