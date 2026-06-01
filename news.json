@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-05-30T09:11:50.348Z",
+  "lastUpdated": "2026-06-01T12:31:13.858Z",
   "articles": [
+    {
+      "id": "european-startup-scoreboard-eu-policies",
+      "date": "1 June 2026",
+      "headline": "EU startup scoreboard links pro-innovation policy to stronger scaleup performance",
+      "summary": "A new European scoreboard says countries with innovation-friendly regulation, access to talent, and venture capital are outperforming the EU average, which matters for companies planning where to hire, expand, or launch products in Europe. The findings suggest policy stability and startup support can materially affect ecosystem competitiveness and capital allocation.",
+      "source": "European Sting",
+      "sourceUrl": "https://europeansting.com/2026/06/01/new-scoreboard-shows-success-of-european-startup-policies/",
+      "imageUrl": "https://i0.wp.com/europeansting.com/wp-content/uploads/2023/05/european-union-strategy.jpg?fit=610%2C357&ssl=1",
+      "category": "Regulation"
+    },
     {
       "id": "broadcom-furiosaai-5g-wifi8",
       "date": "27 May 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.prnewswire.com/news-releases/elemental-impact-launches-the-data-center-innovation-initiative-with-amazon-google-meta-and-microsoft-302782486.html",
       "imageUrl": "https://mma.prnewswire.com/media/2988279/ELEMENTAL_IMPACT__DCII.jpg?p=facebook",
       "category": "Strategy"
-    },
-    {
-      "id": "cyfirma-foxconn-ransomware-22-may-2026",
-      "date": "22 May 2026",
-      "headline": "Foxconn confirms ransomware attack disrupting North American factories",
-      "summary": "Taiwanese electronics manufacturing giant Foxconn says a cyberattack disrupted operations across multiple North American factories, with the Nitrogen ransomware gang claiming it exfiltrated eight terabytes of data. For businesses, this raises immediate supply-chain and continuity risks, especially for companies depending on electronics manufacturing capacity or just-in-time shipments.",
-      "source": "CYFIRMA",
-      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-22-may-2026/",
-      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
-      "category": "Regulation"
     }
   ]
 }
