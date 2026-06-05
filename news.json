@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-01T12:31:13.858Z",
+  "lastUpdated": "2026-06-05T10:42:47.183Z",
   "articles": [
     {
-      "id": "european-startup-scoreboard-eu-policies",
-      "date": "1 June 2026",
-      "headline": "EU startup scoreboard links pro-innovation policy to stronger scaleup performance",
-      "summary": "A new European scoreboard says countries with innovation-friendly regulation, access to talent, and venture capital are outperforming the EU average, which matters for companies planning where to hire, expand, or launch products in Europe. The findings suggest policy stability and startup support can materially affect ecosystem competitiveness and capital allocation.",
-      "source": "European Sting",
-      "sourceUrl": "https://europeansting.com/2026/06/01/new-scoreboard-shows-success-of-european-startup-policies/",
-      "imageUrl": "https://i0.wp.com/europeansting.com/wp-content/uploads/2023/05/european-union-strategy.jpg?fit=610%2C357&ssl=1",
+      "id": "cyfirma-weekly-intelligence-report-05-jun-2026",
+      "date": "5 June 2026",
+      "headline": "Weekly Intelligence Report highlights ransomware, vulnerabilities, and data leaks",
+      "summary": "CYFIRMA’s weekly report describes ransomware and leak activity affecting a transportation and logistics company in Singapore and a construction company in Japan. Those sectors are operationally important for many businesses, so the report is a reminder that supply-chain disruption and third-party cyber risk remain immediate business concerns.[5]",
+      "source": "CYFIRMA",
+      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-05-jun-2026/",
+      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
     },
     {
-      "id": "broadcom-furiosaai-5g-wifi8",
-      "date": "27 May 2026",
-      "headline": "Broadcom expands AI inference and edge portfolio with FuriosaAI partnership and new 5G/Wi‑Fi 8 platform",
-      "summary": "Broadcom broadened its inference and edge strategy through a FuriosaAI partnership and a combined 5G + Wi‑Fi 8 fixed-wireless platform with Samsung. For businesses, the significance is lower-latency AI infrastructure and faster carrier-grade wireless upgrades that can affect cloud deployment, edge compute planning, and network investment cycles.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-05-27/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "id": "us-tech-stocks-ai-dominance-risks-2026-06-03",
+      "date": "3 June 2026",
+      "headline": "US tech stocks’ market dominance reaches new heights and raises fresh risks",
+      "summary": "Reuters says the AI-driven buildout has lifted profit estimates for semiconductor and other tech companies, but it also concentrated market risk in a small group of firms. For businesses, that matters because chip, cloud, and AI infrastructure spending can move sharply with investor expectations, affecting supplier pricing and availability.[7]",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-tech-stocks-market-dominance-reaches-new-heights-presents-new-risks-2026-06-03/",
+      "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "elemental-impact-data-center-innovation-initiative",
-      "date": "27 May 2026",
-      "headline": "Elemental Impact launches data center innovation initiative with Amazon, Google, Meta, and Microsoft",
-      "summary": "Elemental Impact launched a Data Center Innovation Initiative to accelerate deployment of energy and materials technologies in data center environments. The business impact is that major cloud and infrastructure players are coordinating around power, cooling, and materials constraints, which can influence future data center costs and supply-chain planning.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/elemental-impact-launches-the-data-center-innovation-initiative-with-amazon-google-meta-and-microsoft-302782486.html",
-      "imageUrl": "https://mma.prnewswire.com/media/2988279/ELEMENTAL_IMPACT__DCII.jpg?p=facebook",
-      "category": "Strategy"
+      "id": "ai-tech-job-cuts-2026-06-01",
+      "date": "1 June 2026",
+      "headline": "Is A.I. replacing tech workers or providing an excuse for job cuts?",
+      "summary": "The New York Times reports that tech layoffs are accelerating and executives are increasingly attributing cuts to AI-driven productivity gains. That is relevant beyond the tech sector because it signals how employers may justify restructuring, automation, and workforce reductions across industries.[9]",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
+      "imageUrl": "",
+      "category": "Automation"
     }
   ]
 }
