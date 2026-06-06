@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-05T10:42:47.183Z",
+  "lastUpdated": "2026-06-06T09:21:26.142Z",
   "articles": [
+    {
+      "id": "autodesk-aws-collaboration",
+      "date": "3 June 2026",
+      "headline": "Autodesk signs strategic collaboration with Amazon Web Services",
+      "summary": "Autodesk’s partnership with AWS could accelerate cloud-native CAD workflows, generative design, and enterprise AI offerings. For businesses, that signals potential changes in how design software is delivered, scaled, and monetized, with knock-on effects for IT planning and software procurement.",
+      "source": "Stock Titan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-06-03/",
+      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "apple-poke-messages-for-business",
+      "date": "1 June 2026",
+      "headline": "Apple approves Poke as first AI agent on Messages for Business",
+      "summary": "Apple’s approval of an AI agent on Messages for Business suggests a new customer-service channel for companies using Apple’s business messaging platform. This could affect support operations, automation strategy, and how firms handle inbound customer interactions.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/06/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
     {
       "id": "cyfirma-weekly-intelligence-report-05-jun-2026",
       "date": "5 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-05-jun-2026/",
       "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
-    },
-    {
-      "id": "us-tech-stocks-ai-dominance-risks-2026-06-03",
-      "date": "3 June 2026",
-      "headline": "US tech stocks’ market dominance reaches new heights and raises fresh risks",
-      "summary": "Reuters says the AI-driven buildout has lifted profit estimates for semiconductor and other tech companies, but it also concentrated market risk in a small group of firms. For businesses, that matters because chip, cloud, and AI infrastructure spending can move sharply with investor expectations, affecting supplier pricing and availability.[7]",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-tech-stocks-market-dominance-reaches-new-heights-presents-new-risks-2026-06-03/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "ai-tech-job-cuts-2026-06-01",
-      "date": "1 June 2026",
-      "headline": "Is A.I. replacing tech workers or providing an excuse for job cuts?",
-      "summary": "The New York Times reports that tech layoffs are accelerating and executives are increasingly attributing cuts to AI-driven productivity gains. That is relevant beyond the tech sector because it signals how employers may justify restructuring, automation, and workforce reductions across industries.[9]",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/2026/06/01/technology/ai-tech-job-cuts.html",
-      "imageUrl": "",
-      "category": "Automation"
     }
   ]
 }
