@@ -1,26 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-06T09:21:26.142Z",
+  "lastUpdated": "2026-06-07T09:56:57.513Z",
   "articles": [
     {
-      "id": "autodesk-aws-collaboration",
-      "date": "3 June 2026",
-      "headline": "Autodesk signs strategic collaboration with Amazon Web Services",
-      "summary": "Autodesk’s partnership with AWS could accelerate cloud-native CAD workflows, generative design, and enterprise AI offerings. For businesses, that signals potential changes in how design software is delivered, scaled, and monetized, with knock-on effects for IT planning and software procurement.",
-      "source": "Stock Titan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-06-03/",
-      "imageUrl": "https://www.stocktitan.net/img/stock_titan_thumbnail.png",
+      "id": "alphabet-85b-ai-stock-sale",
+      "date": "4 June 2026",
+      "headline": "Alphabet prices record $85 billion AI-focused stock sale",
+      "summary": "Alphabet’s record stock offering signals sustained investor appetite for AI infrastructure and suggests continued heavy spending on compute, data centers, and related supply chains. For businesses, this can translate into higher AI capacity availability over time, but also stronger competition for cloud and infrastructure resources as hyperscalers keep scaling.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-04-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
       "category": "Strategy"
     },
     {
-      "id": "apple-poke-messages-for-business",
+      "id": "openai-lockdown-mode-prompt-injection",
       "date": "1 June 2026",
-      "headline": "Apple approves Poke as first AI agent on Messages for Business",
-      "summary": "Apple’s approval of an AI agent on Messages for Business suggests a new customer-service channel for companies using Apple’s business messaging platform. This could affect support operations, automation strategy, and how firms handle inbound customer interactions.",
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "summary": "A dedicated defense against prompt injection suggests AI security is becoming a core enterprise requirement rather than an optional feature. For businesses deploying AI assistants on internal data, this raises the importance of access controls, policy enforcement, and vendor due diligence before rollout.",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/06/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Cybersecurity"
     },
     {
       "id": "cyfirma-weekly-intelligence-report-05-jun-2026",

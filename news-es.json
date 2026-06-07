@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-01T12:31:17.830Z",
+  "lastUpdated": "2026-06-07T09:57:00.825Z",
   "articles": [
+    {
+      "id": "goldman-ai-markets-generational-force-2026-06-05",
+      "date": "5 June 2026",
+      "headline": "Goldman dice que el auge de la IA es una fuerza “fundamental y generacional” para mercados y economía",
+      "summary": "La lectura para empresas es que la inversión en IA sigue teniendo soporte financiero y macroeconómico, lo que suele sostener el gasto en nube, chips e infraestructura. También sugiere que la demanda de capacidades de IA puede seguir priorizándose en presupuestos corporativos y en carteras de inversión tecnológicas.",
+      "source": "MarketScreener España",
+      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
+      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "category": "Estrategia"
+    },
     {
       "id": "nvidia-vera-arm-2026-05-28",
       "date": "28 May 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.cronicadelhenares.com/2026/05/las-doce-noticias-mas-destacadas-del-28.html",
       "imageUrl": "",
       "category": "Automatización"
-    },
-    {
-      "id": "ai-first-security-2026-05-28",
-      "date": "28 May 2026",
-      "headline": "La seguridad ‘AI-first’ se vuelve un vector central en la automatización cognitiva de 2026",
-      "summary": "La nota destaca que los sistemas multiagente y la automatización agentic exigen límites claros, trazabilidad y control sobre decisiones automatizadas. Para empresas, esto refuerza la necesidad de gobernanza, auditoría y ciberseguridad antes de desplegar IA en procesos críticos.",
-      "source": "INESDI",
-      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
-      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
-      "category": "Regulación"
     }
   ]
 }
