@@ -1,26 +1,16 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-07T09:56:57.513Z",
+  "lastUpdated": "2026-06-08T11:51:49.255Z",
   "articles": [
     {
-      "id": "alphabet-85b-ai-stock-sale",
-      "date": "4 June 2026",
-      "headline": "Alphabet prices record $85 billion AI-focused stock sale",
-      "summary": "Alphabet’s record stock offering signals sustained investor appetite for AI infrastructure and suggests continued heavy spending on compute, data centers, and related supply chains. For businesses, this can translate into higher AI capacity availability over time, but also stronger competition for cloud and infrastructure resources as hyperscalers keep scaling.",
-      "source": "The Art of CTO",
-      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-04-daily-sync",
-      "imageUrl": "https://theartofcto.com/og-image.png",
-      "category": "Strategy"
-    },
-    {
-      "id": "openai-lockdown-mode-prompt-injection",
-      "date": "1 June 2026",
-      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "summary": "A dedicated defense against prompt injection suggests AI security is becoming a core enterprise requirement rather than an optional feature. For businesses deploying AI assistants on internal data, this raises the importance of access controls, policy enforcement, and vendor due diligence before rollout.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/06/",
+      "id": "reuters-south-korea-nvidia-vera-rubin-priority-supply",
+      "date": "8 June 2026",
+      "headline": "South Korea seeks priority supply of Nvidia’s next-generation Vera Rubin GPUs",
+      "summary": "South Korea said it will ask for priority deliveries of Nvidia’s Vera Rubin graphics processors as delays are expected. For businesses, the key impact is on AI infrastructure planning: scarce top-end GPUs can raise deployment costs, delay model training, and affect cloud and data-center capacity planning.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Cybersecurity"
+      "category": "Strategy"
     },
     {
       "id": "cyfirma-weekly-intelligence-report-05-jun-2026",
@@ -31,6 +21,16 @@
       "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-05-jun-2026/",
       "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
+    },
+    {
+      "id": "alphabet-85b-ai-stock-sale",
+      "date": "4 June 2026",
+      "headline": "Alphabet prices record $85 billion AI-focused stock sale",
+      "summary": "Alphabet’s record stock offering signals sustained investor appetite for AI infrastructure and suggests continued heavy spending on compute, data centers, and related supply chains. For businesses, this can translate into higher AI capacity availability over time, but also stronger competition for cloud and infrastructure resources as hyperscalers keep scaling.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-04-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
+      "category": "Strategy"
     }
   ]
 }
