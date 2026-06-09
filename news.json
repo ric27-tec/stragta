@@ -1,12 +1,22 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-08T11:51:49.255Z",
+  "lastUpdated": "2026-06-09T10:31:06.178Z",
   "articles": [
     {
-      "id": "reuters-south-korea-nvidia-vera-rubin-priority-supply",
-      "date": "8 June 2026",
-      "headline": "South Korea seeks priority supply of Nvidia’s next-generation Vera Rubin GPUs",
-      "summary": "South Korea said it will ask for priority deliveries of Nvidia’s Vera Rubin graphics processors as delays are expected. For businesses, the key impact is on AI infrastructure planning: scarce top-end GPUs can raise deployment costs, delay model training, and affect cloud and data-center capacity planning.",
+      "id": "apple-google-gemini-apple-intelligence-wwdc-2026",
+      "date": "9 June 2026",
+      "headline": "Apple leans on Google Gemini for heavier Apple Intelligence tasks",
+      "summary": "Apple’s new AI architecture routes demanding requests to Google’s Gemini models while keeping lighter processing on-device. That matters for businesses because it signals a hybrid AI pattern that could shape enterprise device management, privacy expectations, and the economics of AI features across Apple’s ecosystem.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-09-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "china-295b-ai-data-center-buildout",
+      "date": "9 June 2026",
+      "headline": "China reportedly prepares $295 billion AI infrastructure push",
+      "summary": "Reuters reports that China is preparing a five-year plan to spend about 2 trillion yuan on nationwide data-center buildout. For global businesses, that points to stronger AI infrastructure competition, possible shifts in chip and cloud demand, and more pressure on supply chains tied to compute and power capacity.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-05-jun-2026/",
       "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
       "category": "Regulation"
-    },
-    {
-      "id": "alphabet-85b-ai-stock-sale",
-      "date": "4 June 2026",
-      "headline": "Alphabet prices record $85 billion AI-focused stock sale",
-      "summary": "Alphabet’s record stock offering signals sustained investor appetite for AI infrastructure and suggests continued heavy spending on compute, data centers, and related supply chains. For businesses, this can translate into higher AI capacity availability over time, but also stronger competition for cloud and infrastructure resources as hyperscalers keep scaling.",
-      "source": "The Art of CTO",
-      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-04-daily-sync",
-      "imageUrl": "https://theartofcto.com/og-image.png",
-      "category": "Strategy"
     }
   ]
 }
