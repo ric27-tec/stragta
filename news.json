@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-09T10:31:06.178Z",
+  "lastUpdated": "2026-06-10T10:51:51.739Z",
   "articles": [
     {
-      "id": "apple-google-gemini-apple-intelligence-wwdc-2026",
-      "date": "9 June 2026",
-      "headline": "Apple leans on Google Gemini for heavier Apple Intelligence tasks",
-      "summary": "Apple’s new AI architecture routes demanding requests to Google’s Gemini models while keeping lighter processing on-device. That matters for businesses because it signals a hybrid AI pattern that could shape enterprise device management, privacy expectations, and the economics of AI features across Apple’s ecosystem.",
-      "source": "The Art of CTO",
-      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-09-daily-sync",
-      "imageUrl": "https://theartofcto.com/og-image.png",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "china-295b-ai-data-center-buildout",
-      "date": "9 June 2026",
-      "headline": "China reportedly prepares $295 billion AI infrastructure push",
-      "summary": "Reuters reports that China is preparing a five-year plan to spend about 2 trillion yuan on nationwide data-center buildout. For global businesses, that points to stronger AI infrastructure competition, possible shifts in chip and cloud demand, and more pressure on supply chains tied to compute and power capacity.",
+      "id": "meta-reliance-ai-data-center-india",
+      "date": "10 June 2026",
+      "headline": "Meta ties up with Reliance for first AI-enabled data center in India",
+      "summary": "Meta’s partnership with Reliance to build its first AI-enabled data center in India signals more local AI infrastructure for one of the world’s largest markets. For businesses, this can affect cloud capacity, latency, and the availability of AI services in India, while also reinforcing capital spending tied to AI demand.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "cyfirma-weekly-intelligence-report-05-jun-2026",
-      "date": "5 June 2026",
-      "headline": "Weekly Intelligence Report highlights ransomware, vulnerabilities, and data leaks",
-      "summary": "CYFIRMA’s weekly report describes ransomware and leak activity affecting a transportation and logistics company in Singapore and a construction company in Japan. Those sectors are operationally important for many businesses, so the report is a reminder that supply-chain disruption and third-party cyber risk remain immediate business concerns.[5]",
-      "source": "CYFIRMA",
-      "sourceUrl": "https://www.cyfirma.com/news/weekly-intelligence-report-05-jun-2026/",
-      "imageUrl": "https://www.cyfirma.com/media/2024/08/weeknews-fe.jpg",
+      "id": "microsoft-mxc-ai-agent-sandbox-enterprises",
+      "date": "10 June 2026",
+      "headline": "Microsoft launches MXC sandbox for AI agents in Windows enterprise environments",
+      "summary": "Microsoft’s new OS-level sandbox gives enterprises more secure runtime controls, identity checks, and policy enforcement for AI agents. That is directly relevant for companies trying to deploy agentic AI while limiting security, governance, and compliance risks.",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "cuba-loses-visa-mastercard-transactions-sanctions",
+      "date": "7 June 2026",
+      "headline": "Cuba to lose Visa and Mastercard transactions under U.S. sanctions",
+      "summary": "Cuba’s loss of Visa and Mastercard transaction access underscores how sanctions can immediately disrupt payment processing and cross-border commerce. The development is most relevant to firms with exposure to sanctions compliance, travel, remittances, or Caribbean trade operations.",
+      "source": "ICT Pulse",
+      "sourceUrl": "https://ict-pulse.com/2026/06/roundup-for-the-week-ending-7-june-2026/",
+      "imageUrl": "https://ict-pulse.com/wp-content/uploads/2020/12/Business-Background-Blog-Communication-Data-News-Newspaper-Gino-Crescoli-Pixabay.jpg",
       "category": "Regulation"
     }
   ]
