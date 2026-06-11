@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-08T11:51:53.756Z",
+  "lastUpdated": "2026-06-11T11:19:29.964Z",
   "articles": [
+    {
+      "id": "anthropic-ipo-wall-street",
+      "date": "8 June 2026",
+      "headline": "Anthropic presenta su folleto para salir a Bolsa y acelera la competencia de capital en IA",
+      "summary": "Anthropic ha presentado oficialmente su folleto para cotizar en Bolsa, en un movimiento que refuerza la carrera por financiar infraestructura de IA a gran escala. Para las empresas, esto apunta a más presión competitiva en precios, producto y acceso a capital entre los grandes proveedores de modelos, con posibles efectos en costes y disponibilidad de servicios de IA.",
+      "source": "bcube.bitban.com",
+      "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-8-junio-2026?hs_amp=true",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "openai-ipo-preparativos",
+      "date": "8 June 2026",
+      "headline": "OpenAI prepara su debut bursátil mientras reordena ChatGPT",
+      "summary": "Según la cobertura resumida por la fuente, OpenAI también ultima su salida a bolsa y antes planea una renovación integral de ChatGPT. Para directivos y equipos de compras tecnológicas, esto es relevante porque puede anticipar cambios en la estrategia comercial, el ritmo de inversión y la presión por monetizar productos empresariales de IA.",
+      "source": "WIRED en Español",
+      "sourceUrl": "https://es.wired.com",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
     {
       "id": "marketscreener-goldman-ai-markets-2026-06-05",
       "date": "5 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
       "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
       "category": "Estrategia"
-    },
-    {
-      "id": "nvidia-vera-arm-2026-05-28",
-      "date": "28 May 2026",
-      "headline": "Nvidia prepara la CPU Vera con mejor rendimiento que los chips x86 de Intel y AMD, según un reporte del 28 de mayo",
-      "summary": "El avance refuerza la presión competitiva sobre el mercado de CPUs para centros de datos y equipos empresariales. Si se confirma en producto comercial, puede influir en decisiones de compra de infraestructura, eficiencia energética y costes de cómputo en empresas y proveedores cloud.",
-      "source": "DiarioBitcoin",
-      "sourceUrl": "https://www.diariobitcoin.com/tecnologia/la-ia-recompila-el-mundo-agi-biologia-chips-y-vigilancia-marcan-el-28-de-mayo-de-2026/",
-      "imageUrl": "https://diariobitcoin.b-cdn.net/wp-content/uploads/2026/05/canuto-imagine-1779974969.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "mercedes-mb-drive-assist-pro-2026-05-28",
-      "date": "28 May 2026",
-      "headline": "Mercedes-Benz desplegará MB.DRIVE ASSIST PRO en Stuttgart y Múnich antes de fin de año",
-      "summary": "El anuncio amplía el uso de conducción asistida avanzada en flotas y vehículos premium, con potencial impacto en movilidad corporativa y logística. También señala el ritmo al que la automatización entra en sectores con costes de operación altos y fuertes exigencias regulatorias.",
-      "source": "Crónica del Henares",
-      "sourceUrl": "https://www.cronicadelhenares.com/2026/05/las-doce-noticias-mas-destacadas-del-28.html",
-      "imageUrl": "",
-      "category": "Automatización"
     }
   ]
 }
