@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-10T10:51:51.739Z",
+  "lastUpdated": "2026-06-12T10:57:45.954Z",
   "articles": [
+    {
+      "id": "cloud-storage-extortion-one-drive-share-point",
+      "date": "12 June 2026",
+      "headline": "New extortion group targets OneDrive and SharePoint for rapid data exfiltration",
+      "summary": "A threat group tracked as CL-CRI-1147 has shifted from traditional ransomware to fast data theft from cloud storage environments such as OneDrive and SharePoint. That creates direct operational and compliance risk for businesses using Microsoft 365, especially where file-sharing controls and identity protections are weak.",
+      "source": "Zoller Consulting",
+      "sourceUrl": "https://zollerconsulting.com/daily-news-sweep-summary-june-9-2026/",
+      "imageUrl": "https://zollerconsulting.com/wp-content/uploads/2026/06/June-9.webp",
+      "category": "Automation"
+    },
+    {
+      "id": "apple-google-gemini-apple-intelligence",
+      "date": "9 June 2026",
+      "headline": "Apple leans on Google Gemini for 'Apple Intelligence'",
+      "summary": "Apple’s WWDC AI strategy routes heavier tasks to Google’s Gemini models while keeping lighter inference on-device, which signals a pragmatic shift toward hybrid AI and could influence enterprise device planning and AI app expectations. The same update also suggests Apple is doubling down on Apple Silicon and long-term platform control, with implications for business fleets and software compatibility.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-09-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
+      "category": "AI Adoption"
+    },
     {
       "id": "meta-reliance-ai-data-center-india",
       "date": "10 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "microsoft-mxc-ai-agent-sandbox-enterprises",
-      "date": "10 June 2026",
-      "headline": "Microsoft launches MXC sandbox for AI agents in Windows enterprise environments",
-      "summary": "Microsoft’s new OS-level sandbox gives enterprises more secure runtime controls, identity checks, and policy enforcement for AI agents. That is directly relevant for companies trying to deploy agentic AI while limiting security, governance, and compliance risks.",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "cuba-loses-visa-mastercard-transactions-sanctions",
-      "date": "7 June 2026",
-      "headline": "Cuba to lose Visa and Mastercard transactions under U.S. sanctions",
-      "summary": "Cuba’s loss of Visa and Mastercard transaction access underscores how sanctions can immediately disrupt payment processing and cross-border commerce. The development is most relevant to firms with exposure to sanctions compliance, travel, remittances, or Caribbean trade operations.",
-      "source": "ICT Pulse",
-      "sourceUrl": "https://ict-pulse.com/2026/06/roundup-for-the-week-ending-7-june-2026/",
-      "imageUrl": "https://ict-pulse.com/wp-content/uploads/2020/12/Business-Background-Blog-Communication-Data-News-Newspaper-Gino-Crescoli-Pixabay.jpg",
-      "category": "Regulation"
     }
   ]
 }
