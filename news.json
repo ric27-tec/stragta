@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-13T09:53:56.907Z",
+  "lastUpdated": "2026-06-14T10:21:12.966Z",
   "articles": [
     {
-      "id": "slug-1",
-      "date": "10 June 2026",
-      "headline": "OpenAI Restricted: Trump Administration Declares Foreign AI Models Security Risks",
-      "summary": "The Trump administration has blocked foreign governments and companies from accessing Anthropic's most advanced AI models, citing security risks. This decision affects cross-border business operations, supplier partnerships, and may increase reliance on domestic AI infrastructure, impacting global tech trade and compliance strategies.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "anthropic-disables-mythos-foreign-nationals",
+      "date": "14 June 2026",
+      "headline": "Anthropic shuts down Mythos access after U.S. order bars foreign nationals",
+      "summary": "Anthropic disabled access to its most advanced models, including Mythos, after a U.S. government order restricted the technology from foreign nationals. For businesses, this raises immediate compliance, procurement, and workforce-access questions for multinational teams using frontier AI tools.",
+      "source": "The Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/06/14/tech/anthropic-mythos-us-order/",
+      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/14/545945.JPG?v=3.1",
+      "category": "Regulation"
+    },
+    {
+      "id": "meta-dismantles-manus-acquisition-after-beijing-order",
+      "date": "14 June 2026",
+      "headline": "Meta starts dismantling its $2 billion Manus acquisition after Beijing order",
+      "summary": "Meta is reportedly unwinding its Manus acquisition after Beijing ordered the deal reversed. The story signals rising regulatory and geopolitical friction for cross-border M&A in AI, which can affect deal execution risk, valuation, and overseas expansion plans.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "slug-2",
-      "date": "10 June 2026",
-      "headline": "Micron Advances Semiconductor Campus in New York with Bechtel Partnership",
-      "summary": "Micron has selected Bechtel as construction partner for its landmark New York semiconductor campus, accelerating U.S. capacity expansion. This move impacts chip supply chains, equipment suppliers, and regional job creation, signaling a shift in global semiconductor manufacturing and infrastructure investment for businesses relying on memory and AI components.",
-      "source": "Forbes",
-      "sourceUrl": "https://www.forbes.com/councils/forbestechcouncil/2025/12/22/the-most-impactful-business-technology-trends-to-watch-in-2026/",
-      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/69459c38c29e5c71ac3471e1/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+      "id": "innoscience-patent-victory-infineon-gan-products",
+      "date": "14 June 2026",
+      "headline": "Innoscience wins final patent ruling against Infineon GaN products in China",
+      "summary": "A final Chinese court ruling upheld an injunction against Infineon gallium nitride products, strengthening Innoscience’s position in a strategically important power-semiconductor segment. Businesses that buy data-center, industrial, or power-efficiency hardware should watch for possible shifts in supplier availability, pricing, and sourcing strategy.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
+      "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "slug-4",
-      "date": "10 June 2026",
-      "headline": "Check Point Joins OpenAI’s Trusted Access for Cyber Program Amid Rising AI Security Risks",
-      "summary": "Check Point has joined OpenAI’s Trusted Access for Cyber program and the Daybreak initiative, underscoring the critical role of security vendors in safe AI adoption for enterprises. This partnership affects cybersecurity risk management, compliance with AI regulations, and operational security for businesses integrating AI into core operations.",
-      "source": "Pipefy",
-      "sourceUrl": "https://www.pipefy.com/blog/technology-trends/",
-      "imageUrl": "https://assets-site.staticpipefy.com/production/wp-content/uploads/2025/12/technology-trends-2026-thumb-1440x900.png",
-      "category": "Regulation"
     }
   ]
 }
