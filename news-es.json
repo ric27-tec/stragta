@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-11T11:19:29.964Z",
+  "lastUpdated": "2026-06-15T13:09:09.037Z",
   "articles": [
+    {
+      "id": "boom-ia-precios-chips-memoria-inflacion",
+      "date": "12 June 2026",
+      "headline": "Boom de la IA dispara los precios de los chips de memoria y aviva la inflación",
+      "summary": "El alza de precios en memoria presiona los costes de servidores, dispositivos y servicios cloud, lo que puede encarecer proyectos de IA y márgenes en empresas que dependen de infraestructura digital. Para directivos, esto afecta compras de hardware, presupuestos de TI y planificación de capacidad en centros de datos.",
+      "source": "Bloomberg Línea",
+      "sourceUrl": "https://www.bloomberglinea.com/tecnologia/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "ios27-ai-productividad-apple",
+      "date": "12 June 2026",
+      "headline": "Apple refuerza iOS 27 con IA para búsqueda, correo, calendarios y automatizaciones",
+      "summary": "Apple presentó funciones que permiten buscar información entre apps, redactar correos con contexto y crear automatizaciones complejas con lenguaje natural. Para empresas y pymes, esto puede acelerar productividad, simplificar flujos de trabajo y ampliar el uso de automatización sin herramientas adicionales.",
+      "source": "Revista Gerente",
+      "sourceUrl": "https://gerente.com/co/seccion/tecnologia/",
+      "imageUrl": "https://gerente.com/co/wp-content/uploads/sites/16/2017/08/Screen-Shot-2017-08-18-at-10.52.55-AM.png",
+      "category": "Adopción de IA"
+    },
     {
       "id": "anthropic-ipo-wall-street",
       "date": "8 June 2026",
@@ -10,26 +30,6 @@
       "source": "bcube.bitban.com",
       "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-8-junio-2026?hs_amp=true",
       "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "openai-ipo-preparativos",
-      "date": "8 June 2026",
-      "headline": "OpenAI prepara su debut bursátil mientras reordena ChatGPT",
-      "summary": "Según la cobertura resumida por la fuente, OpenAI también ultima su salida a bolsa y antes planea una renovación integral de ChatGPT. Para directivos y equipos de compras tecnológicas, esto es relevante porque puede anticipar cambios en la estrategia comercial, el ritmo de inversión y la presión por monetizar productos empresariales de IA.",
-      "source": "WIRED en Español",
-      "sourceUrl": "https://es.wired.com",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "marketscreener-goldman-ai-markets-2026-06-05",
-      "date": "5 June 2026",
-      "headline": "Goldman ve el auge de la IA como una fuerza ‘fundamental y generacional’ para mercados y economía",
-      "summary": "La lectura de Goldman sugiere que la inversión en IA sigue siendo un motor macro y de mercado, relevante para empresas que dependen de gasto en nube, chips e infraestructura. Para directivos, esto apunta a más presión y oportunidad en proveedores de tecnología: puede sostener demanda, mover valoraciones y afectar costes de adquisición de capacidad de cómputo.",
-      "source": "MarketScreener España",
-      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
-      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
       "category": "Estrategia"
     }
   ]

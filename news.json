@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-14T10:21:12.966Z",
+  "lastUpdated": "2026-06-15T13:09:02.873Z",
   "articles": [
+    {
+      "id": "apple-google-gemini-siri-wwdc-2026",
+      "date": "12 June 2026",
+      "headline": "Apple unveils Gemini-powered Siri, delaying some EU rollout over regulation",
+      "summary": "Apple’s WWDC announcement signals a major shift in consumer and enterprise AI assistants, with Gemini handling more complex requests while Apple keeps some processing in-house. The EU delay highlights how regulation can slow feature rollout for multinational companies and affect planning for customer support, productivity, and device procurement.",
+      "source": "Distill Intelligence",
+      "sourceUrl": "https://www.distillintelligence.com/briefings/magnificent-7-2026-06-12",
+      "imageUrl": "https://www.distillintelligence.com/briefings/magnificent-7-2026-06-12/og.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "tcs-anthropic-enterprise-ai-2026-06-12",
+      "date": "12 June 2026",
+      "headline": "TCS partners with Anthropic to help enterprises deploy AI at scale",
+      "summary": "TCS’s partnership with Anthropic is aimed at enterprise AI deployment, which is directly relevant to firms trying to move from pilots to production use cases. The announcement suggests growing demand for implementation partners that can adapt frontier models to business workflows, governance, and security requirements.",
+      "source": "Techcircle",
+      "sourceUrl": "https://www.techcircle.in/2026/06/12/it-s-a-wrap-news-this-week-jun-8-12",
+      "imageUrl": "https://assets.techcircle.in/uploads/article-image/2026/06/images/37908-weekly-wrap.png",
+      "category": "AI Adoption"
+    },
     {
       "id": "anthropic-disables-mythos-foreign-nationals",
       "date": "14 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.japantimes.co.jp/business/2026/06/14/tech/anthropic-mythos-us-order/",
       "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/14/545945.JPG?v=3.1",
       "category": "Regulation"
-    },
-    {
-      "id": "meta-dismantles-manus-acquisition-after-beijing-order",
-      "date": "14 June 2026",
-      "headline": "Meta starts dismantling its $2 billion Manus acquisition after Beijing order",
-      "summary": "Meta is reportedly unwinding its Manus acquisition after Beijing ordered the deal reversed. The story signals rising regulatory and geopolitical friction for cross-border M&A in AI, which can affect deal execution risk, valuation, and overseas expansion plans.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "innoscience-patent-victory-infineon-gan-products",
-      "date": "14 June 2026",
-      "headline": "Innoscience wins final patent ruling against Infineon GaN products in China",
-      "summary": "A final Chinese court ruling upheld an injunction against Infineon gallium nitride products, strengthening Innoscience’s position in a strategically important power-semiconductor segment. Businesses that buy data-center, industrial, or power-efficiency hardware should watch for possible shifts in supplier availability, pricing, and sourcing strategy.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
-      "imageUrl": "",
-      "category": "Strategy"
     }
   ]
 }
