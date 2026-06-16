@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-15T13:09:02.873Z",
+  "lastUpdated": "2026-06-16T12:07:34.567Z",
   "articles": [
     {
-      "id": "apple-google-gemini-siri-wwdc-2026",
-      "date": "12 June 2026",
-      "headline": "Apple unveils Gemini-powered Siri, delaying some EU rollout over regulation",
-      "summary": "Apple’s WWDC announcement signals a major shift in consumer and enterprise AI assistants, with Gemini handling more complex requests while Apple keeps some processing in-house. The EU delay highlights how regulation can slow feature rollout for multinational companies and affect planning for customer support, productivity, and device procurement.",
-      "source": "Distill Intelligence",
-      "sourceUrl": "https://www.distillintelligence.com/briefings/magnificent-7-2026-06-12",
-      "imageUrl": "https://www.distillintelligence.com/briefings/magnificent-7-2026-06-12/og.png",
-      "category": "AI Adoption"
+      "id": "openai-spending-34-billion-ipo",
+      "date": "16 June 2026",
+      "headline": "OpenAI spending hit $34 billion last year ahead of planned IPO",
+      "summary": "OpenAI’s reported spending scale signals continued heavy competition for AI talent, compute, and infrastructure, which can pressure margins across the AI stack. For businesses, this matters because it reinforces expectations of high AI model costs and aggressive vendor investment ahead of a possible IPO cycle.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+      "imageUrl": "",
+      "category": "Strategy"
     },
     {
-      "id": "tcs-anthropic-enterprise-ai-2026-06-12",
-      "date": "12 June 2026",
-      "headline": "TCS partners with Anthropic to help enterprises deploy AI at scale",
-      "summary": "TCS’s partnership with Anthropic is aimed at enterprise AI deployment, which is directly relevant to firms trying to move from pilots to production use cases. The announcement suggests growing demand for implementation partners that can adapt frontier models to business workflows, governance, and security requirements.",
-      "source": "Techcircle",
-      "sourceUrl": "https://www.techcircle.in/2026/06/12/it-s-a-wrap-news-this-week-jun-8-12",
-      "imageUrl": "https://assets.techcircle.in/uploads/article-image/2026/06/images/37908-weekly-wrap.png",
-      "category": "AI Adoption"
+      "id": "softbank-ai-cybersecurity-product",
+      "date": "16 June 2026",
+      "headline": "SoftBank launches cybersecurity product designed to counter AI-enabled breaches",
+      "summary": "A new AI-focused security product suggests that attack methods are evolving fast enough to drive new enterprise spending on detection and response. For business decision-makers, the key implication is rising urgency around cybersecurity controls, especially as AI tools can lower the cost and speed of attacks.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Regulation"
     },
     {
-      "id": "anthropic-disables-mythos-foreign-nationals",
-      "date": "14 June 2026",
-      "headline": "Anthropic shuts down Mythos access after U.S. order bars foreign nationals",
-      "summary": "Anthropic disabled access to its most advanced models, including Mythos, after a U.S. government order restricted the technology from foreign nationals. For businesses, this raises immediate compliance, procurement, and workforce-access questions for multinational teams using frontier AI tools.",
-      "source": "The Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/business/2026/06/14/tech/anthropic-mythos-us-order/",
-      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/06/14/545945.JPG?v=3.1",
+      "id": "anthropic-export-controls",
+      "date": "13 June 2026",
+      "headline": "White House moves to slap export controls on Anthropic, according to Politico report",
+      "summary": "The reported export-control move underscores rising geopolitical pressure on advanced AI systems and could affect access to frontier models, cloud services, and enterprise AI deployment across borders. Companies with global operations should watch for compliance and procurement impacts if restrictions expand beyond Anthropic.",
+      "source": "Politico",
+      "sourceUrl": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519",
+      "imageUrl": "",
       "category": "Regulation"
     }
   ]

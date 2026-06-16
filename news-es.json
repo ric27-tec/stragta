@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-15T13:09:09.037Z",
+  "lastUpdated": "2026-06-16T12:07:40.057Z",
   "articles": [
+    {
+      "id": "dell-ia-servers-demand",
+      "date": "13 June 2026",
+      "headline": "Dell sube en bolsa por el aumento de la demanda de servidores para IA",
+      "summary": "La acción de Dell repuntó con fuerza tras conocerse un incremento en la demanda de servidores para inteligencia artificial. Para empresas y responsables de TI, esto apunta a una mayor presión sobre la oferta de infraestructura, con posibles efectos en plazos de entrega, precios y planificación de inversiones en cómputo.",
+      "source": "Noticias al Día y a la Hora",
+      "sourceUrl": "https://noticiasaldiayalahora.co/tecnologia/",
+      "imageUrl": "https://noticiasaldiayalahora.co/wp-content/uploads/2017/09/Noticiasaldiayalahorashare.png",
+      "category": "Estrategia"
+    },
+    {
+      "id": "spacex-ipo-path",
+      "date": "12 June 2026",
+      "headline": "SpaceX avanza hacia una posible salida histórica a Bolsa",
+      "summary": "La cobertura de mercado señala que SpaceX estaría acercándose a una histórica salida a Bolsa. Si se confirma, podría tener impacto en la financiación del sector espacial, la competencia por capital en tecnología avanzada y la valoración de proveedores vinculados a satélites, lanzamientos y comunicaciones.",
+      "source": "MarketScreener España",
+      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
+      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "category": "Estrategia"
+    },
     {
       "id": "boom-ia-precios-chips-memoria-inflacion",
       "date": "12 June 2026",
@@ -9,26 +29,6 @@
       "summary": "El alza de precios en memoria presiona los costes de servidores, dispositivos y servicios cloud, lo que puede encarecer proyectos de IA y márgenes en empresas que dependen de infraestructura digital. Para directivos, esto afecta compras de hardware, presupuestos de TI y planificación de capacidad en centros de datos.",
       "source": "Bloomberg Línea",
       "sourceUrl": "https://www.bloomberglinea.com/tecnologia/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "ios27-ai-productividad-apple",
-      "date": "12 June 2026",
-      "headline": "Apple refuerza iOS 27 con IA para búsqueda, correo, calendarios y automatizaciones",
-      "summary": "Apple presentó funciones que permiten buscar información entre apps, redactar correos con contexto y crear automatizaciones complejas con lenguaje natural. Para empresas y pymes, esto puede acelerar productividad, simplificar flujos de trabajo y ampliar el uso de automatización sin herramientas adicionales.",
-      "source": "Revista Gerente",
-      "sourceUrl": "https://gerente.com/co/seccion/tecnologia/",
-      "imageUrl": "https://gerente.com/co/wp-content/uploads/sites/16/2017/08/Screen-Shot-2017-08-18-at-10.52.55-AM.png",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "anthropic-ipo-wall-street",
-      "date": "8 June 2026",
-      "headline": "Anthropic presenta su folleto para salir a Bolsa y acelera la competencia de capital en IA",
-      "summary": "Anthropic ha presentado oficialmente su folleto para cotizar en Bolsa, en un movimiento que refuerza la carrera por financiar infraestructura de IA a gran escala. Para las empresas, esto apunta a más presión competitiva en precios, producto y acceso a capital entre los grandes proveedores de modelos, con posibles efectos en costes y disponibilidad de servicios de IA.",
-      "source": "bcube.bitban.com",
-      "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-8-junio-2026?hs_amp=true",
       "imageUrl": "",
       "category": "Estrategia"
     }
