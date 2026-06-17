@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-16T12:07:34.567Z",
+  "lastUpdated": "2026-06-17T11:42:48.681Z",
   "articles": [
     {
-      "id": "openai-spending-34-billion-ipo",
-      "date": "16 June 2026",
-      "headline": "OpenAI spending hit $34 billion last year ahead of planned IPO",
-      "summary": "OpenAI’s reported spending scale signals continued heavy competition for AI talent, compute, and infrastructure, which can pressure margins across the AI stack. For businesses, this matters because it reinforces expectations of high AI model costs and aggressive vendor investment ahead of a possible IPO cycle.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+      "id": "nytimes-tech-spacex-cursor",
+      "date": "17 June 2026",
+      "headline": "Start-Up for $60 Billion: SpaceX Acquires Cursor in All-Stock Deal",
+      "summary": "SpaceX has exercised its option to acquire AI startup Cursor, a major inflection point for the company's entry into artificial intelligence. This $60 billion all-stock deal signals a strategic shift for corporations evaluating AI infrastructure providers and could reshape the competitive landscape for AI tools used by businesses.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "softbank-ai-cybersecurity-product",
-      "date": "16 June 2026",
-      "headline": "SoftBank launches cybersecurity product designed to counter AI-enabled breaches",
-      "summary": "A new AI-focused security product suggests that attack methods are evolving fast enough to drive new enterprise spending on detection and response. For business decision-makers, the key implication is rising urgency around cybersecurity controls, especially as AI tools can lower the cost and speed of attacks.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "economist-ai-costs-jobs",
+      "date": "17 June 2026",
+      "headline": "AI Agents Drive Up Costs for Businesses as Firms Struggle with Token Bills",
+      "summary": "Rising costs from AI agents and automated reasoning models are creating financial pressure on corporations and SMEs, with many struggling to manage token-heavy expenses. This trend highlights a critical operational risk for businesses planning AI adoption, as costs may offset productivity gains unless more efficient infrastructure emerges.",
+      "source": "The Economist",
+      "sourceUrl": "https://www.economist.com/topics/artificial-intelligence",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "AI Adoption"
     },
     {
-      "id": "anthropic-export-controls",
-      "date": "13 June 2026",
-      "headline": "White House moves to slap export controls on Anthropic, according to Politico report",
-      "summary": "The reported export-control move underscores rising geopolitical pressure on advanced AI systems and could affect access to frontier models, cloud services, and enterprise AI deployment across borders. Companies with global operations should watch for compliance and procurement impacts if restrictions expand beyond Anthropic.",
-      "source": "Politico",
-      "sourceUrl": "https://www.politico.com/news/2026/06/13/inside-the-whirlwind-24-hours-that-led-the-white-house-to-slap-export-controls-on-anthropic-00961519",
+      "id": "wsj-deepseek-fundraise",
+      "date": "17 June 2026",
+      "headline": "DeepSeek Becomes China's Most Valuable AI Startup After $7.4 Billion Fundraise",
+      "summary": "DeepSeek has secured over $7.4 billion in its first round, becoming China's most valuable AI startup and intensifying global competition for AI infrastructure. This surge affects business planning for corporations and SMEs relying on international AI models, as geopolitical tensions and supply chain risks may increase with China's growing tech dominance.",
+      "source": "The Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/tech/ai",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     }
   ]
 }
