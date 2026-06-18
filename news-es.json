@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-16T12:07:40.057Z",
+  "lastUpdated": "2026-06-18T11:06:00.760Z",
   "articles": [
     {
-      "id": "dell-ia-servers-demand",
-      "date": "13 June 2026",
-      "headline": "Dell sube en bolsa por el aumento de la demanda de servidores para IA",
-      "summary": "La acción de Dell repuntó con fuerza tras conocerse un incremento en la demanda de servidores para inteligencia artificial. Para empresas y responsables de TI, esto apunta a una mayor presión sobre la oferta de infraestructura, con posibles efectos en plazos de entrega, precios y planificación de inversiones en cómputo.",
-      "source": "Noticias al Día y a la Hora",
-      "sourceUrl": "https://noticiasaldiayalahora.co/tecnologia/",
-      "imageUrl": "https://noticiasaldiayalahora.co/wp-content/uploads/2017/09/Noticiasaldiayalahorashare.png",
+      "id": "microsoft-deepmind-ia-energia",
+      "date": "15 June 2026",
+      "headline": "Meta invierte 14.800 millones de dólares en Scale AI y contrata a su CEO",
+      "summary": "La inversión de Meta en Scale AI y la contratación de su director ejecutivo ponen a prueba cómo el regulador estadounidense interpretará este tipo de acuerdos de IA. Para empresas que usan datos y etiquetado a escala, la noticia apunta a mayor consolidación del sector y a posibles cambios en el poder de negociación con proveedores de IA.",
+      "source": "Tecnoap21",
+      "sourceUrl": "https://tecnoap21.com/2025/06/16/resumen-de-las-noticias-tecnologicas-del-9-al-15-de-junio/",
+      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2025/03/diario-en-movimiento-resumen-noticias-3.png",
       "category": "Estrategia"
     },
     {
-      "id": "spacex-ipo-path",
-      "date": "12 June 2026",
-      "headline": "SpaceX avanza hacia una posible salida histórica a Bolsa",
-      "summary": "La cobertura de mercado señala que SpaceX estaría acercándose a una histórica salida a Bolsa. Si se confirma, podría tener impacto en la financiación del sector espacial, la competencia por capital en tecnología avanzada y la valoración de proveedores vinculados a satélites, lanzamientos y comunicaciones.",
-      "source": "MarketScreener España",
-      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
-      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "category": "Estrategia"
+      "id": "bots-superan-trafico-humano",
+      "date": "15 June 2026",
+      "headline": "Por primera vez, el tráfico generado por bots supera al tráfico humano",
+      "summary": "El volumen de tráfico automatizado ya supera al tráfico producido por personas. Para comercios y plataformas digitales, esto eleva el riesgo de fraude, scraping, saturación de sistemas y distorsión de métricas de marketing, ventas y analítica.",
+      "source": "Bitban Technologies",
+      "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-15-junio-2026",
+      "imageUrl": "https://bcube.bitban.com/hubfs/En%20el%20radar%20de%20bCube%20-%20Rojo%202.png",
+      "category": "Automatización"
     },
     {
-      "id": "boom-ia-precios-chips-memoria-inflacion",
-      "date": "12 June 2026",
-      "headline": "Boom de la IA dispara los precios de los chips de memoria y aviva la inflación",
-      "summary": "El alza de precios en memoria presiona los costes de servidores, dispositivos y servicios cloud, lo que puede encarecer proyectos de IA y márgenes en empresas que dependen de infraestructura digital. Para directivos, esto afecta compras de hardware, presupuestos de TI y planificación de capacidad en centros de datos.",
-      "source": "Bloomberg Línea",
-      "sourceUrl": "https://www.bloomberglinea.com/tecnologia/",
+      "id": "india-bloquea-telegram",
+      "date": "15 June 2026",
+      "headline": "India bloquea Telegram en todo el país hasta el 22 de junio de 2026",
+      "summary": "India restringió completamente el acceso a Telegram en su territorio, una medida con impacto inmediato en comunicación interna, atención al cliente y operaciones de comunidades digitales. Para empresas con presencia en India, la noticia refuerza el riesgo de dependencia de canales de mensajería sujetos a intervención estatal.",
+      "source": "WWWhat's new",
+      "sourceUrl": "https://wwwhatsnew.com",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Regulación"
     }
   ]
 }

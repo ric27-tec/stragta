@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-17T11:42:48.681Z",
+  "lastUpdated": "2026-06-18T11:05:50.976Z",
   "articles": [
     {
-      "id": "nytimes-tech-spacex-cursor",
-      "date": "17 June 2026",
-      "headline": "Start-Up for $60 Billion: SpaceX Acquires Cursor in All-Stock Deal",
-      "summary": "SpaceX has exercised its option to acquire AI startup Cursor, a major inflection point for the company's entry into artificial intelligence. This $60 billion all-stock deal signals a strategic shift for corporations evaluating AI infrastructure providers and could reshape the competitive landscape for AI tools used by businesses.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/section/technology",
+      "id": "jpmorgan-anthropic-hong-kong-restrictions",
+      "date": "18 June 2026",
+      "headline": "JPMorgan blocks Hong Kong staff from accessing Anthropic models",
+      "summary": "JPMorgan Chase has reportedly stopped staff in Hong Kong from using Anthropic’s AI models, reflecting tighter scrutiny around cross-border AI use. This matters to businesses because it highlights compliance, data-governance, and jurisdictional risks that can affect enterprise AI deployments.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     },
     {
-      "id": "economist-ai-costs-jobs",
-      "date": "17 June 2026",
-      "headline": "AI Agents Drive Up Costs for Businesses as Firms Struggle with Token Bills",
-      "summary": "Rising costs from AI agents and automated reasoning models are creating financial pressure on corporations and SMEs, with many struggling to manage token-heavy expenses. This trend highlights a critical operational risk for businesses planning AI adoption, as costs may offset productivity gains unless more efficient infrastructure emerges.",
-      "source": "The Economist",
-      "sourceUrl": "https://www.economist.com/topics/artificial-intelligence",
+      "id": "waymo-robotaxi-recall-software-issue",
+      "date": "18 June 2026",
+      "headline": "Waymo recalls 3,871 robotaxis after software issue raises safety concerns",
+      "summary": "Waymo is recalling thousands of robotaxis after a software problem could cause vehicles to continue driving in a closed freeway construction zone. The incident is relevant for businesses because it underscores the operational and legal risk of deploying autonomous systems before edge cases are fully controlled.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Automation"
     },
     {
-      "id": "wsj-deepseek-fundraise",
-      "date": "17 June 2026",
-      "headline": "DeepSeek Becomes China's Most Valuable AI Startup After $7.4 Billion Fundraise",
-      "summary": "DeepSeek has secured over $7.4 billion in its first round, becoming China's most valuable AI startup and intensifying global competition for AI infrastructure. This surge affects business planning for corporations and SMEs relying on international AI models, as geopolitical tensions and supply chain risks may increase with China's growing tech dominance.",
-      "source": "The Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/tech/ai",
-      "imageUrl": "",
-      "category": "Strategy"
+      "id": "china-humanoid-robot-price-wars",
+      "date": "15 June 2026",
+      "headline": "China’s humanoid robot boom raises price-war concerns",
+      "summary": "A surge of new entrants in China’s humanoid robotics market is fueling fears of an overcrowded sector and aggressive price competition. For businesses, this could accelerate cost declines for robots and automation tools, but it also signals heightened supplier risk and possible instability among vendors.",
+      "source": "The Wire China",
+      "sourceUrl": "https://www.thewirechina.com/2026/06/15/the-daily-roundup-june-15-2026/",
+      "imageUrl": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1.jpg",
+      "category": "Automation"
     }
   ]
 }
