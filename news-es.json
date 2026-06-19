@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-18T11:06:00.760Z",
+  "lastUpdated": "2026-06-19T11:16:15.790Z",
   "articles": [
+    {
+      "id": "accenture-ciberseguridad-4180m-previsiones-debiles",
+      "date": "16 June 2026",
+      "headline": "Accenture cierra una compra de ciberseguridad por 4.180 millones de dólares, pero sus acciones caen por previsiones débiles",
+      "summary": "La operación refuerza la apuesta de Accenture por servicios de ciberseguridad, un área crítica para empresas que buscan externalizar protección y respuesta a incidentes. La caída bursátil tras unas previsiones flojas sugiere presión en la demanda o en los márgenes, algo relevante para clientes corporativos que negocian contratos y presupuestos de TI.",
+      "source": "MarketScreener España",
+      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
+      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "category": "Estrategia"
+    },
     {
       "id": "microsoft-deepmind-ia-energia",
       "date": "15 June 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-15-junio-2026",
       "imageUrl": "https://bcube.bitban.com/hubfs/En%20el%20radar%20de%20bCube%20-%20Rojo%202.png",
       "category": "Automatización"
-    },
-    {
-      "id": "india-bloquea-telegram",
-      "date": "15 June 2026",
-      "headline": "India bloquea Telegram en todo el país hasta el 22 de junio de 2026",
-      "summary": "India restringió completamente el acceso a Telegram en su territorio, una medida con impacto inmediato en comunicación interna, atención al cliente y operaciones de comunidades digitales. Para empresas con presencia en India, la noticia refuerza el riesgo de dependencia de canales de mensajería sujetos a intervención estatal.",
-      "source": "WWWhat's new",
-      "sourceUrl": "https://wwwhatsnew.com",
-      "imageUrl": "",
-      "category": "Regulación"
     }
   ]
 }

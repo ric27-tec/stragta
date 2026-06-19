@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-18T11:05:50.976Z",
+  "lastUpdated": "2026-06-19T11:16:11.653Z",
   "articles": [
     {
-      "id": "jpmorgan-anthropic-hong-kong-restrictions",
-      "date": "18 June 2026",
-      "headline": "JPMorgan blocks Hong Kong staff from accessing Anthropic models",
-      "summary": "JPMorgan Chase has reportedly stopped staff in Hong Kong from using Anthropic’s AI models, reflecting tighter scrutiny around cross-border AI use. This matters to businesses because it highlights compliance, data-governance, and jurisdictional risks that can affect enterprise AI deployments.",
+      "id": "china-indium-export-scrutiny",
+      "date": "19 June 2026",
+      "headline": "China steps up scrutiny of indium exports, raising supply-chain risk for data-center hardware",
+      "summary": "Reuters reports that Beijing is increasing scrutiny over indium exports, a niche metal used in next-generation data centers and electronics. If expanded into formal export controls, the move could affect hardware supply chains, component availability, and planning for infrastructure-heavy businesses.[4]",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "waymo-robotaxi-recall-software-issue",
-      "date": "18 June 2026",
-      "headline": "Waymo recalls 3,871 robotaxis after software issue raises safety concerns",
-      "summary": "Waymo is recalling thousands of robotaxis after a software problem could cause vehicles to continue driving in a closed freeway construction zone. The incident is relevant for businesses because it underscores the operational and legal risk of deploying autonomous systems before edge cases are fully controlled.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/",
-      "imageUrl": "",
-      "category": "Automation"
+      "id": "spacex-acquires-cursor",
+      "date": "16 June 2026",
+      "headline": "SpaceX reportedly acquires AI coding startup Cursor in $60 billion deal",
+      "summary": "SpaceX’s reported acquisition of Anysphere, the maker of Cursor, signals a major bet on AI software tools for engineering productivity and could reshape demand for developer platforms. The same report says the deal helped lift tech-linked stocks, making this relevant for companies tracking AI valuations, software spend, and market sentiment.[1]",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/06/16/top-tech-news-today-june-16-2026/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/08/SoftBank-artificial-superintelligence.jpg",
+      "category": "AI Adoption"
     },
     {
-      "id": "china-humanoid-robot-price-wars",
-      "date": "15 June 2026",
-      "headline": "China’s humanoid robot boom raises price-war concerns",
-      "summary": "A surge of new entrants in China’s humanoid robotics market is fueling fears of an overcrowded sector and aggressive price competition. For businesses, this could accelerate cost declines for robots and automation tools, but it also signals heightened supplier risk and possible instability among vendors.",
+      "id": "deepseek-fundraise",
+      "date": "16 June 2026",
+      "headline": "DeepSeek becomes China’s most valuable AI startup after $7.4 billion fundraise",
+      "summary": "DeepSeek’s large fundraising round underscores how quickly capital is flowing into frontier AI in China, with implications for competition, pricing pressure, and model development. For executives, the bigger issue is that this reinforces global AI rivalry and may influence cloud, chip, and application investment decisions.[2]",
       "source": "The Wire China",
-      "sourceUrl": "https://www.thewirechina.com/2026/06/15/the-daily-roundup-june-15-2026/",
+      "sourceUrl": "https://www.thewirechina.com/2026/06/16/the-daily-roundup-june-16-2026/",
       "imageUrl": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1.jpg",
-      "category": "Automation"
+      "category": "Strategy"
     }
   ]
 }
