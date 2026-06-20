@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-19T11:16:11.653Z",
+  "lastUpdated": "2026-06-20T09:58:46.011Z",
   "articles": [
+    {
+      "id": "china-global-yuan-pilot",
+      "date": "17 June 2026",
+      "headline": "China to launch offshore yuan FX trading pilot as it pushes global currency use",
+      "summary": "China’s plan to expand offshore yuan foreign exchange trading could affect cross-border payment flows, treasury management, and currency risk for firms operating in or trading with China. Businesses exposed to China should watch for changes in settlement options, hedging needs, and capital controls that may influence financing and supply-chain planning.",
+      "source": "The Wire China",
+      "sourceUrl": "https://www.thewirechina.com/2026/06/17/the-daily-roundup-june-17-2026/",
+      "imageUrl": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1.jpg",
+      "category": "Strategy"
+    },
     {
       "id": "china-indium-export-scrutiny",
       "date": "19 June 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://techstartups.com/2026/06/16/top-tech-news-today-june-16-2026/",
       "imageUrl": "https://techstartups.com/wp-content/uploads/2025/08/SoftBank-artificial-superintelligence.jpg",
       "category": "AI Adoption"
-    },
-    {
-      "id": "deepseek-fundraise",
-      "date": "16 June 2026",
-      "headline": "DeepSeek becomes China’s most valuable AI startup after $7.4 billion fundraise",
-      "summary": "DeepSeek’s large fundraising round underscores how quickly capital is flowing into frontier AI in China, with implications for competition, pricing pressure, and model development. For executives, the bigger issue is that this reinforces global AI rivalry and may influence cloud, chip, and application investment decisions.[2]",
-      "source": "The Wire China",
-      "sourceUrl": "https://www.thewirechina.com/2026/06/16/the-daily-roundup-june-16-2026/",
-      "imageUrl": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1.jpg",
-      "category": "Strategy"
     }
   ]
 }
