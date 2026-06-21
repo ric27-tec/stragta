@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-20T09:58:48.859Z",
+  "lastUpdated": "2026-06-21T10:26:36.257Z",
   "articles": [
+    {
+      "id": "accenture-cuts-guidance-iran-war-impact",
+      "date": "18 June 2026",
+      "headline": "Accenture recorta previsiones por el impacto de la guerra en Irán y su acción cae más de un 17%",
+      "summary": "Accenture advirtió de un deterioro en su previsión de ingresos y beneficios por el impacto de la guerra en Irán, lo que el mercado castigó con una caída superior al 17%. Para empresas que compran servicios de consultoría y transformación digital, esto sugiere más presión sobre presupuestos, prioridades de proyectos y demanda de servicios tecnológicos.",
+      "source": "MarketScreener España",
+      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
+      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "category": "Estrategia"
+    },
     {
       "id": "sesolibre-2026-06-17-tech-resumen",
       "date": "17 June 2026",
@@ -10,16 +20,6 @@
       "source": "sesolibre.com",
       "sourceUrl": "https://sesolibre.com/2026/06/17/resumen-de-noticias-miercoles-17-de-junio-de-2026/",
       "imageUrl": "https://sesolibre.com/wp-content/uploads/2024/11/default_sesolibre.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "accenture-ciberseguridad-4180m-previsiones-debiles",
-      "date": "16 June 2026",
-      "headline": "Accenture cierra una compra de ciberseguridad por 4.180 millones de dólares, pero sus acciones caen por previsiones débiles",
-      "summary": "La operación refuerza la apuesta de Accenture por servicios de ciberseguridad, un área crítica para empresas que buscan externalizar protección y respuesta a incidentes. La caída bursátil tras unas previsiones flojas sugiere presión en la demanda o en los márgenes, algo relevante para clientes corporativos que negocian contratos y presupuestos de TI.",
-      "source": "MarketScreener España",
-      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
-      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdnoir.png",
       "category": "Estrategia"
     },
     {
