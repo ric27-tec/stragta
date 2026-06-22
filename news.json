@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-21T10:26:29.471Z",
+  "lastUpdated": "2026-06-22T12:44:57.605Z",
   "articles": [
     {
-      "id": "anthropic-overtakes-openai-compute-deal",
-      "date": "18 June 2026",
-      "headline": "Anthropic overtakes OpenAI in revenue run rate while securing a major compute deal",
-      "summary": "Anthropic’s rising revenue run rate and large compute commitment point to intensifying competition in enterprise AI. For businesses, this can signal faster model investment, stronger vendor rivalry, and continued pressure on cloud and inference costs.",
-      "source": "Tech Startups",
-      "sourceUrl": "https://techstartups.com/2026/06/18/top-tech-news-today-june-18-2026/",
-      "imageUrl": "https://techstartups.com/wp-content/uploads/2025/12/Apple-Inc.jpg",
-      "category": "Strategy"
-    },
-    {
-      "id": "china-indium-export-scrutiny",
+      "id": "microsoft-usb-backdoor",
       "date": "19 June 2026",
-      "headline": "China steps up scrutiny of indium exports, raising supply-chain risk for data-center hardware",
-      "summary": "Reuters reports that Beijing is increasing scrutiny over indium exports, a niche metal used in next-generation data centers and electronics. If expanded into formal export controls, the move could affect hardware supply chains, component availability, and planning for infrastructure-heavy businesses.[4]",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "headline": "Microsoft finds lightweight USB-based backdoor stealing cryptocurrency",
+      "summary": "Microsoft said it discovered a new lightweight backdoor that spreads via USB and uses the Tor network for command-and-control. For businesses, this raises the operational risk of removable-media infections and suggests tighter endpoint controls and USB policies may be needed to protect finance, IT, and industrial systems.",
+      "source": "Headlines Briefing",
+      "sourceUrl": "https://headlinesbriefing.substack.com/p/technology-friday-june-19-2026",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "china-global-yuan-pilot",
-      "date": "17 June 2026",
-      "headline": "China to launch offshore yuan FX trading pilot as it pushes global currency use",
-      "summary": "China’s plan to expand offshore yuan foreign exchange trading could affect cross-border payment flows, treasury management, and currency risk for firms operating in or trading with China. Businesses exposed to China should watch for changes in settlement options, hedging needs, and capital controls that may influence financing and supply-chain planning.",
-      "source": "The Wire China",
-      "sourceUrl": "https://www.thewirechina.com/2026/06/17/the-daily-roundup-june-17-2026/",
-      "imageUrl": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1.jpg",
+      "id": "databricks-panther-acquisition",
+      "date": "19 June 2026",
+      "headline": "Databricks agrees to acquire Panther to strengthen AI-driven SOC capabilities",
+      "summary": "Databricks has agreed to acquire Panther, an AI security operations platform, signaling continued consolidation around AI-assisted threat detection and response. The deal matters to enterprises because it points to faster product integration in security analytics and may influence vendor selection for SOC modernization and managed detection strategies.",
+      "source": "Solutions Review / LinkedIn",
+      "sourceUrl": "https://www.linkedin.com/pulse/enterprise-technology-news-week-june-19th-2026-solutionsreview-com-5jflc",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHUBmZqgc3lLQ/article-cover_image-shrink_720_1280/B56Z7hdH6qGsAU-/0/1781898968978?e=2147483647&amp;v=beta&amp;t=95JPGdgufOEfuy-uyigi7-T2fSyT3bK8uJpbF8tgwWg",
+      "category": "Strategy"
+    },
+    {
+      "id": "intel-18a-p-risk-production",
+      "date": "16 June 2026",
+      "headline": "Intel says 18A-P has entered risk production with better power efficiency",
+      "summary": "Intel said its next-generation 18A-P manufacturing process entered risk production and delivers higher performance per watt and lower power use than the previous 18A node. This matters for businesses because chip efficiency affects data-center power costs, AI infrastructure economics, and the supply outlook for future CPUs used in enterprise systems.",
+      "source": "Amiko Consulting",
+      "sourceUrl": "https://amiko.consulting/en/key-ai-news-for-the-week-of-june-15-20-2026-and-implications-for-the-manufacturing-industry/",
+      "imageUrl": "https://amiko.consulting/wp-content/uploads/2025/06/Generated-Image-June-02-2025-6_36PM.jpeg",
       "category": "Strategy"
     }
   ]
