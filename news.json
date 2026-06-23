@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-22T12:44:57.605Z",
+  "lastUpdated": "2026-06-23T10:32:21.949Z",
   "articles": [
+    {
+      "id": "anthropic-ai-export-controls-20260620",
+      "date": "20 June 2026",
+      "headline": "US pressurizes Anthropic to halt distribution of AI models over national‑security concerns",
+      "summary": "The United States has ordered Anthropic to withdraw and stop distributing its latest AI models, including Fable 5 and Mythos 5, citing risks that foreign actors could bypass safety guardrails, which may tighten export controls and compliance burdens for companies using advanced AI infrastructure. This move signals stricter scrutiny of AI model exports and could increase licensing, governance, and due‑diligence costs for enterprises integrating cutting‑edge generative models into global operations.",
+      "source": "Headlines Briefing (via Substack)",
+      "sourceUrl": "https://headlinesbriefing.substack.com/p/technology-saturday-june-20-2026",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
     {
       "id": "microsoft-usb-backdoor",
       "date": "19 June 2026",
@@ -20,16 +30,6 @@
       "source": "Solutions Review / LinkedIn",
       "sourceUrl": "https://www.linkedin.com/pulse/enterprise-technology-news-week-june-19th-2026-solutionsreview-com-5jflc",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHUBmZqgc3lLQ/article-cover_image-shrink_720_1280/B56Z7hdH6qGsAU-/0/1781898968978?e=2147483647&amp;v=beta&amp;t=95JPGdgufOEfuy-uyigi7-T2fSyT3bK8uJpbF8tgwWg",
-      "category": "Strategy"
-    },
-    {
-      "id": "intel-18a-p-risk-production",
-      "date": "16 June 2026",
-      "headline": "Intel says 18A-P has entered risk production with better power efficiency",
-      "summary": "Intel said its next-generation 18A-P manufacturing process entered risk production and delivers higher performance per watt and lower power use than the previous 18A node. This matters for businesses because chip efficiency affects data-center power costs, AI infrastructure economics, and the supply outlook for future CPUs used in enterprise systems.",
-      "source": "Amiko Consulting",
-      "sourceUrl": "https://amiko.consulting/en/key-ai-news-for-the-week-of-june-15-20-2026-and-implications-for-the-manufacturing-industry/",
-      "imageUrl": "https://amiko.consulting/wp-content/uploads/2025/06/Generated-Image-June-02-2025-6_36PM.jpeg",
       "category": "Strategy"
     }
   ]
