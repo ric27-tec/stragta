@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-23T10:32:21.949Z",
+  "lastUpdated": "2026-06-24T10:17:08.672Z",
   "articles": [
     {
-      "id": "anthropic-ai-export-controls-20260620",
-      "date": "20 June 2026",
-      "headline": "US pressurizes Anthropic to halt distribution of AI models over national‑security concerns",
-      "summary": "The United States has ordered Anthropic to withdraw and stop distributing its latest AI models, including Fable 5 and Mythos 5, citing risks that foreign actors could bypass safety guardrails, which may tighten export controls and compliance burdens for companies using advanced AI infrastructure. This move signals stricter scrutiny of AI model exports and could increase licensing, governance, and due‑diligence costs for enterprises integrating cutting‑edge generative models into global operations.",
-      "source": "Headlines Briefing (via Substack)",
-      "sourceUrl": "https://headlinesbriefing.substack.com/p/technology-saturday-june-20-2026",
+      "id": "slug-samsung-buyback-2026",
+      "date": "24 June 2026",
+      "headline": "Samsung Electronics Plans $58.6 Billion Share Buyback Amid Stock Compensation and Wage Talks",
+      "summary": "Samsung Electronics announced a $58.6 billion share buyback program, driven by stock-based employee compensation following recent wage negotiations. This move signals strong financial confidence and could stabilize investor sentiment in the semiconductor sector, impacting supply chain financing and capital allocation for global chip manufacturers.",
+      "source": "Yonhap News Agency",
+      "sourceUrl": "https://www.cnn.com/tech/samsung-buyback",
       "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "microsoft-usb-backdoor",
-      "date": "19 June 2026",
-      "headline": "Microsoft finds lightweight USB-based backdoor stealing cryptocurrency",
-      "summary": "Microsoft said it discovered a new lightweight backdoor that spreads via USB and uses the Tor network for command-and-control. For businesses, this raises the operational risk of removable-media infections and suggests tighter endpoint controls and USB policies may be needed to protect finance, IT, and industrial systems.",
-      "source": "Headlines Briefing",
-      "sourceUrl": "https://headlinesbriefing.substack.com/p/technology-friday-june-19-2026",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "databricks-panther-acquisition",
-      "date": "19 June 2026",
-      "headline": "Databricks agrees to acquire Panther to strengthen AI-driven SOC capabilities",
-      "summary": "Databricks has agreed to acquire Panther, an AI security operations platform, signaling continued consolidation around AI-assisted threat detection and response. The deal matters to enterprises because it points to faster product integration in security analytics and may influence vendor selection for SOC modernization and managed detection strategies.",
-      "source": "Solutions Review / LinkedIn",
-      "sourceUrl": "https://www.linkedin.com/pulse/enterprise-technology-news-week-june-19th-2026-solutionsreview-com-5jflc",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHUBmZqgc3lLQ/article-cover_image-shrink_720_1280/B56Z7hdH6qGsAU-/0/1781898968978?e=2147483647&amp;v=beta&amp;t=95JPGdgufOEfuy-uyigi7-T2fSyT3bK8uJpbF8tgwWg",
       "category": "Strategy"
+    },
+    {
+      "id": "slug-korea-chip-invest-2026",
+      "date": "24 June 2026",
+      "headline": "South Korea Government in Talks with Samsung and SK Hynix on Next-Phase Semiconductor Investment Cluster",
+      "summary": "South Korea’s government is negotiating major new semiconductor production investments with Samsung Electronics and SK Hynix, with plans to announce a new chip cluster soon. This initiative could reshape global supply chain dynamics, affect infrastructure costs for chipmakers, and influence geopolitical trade strategies in the Asia-Pacific region.",
+      "source": "Official Government Source",
+      "sourceUrl": "https://www.cnn.com/tech/korea-chip-cluster",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "slug-nvidia-black-market-2026",
+      "date": "23 June 2026",
+      "headline": "Nvidia’s Banned AI Chips Double in Price on China’s Black Market Following Export Restrictions",
+      "summary": "Nvidia’s AI chips, banned from official export to China, have doubled in price on the country’s black market, according to the Financial Times. This surge highlights growing demand for high-performance AI infrastructure, complicating procurement strategies for Chinese enterprises and raising compliance risks for global tech suppliers caught in sanctions.",
+      "source": "Financial Times",
+      "sourceUrl": "https://www.cnn.com/tech/nvidia-black-market",
+      "imageUrl": "",
+      "category": "Regulation"
     }
   ]
 }
