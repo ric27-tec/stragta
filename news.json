@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-24T10:17:08.672Z",
+  "lastUpdated": "2026-06-25T10:13:00.671Z",
   "articles": [
+    {
+      "id": "slug-1",
+      "date": "24 June 2026",
+      "headline": "Micron's Blockbuster Earnings and Soaring AI Demand Ease Global Market Fears",
+      "summary": "Micron's 15-fold profit surge and revenue quadrupling due to AI memory demand reversed a massive tech sell-off, restoring confidence in global markets. This signals sustained demand for AI infrastructure, directly impacting supply chain planning and investment strategies for semiconductor buyers.",
+      "source": "Global Advisors",
+      "sourceUrl": "https://globaladvisors.biz/2026/06/25/global-advisors-news-brief-2026-06-25/",
+      "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/06/20260620_GlobalAdvisors_Marketing_Photos_News_MedSize_MW.jpg?fit=1921%2C1080&ssl=1",
+      "category": "AI Adoption"
+    },
     {
       "id": "slug-samsung-buyback-2026",
       "date": "24 June 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.cnn.com/tech/korea-chip-cluster",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "slug-nvidia-black-market-2026",
-      "date": "23 June 2026",
-      "headline": "Nvidia’s Banned AI Chips Double in Price on China’s Black Market Following Export Restrictions",
-      "summary": "Nvidia’s AI chips, banned from official export to China, have doubled in price on the country’s black market, according to the Financial Times. This surge highlights growing demand for high-performance AI infrastructure, complicating procurement strategies for Chinese enterprises and raising compliance risks for global tech suppliers caught in sanctions.",
-      "source": "Financial Times",
-      "sourceUrl": "https://www.cnn.com/tech/nvidia-black-market",
-      "imageUrl": "",
-      "category": "Regulation"
     }
   ]
 }

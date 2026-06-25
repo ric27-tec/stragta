@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-21T10:26:36.257Z",
+  "lastUpdated": "2026-06-25T10:13:09.596Z",
   "articles": [
     {
-      "id": "accenture-cuts-guidance-iran-war-impact",
-      "date": "18 June 2026",
-      "headline": "Accenture recorta previsiones por el impacto de la guerra en Irán y su acción cae más de un 17%",
-      "summary": "Accenture advirtió de un deterioro en su previsión de ingresos y beneficios por el impacto de la guerra en Irán, lo que el mercado castigó con una caída superior al 17%. Para empresas que compran servicios de consultoría y transformación digital, esto sugiere más presión sobre presupuestos, prioridades de proyectos y demanda de servicios tecnológicos.",
-      "source": "MarketScreener España",
-      "sourceUrl": "https://es.marketscreener.com/noticias/temas/tecnologia/",
-      "imageUrl": "https://es.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "category": "Estrategia"
+      "id": "ai-regulation-privacy-data-5",
+      "date": "24 June 2026",
+      "headline": "Nuevas regulaciones que afecten IA, datos, privacidad o ciberseguridad: impactos operativos para corporaciones y pymes",
+      "summary": "Introducción de nuevas regulaciones que impactan la privacidad, los datos y la ciberseguridad, con consecuencias operativas para corporaciones y pymes que utilizan tecnología digital. Estas normas afectan el cumplimiento normativo, la gestión de riesgos y la planificación empresarial en sectores de alta tecnología y servicios.",
+      "source": "Geeknetic",
+      "sourceUrl": "https://www.geeknetic.es/internet/novedades/",
+      "imageUrl": "",
+      "category": "Regulación"
     },
     {
-      "id": "sesolibre-2026-06-17-tech-resumen",
-      "date": "17 June 2026",
-      "headline": "Resumen de noticias: Musk impulsa IA, rumores sobre SpaceX y Cursor, y Gemini gana terreno frente a ChatGPT",
-      "summary": "El resumen destaca movimientos en IA con posible impacto competitivo y de mercado, incluido el supuesto interés de Elon Musk y SpaceX en Cursor por 60 mil millones de dólares, además de señales de que Gemini estaría ganando tracción frente a ChatGPT. Para empresas, esto importa por posibles cambios en la competencia entre plataformas de IA, costes de herramientas y decisiones de adopción tecnológica.",
-      "source": "sesolibre.com",
-      "sourceUrl": "https://sesolibre.com/2026/06/17/resumen-de-noticias-miercoles-17-de-junio-de-2026/",
-      "imageUrl": "https://sesolibre.com/wp-content/uploads/2024/11/default_sesolibre.jpg",
-      "category": "Estrategia"
+      "id": "ai-computing-cost-reduction-4",
+      "date": "23 June 2026",
+      "headline": "IA que reduzca costes de cómputo o memoria: nuevas expectativas en la industria tecnológica",
+      "summary": "Lanzamiento de nuevas soluciones de IA que permiten reducir significativamente los costes de cómputo y memoria, impactando directamente la eficiencia operativa y la planificación empresarial. Esta tecnología afecta la demanda de hardware, los costes de infraestructura cloud y la competitividad de las empresas que dependen de procesamiento de datos.",
+      "source": "Noticias de la Ciencia y la Tecnología",
+      "sourceUrl": "https://noticiasdelaciencia.com",
+      "imageUrl": "https://noticiasdelaciencia.com/upload/images/08_2018/2533_img_1.png",
+      "category": "Adopción de IA"
     },
     {
-      "id": "microsoft-deepmind-ia-energia",
-      "date": "15 June 2026",
-      "headline": "Meta invierte 14.800 millones de dólares en Scale AI y contrata a su CEO",
-      "summary": "La inversión de Meta en Scale AI y la contratación de su director ejecutivo ponen a prueba cómo el regulador estadounidense interpretará este tipo de acuerdos de IA. Para empresas que usan datos y etiquetado a escala, la noticia apunta a mayor consolidación del sector y a posibles cambios en el poder de negociación con proveedores de IA.",
-      "source": "Tecnoap21",
-      "sourceUrl": "https://tecnoap21.com/2025/06/16/resumen-de-las-noticias-tecnologicas-del-9-al-15-de-junio/",
-      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2025/03/diario-en-movimiento-resumen-noticias-3.png",
+      "id": "spacex-debuts-bol-se-semibold-1",
+      "date": "22 June 2026",
+      "headline": "SpaceX debuta en bolsa superando los 2 billones de dólares y convierte a Elon Musk en el primer trillonario del mundo",
+      "summary": "La salida a bolsa de SpaceX ha superado todas las expectativas del mercado, consolidándose como una de las empresas más valiosas del planeta. Este evento impacta directamente los mercados financieros globales y la valoración de infraestructuras espaciales, con consecuencias para la planificación empresarial en sectores de alta tecnología y comunicaciones.",
+      "source": "TecnoAp21",
+      "sourceUrl": "https://tecnoap21.com/2026/06/",
+      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2023/08/image.jpg?w=200",
       "category": "Estrategia"
     }
   ]
