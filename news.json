@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-25T10:13:00.671Z",
+  "lastUpdated": "2026-06-26T10:18:34.730Z",
   "articles": [
     {
-      "id": "slug-1",
+      "id": "reuters-samsung-investment-10-2026",
       "date": "24 June 2026",
-      "headline": "Micron's Blockbuster Earnings and Soaring AI Demand Ease Global Market Fears",
-      "summary": "Micron's 15-fold profit surge and revenue quadrupling due to AI memory demand reversed a massive tech sell-off, restoring confidence in global markets. This signals sustained demand for AI infrastructure, directly impacting supply chain planning and investment strategies for semiconductor buyers.",
-      "source": "Global Advisors",
-      "sourceUrl": "https://globaladvisors.biz/2026/06/25/global-advisors-news-brief-2026-06-25/",
-      "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/06/20260620_GlobalAdvisors_Marketing_Photos_News_MedSize_MW.jpg?fit=1921%2C1080&ssl=1",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "slug-samsung-buyback-2026",
-      "date": "24 June 2026",
-      "headline": "Samsung Electronics Plans $58.6 Billion Share Buyback Amid Stock Compensation and Wage Talks",
-      "summary": "Samsung Electronics announced a $58.6 billion share buyback program, driven by stock-based employee compensation following recent wage negotiations. This move signals strong financial confidence and could stabilize investor sentiment in the semiconductor sector, impacting supply chain financing and capital allocation for global chip manufacturers.",
-      "source": "Yonhap News Agency",
-      "sourceUrl": "https://www.cnn.com/tech/samsung-buyback",
+      "headline": "Samsung Group will announce Monday plans to invest 1,000 trillion won ($647.53 billion) in South Korea over 10 years, including chip factories",
+      "summary": "Samsung plans a massive $647.5 billion investment in South Korea over 10 years, with a potential $194 billion allocated to new chip factories. This unprecedented capital commitment signals a major shift in global semiconductor supply chains and could affect chip pricing, availability, and competitive dynamics for businesses relying on memory and logic processors.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "slug-korea-chip-invest-2026",
+      "id": "qualcomm-modular-acquisition-2026",
       "date": "24 June 2026",
-      "headline": "South Korea Government in Talks with Samsung and SK Hynix on Next-Phase Semiconductor Investment Cluster",
-      "summary": "South Korea’s government is negotiating major new semiconductor production investments with Samsung Electronics and SK Hynix, with plans to announce a new chip cluster soon. This initiative could reshape global supply chain dynamics, affect infrastructure costs for chipmakers, and influence geopolitical trade strategies in the Asia-Pacific region.",
-      "source": "Official Government Source",
-      "sourceUrl": "https://www.cnn.com/tech/korea-chip-cluster",
+      "headline": "Qualcomm agreed to acquire the AI software company Modular for about $3.9 billion to make AI faster and cheaper",
+      "summary": "Qualcomm has acquired AI software company Modular for $3.9 billion, aiming to accelerate and reduce the cost of artificial intelligence for its customers. This strategic move suggests a shift toward more efficient, integrated AI solutions that could lower operational costs for businesses deploying AI on edge devices and mobile platforms.",
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/tech/ai",
       "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "chaze-samsung-nvidia selloff-23-2026",
+      "date": "23 June 2026",
+      "headline": "Sharp drops in Big Tech companies pull the Nasdaq down 2.2% as global tech selloff spreads from Asia",
+      "summary": "A global sell-off in big technology stocks, triggered by concerns over higher interest rates and AI-related volatility, caused Micron Technology to slump 11.2% and Nvidia to fall 3.2%. Samsung Electronics also dropped 12.3% in South Korea, indicating immediate market pressure on semiconductor and AI infrastructure suppliers that could impact business planning and hardware procurement costs.",
+      "source": "Pittsburgh Post-Gazette",
+      "sourceUrl": "https://www.post-gazette.com/business/money/2026/06/23/stock-market-today-june-23-2026/stories/202606230033",
+      "imageUrl": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202606230033/1140x_a10-7_cTC/Financial-Markets-Wall-Street-2448_1782223045.jpg",
       "category": "Strategy"
     }
   ]
