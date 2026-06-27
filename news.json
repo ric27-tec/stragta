@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-26T10:18:34.730Z",
+  "lastUpdated": "2026-06-27T09:25:57.598Z",
   "articles": [
     {
-      "id": "reuters-samsung-investment-10-2026",
+      "id": "reuters-spaceax-2026",
       "date": "24 June 2026",
-      "headline": "Samsung Group will announce Monday plans to invest 1,000 trillion won ($647.53 billion) in South Korea over 10 years, including chip factories",
-      "summary": "Samsung plans a massive $647.5 billion investment in South Korea over 10 years, with a potential $194 billion allocated to new chip factories. This unprecedented capital commitment signals a major shift in global semiconductor supply chains and could affect chip pricing, availability, and competitive dynamics for businesses relying on memory and logic processors.",
+      "headline": "SpaceX and OpenAI Startup Reflection AI Sign $6.3 Billion Infrastructure Deal, Altering AI Chip Access",
+      "summary": "SpaceX and Reflection AI have secured a $6.3 billion multi-year computing infrastructure agreement, granting Reflection AI access to high-powered Nvidia GB300 chips housed in SpaceX's Colossus 2 data center. This deal significantly impacts AI infrastructure costs and chip availability, potentially reshaping compute strategies for businesses reliant on Nvidia hardware.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "qualcomm-modular-acquisition-2026",
-      "date": "24 June 2026",
-      "headline": "Qualcomm agreed to acquire the AI software company Modular for about $3.9 billion to make AI faster and cheaper",
-      "summary": "Qualcomm has acquired AI software company Modular for $3.9 billion, aiming to accelerate and reduce the cost of artificial intelligence for its customers. This strategic move suggests a shift toward more efficient, integrated AI solutions that could lower operational costs for businesses deploying AI on edge devices and mobile platforms.",
-      "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/tech/ai",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "chaze-samsung-nvidia selloff-23-2026",
-      "date": "23 June 2026",
-      "headline": "Sharp drops in Big Tech companies pull the Nasdaq down 2.2% as global tech selloff spreads from Asia",
-      "summary": "A global sell-off in big technology stocks, triggered by concerns over higher interest rates and AI-related volatility, caused Micron Technology to slump 11.2% and Nvidia to fall 3.2%. Samsung Electronics also dropped 12.3% in South Korea, indicating immediate market pressure on semiconductor and AI infrastructure suppliers that could impact business planning and hardware procurement costs.",
-      "source": "Pittsburgh Post-Gazette",
-      "sourceUrl": "https://www.post-gazette.com/business/money/2026/06/23/stock-market-today-june-23-2026/stories/202606230033",
-      "imageUrl": "https://73f3e7d5672db1849e6c-6434aaf008a29447cc424990bc6a54a7.ssl.cf2.rackcdn.com/stories/202606230033/1140x_a10-7_cTC/Financial-Markets-Wall-Street-2448_1782223045.jpg",
-      "category": "Strategy"
+      "id": "oracle-layoffs-2026",
+      "date": "24 June 2026",
+      "headline": "Oracle Lays Off 21,000 Employees in Aggressive Pivot Toward AI and Cloud Infrastructure",
+      "summary": "Oracle has terminated 21,000 workers as part of a brutal corporate restructuring to fund AI and cloud infrastructure investments. This massive workforce reduction signals a major shift in legacy tech labor strategies, affecting hiring trends and operational planning for partners and competitors in the enterprise software sector.",
+      "source": "Global Advisors",
+      "sourceUrl": "https://globaladvisors.biz/2026/06/24/global-advisors-news-brief-2026-06-24/",
+      "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/06/20260620_GlobalAdvisors_Marketing_Photos_News_MedSize_MW.jpg?fit=1921%2C1080&ssl=1",
+      "category": "Automation"
+    },
+    {
+      "id": "openai-jalapeño-2026",
+      "date": "24 June 2026",
+      "headline": "OpenAI Unveils Jalapeño Custom Inference Processor to Optimize AI Infrastructure Costs",
+      "summary": "OpenAI has launched Jalapeño, its first custom-built inference processor developed with Broadcom, designed to optimize AI infrastructure efficiency and costs. This hardware innovation could reduce operational expenses for businesses deploying large-scale AI models, altering the competitive landscape for cloud and on-premise AI infrastructure providers.",
+      "source": "Latest Tech News",
+      "sourceUrl": "https://www.techcompanynews.com/latest-tech-news-june-24-2026/",
+      "imageUrl": "https://www.techcompanynews.com/wp-content/uploads/2026/06/latest-tech-news.webp",
+      "category": "AI Adoption"
     }
   ]
 }
