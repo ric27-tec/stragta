@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-25T10:13:09.596Z",
+  "lastUpdated": "2026-06-28T09:55:03.909Z",
   "articles": [
     {
-      "id": "ai-regulation-privacy-data-5",
-      "date": "24 June 2026",
-      "headline": "Nuevas regulaciones que afecten IA, datos, privacidad o ciberseguridad: impactos operativos para corporaciones y pymes",
-      "summary": "Introducción de nuevas regulaciones que impactan la privacidad, los datos y la ciberseguridad, con consecuencias operativas para corporaciones y pymes que utilizan tecnología digital. Estas normas afectan el cumplimiento normativo, la gestión de riesgos y la planificación empresarial en sectores de alta tecnología y servicios.",
-      "source": "Geeknetic",
-      "sourceUrl": "https://www.geeknetic.es/internet/novedades/",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "ai-computing-cost-reduction-4",
-      "date": "23 June 2026",
-      "headline": "IA que reduzca costes de cómputo o memoria: nuevas expectativas en la industria tecnológica",
-      "summary": "Lanzamiento de nuevas soluciones de IA que permiten reducir significativamente los costes de cómputo y memoria, impactando directamente la eficiencia operativa y la planificación empresarial. Esta tecnología afecta la demanda de hardware, los costes de infraestructura cloud y la competitividad de las empresas que dependen de procesamiento de datos.",
-      "source": "Noticias de la Ciencia y la Tecnología",
-      "sourceUrl": "https://noticiasdelaciencia.com",
-      "imageUrl": "https://noticiasdelaciencia.com/upload/images/08_2018/2533_img_1.png",
+      "id": " chu-12",
+      "date": "25 June 2026",
+      "headline": "Novedades IA Junio 2026: IA local reduce costes cloud y elimina dependencia de proveedores externos",
+      "summary": "La adopción de IA local permite a empresas y pymes ejecutar modelos potentes en GPUs locales, reduciendo costes de procesamiento en la nube y eliminando riesgos de dependencia de proveedores como Microsoft o NVIDIA. Esto transforma la planificación de inversión tecnológica y mejora la privacidad operativa sin costes de envío de datos.",
+      "source": "multiplicalia.com",
+      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
+      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
       "category": "Adopción de IA"
     },
     {
-      "id": "spacex-debuts-bol-se-semibold-1",
-      "date": "22 June 2026",
-      "headline": "SpaceX debuta en bolsa superando los 2 billones de dólares y convierte a Elon Musk en el primer trillonario del mundo",
-      "summary": "La salida a bolsa de SpaceX ha superado todas las expectativas del mercado, consolidándose como una de las empresas más valiosas del planeta. Este evento impacta directamente los mercados financieros globales y la valoración de infraestructuras espaciales, con consecuencias para la planificación empresarial en sectores de alta tecnología y comunicaciones.",
-      "source": "TecnoAp21",
-      "sourceUrl": "https://tecnoap21.com/2026/06/",
-      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2023/08/image.jpg?w=200",
+      "id": "11",
+      "date": "25 June 2026",
+      "headline": "Apple aumenta precios de productos por escasez de chips: cae 6.15% en bolsa tras subir MacBook, iPad y Apple TV",
+      "summary": "Apple eleva precios de su catálogo (MacBook Pro, iPad Air, Apple TV) debido a restricciones en la cadena de suministro de chips, lo que mueve el mercado financiero y afecta la demanda de hardware. Las empresas y pymes deben reevaluar sus inversiones en tecnología por el impacto en costos y disponibilidad de dispositivos empresariales.",
+      "source": "elcomercio.pe",
+      "sourceUrl": "https://elcomercio.pe/tecnologia/",
+      "imageUrl": "",
       "category": "Estrategia"
+    },
+    {
+      "id": "5",
+      "date": "25 June 2026",
+      "headline": "IBM presenta chips de 1 nm para IA: mejora eficiencia operativa y reduce costes de infraestructura cloud",
+      "summary": "IBM lanza chips de 1 nm que optimizan la producción de IA, reduciendo costes de infraestructura cloud y aumentando la eficiencia operativa. Esto impacta directamente en la planificación de inversión tecnológica de corporaciones y medianas empresas que dependen de procesamiento masivo de IA.",
+      "source": "es.marketscreener.com",
+      "sourceUrl": "https://es.marketscreener.com/noticias/ibm-presenta-tecnolog-a-para-fabricar-chips-de-menos-de-1-nan-metro-mientras-apuesta-por-la-ia-ce7f5fd8d189f62c",
+      "imageUrl": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-23T051821Z_1_LYNXMPEM3M077_RTROPTP_4_TECH-CONFERENCE-MWC.JPG",
+      "category": "Adopción de IA"
     }
   ]
 }

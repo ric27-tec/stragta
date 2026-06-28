@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-27T09:25:57.598Z",
+  "lastUpdated": "2026-06-28T09:54:56.362Z",
   "articles": [
+    {
+      "id": "slug-micron-q3",
+      "date": "25 June 2026",
+      "headline": "Micron Technology Delivers Blockbuster Fiscal Q3 Results Driven by AI Memory Crunch",
+      "summary": "Micron's revenue quadrupled year-over-year to $41.46 billion with net profit jumping to $28.2 billion, signaling massive demand for AI infrastructure memory. This surge is forcing suppliers to secure tight hardware supplies and may lead to increased memory costs for businesses deploying AI systems.",
+      "source": "Tech Company News",
+      "sourceUrl": "https://www.techcompanynews.com/latest-tech-news-june-25-2026/",
+      "imageUrl": "https://www.techcompanynews.com/wp-content/uploads/2026/06/latest-tech-news.webp",
+      "category": "Strategy"
+    },
     {
       "id": "reuters-spaceax-2026",
       "date": "24 June 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://globaladvisors.biz/2026/06/24/global-advisors-news-brief-2026-06-24/",
       "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/06/20260620_GlobalAdvisors_Marketing_Photos_News_MedSize_MW.jpg?fit=1921%2C1080&ssl=1",
       "category": "Automation"
-    },
-    {
-      "id": "openai-jalapeño-2026",
-      "date": "24 June 2026",
-      "headline": "OpenAI Unveils Jalapeño Custom Inference Processor to Optimize AI Infrastructure Costs",
-      "summary": "OpenAI has launched Jalapeño, its first custom-built inference processor developed with Broadcom, designed to optimize AI infrastructure efficiency and costs. This hardware innovation could reduce operational expenses for businesses deploying large-scale AI models, altering the competitive landscape for cloud and on-premise AI infrastructure providers.",
-      "source": "Latest Tech News",
-      "sourceUrl": "https://www.techcompanynews.com/latest-tech-news-june-24-2026/",
-      "imageUrl": "https://www.techcompanynews.com/wp-content/uploads/2026/06/latest-tech-news.webp",
-      "category": "AI Adoption"
     }
   ]
 }
