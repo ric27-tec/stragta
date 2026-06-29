@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-28T09:55:03.909Z",
+  "lastUpdated": "2026-06-29T11:54:22.542Z",
   "articles": [
     {
-      "id": " chu-12",
-      "date": "25 June 2026",
-      "headline": "Novedades IA Junio 2026: IA local reduce costes cloud y elimina dependencia de proveedores externos",
-      "summary": "La adopción de IA local permite a empresas y pymes ejecutar modelos potentes en GPUs locales, reduciendo costes de procesamiento en la nube y eliminando riesgos de dependencia de proveedores como Microsoft o NVIDIA. Esto transforma la planificación de inversión tecnológica y mejora la privacidad operativa sin costes de envío de datos.",
-      "source": "multiplicalia.com",
-      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
-      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "11",
-      "date": "25 June 2026",
-      "headline": "Apple aumenta precios de productos por escasez de chips: cae 6.15% en bolsa tras subir MacBook, iPad y Apple TV",
-      "summary": "Apple eleva precios de su catálogo (MacBook Pro, iPad Air, Apple TV) debido a restricciones en la cadena de suministro de chips, lo que mueve el mercado financiero y afecta la demanda de hardware. Las empresas y pymes deben reevaluar sus inversiones en tecnología por el impacto en costos y disponibilidad de dispositivos empresariales.",
-      "source": "elcomercio.pe",
+      "id": "apple-brain-2026-06-26",
+      "date": "26 June 2026",
+      "headline": "Apple sube precios de sus productos por aumento de costos de chips debido a la IA",
+      "summary": "Apple ha incrementado los precios de su gama básica (MacBook Pro, iPad Air, Apple TV) debido a la escasez global de chips DRAM y la alta demanda de memoria por los centros de datos de IA. Este cambio afecta directamente los costes de adquisición para empresas y pymes, eliminando 265.000 millones de dólares de su capitalización bursátil y reflejando un aumento de costos de infraestructura que antes absorbía la empresa.",
+      "source": "El Comercio Perú",
       "sourceUrl": "https://elcomercio.pe/tecnologia/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "5",
-      "date": "25 June 2026",
-      "headline": "IBM presenta chips de 1 nm para IA: mejora eficiencia operativa y reduce costes de infraestructura cloud",
-      "summary": "IBM lanza chips de 1 nm que optimizan la producción de IA, reduciendo costes de infraestructura cloud y aumentando la eficiencia operativa. Esto impacta directamente en la planificación de inversión tecnológica de corporaciones y medianas empresas que dependen de procesamiento masivo de IA.",
-      "source": "es.marketscreener.com",
-      "sourceUrl": "https://es.marketscreener.com/noticias/ibm-presenta-tecnolog-a-para-fabricar-chips-de-menos-de-1-nan-metro-mientras-apuesta-por-la-ia-ce7f5fd8d189f62c",
-      "imageUrl": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-23T051821Z_1_LYNXMPEM3M077_RTROPTP_4_TECH-CONFERENCE-MWC.JPG",
+      "id": "spacex-brain-2026-06-26",
+      "date": "26 June 2026",
+      "headline": "SpaceX debuta en bolsa superando los 2 billones de dólares y convierte a Elon Musk en el primer trillonario del mundo",
+      "summary": "La histórica salida a bolsa de SpaceX ha superado todas las expectativas, cerrando con una valoración superior a 2 billones de dólares. Este evento reconfigura el mercado de tecnología espacial y de comunicaciones, con implicaciones para la inversión en infraestructura satelital y cadenas de suministro globales, marcando un nuevo capítulo para la industria espacial con impacto en la competitividad empresarial.",
+      "source": "TecnoAp21",
+      "sourceUrl": "https://tecnoap21.com/2026/06/",
+      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2023/08/image.jpg?w=200",
+      "category": "Estrategia"
+    },
+    {
+      "id": "ai-local-brain-2026-06-26",
+      "date": "26 June 2026",
+      "headline": "IA local y soberana: el salto definitivo que reduce costes cloud y garantiza privacidad absoluta",
+      "summary": "Microsoft y NVIDIA han lanzado una alianza para ejecutar potentes modelos de IA y agentes autónomos directamente en tarjetas gráficas (GPUs), eliminando costes de procesamiento en la nube. Esta tecnología permite a empresas y pymes reducir drásticamente sus costes de infraestructura cloud, mejorar la privacidad de datos y aumentar la eficiencia operativa sin depender de servidores externos.",
+      "source": "Multiplicalia",
+      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
+      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
       "category": "Adopción de IA"
     }
   ]

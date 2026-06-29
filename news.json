@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-28T09:54:56.362Z",
+  "lastUpdated": "2026-06-29T11:54:13.774Z",
   "articles": [
     {
-      "id": "slug-micron-q3",
-      "date": "25 June 2026",
-      "headline": "Micron Technology Delivers Blockbuster Fiscal Q3 Results Driven by AI Memory Crunch",
-      "summary": "Micron's revenue quadrupled year-over-year to $41.46 billion with net profit jumping to $28.2 billion, signaling massive demand for AI infrastructure memory. This surge is forcing suppliers to secure tight hardware supplies and may lead to increased memory costs for businesses deploying AI systems.",
-      "source": "Tech Company News",
-      "sourceUrl": "https://www.techcompanynews.com/latest-tech-news-june-25-2026/",
-      "imageUrl": "https://www.techcompanynews.com/wp-content/uploads/2026/06/latest-tech-news.webp",
-      "category": "Strategy"
-    },
-    {
-      "id": "reuters-spaceax-2026",
-      "date": "24 June 2026",
-      "headline": "SpaceX and OpenAI Startup Reflection AI Sign $6.3 Billion Infrastructure Deal, Altering AI Chip Access",
-      "summary": "SpaceX and Reflection AI have secured a $6.3 billion multi-year computing infrastructure agreement, granting Reflection AI access to high-powered Nvidia GB300 chips housed in SpaceX's Colossus 2 data center. This deal significantly impacts AI infrastructure costs and chip availability, potentially reshaping compute strategies for businesses reliant on Nvidia hardware.",
+      "id": "reuters-cxmt-tencent-deal",
+      "date": "28 June 2026",
+      "headline": "Chinese memory chipmaker CXMT wins $3 billion memory supply deal with Tencent",
+      "summary": "ChangXin Memory Technologies (CXMT) signed a long-term supply agreement with Tencent worth over 20 billion yuan, securing a major contract ahead of its stock market debut. This deal significantly impacts global memory supply chains and validates the growing competitiveness of Chinese semiconductor firms in the enterprise market.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "cmn-notion-slack-ai-agents",
+      "date": "27 June 2026",
+      "headline": "Notion shuts down email product as AI agents reshape enterprise workflows; Slack overhauls AI serving stack",
+      "summary": "Notion is abandoning its email product to focus on AI agent-run email, while Slack is transitioning to a multi-cloud AI serving stack to support richer agent features. These shifts signal a major operational change for businesses adopting AI automation, moving from bolt-on tools to agent-driven infrastructure roadmaps.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-26-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
       "category": "AI Adoption"
     },
     {
-      "id": "oracle-layoffs-2026",
-      "date": "24 June 2026",
-      "headline": "Oracle Lays Off 21,000 Employees in Aggressive Pivot Toward AI and Cloud Infrastructure",
-      "summary": "Oracle has terminated 21,000 workers as part of a brutal corporate restructuring to fund AI and cloud infrastructure investments. This massive workforce reduction signals a major shift in legacy tech labor strategies, affecting hiring trends and operational planning for partners and competitors in the enterprise software sector.",
-      "source": "Global Advisors",
-      "sourceUrl": "https://globaladvisors.biz/2026/06/24/global-advisors-news-brief-2026-06-24/",
-      "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/06/20260620_GlobalAdvisors_Marketing_Photos_News_MedSize_MW.jpg?fit=1921%2C1080&ssl=1",
-      "category": "Automation"
+      "id": "prnewswire-samsung-ex-ai-ecosystem",
+      "date": "27 June 2026",
+      "headline": "Micron's strong earnings validate AI infrastructure boom and stabilize memory market outlook",
+      "summary": "Micron Technology reported robust earnings, confirming real enterprise demand for high-bandwidth memory and alleviating fears of an AI bubble. This financial stability supports business planning for AI infrastructure investments and suggests sustained demand for memory components in the medium term.",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
+      "imageUrl": "",
+      "category": "Research"
     }
   ]
 }
