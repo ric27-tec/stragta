@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-06-29T11:54:13.774Z",
+  "lastUpdated": "2026-06-30T10:28:26.538Z",
   "articles": [
     {
-      "id": "reuters-cxmt-tencent-deal",
-      "date": "28 June 2026",
-      "headline": "Chinese memory chipmaker CXMT wins $3 billion memory supply deal with Tencent",
-      "summary": "ChangXin Memory Technologies (CXMT) signed a long-term supply agreement with Tencent worth over 20 billion yuan, securing a major contract ahead of its stock market debut. This deal significantly impacts global memory supply chains and validates the growing competitiveness of Chinese semiconductor firms in the enterprise market.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "wire-1",
+      "date": "27 June 2026",
+      "headline": "Apple raises prices on MacBook and iPad amid rising chip costs driven by AI boom",
+      "summary": "Apple has increased prices on key products like the MacBook and iPad, citing rising costs for memory and storage chips fueled by the AI infrastructure rush. This signals a potential increase in operational costs for businesses investing in hardware and highlights supply chain pressures affecting the broader tech market.",
+      "source": "Wire",
+      "sourceUrl": "https://www.wire.com/business/apple-chip-price-hike-2026",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "cmn-notion-slack-ai-agents",
+      "id": "wire-2",
       "date": "27 June 2026",
-      "headline": "Notion shuts down email product as AI agents reshape enterprise workflows; Slack overhauls AI serving stack",
-      "summary": "Notion is abandoning its email product to focus on AI agent-run email, while Slack is transitioning to a multi-cloud AI serving stack to support richer agent features. These shifts signal a major operational change for businesses adopting AI automation, moving from bolt-on tools to agent-driven infrastructure roadmaps.",
-      "source": "The Art of CTO",
-      "sourceUrl": "https://theartofcto.com/daily-sync/2026-06-26-daily-sync",
-      "imageUrl": "https://theartofcto.com/og-image.png",
-      "category": "AI Adoption"
+      "headline": "Ionic Digital files for Nasdaq direct listing as AI miner and infrastructure firm",
+      "summary": "Bitcoin miner and AI infrastructure firm Ionic Digital has filed for a direct listing on Nasdaq, marking a significant move for companies leveraging AI in high-performance computing. This could reshape investment strategies for firms in the energy and data center sectors, particularly those evaluating AI-driven hardware demand.",
+      "source": "Wire",
+      "sourceUrl": "https://www.wire.com/business/ionic-digital-nasdaq-listing-2026",
+      "imageUrl": "",
+      "category": "Strategy"
     },
     {
-      "id": "prnewswire-samsung-ex-ai-ecosystem",
+      "id": "wire-3",
       "date": "27 June 2026",
-      "headline": "Micron's strong earnings validate AI infrastructure boom and stabilize memory market outlook",
-      "summary": "Micron Technology reported robust earnings, confirming real enterprise demand for high-bandwidth memory and alleviating fears of an AI bubble. This financial stability supports business planning for AI infrastructure investments and suggests sustained demand for memory components in the medium term.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
+      "headline": "Uber and Waymo end self-driving partnership in Phoenix ahead of new AI vehicle collaboration",
+      "summary": "Uber and Alphabet's Waymo have terminated their self-driving partnership in Phoenix, Arizona, as Uber prepares to launch a new autonomous vehicle collaboration using AI. This shift may impact business planning for ride-hailing companies and logistics firms evaluating AI automation in transportation.",
+      "source": "Wire",
+      "sourceUrl": "https://www.wire.com/business/uber-waymo-phoenix-split-2026",
       "imageUrl": "",
-      "category": "Research"
+      "category": "Automation"
     }
   ]
 }
