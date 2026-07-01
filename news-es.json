@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-06-29T11:54:22.542Z",
+  "lastUpdated": "2026-07-01T10:39:03.707Z",
   "articles": [
+    {
+      "id": "google-commissions-ue-2026",
+      "date": "30 June 2026",
+      "headline": "UE regula comisiones de Google: Impacto en costes de plataformas digitales para empresas y comercios",
+      "summary": "Google reduzca sus comisiones en la UE y acepta métodos de pago alternativos, lo que afecta directamente los costes operativos de empresas que dependen de plataformas digitales. Esto genera nuevas oportunidades de ahorro para pymes y comercios, mientras obliga a grandes corporaciones a adaptar sus estrategias de cumplimiento regulatorio.",
+      "source": "TechRadar",
+      "sourceUrl": "https://global.techradar.com/es-mx/archive/2026/06",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
+    {
+      "id": "anthropic-claud-fable-2026",
+      "date": "28 June 2026",
+      "headline": "Anthropic lanza Claude Fable 5: Automatización de procesos empresariales con agentes autónomos",
+      "summary": "Anthropic, la empresa detrás de Claude, introduce Claude Fable 5 con agentes autónomos capaces de gestionar tareas operativas complejas sin intervención humana. Esto transforma la productividad en empresas medianas y grandes, reduciendo la necesidad de personal para tareas repetitivas y mejorando la eficiencia operativa.",
+      "source": "TechRadar",
+      "sourceUrl": "https://global.techradar.com/es-mx/news/archive",
+      "imageUrl": "",
+      "category": "Automatización"
+    },
     {
       "id": "apple-brain-2026-06-26",
       "date": "26 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://elcomercio.pe/tecnologia/",
       "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "spacex-brain-2026-06-26",
-      "date": "26 June 2026",
-      "headline": "SpaceX debuta en bolsa superando los 2 billones de dólares y convierte a Elon Musk en el primer trillonario del mundo",
-      "summary": "La histórica salida a bolsa de SpaceX ha superado todas las expectativas, cerrando con una valoración superior a 2 billones de dólares. Este evento reconfigura el mercado de tecnología espacial y de comunicaciones, con implicaciones para la inversión en infraestructura satelital y cadenas de suministro globales, marcando un nuevo capítulo para la industria espacial con impacto en la competitividad empresarial.",
-      "source": "TecnoAp21",
-      "sourceUrl": "https://tecnoap21.com/2026/06/",
-      "imageUrl": "https://tecnoap21.com/wp-content/uploads/2023/08/image.jpg?w=200",
-      "category": "Estrategia"
-    },
-    {
-      "id": "ai-local-brain-2026-06-26",
-      "date": "26 June 2026",
-      "headline": "IA local y soberana: el salto definitivo que reduce costes cloud y garantiza privacidad absoluta",
-      "summary": "Microsoft y NVIDIA han lanzado una alianza para ejecutar potentes modelos de IA y agentes autónomos directamente en tarjetas gráficas (GPUs), eliminando costes de procesamiento en la nube. Esta tecnología permite a empresas y pymes reducir drásticamente sus costes de infraestructura cloud, mejorar la privacidad de datos y aumentar la eficiencia operativa sin depender de servidores externos.",
-      "source": "Multiplicalia",
-      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
-      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
-      "category": "Adopción de IA"
     }
   ]
 }
