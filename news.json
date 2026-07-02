@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-01T10:38:52.963Z",
+  "lastUpdated": "2026-07-02T09:56:27.659Z",
   "articles": [
     {
-      "id": "slug-nvidia-aiinfrastructure",
-      "date": "28 June 2026",
-      "headline": "Nvidia Launches BioNeMo Agent Toolkit for Life Sciences, Driving AI Infrastructure Demand",
-      "summary": "Nvidia's new BioNeMo Agent Toolkit aims to accelerate AI-driven scientific discovery in life sciences, signaling a major shift in AI infrastructure adoption and potentially increasing cloud and compute costs for biotech firms. This development is expected to drive demand for specialized AI chips and data center capacity, affecting supply chain planning for semiconductor suppliers.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "forbes-1",
+      "date": "1 July 2026",
+      "headline": "Ambient AI Emerges as Key 2026 Trend: Lowering Costs and Reducing Operational Friction for SMEs",
+      "summary": "New analysis highlights that ambient AI integration into everyday business tools is reducing operational friction and costs, with 45% of companies now using AI for marketing and content customization. This trend offers immediate productivity gains for SMEs and local businesses, allowing them to automate repetitive tasks and improve customer engagement without massive IT investments.",
+      "source": "Forbes Councils",
+      "sourceUrl": "https://www.forbes.com/councils/forbestechcouncil/ambient-ai-2026",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Automation"
     },
     {
-      "id": "slug-apple-siri-ai",
-      "date": "28 June 2026",
-      "headline": "Apple Unveils AI-Powered Siri at WWDC 2026, Enhancing Productivity and Cross-Application Automation",
-      "summary": "Apple's redesigned AI-powered Siri can now analyze on-screen content, perform multi-step tasks, and work seamlessly across applications, offering immediate productivity gains for businesses using Apple devices. This upgrade could reduce reliance on third-party automation tools, potentially impacting software vendors and changing how SMEs evaluate digital tool investments.",
-      "source": "LinkedIn",
-      "sourceUrl": "https://www.linkedin.com/pulse/top-technology-news-stories-june-2026-lionreachmedia-jvsie",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D4E12AQEmW_khYIwdRA/article-cover_image-shrink_720_1280/B4EZ8EE_koJMAU-/0/1782479846123?e=2147483647&amp;v=beta&amp;t=mh3Jue4iHN7e9iQts_dTpII70iwh91yGP2bVVoldhs8",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "wire-1",
-      "date": "27 June 2026",
-      "headline": "Apple raises prices on MacBook and iPad amid rising chip costs driven by AI boom",
-      "summary": "Apple has increased prices on key products like the MacBook and iPad, citing rising costs for memory and storage chips fueled by the AI infrastructure rush. This signals a potential increase in operational costs for businesses investing in hardware and highlights supply chain pressures affecting the broader tech market.",
-      "source": "Wire",
-      "sourceUrl": "https://www.wire.com/business/apple-chip-price-hike-2026",
+      "id": "digitimes-2",
+      "date": "30 June 2026",
+      "headline": "Micron and SK Hynix Report Strong Quarterly Results Amid Tight Global Supply and High Rare Earth Costs",
+      "summary": "Micron and SK Hynix posted stronger-than-expected quarterly results driven by tight global supply and rising costs for high-performance rare earths used in EVs and defense. These findings indicate sustained upward pressure on semiconductor pricing, affecting costs for consumer electronics, automotive manufacturers, and cloud service providers planning infrastructure upgrades.",
+      "source": "DIGITIMES Tech",
+      "sourceUrl": "https://www.digitimes.com/tech/micron-results-2026",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "reuters-1",
+      "date": "29 June 2026",
+      "headline": "DeepSeek Surges as Global AI Infrastructure Costs Drop, Shifting Market Dynamics",
+      "summary": "The emergence of DeepSeek's low-cost AI model is driving a significant reduction in global compute and memory expenses, forcing major players like OpenAI and Anthropic to reevaluate pricing. This shift threatens to democratize AI access for SMEs while pressuring large cloud infrastructure providers on revenue, directly impacting business planning and technology investment strategies.",
+      "source": "Reuters Business",
+      "sourceUrl": "https://www.reuters.com/business/tech/deepseek-surge-2026",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }

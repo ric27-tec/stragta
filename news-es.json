@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-01T10:39:03.707Z",
+  "lastUpdated": "2026-07-02T09:56:35.515Z",
   "articles": [
+    {
+      "id": "openai-codex-fusion-junio-2026",
+      "date": "30 June 2026",
+      "headline": "OpenAI y Codex fusionan capacidades: Nueva 'super-app' para desarrollo de software sin expertos técnicos",
+      "summary": "OpenAI ha integrado sus capacidades con Codex para crear una herramienta que democratiza el desarrollo de software, reduciendo la necesidad de contrataciones técnicas y acelerando la productividad en empresas de servicios. Esto afecta la demanda de empleo en programación y la eficiencia operativa.",
+      "source": "Multiplicalia",
+      "sourceUrl": "https://www.syntonize.com/las-noticias-tecnologicas-mas-relevantes-del-mes-de-junio/",
+      "imageUrl": "https://www.syntonize.com/assets/images/MetaOG.jpg",
+      "category": "Automatización"
+    },
+    {
+      "id": "novedades-ia-junio-2026",
+      "date": "29 June 2026",
+      "headline": "IA local y soberana: Reducción de costes cloud y nueva privacidad para empresas tras alianza Microsoft-NVIDIA",
+      "summary": "La alianza entre Microsoft y NVIDIA permite ejecutar modelos de IA y agentes autónomos en GPUs locales, eliminando costes de procesamiento en la nube y garantizando privacidad absoluta. Esto impacta directamente la planificación de infraestructura TI y los costes operativos de corporaciones y pymes.",
+      "source": "Multiplicalia",
+      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
+      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
+      "category": "Adopción de IA"
+    },
     {
       "id": "google-commissions-ue-2026",
       "date": "30 June 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://global.techradar.com/es-mx/archive/2026/06",
       "imageUrl": "",
       "category": "Regulación"
-    },
-    {
-      "id": "anthropic-claud-fable-2026",
-      "date": "28 June 2026",
-      "headline": "Anthropic lanza Claude Fable 5: Automatización de procesos empresariales con agentes autónomos",
-      "summary": "Anthropic, la empresa detrás de Claude, introduce Claude Fable 5 con agentes autónomos capaces de gestionar tareas operativas complejas sin intervención humana. Esto transforma la productividad en empresas medianas y grandes, reduciendo la necesidad de personal para tareas repetitivas y mejorando la eficiencia operativa.",
-      "source": "TechRadar",
-      "sourceUrl": "https://global.techradar.com/es-mx/news/archive",
-      "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "apple-brain-2026-06-26",
-      "date": "26 June 2026",
-      "headline": "Apple sube precios de sus productos por aumento de costos de chips debido a la IA",
-      "summary": "Apple ha incrementado los precios de su gama básica (MacBook Pro, iPad Air, Apple TV) debido a la escasez global de chips DRAM y la alta demanda de memoria por los centros de datos de IA. Este cambio afecta directamente los costes de adquisición para empresas y pymes, eliminando 265.000 millones de dólares de su capitalización bursátil y reflejando un aumento de costos de infraestructura que antes absorbía la empresa.",
-      "source": "El Comercio Perú",
-      "sourceUrl": "https://elcomercio.pe/tecnologia/",
-      "imageUrl": "",
-      "category": "Estrategia"
     }
   ]
 }
