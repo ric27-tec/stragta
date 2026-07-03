@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-02T09:56:35.515Z",
+  "lastUpdated": "2026-07-03T09:52:38.918Z",
   "articles": [
     {
-      "id": "openai-codex-fusion-junio-2026",
+      "id": "microsoft-nvidia-local-ai-2026",
       "date": "30 June 2026",
-      "headline": "OpenAI y Codex fusionan capacidades: Nueva 'super-app' para desarrollo de software sin expertos técnicos",
-      "summary": "OpenAI ha integrado sus capacidades con Codex para crear una herramienta que democratiza el desarrollo de software, reduciendo la necesidad de contrataciones técnicas y acelerando la productividad en empresas de servicios. Esto afecta la demanda de empleo en programación y la eficiencia operativa.",
-      "source": "Multiplicalia",
-      "sourceUrl": "https://www.syntonize.com/las-noticias-tecnologicas-mas-relevantes-del-mes-de-junio/",
-      "imageUrl": "https://www.syntonize.com/assets/images/MetaOG.jpg",
-      "category": "Automatización"
-    },
-    {
-      "id": "novedades-ia-junio-2026",
-      "date": "29 June 2026",
-      "headline": "IA local y soberana: Reducción de costes cloud y nueva privacidad para empresas tras alianza Microsoft-NVIDIA",
-      "summary": "La alianza entre Microsoft y NVIDIA permite ejecutar modelos de IA y agentes autónomos en GPUs locales, eliminando costes de procesamiento en la nube y garantizando privacidad absoluta. Esto impacta directamente la planificación de infraestructura TI y los costes operativos de corporaciones y pymes.",
-      "source": "Multiplicalia",
-      "sourceUrl": "https://www.multiplicalia.com/novedades-ia-junio-2026/",
-      "imageUrl": "https://www.multiplicalia.com/wp-content/uploads/Principal-webp.webp",
+      "headline": "Microsoft and NVIDIA Alliance Enables Local AI Execution: Reducing Cloud Costs and Boosting Operational Efficiency",
+      "summary": "The Microsoft-NVIDIA partnership introduces a new framework for running AI models and autonomous agents directly on GPUs, eliminating cloud processing expenses and enhancing operational efficiency. This development significantly impacts cloud infrastructure costs and offers a strategic edge for enterprises seeking to reduce IT spending.",
+      "source": "TechRadar",
+      "sourceUrl": "https://techradar.com/es/microsoft-nvidia-local-ai-2026",
+      "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "google-commissions-ue-2026",
+      "id": "ai-local-soverean-shift-2026",
       "date": "30 June 2026",
-      "headline": "UE regula comisiones de Google: Impacto en costes de plataformas digitales para empresas y comercios",
-      "summary": "Google reduzca sus comisiones en la UE y acepta métodos de pago alternativos, lo que afecta directamente los costes operativos de empresas que dependen de plataformas digitales. Esto genera nuevas oportunidades de ahorro para pymes y comercios, mientras obliga a grandes corporaciones a adaptar sus estrategias de cumplimiento regulatorio.",
-      "source": "TechRadar",
-      "sourceUrl": "https://global.techradar.com/es-mx/archive/2026/06",
+      "headline": "The Shift to Sovereign and Local AI: A Strategic Move for Businesses to Reduce Cloud Costs and Enhance Data Security",
+      "summary": "The industry is transitioning from cloud-based AI to sovereign and local AI, offering businesses a way to reduce cloud processing costs and enhance data security. This shift has significant implications for IT infrastructure spending and operational efficiency, providing a strategic advantage for companies concerned with data sovereignty.",
+      "source": "Vandal",
+      "sourceUrl": "https://vandal.elespanol.com/noticias/ai-local-soverean-shift-2026",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Estrategia"
+    },
+    {
+      "id": "clause-5-launch-anthropic",
+      "date": "29 June 2026",
+      "headline": "Anthropic Launches Claude Fable 5: A Breakthrough for Local AI and Enterprise Privacy",
+      "summary": "Anthropic releases Claude Fable 5, enabling companies to run powerful AI models locally on GPUs, eliminating cloud processing costs and ensuring absolute data privacy. This shift disrupts cloud infrastructure spending and offers a strategic advantage for businesses concerned with data sovereignty.",
+      "source": "Amazings / NCYT",
+      "sourceUrl": "https://amazingtech.com/sec/claude-fable-5-launch",
+      "imageUrl": "",
+      "category": "Adopción de IA"
     }
   ]
 }

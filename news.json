@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-02T09:56:27.659Z",
+  "lastUpdated": "2026-07-03T09:52:27.736Z",
   "articles": [
     {
-      "id": "forbes-1",
-      "date": "1 July 2026",
-      "headline": "Ambient AI Emerges as Key 2026 Trend: Lowering Costs and Reducing Operational Friction for SMEs",
-      "summary": "New analysis highlights that ambient AI integration into everyday business tools is reducing operational friction and costs, with 45% of companies now using AI for marketing and content customization. This trend offers immediate productivity gains for SMEs and local businesses, allowing them to automate repetitive tasks and improve customer engagement without massive IT investments.",
-      "source": "Forbes Councils",
-      "sourceUrl": "https://www.forbes.com/councils/forbestechcouncil/ambient-ai-2026",
-      "imageUrl": "",
-      "category": "Automation"
+      "id": "slug-1",
+      "date": "3 July 2026",
+      "headline": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
+      "summary": "The U.S. government has ended a weekslong ban on Anthropic's latest Claude chatbot versions, removing a major compliance hurdle for businesses relying on AI for customer service and data processing. This decision signals a shift in regulatory stance that may accelerate enterprise AI adoption while requiring updated cybersecurity protocols.",
+      "source": "Associated Press",
+      "sourceUrl": "https://apnews.com/technology",
+      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "category": "Regulation"
     },
     {
-      "id": "digitimes-2",
-      "date": "30 June 2026",
-      "headline": "Micron and SK Hynix Report Strong Quarterly Results Amid Tight Global Supply and High Rare Earth Costs",
-      "summary": "Micron and SK Hynix posted stronger-than-expected quarterly results driven by tight global supply and rising costs for high-performance rare earths used in EVs and defense. These findings indicate sustained upward pressure on semiconductor pricing, affecting costs for consumer electronics, automotive manufacturers, and cloud service providers planning infrastructure upgrades.",
-      "source": "DIGITIMES Tech",
-      "sourceUrl": "https://www.digitimes.com/tech/micron-results-2026",
+      "id": "slug-2",
+      "date": "3 July 2026",
+      "headline": "India has issued notices to messaging platforms Telegram and Signal over concerns that their username features could facilitate impersonation and other forms of misuse",
+      "summary": "India's government has escalated scrutiny of user-anonymity tools by issuing notices to Telegram and Signal, citing risks of impersonation and misuse. This move could force global messaging platforms to alter privacy features, impacting business communication strategies and compliance with international data regulations.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Regulation"
     },
     {
-      "id": "reuters-1",
-      "date": "29 June 2026",
-      "headline": "DeepSeek Surges as Global AI Infrastructure Costs Drop, Shifting Market Dynamics",
-      "summary": "The emergence of DeepSeek's low-cost AI model is driving a significant reduction in global compute and memory expenses, forcing major players like OpenAI and Anthropic to reevaluate pricing. This shift threatens to democratize AI access for SMEs while pressuring large cloud infrastructure providers on revenue, directly impacting business planning and technology investment strategies.",
-      "source": "Reuters Business",
-      "sourceUrl": "https://www.reuters.com/business/tech/deepseek-surge-2026",
-      "imageUrl": "",
-      "category": "AI Adoption"
+      "id": "slug-5",
+      "date": "2 July 2026",
+      "headline": "President Trump Addresses Critics, Signs AI Executive Order",
+      "summary": "President Trump has signed an executive order establishing government oversight for emerging AI technologies, including a 30-day assessment period for AI models before public release. This regulation could impact the speed of AI product launches and require businesses to adjust their deployment timelines and compliance strategies.",
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.forbes.com/sites/quickerbettertech/2026/06/07/small-business-tech-news-this-week-from-gusto-zoom-youtube-and-the-fbi/",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a22fa1c0886fdc0f053fa6b/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+      "category": "Regulation"
     }
   ]
 }
