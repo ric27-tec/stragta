@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-03T09:52:27.736Z",
+  "lastUpdated": "2026-07-04T09:17:32.806Z",
   "articles": [
     {
-      "id": "slug-1",
+      "id": "slug-ai-chip-cost-1",
       "date": "3 July 2026",
-      "headline": "Trump administration lifts restrictions on Anthropic's Claude models after cybersecurity alarm",
-      "summary": "The U.S. government has ended a weekslong ban on Anthropic's latest Claude chatbot versions, removing a major compliance hurdle for businesses relying on AI for customer service and data processing. This decision signals a shift in regulatory stance that may accelerate enterprise AI adoption while requiring updated cybersecurity protocols.",
-      "source": "Associated Press",
+      "headline": "AI Boom Sparks Global Chip Shortage and Price Surge: Apple Hikes MacBook and iPad Prices",
+      "summary": "Apple increased prices for Macs and iPads by up to $500 due to a memory chip shortage driven by AI demand, directly impacting consumer costs and corporate hardware procurement budgets. This signals rising infrastructure costs for businesses adopting AI tools and potential supply chain delays for tech hardware.",
+      "source": "AP News",
       "sourceUrl": "https://apnews.com/technology",
       "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "category": "Regulation"
+      "category": "AI Adoption"
     },
     {
-      "id": "slug-2",
+      "id": "slug-tech-regulation-2",
       "date": "3 July 2026",
-      "headline": "India has issued notices to messaging platforms Telegram and Signal over concerns that their username features could facilitate impersonation and other forms of misuse",
-      "summary": "India's government has escalated scrutiny of user-anonymity tools by issuing notices to Telegram and Signal, citing risks of impersonation and misuse. This move could force global messaging platforms to alter privacy features, impacting business communication strategies and compliance with international data regulations.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "headline": "Trump Administration Lifts Export Controls on Anthropic's Most Powerful AI Models",
+      "summary": "The US government ended a weeks-long ban on Anthropic's Claude chatbot and powerful AI models, easing cybersecurity-related restrictions. This change allows businesses to immediately deploy advanced AI tools for enterprise productivity, reducing compliance barriers for cross-border AI adoption.",
+      "source": "New York Post",
+      "sourceUrl": "https://nypost.com/tech/",
+      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
       "category": "Regulation"
     },
     {
-      "id": "slug-5",
-      "date": "2 July 2026",
-      "headline": "President Trump Addresses Critics, Signs AI Executive Order",
-      "summary": "President Trump has signed an executive order establishing government oversight for emerging AI technologies, including a 30-day assessment period for AI models before public release. This regulation could impact the speed of AI product launches and require businesses to adjust their deployment timelines and compliance strategies.",
-      "source": "Wall Street Journal",
-      "sourceUrl": "https://www.forbes.com/sites/quickerbettertech/2026/06/07/small-business-tech-news-this-week-from-gusto-zoom-youtube-and-the-fbi/",
-      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a22fa1c0886fdc0f053fa6b/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-      "category": "Regulation"
+      "id": "slug-tesla-market-3",
+      "date": "3 July 2026",
+      "headline": "Tesla's Global Sales Shot Up 25% in Q2, Signaling Turnaround for EV Maker",
+      "summary": "Tesla reported a 25% surge in global sales, reversing two years of annual declines and lifting investor sentiment in the EV sector. This market shift affects supply chain planning for battery and component suppliers while signaling renewed competitiveness for EV fleet buyers.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Strategy"
     }
   ]
 }
