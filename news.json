@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-04T09:17:32.806Z",
+  "lastUpdated": "2026-07-05T09:38:27.225Z",
   "articles": [
     {
-      "id": "slug-ai-chip-cost-1",
+      "id": "openai-custom-chip-2026",
       "date": "3 July 2026",
-      "headline": "AI Boom Sparks Global Chip Shortage and Price Surge: Apple Hikes MacBook and iPad Prices",
-      "summary": "Apple increased prices for Macs and iPads by up to $500 due to a memory chip shortage driven by AI demand, directly impacting consumer costs and corporate hardware procurement budgets. This signals rising infrastructure costs for businesses adopting AI tools and potential supply chain delays for tech hardware.",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/technology",
-      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "slug-tech-regulation-2",
-      "date": "3 July 2026",
-      "headline": "Trump Administration Lifts Export Controls on Anthropic's Most Powerful AI Models",
-      "summary": "The US government ended a weeks-long ban on Anthropic's Claude chatbot and powerful AI models, easing cybersecurity-related restrictions. This change allows businesses to immediately deploy advanced AI tools for enterprise productivity, reducing compliance barriers for cross-border AI adoption.",
-      "source": "New York Post",
-      "sourceUrl": "https://nypost.com/tech/",
-      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
-      "category": "Regulation"
-    },
-    {
-      "id": "slug-tesla-market-3",
-      "date": "3 July 2026",
-      "headline": "Tesla's Global Sales Shot Up 25% in Q2, Signaling Turnaround for EV Maker",
-      "summary": "Tesla reported a 25% surge in global sales, reversing two years of annual declines and lifting investor sentiment in the EV sector. This market shift affects supply chain planning for battery and component suppliers while signaling renewed competitiveness for EV fleet buyers.",
+      "headline": "OpenAI announces first custom AI chip to expand into AI infrastructure",
+      "summary": "OpenAI revealed its first custom AI chip, signaling a strategic shift from consumer products to becoming a player in AI infrastructure. This move could alter cloud cost dynamics and hardware demand for companies relying on third-party compute, directly impacting operational budgets and supply chain planning.",
       "source": "CNN Business",
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Strategy"
+    },
+    {
+      "id": "nvidia-startup-compute-profit-2026",
+      "date": "3 July 2026",
+      "headline": "Nvidia launches new program allowing startups to swap compute access for future profit share",
+      "summary": "Nvidia introduced a program where startups can exchange compute power access for a slice of future profits, potentially reducing initial capital outlays for AI-focused firms. This model could lower entry barriers for SMEs and startups, influencing how businesses structure their AI infrastructure investments and manage cash flow.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/ai-artificial-intelligence/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "microsoft-ai-organization-2026",
+      "date": "3 July 2026",
+      "headline": "Microsoft creates new organization with 6,000 employees to help businesses adopt AI",
+      "summary": "Microsoft announced a new 6,000-employee organization dedicated to helping businesses implement AI tools and generate returns on investment. This initiative signals a major shift in enterprise support, potentially accelerating AI adoption rates for companies of all sizes and impacting workforce planning as firms integrate AI-driven automation.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-tech-7-02-2026-video",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }
