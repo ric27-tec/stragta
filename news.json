@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-05T09:38:27.225Z",
+  "lastUpdated": "2026-07-06T11:23:59.636Z",
   "articles": [
+    {
+      "id": "techcircle-1",
+      "date": "3 July 2026",
+      "headline": "HCLTech bags $1.14 billion AI workplace transformation deal",
+      "summary": "HCLTech secured a historic $1.14 billion strategic engagement with a European Fortune Global 50 enterprise, likely Mercedes-Benz, covering AI-powered digital workplace services and infrastructure. This major deal signals increased corporate investment in AI-led enterprise modernization and managed services, impacting workforce planning and cloud costs for large businesses.",
+      "source": "TechCircle",
+      "sourceUrl": "https://www.techcircle.in/2026/07/03/enterprise-tech-news-wrap-june-27-july-3",
+      "imageUrl": "https://assets.techcircle.in/uploads/article-image/2026/07/images/37961-37831-download-3-fotor-202601230444.png",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "computerweekly-1",
+      "date": "3 July 2026",
+      "headline": "ESDS unveils Swaraj Cloud for sovereign AI workloads",
+      "summary": "Cloud infrastructure provider launched Swaraj Cloud to address data sovereignty, compliance, and AI computing needs using Indian infrastructure. This development is vital for businesses in regulated industries seeking secure, locally hosted cloud solutions, impacting global trade compliance and supply chain data strategies.",
+      "source": "Computer Weekly",
+      "sourceUrl": "https://www.computerweekly.com/news",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
     {
       "id": "openai-custom-chip-2026",
       "date": "3 July 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Strategy"
-    },
-    {
-      "id": "nvidia-startup-compute-profit-2026",
-      "date": "3 July 2026",
-      "headline": "Nvidia launches new program allowing startups to swap compute access for future profit share",
-      "summary": "Nvidia introduced a program where startups can exchange compute power access for a slice of future profits, potentially reducing initial capital outlays for AI-focused firms. This model could lower entry barriers for SMEs and startups, influencing how businesses structure their AI infrastructure investments and manage cash flow.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/ai-artificial-intelligence/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "microsoft-ai-organization-2026",
-      "date": "3 July 2026",
-      "headline": "Microsoft creates new organization with 6,000 employees to help businesses adopt AI",
-      "summary": "Microsoft announced a new 6,000-employee organization dedicated to helping businesses implement AI tools and generate returns on investment. This initiative signals a major shift in enterprise support, potentially accelerating AI adoption rates for companies of all sizes and impacting workforce planning as firms integrate AI-driven automation.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-02/bloomberg-tech-7-02-2026-video",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }
