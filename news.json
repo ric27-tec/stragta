@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-06T11:23:59.636Z",
+  "lastUpdated": "2026-07-07T10:21:11.167Z",
   "articles": [
+    {
+      "id": "slug-1",
+      "date": "4 July 2026",
+      "headline": "Proxima Fusion Raises €411 Million for AI-Driven Nuclear Energy, Backed by Google and RWE",
+      "summary": "Munich-based Proxima Fusion secured €411 million ($469M) in funding from Alphabet's Google and German utility RWE to advance nuclear energy for AI data centers. This investment signals a major shift in securing stable, clean power infrastructure for growing AI operations, directly impacting long-term energy costs and grid reliability for corporations.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "techcircle-1",
       "date": "3 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.computerweekly.com/news",
       "imageUrl": "",
       "category": "Regulation"
-    },
-    {
-      "id": "openai-custom-chip-2026",
-      "date": "3 July 2026",
-      "headline": "OpenAI announces first custom AI chip to expand into AI infrastructure",
-      "summary": "OpenAI revealed its first custom AI chip, signaling a strategic shift from consumer products to becoming a player in AI infrastructure. This move could alter cloud cost dynamics and hardware demand for companies relying on third-party compute, directly impacting operational budgets and supply chain planning.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Strategy"
     }
   ]
 }
