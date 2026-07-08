@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-07T10:21:11.167Z",
+  "lastUpdated": "2026-07-08T09:22:23.870Z",
   "articles": [
     {
       "id": "slug-1",
-      "date": "4 July 2026",
-      "headline": "Proxima Fusion Raises €411 Million for AI-Driven Nuclear Energy, Backed by Google and RWE",
-      "summary": "Munich-based Proxima Fusion secured €411 million ($469M) in funding from Alphabet's Google and German utility RWE to advance nuclear energy for AI data centers. This investment signals a major shift in securing stable, clean power infrastructure for growing AI operations, directly impacting long-term energy costs and grid reliability for corporations.",
+      "date": "8 July 2026",
+      "headline": "U.S. Department of Commerce approves broad rollout of OpenAI's GPT-5.6",
+      "summary": "The U.S. has approved a broad launch of OpenAI's advanced GPT-5.6 model, enabling enterprises to deploy the system for productivity and automation at scale. This regulatory clearance removes a major barrier for business adoption of next-gen AI, potentially impacting workforce planning and operational efficiency.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "techcircle-1",
-      "date": "3 July 2026",
-      "headline": "HCLTech bags $1.14 billion AI workplace transformation deal",
-      "summary": "HCLTech secured a historic $1.14 billion strategic engagement with a European Fortune Global 50 enterprise, likely Mercedes-Benz, covering AI-powered digital workplace services and infrastructure. This major deal signals increased corporate investment in AI-led enterprise modernization and managed services, impacting workforce planning and cloud costs for large businesses.",
-      "source": "TechCircle",
-      "sourceUrl": "https://www.techcircle.in/2026/07/03/enterprise-tech-news-wrap-june-27-july-3",
-      "imageUrl": "https://assets.techcircle.in/uploads/article-image/2026/07/images/37961-37831-download-3-fotor-202601230444.png",
       "category": "AI Adoption"
     },
     {
-      "id": "computerweekly-1",
-      "date": "3 July 2026",
-      "headline": "ESDS unveils Swaraj Cloud for sovereign AI workloads",
-      "summary": "Cloud infrastructure provider launched Swaraj Cloud to address data sovereignty, compliance, and AI computing needs using Indian infrastructure. This development is vital for businesses in regulated industries seeking secure, locally hosted cloud solutions, impacting global trade compliance and supply chain data strategies.",
-      "source": "Computer Weekly",
-      "sourceUrl": "https://www.computerweekly.com/news",
-      "imageUrl": "",
-      "category": "Regulation"
+      "id": "slug-4",
+      "date": "8 July 2026",
+      "headline": "Amazon raises at least $25 billion in bond sale to fund massive AI investments",
+      "summary": "Amazon is raising $25 billion through a U.S. dollar bond sale to support its heavy AI infrastructure and cloud spending. This financing move reflects the escalating capital costs of AI deployment, impacting credit markets, supplier valuations, and long-term business planning for cloud competitors and AI service providers.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/technology/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
+      "category": "Strategy"
+    },
+    {
+      "id": "slug-2",
+      "date": "5 July 2026",
+      "headline": "General Motors integrates 50 collaborative robots after laying off 1,000 workers",
+      "summary": "General Motors has deployed over 50 'cobots' at Factory Zero following the termination of more than 1,000 employees, signaling a major shift in automation-driven workforce restructuring. This case highlights the operational trade-offs between labor reduction and capital investment in robotics, with implications for SMEs evaluating similar automation strategies.",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/",
+      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a49425ae4c408de77366c75/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+      "category": "Automation"
     }
   ]
 }

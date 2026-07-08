@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-03T09:52:38.918Z",
+  "lastUpdated": "2026-07-08T09:22:40.147Z",
   "articles": [
     {
-      "id": "microsoft-nvidia-local-ai-2026",
-      "date": "30 June 2026",
-      "headline": "Microsoft and NVIDIA Alliance Enables Local AI Execution: Reducing Cloud Costs and Boosting Operational Efficiency",
-      "summary": "The Microsoft-NVIDIA partnership introduces a new framework for running AI models and autonomous agents directly on GPUs, eliminating cloud processing expenses and enhancing operational efficiency. This development significantly impacts cloud infrastructure costs and offers a strategic edge for enterprises seeking to reduce IT spending.",
-      "source": "TechRadar",
-      "sourceUrl": "https://techradar.com/es/microsoft-nvidia-local-ai-2026",
+      "id": "slug-1",
+      "date": "5 July 2026",
+      "headline": "IA en 2026: las empresas exigen impacto real y medible en KPIs de coste y beneficio",
+      "summary": "SAS identifica 2026 como el año de inflexión donde la IA debe demostrarse por su impacto operativo y económico, no solo técnico. Las corporaciones priorizan la medición de KPIs reales de beneficio y coste, como coste por consulta y mejora en productividad, para decidir inversiones estratégicas. El éxito empresarial ya no depende de experimentar antes, sino de ejecutar mejor y definir claramente quién supervisa y mide el impacto de la IA.",
+      "source": "La Ecuación Digital",
+      "sourceUrl": "https://www.laecuaciondigital.com/analisis-opinion/entrevistas/cuando-la-ia-deja-de-ser-piloto-y-empieza-a-rendir-cuentas/",
       "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "ai-local-soverean-shift-2026",
-      "date": "30 June 2026",
-      "headline": "The Shift to Sovereign and Local AI: A Strategic Move for Businesses to Reduce Cloud Costs and Enhance Data Security",
-      "summary": "The industry is transitioning from cloud-based AI to sovereign and local AI, offering businesses a way to reduce cloud processing costs and enhance data security. This shift has significant implications for IT infrastructure spending and operational efficiency, providing a strategic advantage for companies concerned with data sovereignty.",
-      "source": "Vandal",
-      "sourceUrl": "https://vandal.elespanol.com/noticias/ai-local-soverean-shift-2026",
-      "imageUrl": "",
+      "id": "slug-2",
+      "date": "5 July 2026",
+      "headline": "Las 5 tecnologías clave para la competitividad empresarial en 2026: IA generativa, realidad mixta y ciberseguridad basada en IA",
+      "summary": "Cinco tecnologías transforman el mercado empresarial: IA generativa, computación cuántica, 5G avanzado, realidad mixta y ciberseguridad basada en IA. La realidad mixta mejora la formación y resolución de problemas técnicos, mientras que la ciberseguridad con IA reduce tiempos de detección de amenazas y automatiza respuestas, protegiendo reputación y cumplimiento normativo. La adopción tecnológica es ahora una palanca decisiva para la eficiencia y competitividad, integrándose naturalmente en operaciones organizacionales.",
+      "source": "fade.es",
+      "sourceUrl": "https://fade.es/las-5-tecnologias-que-estan-marcando-el-rumbo-empresarial-en-2026/",
+      "imageUrl": "https://fade.es/wp-content/uploads/2026/02/Las-5-tecnologias-que-estan-marcando-el-rumbo-empresarial-en-2026.png",
       "category": "Estrategia"
     },
     {
-      "id": "clause-5-launch-anthropic",
-      "date": "29 June 2026",
-      "headline": "Anthropic Launches Claude Fable 5: A Breakthrough for Local AI and Enterprise Privacy",
-      "summary": "Anthropic releases Claude Fable 5, enabling companies to run powerful AI models locally on GPUs, eliminating cloud processing costs and ensuring absolute data privacy. This shift disrupts cloud infrastructure spending and offers a strategic advantage for businesses concerned with data sovereignty.",
-      "source": "Amazings / NCYT",
-      "sourceUrl": "https://amazingtech.com/sec/claude-fable-5-launch",
-      "imageUrl": "",
-      "category": "Adopción de IA"
+      "id": "slug-3",
+      "date": "5 July 2026",
+      "headline": "Broadcom cae 10% en Wall Street por decepcionar previsión de ingresos de chips, afectando al sector de semiconductores",
+      "summary": "Broadcom, gigante de microprocesadores, desploma su cotización 10% en Wall Street por presentar previsión de ingresos de chips de 16.000 millones, frente a los 17.200 millones esperados. Este descenso impacta negativamente en el mercado de semiconductores y afecta a fabricantes de materiales para centros de datos, como Ividén y Fujicura, que bajan 6%. La volatilidad en el sector tecnológico refleja la sensibilidad de los inversores ante las expectativas de ingresos y la planificación empresarial en infraestructura de chips.",
+      "source": "dobetter.es",
+      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
+      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
+      "category": "Estrategia"
     }
   ]
 }
