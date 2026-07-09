@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-08T09:22:23.870Z",
+  "lastUpdated": "2026-07-09T10:19:35.389Z",
   "articles": [
     {
       "id": "slug-1",
       "date": "8 July 2026",
-      "headline": "U.S. Department of Commerce approves broad rollout of OpenAI's GPT-5.6",
-      "summary": "The U.S. has approved a broad launch of OpenAI's advanced GPT-5.6 model, enabling enterprises to deploy the system for productivity and automation at scale. This regulatory clearance removes a major barrier for business adoption of next-gen AI, potentially impacting workforce planning and operational efficiency.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "slug-4",
-      "date": "8 July 2026",
-      "headline": "Amazon raises at least $25 billion in bond sale to fund massive AI investments",
-      "summary": "Amazon is raising $25 billion through a U.S. dollar bond sale to support its heavy AI infrastructure and cloud spending. This financing move reflects the escalating capital costs of AI deployment, impacting credit markets, supplier valuations, and long-term business planning for cloud competitors and AI service providers.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/technology/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
-      "category": "Strategy"
-    },
-    {
-      "id": "slug-2",
-      "date": "5 July 2026",
-      "headline": "General Motors integrates 50 collaborative robots after laying off 1,000 workers",
-      "summary": "General Motors has deployed over 50 'cobots' at Factory Zero following the termination of more than 1,000 employees, signaling a major shift in automation-driven workforce restructuring. This case highlights the operational trade-offs between labor reduction and capital investment in robotics, with implications for SMEs evaluating similar automation strategies.",
+      "headline": "Businesses Scaling AI Initatives: From Layoffs to ROI and New Hiring Waves",
+      "summary": "Companies are shifting from using AI as a justification for layoffs to actively expanding access to AI tools, with Santander reporting over €35 million in AI investment returns in Q1 2026. The narrative is evolving toward execution, with major firms like GM integrating collaborative robots while simultaneously expanding AI access to 185,000 employees globally.",
       "source": "Forbes",
       "sourceUrl": "https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/",
       "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a49425ae4c408de77366c75/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
-      "category": "Automation"
+      "category": "AI Adoption"
+    },
+    {
+      "id": "slug-2",
+      "date": "8 July 2026",
+      "headline": "UK Cybersecurity Firm Rubrik Announces $500 Million Investment and London as European HQ",
+      "summary": "U.S. cybersecurity and data resilience company Rubrik is investing more than $500 million over five years in the UK, establishing London as its European headquarters. This move signals strong growth in the European cybersecurity market and provides a strategic infrastructure boost for businesses facing increasing data resilience and cyber threat challenges.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "slug-3",
+      "date": "8 July 2026",
+      "headline": "Apple Raises MacBook and iPad Prices Due to AI-Driven Memory and Storage Chip Costs",
+      "summary": "Apple has increased prices on popular products like the MacBook and iPad due to rising costs of memory and storage chips sparked by the AI boom. This directly impacts operational budgets for businesses reliant on Apple hardware, signaling broader inflationary pressures in the tech supply chain driven by AI infrastructure demand.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Strategy"
     }
   ]
 }
