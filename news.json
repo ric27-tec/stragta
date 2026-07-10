@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-09T10:19:35.389Z",
+  "lastUpdated": "2026-07-10T10:18:18.048Z",
   "articles": [
     {
       "id": "slug-1",
-      "date": "8 July 2026",
-      "headline": "Businesses Scaling AI Initatives: From Layoffs to ROI and New Hiring Waves",
-      "summary": "Companies are shifting from using AI as a justification for layoffs to actively expanding access to AI tools, with Santander reporting over €35 million in AI investment returns in Q1 2026. The narrative is evolving toward execution, with major firms like GM integrating collaborative robots while simultaneously expanding AI access to 185,000 employees globally.",
-      "source": "Forbes",
-      "sourceUrl": "https://www.forbes.com/sites/quickerbettertech/2026/07/05/small-business-tech-news-big-brands-rolling-out-robotics-and-rolling-back-ai/",
-      "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/6a49425ae4c408de77366c75/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+      "date": "9 July 2026",
+      "headline": "OpenAI Secures U.S. Regulatory Green Light for GPT-5.6 Rollout",
+      "summary": "The U.S. Department of Commerce has cleared OpenAI to broadly release its advanced GPT-5.6 model, accelerating enterprise AI adoption and potentially reducing compute costs for businesses deploying next-gen agents. This regulatory approval removes a major compliance barrier, enabling SMEs and corporations to integrate GPT-5.6 into workforce automation and customer service workflows without delay.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/technology/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
       "category": "AI Adoption"
     },
     {
       "id": "slug-2",
       "date": "8 July 2026",
-      "headline": "UK Cybersecurity Firm Rubrik Announces $500 Million Investment and London as European HQ",
-      "summary": "U.S. cybersecurity and data resilience company Rubrik is investing more than $500 million over five years in the UK, establishing London as its European headquarters. This move signals strong growth in the European cybersecurity market and provides a strategic infrastructure boost for businesses facing increasing data resilience and cyber threat challenges.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "headline": "Amazon’s $25 Billion Bond Sale Signals Urgent AI Infrastructure Spending Amid Market Warning",
+      "summary": "Amazon raised at least $25 billion in bonds to fund massive AI infrastructure investments, reflecting both aggressive growth in cloud/AI services and concerns about an AI bubble from financial markets. This move underscores the rising cost of AI infrastructure for businesses reliant on AWS, potentially increasing cloud pricing for SMEs and enterprises in the next 12–18 months.",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/section/tech/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
       "id": "slug-3",
-      "date": "8 July 2026",
-      "headline": "Apple Raises MacBook and iPad Prices Due to AI-Driven Memory and Storage Chip Costs",
-      "summary": "Apple has increased prices on popular products like the MacBook and iPad due to rising costs of memory and storage chips sparked by the AI boom. This directly impacts operational budgets for businesses reliant on Apple hardware, signaling broader inflationary pressures in the tech supply chain driven by AI infrastructure demand.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "date": "7 July 2026",
+      "headline": "Micron Technology Plans $250 Billion U.S. Memory Chip Investment Through 2035",
+      "summary": "Micron announced a $250 billion investment in U.S. semiconductor manufacturing to meet surging AI-era memory demand and support President Trump’s push for domestic chip production. This expansion will stabilize memory chip supply chains for businesses reliant on AI hardware, while potentially lowering long-term costs for data centers and device manufacturers using Micron memory.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
       "category": "Strategy"
     }
   ]

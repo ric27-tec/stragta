@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-08T09:22:40.147Z",
+  "lastUpdated": "2026-07-10T10:18:31.821Z",
   "articles": [
     {
-      "id": "slug-1",
-      "date": "5 July 2026",
-      "headline": "IA en 2026: las empresas exigen impacto real y medible en KPIs de coste y beneficio",
-      "summary": "SAS identifica 2026 como el año de inflexión donde la IA debe demostrarse por su impacto operativo y económico, no solo técnico. Las corporaciones priorizan la medición de KPIs reales de beneficio y coste, como coste por consulta y mejora en productividad, para decidir inversiones estratégicas. El éxito empresarial ya no depende de experimentar antes, sino de ejecutar mejor y definir claramente quién supervisa y mide el impacto de la IA.",
+      "id": "slaec-price-hike",
+      "date": "8 July 2026",
+      "headline": "Microsoft y Apple encarecen dispositivos hasta 300 dólares por el auge de la IA y los costes de chips de memoria",
+      "summary": "Microsoft y Apple han aumentado los precios de sus consolas Xbox, Macs e iPads hasta 300 dólares (265€), con un incremento del 25% según el producto, debido al fuerte encarecimiento de los chips de memoria impulsado por la demanda de inteligencia artificial. Tim Cook afirma que Apple ya no puede asumir estos costes, lo que sugiere una inflación generalizada en el sector tecnológico y mayores precios para los consumidores, afectando la planificación de inversión tecnológica de empresas y pymes.",
+      "source": "Euronews",
+      "sourceUrl": "https://es.euronews.com/next/negocios-tecnologia",
+      "imageUrl": "https://static.euronews.com/website/images/euronews-og-image-1200x675.png",
+      "category": "Estrategia"
+    },
+    {
+      "id": "slaec-ai-kpi",
+      "date": "7 July 2026",
+      "headline": "Cuando la IA deja de ser piloto y empieza a rendir cuentas: El punto de inflexión económico de 2026",
+      "summary": "En 2026, la inteligencia artificial debe ser evaluada por su impacto operativo y económico, no solo por su funcionamiento técnico. Las empresas deben medir KPIs de beneficio y coste, como el coste por consulta, impacto energético y mejora en productividad, para determinar si la IA es una inversión estratégica viable. La ventaja competitiva ya no estará en experimentar antes, sino en ejecutar mejor y medir el impacto real en los procesos empresariales.",
       "source": "La Ecuación Digital",
       "sourceUrl": "https://www.laecuaciondigital.com/analisis-opinion/entrevistas/cuando-la-ia-deja-de-ser-piloto-y-empieza-a-rendir-cuentas/",
       "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "slug-2",
-      "date": "5 July 2026",
-      "headline": "Las 5 tecnologías clave para la competitividad empresarial en 2026: IA generativa, realidad mixta y ciberseguridad basada en IA",
-      "summary": "Cinco tecnologías transforman el mercado empresarial: IA generativa, computación cuántica, 5G avanzado, realidad mixta y ciberseguridad basada en IA. La realidad mixta mejora la formación y resolución de problemas técnicos, mientras que la ciberseguridad con IA reduce tiempos de detección de amenazas y automatiza respuestas, protegiendo reputación y cumplimiento normativo. La adopción tecnológica es ahora una palanca decisiva para la eficiencia y competitividad, integrándose naturalmente en operaciones organizacionales.",
-      "source": "fade.es",
-      "sourceUrl": "https://fade.es/las-5-tecnologias-que-estan-marcando-el-rumbo-empresarial-en-2026/",
-      "imageUrl": "https://fade.es/wp-content/uploads/2026/02/Las-5-tecnologias-que-estan-marcando-el-rumbo-empresarial-en-2026.png",
-      "category": "Estrategia"
-    },
-    {
-      "id": "slug-3",
-      "date": "5 July 2026",
-      "headline": "Broadcom cae 10% en Wall Street por decepcionar previsión de ingresos de chips, afectando al sector de semiconductores",
-      "summary": "Broadcom, gigante de microprocesadores, desploma su cotización 10% en Wall Street por presentar previsión de ingresos de chips de 16.000 millones, frente a los 17.200 millones esperados. Este descenso impacta negativamente en el mercado de semiconductores y afecta a fabricantes de materiales para centros de datos, como Ividén y Fujicura, que bajan 6%. La volatilidad en el sector tecnológico refleja la sensibilidad de los inversores ante las expectativas de ingresos y la planificación empresarial en infraestructura de chips.",
-      "source": "dobetter.es",
-      "sourceUrl": "https://dobetter.esade.edu/es/tendencias-2026-tecnologia",
-      "imageUrl": "https://dobetter.esade.edu/sites/default/files/post/2026-01/technology-trends-2026-w.webp",
-      "category": "Estrategia"
+      "id": "slaec-layoffs-ia",
+      "date": "7 July 2026",
+      "headline": "Las grandes tecnológicas en 2026: despidos masivos por el impacto de la IA",
+      "summary": "Más de 120.000 puestos de trabajo han sido eliminados en 2026 en las grandes empresas tecnológicas debido a la integración de la inteligencia artificial en las decisiones de reducción de personal. Este fenómeno afecta directamente a la estructura de empleo, contrataciones y automatización, obligando a las corporaciones a replantear sus estrategias de contratación y gestión de talento en un entorno donde la IA reemplaza funciones humanas.",
+      "source": "Cadena3",
+      "sourceUrl": "https://www.cadena3.com/noticia/tecnologia/las-grandes-tecnologicas-en-2026-despidos-masivos-por-el-impacto-de-la-ia_570485",
+      "imageUrl": "https://images-tools.cadena3.com/tools/r/2e94f234-c289-448a-9647-456820db57df.jpg?width=1200&height=800",
+      "category": "Automatización"
     }
   ]
 }
