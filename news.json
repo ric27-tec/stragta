@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-12T08:59:13.030Z",
+  "lastUpdated": "2026-07-13T10:18:50.953Z",
   "articles": [
     {
-      "id": "meta-canada-datacenter",
+      "id": "sk-hynix-memory-shortage-2027",
       "date": "10 July 2026",
-      "headline": "Meta to Invest $9.1 Billion in First AI Data Center in Canada, Largest Outside US",
-      "summary": "Meta plans to invest over 13 billion Canadian dollars ($9.1 billion) to build its first AI data center in Canada, marking its largest infrastructure project outside the US. This expansion signals rising cloud costs and global competition for AI compute capacity, directly impacting enterprise AI deployment strategies and supply chain planning for international businesses.",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/technology",
-      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "headline": "SK Hynix CEO Warns of Worst Memory Supply Shortage in 2027, With Demand Outstripping Supply Into 2030",
+      "summary": "SK Hynix CEO forecasts the global memory industry will face its worst-ever supply shortage in 2027, with demand exceeding production capacity well into the next decade despite aggressive expansion. This shortage will likely drive up cloud costs, AI infrastructure expenses, and hardware pricing for businesses relying on chips and memory.",
+      "source": "PCMag",
+      "sourceUrl": "https://www.pcmag.com/news",
+      "imageUrl": "https://www.pcmag.com/images/pcmag-social-share.png",
       "category": "AI Adoption"
     },
     {
-      "id": "meta-charges-ai-tier",
+      "id": "apple-vs-openai-trade-secrets",
       "date": "10 July 2026",
-      "headline": "Meta to Charge Developers for Tiered AI Model Access via API",
-      "summary": "Meta is launching a paid tier for its AI model, hosting it on its own infrastructure and selling access to developers via API. This shift introduces new cloud cost structures for businesses using open AI tools and may accelerate migration to proprietary enterprise models, affecting software pricing and operational budgets.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-09/bloomberg-businessweek-daily-7-9-2026-video",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "sk-hynix-supply-shortage",
-      "date": "10 July 2026",
-      "headline": "SK Hynix CEO Forecasts Worst Memory Supply Shortage in 2027 Amid AI Boom",
-      "summary": "SK Hynix's chief executive warns the global memory industry faces its worst supply shortage in 2027, with demand exceeding production capacity well into the next decade. This outlook threatens chip availability for AI infrastructure, raising risks for supply chain disruptions and increased memory costs for corporations and SMEs relying on high-performance computing.",
+      "headline": "Apple Sues OpenAI Over Alleged Trade Secret Misappropriation in Consumer Hardware Push",
+      "summary": "Apple filed a lawsuit against OpenAI and two former employees, alleging theft of trade secrets to accelerate OpenAI's entry into consumer hardware. The case escalates tensions between the companies and could delay hardware launches, impact licensing deals, and increase legal/compliance risks for AI firms developing physical devices.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "china-helium-export-block-chip-supply",
+      "date": "10 July 2026",
+      "headline": "China Blocks Helium Exports Amid Iran War Escalation, Threatening Global Chipmaking Supply Chains",
+      "summary": "China temporarily blocked helium exports, a critical gas for chip manufacturing, as the Iran war disrupts global supply. This action risks semiconductor production delays, higher chip prices, and supply chain instability for businesses dependent on memory, processors, and AI hardware.",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/technology",
+      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
       "category": "Strategy"
     }
   ]
