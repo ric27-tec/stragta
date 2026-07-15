@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-14T09:01:02.918Z",
+  "lastUpdated": "2026-07-15T09:05:53.587Z",
   "articles": [
     {
-      "id": "apple-openai-litigation-2026",
-      "date": "14 July 2026",
-      "headline": "Apple Sues OpenAI for Trade Secret Theft Ahead of Its Own ChatGPT Hardware Push",
-      "summary": "Apple filed a lawsuit alleging OpenAI stole trade secrets, intensifying competition in the AI sector as Apple accelerates plans to build its own hardware for ChatGPT. This legal clash could disrupt AI licensing deals, raise costs for enterprise AI integrations, and reshape hardware demand for AI chips.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "meta-50b-data-center-louisiana-2026",
-      "date": "14 July 2026",
-      "headline": "Meta Announces $50 Billion, 5GW Supercluster in Louisiana, Marking Largest AI Data Center Investment",
-      "summary": "Meta confirmed its Hyperion data center supercluster in Louisiana will cost over $50 billion and deliver 5GW of power, representing the largest single AI infrastructure investment to date. This massive buildout could strain regional energy grids, increase cloud costs for businesses, and accelerate inflation in data-intensive sectors.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/technology/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
-      "category": "Strategy"
-    },
-    {
-      "id": "meta-13b-canada-ai-data-center-2026",
-      "date": "13 July 2026",
-      "headline": "Meta to Invest $9.1 Billion in Canada's First AI Data Center, Boosting North American Cloud Capacity",
-      "summary": "Meta pledged $9.1 billion to build its first AI data center in Canada, expanding its North American cloud infrastructure amid rising demand for generative AI. The investment may lower latency for Canadian enterprises but could also tighten regional energy markets and influence cross-border data compliance strategies.",
+      "id": "meta-canada-ai-data-center-9b",
+      "date": "15 July 2026",
+      "headline": "Meta Announces $9.1 Billion AI Data Center in Canada, Its Largest Outside the U.S.",
+      "summary": "Meta plans to invest over 13 billion Canadian dollars ($9.1 billion) to build its first AI data center in Canada, marking a major expansion of AI infrastructure outside the U.S. and potentially reshaping regional cloud capacity and energy demands.",
       "source": "AP News",
       "sourceUrl": "https://apnews.com/technology",
       "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "ibm-market-rout-ai-infrastructure",
+      "date": "14 July 2026",
+      "headline": "IBM Sparks Market Rout as Businesses Shift Spending from Software to AI Data-Center Infrastructure",
+      "summary": "IBM forecasted second-quarter revenue below estimates, signaling a major shift where corporations are prioritizing AI data-center infrastructure over traditional software spending, a trend that could pressure the broader enterprise software sector.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "apple-memory-price-hike-ai-boom",
+      "date": "14 July 2026",
+      "headline": "Apple Raises MacBook and iPad Prices Due to AI-Driven Memory and Storage Chip Costs",
+      "summary": "Apple hiked prices on popular products like the MacBook and iPad, directly attributing the increase to rising costs for memory and storage chips driven by the AI infrastructure boom, which may ripple through consumer and business hardware pricing.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Strategy"
     }
   ]
