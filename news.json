@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-15T09:05:53.587Z",
+  "lastUpdated": "2026-07-16T09:09:21.057Z",
   "articles": [
     {
-      "id": "meta-canada-ai-data-center-9b",
+      "id": "sk-hynix-us-listing-ai-memory",
       "date": "15 July 2026",
-      "headline": "Meta Announces $9.1 Billion AI Data Center in Canada, Its Largest Outside the U.S.",
-      "summary": "Meta plans to invest over 13 billion Canadian dollars ($9.1 billion) to build its first AI data center in Canada, marking a major expansion of AI infrastructure outside the U.S. and potentially reshaping regional cloud capacity and energy demands.",
+      "headline": "SK Hynix hits U.S. stock market as demand for memory chips soars amid AI frenzy",
+      "summary": "SK Hynix is launching its U.S. stock listing while demand for its memory chips far outpaces production capacity due to the AI boom, signaling critical supply constraints for businesses building AI infrastructure and projecting sustained price pressure on memory components.",
       "source": "AP News",
       "sourceUrl": "https://apnews.com/technology",
       "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "category": "Strategy"
+      "category": "AI Adoption"
     },
     {
-      "id": "ibm-market-rout-ai-infrastructure",
+      "id": "apple-openai-tradecrets-sue",
       "date": "14 July 2026",
-      "headline": "IBM Sparks Market Rout as Businesses Shift Spending from Software to AI Data-Center Infrastructure",
-      "summary": "IBM forecasted second-quarter revenue below estimates, signaling a major shift where corporations are prioritizing AI data-center infrastructure over traditional software spending, a trend that could pressure the broader enterprise software sector.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "apple-memory-price-hike-ai-boom",
-      "date": "14 July 2026",
-      "headline": "Apple Raises MacBook and iPad Prices Due to AI-Driven Memory and Storage Chip Costs",
-      "summary": "Apple hiked prices on popular products like the MacBook and iPad, directly attributing the increase to rising costs for memory and storage chips driven by the AI infrastructure boom, which may ripple through consumer and business hardware pricing.",
+      "headline": "Apple sued OpenAI alleging stolen trade secrets for AI gadgets",
+      "summary": "Apple filed a lawsuit against OpenAI accusing it of stealing iPhone trade secrets to develop unrevealed AI hardware; the dispute introduces significant legal and operational risk for businesses planning AI gadget investments and could delay Apple's entry into the AI hardware market.",
       "source": "CNN Business",
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Regulation"
+    },
+    {
+      "id": "paypal-stripe-advent-acquisition",
+      "date": "14 July 2026",
+      "headline": "PayPal shares soar 17% after Stripe, Advent make $53B offer",
+      "summary": "Stripe and Advent International made a joint unsolicited offer to acquire PayPal for over $53 billion, causing PayPal shares to jump 16–17%; this deal could reshape payment infrastructure costs and compliance requirements for SMEs and large businesses using PayPal services.",
+      "source": "New York Post",
+      "sourceUrl": "https://nypost.com/tech/",
+      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
       "category": "Strategy"
     }
   ]
