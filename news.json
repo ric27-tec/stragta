@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-16T09:09:21.057Z",
+  "lastUpdated": "2026-07-17T09:04:49.295Z",
   "articles": [
     {
-      "id": "sk-hynix-us-listing-ai-memory",
-      "date": "15 July 2026",
-      "headline": "SK Hynix hits U.S. stock market as demand for memory chips soars amid AI frenzy",
-      "summary": "SK Hynix is launching its U.S. stock listing while demand for its memory chips far outpaces production capacity due to the AI boom, signaling critical supply constraints for businesses building AI infrastructure and projecting sustained price pressure on memory components.",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/technology",
-      "imageUrl": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "apple-openai-tradecrets-sue",
-      "date": "14 July 2026",
-      "headline": "Apple sued OpenAI alleging stolen trade secrets for AI gadgets",
-      "summary": "Apple filed a lawsuit against OpenAI accusing it of stealing iPhone trade secrets to develop unrevealed AI hardware; the dispute introduces significant legal and operational risk for businesses planning AI gadget investments and could delay Apple's entry into the AI hardware market.",
+      "id": "apple-openai-secrets-litigation",
+      "date": "17 July 2026",
+      "headline": "Apple Sues OpenAI Over Alleged Trade Secret Theft for AI Gadgets",
+      "summary": "Apple filed a lawsuit alleging OpenAI stole over 400 Apple engineers' trade secrets to develop unrevealed AI gadgets, creating the single largest legal risk ahead of OpenAI's confidential $730 billion IPO filing in September[4][6]. This litigation could delay or derail OpenAI's public debut, impacting investor confidence and AI infrastructure investment plans for enterprise partners.",
       "source": "CNN Business",
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
-      "id": "paypal-stripe-advent-acquisition",
-      "date": "14 July 2026",
-      "headline": "PayPal shares soar 17% after Stripe, Advent make $53B offer",
-      "summary": "Stripe and Advent International made a joint unsolicited offer to acquire PayPal for over $53 billion, causing PayPal shares to jump 16–17%; this deal could reshape payment infrastructure costs and compliance requirements for SMEs and large businesses using PayPal services.",
-      "source": "New York Post",
-      "sourceUrl": "https://nypost.com/tech/",
-      "imageUrl": "https://nypost.com/wp-content/themes/gtf/static/images/default/nypost.png",
+      "id": "tsmc-us-investment-earnings",
+      "date": "17 July 2026",
+      "headline": "TSMC to Invest $100 Billion More in U.S. After AI-Fueled Earnings Surge",
+      "summary": "TSMC posted its fifth consecutive quarter of record earnings driven by global AI infrastructure demand and announced a further $100 billion investment in U.S. manufacturing[4]. This expansion signals sustained chip supply growth but also underscores the $1 trillion+ spending boom in AI infrastructure that may face sustainability concerns if productivity gains lag[1].",
+      "source": "The Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/tech",
+      "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "moonshot-kimi-k3-open-model",
+      "date": "17 July 2026",
+      "headline": "Chinese Startup Moonshot Unveils World's Largest Open AI Model, Closing Gap on U.S. Rivals",
+      "summary": "Moonshot launched Kimi K3, a 2.8 trillion-parameter open-weight model approaching Anthropic's frontier performance, intensifying global competition in AI capabilities[1]. Enterprises evaluating AI vendors may face new cost and compliance considerations as open models from non-U.S. firms become more competitive, potentially reshaping cloud and inference pricing dynamics.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }
