@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-17T09:04:49.295Z",
+  "lastUpdated": "2026-07-18T08:45:09.189Z",
   "articles": [
+    {
+      "id": "spacex-dod-datacenter-july18",
+      "date": "18 July 2026",
+      "headline": "SpaceX in Talks to Provide U.S. Defense With Billion-Dollar Data Center Capacity for AI Models",
+      "summary": "Elon Musk's SpaceX is negotiating to supply the U.S. Department of Defense with access to data center capacity worth billions to run AI models, marking a major shift in defense infrastructure and potentially creating a new revenue stream for SpaceX while reducing reliance on traditional cloud providers.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "ai-infra-selloff-july17",
+      "date": "17 July 2026",
+      "headline": "Stocks Sink on Anxiety About Tech and A.I. Spending Amid Rising Chinese Competition",
+      "summary": "Global markets tumbled as investor unease surged over massive AI spending amid intensified competition from China, with the S&P 500 falling 1% and the Nasdaq down 1.4%. Nvidia, Alphabet, Meta, and SpaceX all saw significant declines, while Taiwan Semiconductor Manufacturing Co. shares dropped over 7% after announcing a $100 billion U.S. investment.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "apple-openai-secrets-litigation",
       "date": "17 July 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Strategy"
-    },
-    {
-      "id": "tsmc-us-investment-earnings",
-      "date": "17 July 2026",
-      "headline": "TSMC to Invest $100 Billion More in U.S. After AI-Fueled Earnings Surge",
-      "summary": "TSMC posted its fifth consecutive quarter of record earnings driven by global AI infrastructure demand and announced a further $100 billion investment in U.S. manufacturing[4]. This expansion signals sustained chip supply growth but also underscores the $1 trillion+ spending boom in AI infrastructure that may face sustainability concerns if productivity gains lag[1].",
-      "source": "The Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/tech",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "moonshot-kimi-k3-open-model",
-      "date": "17 July 2026",
-      "headline": "Chinese Startup Moonshot Unveils World's Largest Open AI Model, Closing Gap on U.S. Rivals",
-      "summary": "Moonshot launched Kimi K3, a 2.8 trillion-parameter open-weight model approaching Anthropic's frontier performance, intensifying global competition in AI capabilities[1]. Enterprises evaluating AI vendors may face new cost and compliance considerations as open models from non-U.S. firms become more competitive, potentially reshaping cloud and inference pricing dynamics.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }
