@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-18T08:45:09.189Z",
+  "lastUpdated": "2026-07-20T09:53:31.645Z",
   "articles": [
     {
-      "id": "spacex-dod-datacenter-july18",
-      "date": "18 July 2026",
-      "headline": "SpaceX in Talks to Provide U.S. Defense With Billion-Dollar Data Center Capacity for AI Models",
-      "summary": "Elon Musk's SpaceX is negotiating to supply the U.S. Department of Defense with access to data center capacity worth billions to run AI models, marking a major shift in defense infrastructure and potentially creating a new revenue stream for SpaceX while reducing reliance on traditional cloud providers.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "blue-chip-adoption",
+      "date": "20 July 2026",
+      "headline": "U.S. Business AI Adoption Tops 20% as Nearly a Quarter of Firms Plan Integration Within Six Months",
+      "summary": "Goldman Sachs Global Investment Research reports that over 20% of U.S. businesses now integrate AI into operations, with nearly 25% of firms expecting to adopt the technology within the next six months, signaling rapid operational scaling for SMEs and corporations.",
+      "source": "Seeking Alpha",
+      "sourceUrl": "https://seekingalpha.com/news/4608921-us-business-ai-adoption-tops-20-nearly-a-quarter-of-firms-expect-to-use-ai-within-six-months-gs",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "ai-infra-selloff-july17",
-      "date": "17 July 2026",
-      "headline": "Stocks Sink on Anxiety About Tech and A.I. Spending Amid Rising Chinese Competition",
-      "summary": "Global markets tumbled as investor unease surged over massive AI spending amid intensified competition from China, with the S&P 500 falling 1% and the Nasdaq down 1.4%. Nvidia, Alphabet, Meta, and SpaceX all saw significant declines, while Taiwan Semiconductor Manufacturing Co. shares dropped over 7% after announcing a $100 billion U.S. investment.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/2026/07/17/business/stocks-ai-tech-wall-street.html",
+      "id": "tsmc-arizona-expansion",
+      "date": "20 July 2026",
+      "headline": "TSMC Plans Additional $100 Billion U.S. Expansion Despite Construction Worker Shortages",
+      "summary": "Major chipmaker TSMC announced a new $100 billion investment to expand its Arizona manufacturing facilities to meet multi-year AI chip demand, though executives warn a shortage of construction workers could delay timelines and impact supply chain reliability.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "apple-openai-secrets-litigation",
-      "date": "17 July 2026",
-      "headline": "Apple Sues OpenAI Over Alleged Trade Secret Theft for AI Gadgets",
-      "summary": "Apple filed a lawsuit alleging OpenAI stole over 400 Apple engineers' trade secrets to develop unrevealed AI gadgets, creating the single largest legal risk ahead of OpenAI's confidential $730 billion IPO filing in September[4][6]. This litigation could delay or derail OpenAI's public debut, impacting investor confidence and AI infrastructure investment plans for enterprise partners.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Strategy"
+      "id": "agentic-ai-production",
+      "date": "18 July 2026",
+      "headline": "Entrust Launches Agentic AI Trust Accelerator to Move Autonomous Agents from Pilot to Production",
+      "summary": "Entrust introduced a co-development program helping enterprises deploy autonomous AI agents safely into production, addressing the critical operational risk and compliance challenges businesses face when scaling agentic AI beyond pilot projects.",
+      "source": "Solutions Review",
+      "sourceUrl": "https://www.linkedin.com/pulse/enterprise-technology-news-week-july-17th-2026-solutionsreview-com-k3src",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQH2oksz6rKxaA/article-cover_image-shrink_720_1280/B56Z9xj4yZIgAQ-/0/1784316661135?e=2147483647&amp;v=beta&amp;t=ZdWTma75c4Kieg9LfW2oq7XpcQ9LQYVr9o_uQiAjkOs",
+      "category": "AI Adoption"
     }
   ]
 }
