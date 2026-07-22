@@ -1,16 +1,16 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-21T09:23:40.008Z",
+  "lastUpdated": "2026-07-22T09:23:05.047Z",
   "articles": [
     {
-      "id": "anthropic-settlement-2026",
-      "date": "21 July 2026",
-      "headline": "Anthropic settles authors' class action for $1.5B, clearing path for broader AI training data use",
-      "summary": "A federal judge in San Francisco approved Anthropic's $1.5 billion settlement with authors who claimed their books were misused to train Claude, a landmark resolution that reduces legal risk for AI firms and may accelerate commercial adoption of generative AI across enterprises [1].",
+      "id": "reuters-vw-horizon-carizon-2026-07-22",
+      "date": "22 July 2026",
+      "headline": "Volkswagen deepens China self-driving partnership with Horizon Robotics",
+      "summary": "Volkswagen's China-based automated driving unit CARIZON is deepening its partnership with Horizon Robotics to speed up advanced self-driving development. The move matters for businesses because it signals continued investment in autonomous vehicle technology that could reshape fleet costs, vehicle capability, and supplier competition in the auto and mobility sectors.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
       "id": "nvidia-cosmos-3-edge-2026",

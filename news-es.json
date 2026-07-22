@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-18T08:45:19.336Z",
+  "lastUpdated": "2026-07-22T09:23:13.214Z",
   "articles": [
+    {
+      "id": "tech-layoffs-2026-ai-impact",
+      "date": "22 July 2026",
+      "headline": "Las tecnológicas concretaron más de 45.000 despidos en 2026 y atribuyen parte del ajuste al impacto de la IA",
+      "summary": "La noticia es relevante para empresas porque sugiere que la IA ya está influyendo en la estructura de costes y en la planificación de plantilla del sector tecnológico. También puede anticipar más presión para automatizar procesos y revisar presupuestos de software, talento y productividad.",
+      "source": "Ámbito",
+      "sourceUrl": "https://www.ambito.com/negocios/las-tecnologicas-concretaron-mas-45000-despidos-lo-que-va-2026-y-dicen-que-el-20-es-el-impacto-la-ia-n6253835",
+      "imageUrl": "https://media.ambito.com/p/a648a06171f16e5b7aa69d96f45a06d2/adjuntos/239/imagenes/042/860/0042860345/empleo-desempleo-despido.jpg",
+      "category": "Automatización"
+    },
+    {
+      "id": "security-ai-first-2026",
+      "date": "22 July 2026",
+      "headline": "2026: cuando la tecnología deja de asistir y empieza a tomar decisiones",
+      "summary": "La pieza subraya que la seguridad AI-first se está convirtiendo en un vector central para 2026, lo que importa a empresas por el aumento del riesgo operativo y de cumplimiento al automatizar decisiones. Es una señal de que la gobernanza, el control de acceso y la protección de datos deben incorporarse desde el diseño de cualquier despliegue de IA.",
+      "source": "INESDI",
+      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
+      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
+      "category": "Regulación"
+    },
     {
       "id": "iai-roi-2026",
       "date": "16 July 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.laecuaciondigital.com/analisis-opinion/entrevistas/cuando-la-ia-deja-de-ser-piloto-y-empieza-a-rendir-cuentas/",
       "imageUrl": "https://www.laecuaciondigital.com/wp-content/uploads/2026/02/amaya-cerezo-sas-la-ecuacion-digital.jpg",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "ibm-stock-drop-ai-capex-shift",
-      "date": "15 July 2026",
-      "headline": "IBM cae un 17%: los clientes desvían presupuestos de TI hacia IA y acaparamiento de hardware",
-      "summary": "IBM anunció ingresos de 17.000 millones de dólares, por debajo de los 18.000 millones esperados, debido a que grandes clientes trasladaron su capital hacia servidores, almacenamiento y memoria para asegurar suministro antes de futuras subidas de precios. Este movimiento refleja una reorientación estratégica masiva de las inversiones tech corporativas hacia la infraestructura de IA, afectando la planificación financiera de proveedores tradicionales de TI [4].",
-      "source": "Companies Automation",
-      "sourceUrl": "https://companiesautomation.com/es/blog/radar-ia-empresas-2026-07-15",
-      "imageUrl": "https://ryftzwaytqrikopogrwt.supabase.co/storage/v1/object/public/blog-images/mcp/7a3a7e4b-1084-43f2-9737-f45d006188eb-radar-ia-empresas-2026-07-15-social-es.jpg",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tech-layoffs-ia-2026",
-      "date": "13 July 2026",
-      "headline": "Las tecnológicas concretaron más de 45.000 despidos en 2026, con un 20% vinculado directamente a la IA",
-      "summary": "Las empresas tecnológicas han ejecutado 45.363 despidos en lo que va de 2026, de los cuales aproximadamente 9.200 (20%) están directamente ligados a la adopción de inteligencia artificial y automatización. Si el ritmo se mantiene, los recortes podrían superar 260.000 puestos antes de fin de año, impactando masivamente en la planificación de empleo y costes operativos de corporaciones y pymes del sector.",
-      "source": "Ámbito",
-      "sourceUrl": "https://www.ambito.com/negocios/las-tecnologicas-concretaron-mas-45000-despidos-lo-que-va-2026-y-dicen-que-el-20-es-el-impacto-la-ia-n6253835",
-      "imageUrl": "https://media.ambito.com/p/a648a06171f16e5b7aa69d96f45a06d2/adjuntos/239/imagenes/042/860/0042860345/empleo-desempleo-despido.jpg",
-      "category": "Automatización"
     }
   ]
 }
