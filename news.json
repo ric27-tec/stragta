@@ -1,16 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-23T09:21:14.300Z",
+  "lastUpdated": "2026-07-24T09:16:08.912Z",
   "articles": [
     {
-      "id": "reuters-intel-amd-china-server-deals",
-      "date": "23 July 2026",
-      "headline": "Intel and AMD sign longer-term server CPU deals with Chinese customers as prices surge",
-      "summary": "Longer purchase commitments in China can support revenue visibility for Intel and AMD, but they also signal tight supply and rising data-center processor prices. For businesses, this points to continued pressure on cloud and server costs, especially for companies that depend on AI infrastructure or large-scale compute capacity.",
+      "id": "swift-blockchain-ledger-banks",
+      "date": "24 July 2026",
+      "headline": "SWIFT launches blockchain shared ledger with 16 banks to speed cross-border payments",
+      "summary": "SWIFT has launched a blockchain-based shared ledger with an initial group of 16 banks, including Citi and HSBC, to enable round-the-clock payments. For businesses, this could eventually mean faster settlement, lower friction in international trade, and more competition for stablecoin-based payment rails.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "mistral-microsoft-compute-deal",
+      "date": "21 July 2026",
+      "headline": "Microsoft strikes a multibillion-dollar compute deal with Mistral",
+      "summary": "Microsoft reached a multibillion-dollar deal to rent AI infrastructure from Mistral, underscoring how quickly demand for compute capacity is becoming a strategic enterprise issue. The deal matters for business leaders because it reflects the rising cost and importance of AI infrastructure, especially for firms evaluating cloud spending and vendor dependence.",
+      "source": "Tech Xplore",
+      "sourceUrl": "https://techxplore.com/archive/21-07-2026/",
+      "imageUrl": "",
+      "category": "AI Adoption"
     },
     {
       "id": "nvidia-cosmos-3-edge-2026",
@@ -20,16 +30,6 @@
       "source": "TechPostScript",
       "sourceUrl": "https://www.techpostscript.com/p/this-week-in-tech-week-ending-jul-bc4",
       "imageUrl": "https://substackcdn.com/image/fetch/$s_!opZA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d0147dd-3f59-4799-b824-287e35dee122_1100x825.jpeg",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "blue-chip-adoption",
-      "date": "20 July 2026",
-      "headline": "U.S. Business AI Adoption Tops 20% as Nearly a Quarter of Firms Plan Integration Within Six Months",
-      "summary": "Goldman Sachs Global Investment Research reports that over 20% of U.S. businesses now integrate AI into operations, with nearly 25% of firms expecting to adopt the technology within the next six months, signaling rapid operational scaling for SMEs and corporations.",
-      "source": "Seeking Alpha",
-      "sourceUrl": "https://seekingalpha.com/news/4608921-us-business-ai-adoption-tops-20-nearly-a-quarter-of-firms-expect-to-use-ai-within-six-months-gs",
-      "imageUrl": "",
       "category": "AI Adoption"
     }
   ]

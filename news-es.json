@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-22T09:23:13.214Z",
+  "lastUpdated": "2026-07-24T09:16:17.275Z",
   "articles": [
+    {
+      "id": "teleco-pressure-hedge-funds-2026-07-21",
+      "date": "21 July 2026",
+      "headline": "Una teleco cae con fuerza en bolsa tras presión vendedora de hedge funds",
+      "summary": "Aunque el titular es de mercado más que de producto, la caída refleja tensión financiera en infraestructura de telecomunicaciones, un sector clave para conectividad empresarial y gasto en red. Para compañías que dependen de proveedores telco, esto puede afectar inversión, precios y estabilidad contractual.",
+      "source": "Cinco Días",
+      "sourceUrl": "https://cincodias.elpais.com/hemeroteca/2026-07-21/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
     {
       "id": "tech-layoffs-2026-ai-impact",
       "date": "22 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
       "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
       "category": "Regulación"
-    },
-    {
-      "id": "iai-roi-2026",
-      "date": "16 July 2026",
-      "headline": "SAS define 2026 como el año de inflexión donde la IA debe demostrar impacto operativo y económico real",
-      "summary": "SAS establece que en 2026 la inteligencia artificial deja la fase de 'piloto' para exigir rendición de cuentas económica, midiendo su éxito por su impacto operativo directo. Para las empresas, esto implica que la adopción de IA ya no se justifica por innovación, sino por reducción de costes y mejora de productividad, obligando a revisar los modelos de inversión en proyectos de IA sin resultados cuantificables [2].",
-      "source": "La Ecuación Digital",
-      "sourceUrl": "https://www.laecuaciondigital.com/analisis-opinion/entrevistas/cuando-la-ia-deja-de-ser-piloto-y-empieza-a-rendir-cuentas/",
-      "imageUrl": "https://www.laecuaciondigital.com/wp-content/uploads/2026/02/amaya-cerezo-sas-la-ecuacion-digital.jpg",
-      "category": "Adopción de IA"
     }
   ]
 }
