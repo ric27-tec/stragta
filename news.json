@@ -1,12 +1,22 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-24T09:16:08.912Z",
+  "lastUpdated": "2026-07-25T08:56:17.879Z",
   "articles": [
     {
-      "id": "swift-blockchain-ledger-banks",
+      "id": "cisa-incident-playbook-2026",
+      "date": "25 July 2026",
+      "headline": "CISA says it had to build its incident playbook during a live cybersecurity event",
+      "summary": "TechCrunch reports that the U.S. cybersecurity agency CISA had to develop parts of its incident response playbook while the incident was still unfolding. For businesses, the key implication is that public-sector cyber readiness remains uneven, reinforcing the need for stronger internal response plans and vendor controls.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "meta-ai-chip-production-september-2026",
       "date": "24 July 2026",
-      "headline": "SWIFT launches blockchain shared ledger with 16 banks to speed cross-border payments",
-      "summary": "SWIFT has launched a blockchain-based shared ledger with an initial group of 16 banks, including Citi and HSBC, to enable round-the-clock payments. For businesses, this could eventually mean faster settlement, lower friction in international trade, and more competition for stablecoin-based payment rails.",
+      "headline": "Meta to start producing its own AI chip in September, aiming to double computing capacity",
+      "summary": "Meta plans to begin manufacturing an in-house AI chip in September as part of a broader push to expand computing capacity. For businesses, this signals continued pressure on AI infrastructure demand and a race to secure cheaper, more controllable compute for large-scale AI deployment.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
@@ -20,16 +30,6 @@
       "source": "Tech Xplore",
       "sourceUrl": "https://techxplore.com/archive/21-07-2026/",
       "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "nvidia-cosmos-3-edge-2026",
-      "date": "20 July 2026",
-      "headline": "Nvidia releases Cosmos 3 Edge, a local-run physical AI model enabling robots to operate without data centers",
-      "summary": "Nvidia launched Cosmos 3 Edge, a 4B-parameter open-source AI model that runs locally on devices, allowing robots to understand their environment without cloud dependency—reducing latency, cutting cloud costs, and enhancing operational efficiency for automation deployments [1][9].",
-      "source": "TechPostScript",
-      "sourceUrl": "https://www.techpostscript.com/p/this-week-in-tech-week-ending-jul-bc4",
-      "imageUrl": "https://substackcdn.com/image/fetch/$s_!opZA!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d0147dd-3f59-4799-b824-287e35dee122_1100x825.jpeg",
       "category": "AI Adoption"
     }
   ]
