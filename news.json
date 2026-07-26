@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-25T08:56:17.879Z",
+  "lastUpdated": "2026-07-26T09:08:10.982Z",
   "articles": [
+    {
+      "id": "swift-blockchain-ledger-banks",
+      "date": "24 July 2026",
+      "headline": "Swift launches blockchain-based shared ledger with 16 banks to speed cross-border payments",
+      "summary": "Swift’s new shared ledger is aimed at round-the-clock international payments and positions the network against stablecoin-based alternatives. For businesses that move money across borders, this could eventually affect settlement speed, treasury operations, and payment infrastructure choices.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "google-dma-fine-search-ranking-app-store",
+      "date": "23 July 2026",
+      "headline": "EU fines Google €890 million under the Digital Markets Act",
+      "summary": "The fine is tied to alleged DMA violations and includes orders to change search ranking and app-store practices. This matters to businesses because it could alter platform economics, advertising visibility, and app distribution rules across Europe.",
+      "source": "Tech Policy & Regulation Watch",
+      "sourceUrl": "https://library.mikesailab.com/library/News/World-News/Tech-Policy-Regulation/July_2026/Tech-Policy-Regulation-Watch_07-23-26/Tech-Policy-Regulation-Watch_07-23-26",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
     {
       "id": "cisa-incident-playbook-2026",
       "date": "25 July 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://techcrunch.com/2026/07/",
       "imageUrl": "",
       "category": "Regulation"
-    },
-    {
-      "id": "meta-ai-chip-production-september-2026",
-      "date": "24 July 2026",
-      "headline": "Meta to start producing its own AI chip in September, aiming to double computing capacity",
-      "summary": "Meta plans to begin manufacturing an in-house AI chip in September as part of a broader push to expand computing capacity. For businesses, this signals continued pressure on AI infrastructure demand and a race to secure cheaper, more controllable compute for large-scale AI deployment.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "mistral-microsoft-compute-deal",
-      "date": "21 July 2026",
-      "headline": "Microsoft strikes a multibillion-dollar compute deal with Mistral",
-      "summary": "Microsoft reached a multibillion-dollar deal to rent AI infrastructure from Mistral, underscoring how quickly demand for compute capacity is becoming a strategic enterprise issue. The deal matters for business leaders because it reflects the rising cost and importance of AI infrastructure, especially for firms evaluating cloud spending and vendor dependence.",
-      "source": "Tech Xplore",
-      "sourceUrl": "https://techxplore.com/archive/21-07-2026/",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }
