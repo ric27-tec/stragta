@@ -1,26 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-26T09:08:10.982Z",
+  "lastUpdated": "2026-07-27T10:36:02.611Z",
   "articles": [
     {
-      "id": "swift-blockchain-ledger-banks",
+      "id": "aerospike-amd-google-gemini-fraud-detection",
       "date": "24 July 2026",
-      "headline": "Swift launches blockchain-based shared ledger with 16 banks to speed cross-border payments",
-      "summary": "Swift’s new shared ledger is aimed at round-the-clock international payments and positions the network against stablecoin-based alternatives. For businesses that move money across borders, this could eventually affect settlement speed, treasury operations, and payment infrastructure choices.",
+      "headline": "Aerospike, AMD and Google Gemini push real-time agentic fraud detection",
+      "summary": "Aerospike is combining its database, Google Gemini, the Agent Development Kit, and AMD EPYC-powered Cloud C4D VMs to support real-time fraud detection at machine speed. For businesses, this matters because faster detection can reduce payment fraud losses and improve response times in financial and commerce workflows.",
+      "source": "Solutions Review / LinkedIn pulse",
+      "sourceUrl": "https://www.linkedin.com/pulse/enterprise-technology-news-week-july-24th-2026-solutionsreview-com-l1crc",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQGKaLp15TyYMg/article-cover_image-shrink_720_1280/B56Z.VshI4GUAQ-/0/1784922903311?e=2147483647&amp;v=beta&amp;t=1Q4VjyAfL-C-KrZVG5TZCMhG3mahCUv5hKE8EBGFYkI",
+      "category": "Automation"
+    },
+    {
+      "id": "swift-blockchain-ledger-banks-payments",
+      "date": "24 July 2026",
+      "headline": "Swift launches blockchain-based shared ledger with major banks",
+      "summary": "Swift launched a blockchain-based shared ledger with an initial set of 16 banks, including Citi and HSBC, to enable round-the-clock payments and compete with stablecoins. This could matter for businesses that rely on cross-border payments because it may eventually change settlement speed, liquidity management, and transaction costs.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "google-dma-fine-search-ranking-app-store",
-      "date": "23 July 2026",
-      "headline": "EU fines Google €890 million under the Digital Markets Act",
-      "summary": "The fine is tied to alleged DMA violations and includes orders to change search ranking and app-store practices. This matters to businesses because it could alter platform economics, advertising visibility, and app distribution rules across Europe.",
-      "source": "Tech Policy & Regulation Watch",
-      "sourceUrl": "https://library.mikesailab.com/library/News/World-News/Tech-Policy-Regulation/July_2026/Tech-Policy-Regulation-Watch_07-23-26/Tech-Policy-Regulation-Watch_07-23-26",
-      "imageUrl": "",
-      "category": "Regulation"
     },
     {
       "id": "cisa-incident-playbook-2026",
