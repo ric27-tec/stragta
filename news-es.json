@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-26T09:08:13.690Z",
+  "lastUpdated": "2026-07-28T09:32:08.516Z",
   "articles": [
+    {
+      "id": "ia-reglas-onu-2026-07-25",
+      "date": "25 July 2026",
+      "headline": "La ONU pide reglas más sólidas para la inteligencia artificial",
+      "summary": "Un informe de Naciones Unidas advierte que el avance de la IA va por delante de la regulación y reclama evaluaciones independientes, cooperación internacional y normas comunes. Para las empresas, esto apunta a mayores exigencias futuras de cumplimiento, gobernanza de datos y trazabilidad en el uso de modelos de IA.",
+      "source": "Noticias ONU",
+      "sourceUrl": "https://news.un.org/es/story/2026/07/1541630",
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023_UNICEF_India.jpg/image770x420cropped.jpg",
+      "category": "Regulación"
+    },
     {
       "id": "google-multa-comision-europea-23-07-2026",
       "date": "23 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.ambito.com/negocios/las-tecnologicas-concretaron-mas-45000-despidos-lo-que-va-2026-y-dicen-que-el-20-es-el-impacto-la-ia-n6253835",
       "imageUrl": "https://media.ambito.com/p/a648a06171f16e5b7aa69d96f45a06d2/adjuntos/239/imagenes/042/860/0042860345/empleo-desempleo-despido.jpg",
       "category": "Automatización"
-    },
-    {
-      "id": "security-ai-first-2026",
-      "date": "22 July 2026",
-      "headline": "2026: cuando la tecnología deja de asistir y empieza a tomar decisiones",
-      "summary": "La pieza subraya que la seguridad AI-first se está convirtiendo en un vector central para 2026, lo que importa a empresas por el aumento del riesgo operativo y de cumplimiento al automatizar decisiones. Es una señal de que la gobernanza, el control de acceso y la protección de datos deben incorporarse desde el diseño de cualquier despliegue de IA.",
-      "source": "INESDI",
-      "sourceUrl": "https://www.inesdi.com/noticias/2026-cuando-la-tecnologia-deja-de-asistir-y-empieza-tomar-decisiones/",
-      "imageUrl": "https://inesdi-cdn.s3.eu-west-3.amazonaws.com/inesdi-prod/styles/large/s3/2026-01/1768299062921.png.webp?itok=wkwWiVNz",
-      "category": "Regulación"
     }
   ]
 }
