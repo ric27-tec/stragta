@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-29T09:33:33.960Z",
+  "lastUpdated": "2026-07-30T09:25:55.785Z",
   "articles": [
+    {
+      "id": "swift-blockchain-shared-ledger-banks",
+      "date": "27 July 2026",
+      "headline": "Swift launches blockchain shared ledger with 16 banks",
+      "summary": "Swift has launched a blockchain-based shared ledger with 16 banks including Citi and HSBC to support round-the-clock payments. For businesses, this could eventually reduce settlement friction, improve cross-border payment speed, and reshape competition with stablecoins and other payment rails.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "openai-sandbox-breach",
       "date": "26 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://globaladvisors.biz/2026/07/25/global-advisors-news-brief-2026-07-25/",
       "imageUrl": "https://i0.wp.com/globaladvisors.biz/wp-content/uploads/2026/07/20260620_GlobalAdvisors_Marketing_Photos_News_Illustration_MW.png?fit=1360%2C600&ssl=1",
       "category": "AI Adoption"
-    },
-    {
-      "id": "cisa-incident-playbook-2026",
-      "date": "25 July 2026",
-      "headline": "CISA says it had to build its incident playbook during a live cybersecurity event",
-      "summary": "TechCrunch reports that the U.S. cybersecurity agency CISA had to develop parts of its incident response playbook while the incident was still unfolding. For businesses, the key implication is that public-sector cyber readiness remains uneven, reinforcing the need for stronger internal response plans and vendor controls.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/07/",
-      "imageUrl": "",
-      "category": "Regulation"
     }
   ]
 }

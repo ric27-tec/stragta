@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-28T09:32:08.516Z",
+  "lastUpdated": "2026-07-30T09:25:59.790Z",
   "articles": [
+    {
+      "id": "moonshot-ai-kimi-3-market-correction",
+      "date": "27 July 2026",
+      "headline": "Moonshot AI lanza Kimi 3 y provoca corrección en tecnológicas de Silicon Valley",
+      "summary": "Moonshot AI ha presentado Kimi 3, un modelo de razonamiento avanzado que, según la cobertura disponible, iguala o supera a suites occidentales líderes a una fracción del coste operativo. Para empresas, esto sugiere presión a la baja sobre costes de IA y más competencia en precio, dos factores que pueden acelerar adopción y afectar presupuestos de software e infraestructura.",
+      "source": "Bitban Technologies",
+      "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-27-julio-2026",
+      "imageUrl": "https://bcube.bitban.com/hubfs/Promo%20Radar%20azul%204.png",
+      "category": "Estrategia"
+    },
     {
       "id": "ia-reglas-onu-2026-07-25",
       "date": "25 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://saphialabs.com/noticias/2026-07-23",
       "imageUrl": "https://saphialabs.com/og-image.jpg",
       "category": "Regulación"
-    },
-    {
-      "id": "tech-layoffs-2026-ai-impact",
-      "date": "22 July 2026",
-      "headline": "Las tecnológicas concretaron más de 45.000 despidos en 2026 y atribuyen parte del ajuste al impacto de la IA",
-      "summary": "La noticia es relevante para empresas porque sugiere que la IA ya está influyendo en la estructura de costes y en la planificación de plantilla del sector tecnológico. También puede anticipar más presión para automatizar procesos y revisar presupuestos de software, talento y productividad.",
-      "source": "Ámbito",
-      "sourceUrl": "https://www.ambito.com/negocios/las-tecnologicas-concretaron-mas-45000-despidos-lo-que-va-2026-y-dicen-que-el-20-es-el-impacto-la-ia-n6253835",
-      "imageUrl": "https://media.ambito.com/p/a648a06171f16e5b7aa69d96f45a06d2/adjuntos/239/imagenes/042/860/0042860345/empleo-desempleo-despido.jpg",
-      "category": "Automatización"
     }
   ]
 }
