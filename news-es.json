@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-07-30T09:25:59.790Z",
+  "lastUpdated": "2026-08-02T09:05:45.948Z",
   "articles": [
+    {
+      "id": "apple-nvidia-openai-data-centers-2026-07-30",
+      "date": "30 July 2026",
+      "headline": "Apple supera a Nvidia mientras negocia una inversión de 250.000 millones de dólares con OpenAI para centros de datos",
+      "summary": "El cambio en la capitalización bursátil refleja cómo el mercado está revalorando a los líderes de IA e infraestructura. Para empresas y proveedores, la noticia sugiere mayor inversión en centros de datos y una posible intensificación de la demanda de cómputo, hardware y servicios ligados a IA.",
+      "source": "Infobae",
+      "sourceUrl": "https://www.infobae.com/america/agencias/2026/07/30/nvidia-cede-el-trono-a-apple-ia-redisena-proteinas-y-otros-clics-tecnologicos-de-america/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "ia-reglas-onu-2026-07-30",
+      "date": "30 July 2026",
+      "headline": "La ONU advierte que la inteligencia artificial avanza más rápido que las reglas",
+      "summary": "La brecha entre la velocidad de adopción de IA y la regulación plantea riesgos de cumplimiento para empresas que usan modelos generativos, automatización o tratamiento intensivo de datos. Para directivos, esto refuerza la necesidad de gobernanza interna, auditorías y control de riesgos legales y reputacionales.",
+      "source": "ONU Noticias",
+      "sourceUrl": "https://news.un.org/es/story/2026/07/1541630",
+      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023_UNICEF_India.jpg/image770x420cropped.jpg",
+      "category": "Regulación"
+    },
     {
       "id": "moonshot-ai-kimi-3-market-correction",
       "date": "27 July 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-27-julio-2026",
       "imageUrl": "https://bcube.bitban.com/hubfs/Promo%20Radar%20azul%204.png",
       "category": "Estrategia"
-    },
-    {
-      "id": "ia-reglas-onu-2026-07-25",
-      "date": "25 July 2026",
-      "headline": "La ONU pide reglas más sólidas para la inteligencia artificial",
-      "summary": "Un informe de Naciones Unidas advierte que el avance de la IA va por delante de la regulación y reclama evaluaciones independientes, cooperación internacional y normas comunes. Para las empresas, esto apunta a mayores exigencias futuras de cumplimiento, gobernanza de datos y trazabilidad en el uso de modelos de IA.",
-      "source": "Noticias ONU",
-      "sourceUrl": "https://news.un.org/es/story/2026/07/1541630",
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023_UNICEF_India.jpg/image770x420cropped.jpg",
-      "category": "Regulación"
-    },
-    {
-      "id": "google-multa-comision-europea-23-07-2026",
-      "date": "23 July 2026",
-      "headline": "La Comisión Europea multa a Google por prácticas anticompetitivas en búsqueda y Play Store",
-      "summary": "La Comisión Europea impuso a Google una multa de aproximadamente mil millones de dólares por manipular resultados de búsqueda y dificultar que desarrolladores dirijan clientes a ofertas más baratas fuera de Play Store. Para empresas digitales, esto puede afectar adquisición de clientes, distribución de apps y estrategias de precios en canales propios frente a plataformas dominantes.",
-      "source": "Saphia Labs",
-      "sourceUrl": "https://saphialabs.com/noticias/2026-07-23",
-      "imageUrl": "https://saphialabs.com/og-image.jpg",
-      "category": "Regulación"
     }
   ]
 }

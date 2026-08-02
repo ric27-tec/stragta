@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-07-31T09:38:32.319Z",
+  "lastUpdated": "2026-08-02T09:05:38.326Z",
   "articles": [
+    {
+      "id": "reuters-swift-blockchain-ledger-banks",
+      "date": "31 July 2026",
+      "headline": "Swift launches blockchain-based shared ledger with 16 banks",
+      "summary": "Swift’s blockchain-ledger rollout could affect cross-border payments, treasury operations, and settlement speed for banks and multinational companies. If it scales, it may reduce friction in round-the-clock payments and reshape competition around stablecoins and other payment rails.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "reuters-samsung-chip-shortage-2028",
+      "date": "30 July 2026",
+      "headline": "Samsung says chip shortage could extend to 2028",
+      "summary": "Samsung’s warning that the chip shortage may last until 2028 matters for companies that depend on memory and other semiconductors for devices, servers, and AI infrastructure. A prolonged shortage can keep input costs high, delay hardware deployments, and force procurement teams to revise supply plans.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sitemap/2026-07/30/1/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "ai-chip-selloff-market-reaction-2026-07-28",
       "date": "28 July 2026",
@@ -9,26 +29,6 @@
       "summary": "Technology shares fell sharply as investors reassessed the scale of AI infrastructure spending and the competitive threat from Chinese memory-chip makers. The move matters for businesses because it signals possible pressure on cloud, chip, and AI infrastructure costs, while also affecting supplier valuations and investment plans across the tech stack.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "ai-stock-rout-south-korea-japan-2026-07-28",
-      "date": "28 July 2026",
-      "headline": "Asia chip markets slump on AI sell-off and China chipmaking gains",
-      "summary": "Asian markets sold off heavily, with major chip names in South Korea and Japan falling as investors worried about AI spending, semiconductor valuations, and advances in Chinese chipmaking equipment. For executives, the key implication is potential volatility in memory and semiconductor supply chains, along with tighter scrutiny of AI capex assumptions.",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/jul/28/ai-sell-off-chip-stocks-slump-market-south-korea-japan-economy-latest-news",
-      "imageUrl": "https://i.guim.co.uk/img/media/73341c379e966aef74ab78eff45724cb38933f14/343_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=f3c0739e8111a978f7bdd0927509d8f9",
-      "category": "Strategy"
-    },
-    {
-      "id": "swift-blockchain-shared-ledger-banks",
-      "date": "27 July 2026",
-      "headline": "Swift launches blockchain shared ledger with 16 banks",
-      "summary": "Swift has launched a blockchain-based shared ledger with 16 banks including Citi and HSBC to support round-the-clock payments. For businesses, this could eventually reduce settlement friction, improve cross-border payment speed, and reshape competition with stablecoins and other payment rails.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     }
