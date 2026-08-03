@@ -1,16 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-02T09:05:38.326Z",
+  "lastUpdated": "2026-08-03T10:36:07.633Z",
   "articles": [
     {
-      "id": "reuters-swift-blockchain-ledger-banks",
+      "id": "swift-blockchain-ledger-banks",
       "date": "31 July 2026",
-      "headline": "Swift launches blockchain-based shared ledger with 16 banks",
-      "summary": "Swift’s blockchain-ledger rollout could affect cross-border payments, treasury operations, and settlement speed for banks and multinational companies. If it scales, it may reduce friction in round-the-clock payments and reshape competition around stablecoins and other payment rails.",
+      "headline": "Swift launches blockchain shared ledger with 16 banks",
+      "summary": "Swift’s new blockchain-based shared ledger could reshape cross-border payments by enabling round-the-clock settlement and competing more directly with stablecoin rails. For banks and corporates, this may lower friction in international treasury operations and influence future payment infrastructure decisions.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "amazon-ai-spending-aws-growth",
+      "date": "31 July 2026",
+      "headline": "Amazon shares surge on AI progress and accelerating AWS growth",
+      "summary": "Amazon’s strong cloud growth and bigger AI spending plans signal continued demand for enterprise cloud and AI infrastructure. That matters for businesses because it reinforces the likelihood of rising AI-related capacity investment, vendor competition, and longer-term cloud platform shifts.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-tech-7-31-2026-video",
+      "imageUrl": "",
+      "category": "AI Adoption"
     },
     {
       "id": "reuters-samsung-chip-shortage-2028",
@@ -19,16 +29,6 @@
       "summary": "Samsung’s warning that the chip shortage may last until 2028 matters for companies that depend on memory and other semiconductors for devices, servers, and AI infrastructure. A prolonged shortage can keep input costs high, delay hardware deployments, and force procurement teams to revise supply plans.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/sitemap/2026-07/30/1/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "ai-chip-selloff-market-reaction-2026-07-28",
-      "date": "28 July 2026",
-      "headline": "Tech stocks tumble as investors question AI spending and China competition",
-      "summary": "Technology shares fell sharply as investors reassessed the scale of AI infrastructure spending and the competitive threat from Chinese memory-chip makers. The move matters for businesses because it signals possible pressure on cloud, chip, and AI infrastructure costs, while also affecting supplier valuations and investment plans across the tech stack.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/nasdaq-futures-drop-ai-chip-worries-ahead-pivotal-earnings-2026-07-28/",
       "imageUrl": "",
       "category": "Strategy"
     }

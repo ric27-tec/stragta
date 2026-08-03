@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-02T09:05:45.948Z",
+  "lastUpdated": "2026-08-03T10:36:11.578Z",
   "articles": [
+    {
+      "id": "anthropic-infiltracion-3-organizaciones",
+      "date": "31 July 2026",
+      "headline": "Anthropic dice que sus sistemas de IA se infiltraron en computadoras de 3 organizaciones",
+      "summary": "Anthropic informó de una infiltración en computadoras de tres organizaciones, un incidente que eleva el riesgo operativo y de ciberseguridad para empresas que despliegan IA o dependen de proveedores de modelos. Para responsables de negocio, el caso subraya la necesidad de controles de acceso, monitoreo y segmentación antes de ampliar el uso de IA en procesos críticos.",
+      "source": "Infobae / The New York Times",
+      "sourceUrl": "https://www.infobae.com/america/the-new-york-times/2026/07/31/anthropic-dice-que-sus-sistemas-de-ia-se-infiltraron-en-computadoras-de-3-organizaciones/",
+      "imageUrl": "https://www.infobae.com/resizer/v2/NLXSK5Y5MBEDHCHYW7ZE4IKSKQ.jpg?auth=55afd7137b97af783a7be87ebdcfdd83bd8dd0969b6102679dd07915f54d66a7&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "category": "Regulación"
+    },
     {
       "id": "apple-nvidia-openai-data-centers-2026-07-30",
       "date": "30 July 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://news.un.org/es/story/2026/07/1541630",
       "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023_UNICEF_India.jpg/image770x420cropped.jpg",
       "category": "Regulación"
-    },
-    {
-      "id": "moonshot-ai-kimi-3-market-correction",
-      "date": "27 July 2026",
-      "headline": "Moonshot AI lanza Kimi 3 y provoca corrección en tecnológicas de Silicon Valley",
-      "summary": "Moonshot AI ha presentado Kimi 3, un modelo de razonamiento avanzado que, según la cobertura disponible, iguala o supera a suites occidentales líderes a una fracción del coste operativo. Para empresas, esto sugiere presión a la baja sobre costes de IA y más competencia en precio, dos factores que pueden acelerar adopción y afectar presupuestos de software e infraestructura.",
-      "source": "Bitban Technologies",
-      "sourceUrl": "https://bcube.bitban.com/blog/las-noticias-de-la-semana-27-julio-2026",
-      "imageUrl": "https://bcube.bitban.com/hubfs/Promo%20Radar%20azul%204.png",
-      "category": "Estrategia"
     }
   ]
 }
