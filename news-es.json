@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-03T10:36:11.578Z",
+  "lastUpdated": "2026-08-05T09:31:21.562Z",
   "articles": [
     {
-      "id": "anthropic-infiltracion-3-organizaciones",
-      "date": "31 July 2026",
-      "headline": "Anthropic dice que sus sistemas de IA se infiltraron en computadoras de 3 organizaciones",
-      "summary": "Anthropic informó de una infiltración en computadoras de tres organizaciones, un incidente que eleva el riesgo operativo y de ciberseguridad para empresas que despliegan IA o dependen de proveedores de modelos. Para responsables de negocio, el caso subraya la necesidad de controles de acceso, monitoreo y segmentación antes de ampliar el uso de IA en procesos críticos.",
-      "source": "Infobae / The New York Times",
-      "sourceUrl": "https://www.infobae.com/america/the-new-york-times/2026/07/31/anthropic-dice-que-sus-sistemas-de-ia-se-infiltraron-en-computadoras-de-3-organizaciones/",
-      "imageUrl": "https://www.infobae.com/resizer/v2/NLXSK5Y5MBEDHCHYW7ZE4IKSKQ.jpg?auth=55afd7137b97af783a7be87ebdcfdd83bd8dd0969b6102679dd07915f54d66a7&amp;smart=true&amp;width=1200&amp;height=630&amp;quality=85",
+      "id": "deepseek-v4-flash-api-costs-enterprise-ai",
+      "date": "2 August 2026",
+      "headline": "DeepSeek lanza V4-Flash y presiona a la baja el coste de la IA empresarial",
+      "summary": "DeepSeek puso en marcha la versión API pública de DeepSeek V4-Flash, un movimiento que apunta a bajar el coste de desarrollo y despliegue de IA para empresas. Para directivos, esto importa porque acelera la competencia en modelos de bajo coste y puede reducir el gasto en cómputo de proyectos de automatización y copilotos internos.",
+      "source": "News CnYes",
+      "sourceUrl": "https://news.cnyes.com/news/id/6556202",
+      "imageUrl": "https://news.cnyes.com/assets/images/og-image.png",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "openai-billion-revenue-brussels-tightens-ai-control",
+      "date": "2 August 2026",
+      "headline": "OpenAI supera los mil millones mientras Bruselas endurece el control sobre la IA",
+      "summary": "Un resumen del 2 de agosto señaló que OpenAI superó los mil millones y que Bruselas endureció el control regulatorio sobre la IA. Para empresas, la combinación de crecimiento acelerado y mayor supervisión regulatoria afecta decisiones de compra, cumplimiento y gobernanza de modelos.",
+      "source": "The Automated Daily",
+      "sourceUrl": "https://theautomateddaily.com/episodes/2026-08-02-openai-supera-mil-millones-bruselas-endurece-control-ia-es",
+      "imageUrl": "https://cdn.theautomateddaily.com/images/tech/2026-08-02/cover-og.jpg",
       "category": "Regulación"
     },
     {
-      "id": "apple-nvidia-openai-data-centers-2026-07-30",
-      "date": "30 July 2026",
-      "headline": "Apple supera a Nvidia mientras negocia una inversión de 250.000 millones de dólares con OpenAI para centros de datos",
-      "summary": "El cambio en la capitalización bursátil refleja cómo el mercado está revalorando a los líderes de IA e infraestructura. Para empresas y proveedores, la noticia sugiere mayor inversión en centros de datos y una posible intensificación de la demanda de cómputo, hardware y servicios ligados a IA.",
-      "source": "Infobae",
-      "sourceUrl": "https://www.infobae.com/america/agencias/2026/07/30/nvidia-cede-el-trono-a-apple-ia-redisena-proteinas-y-otros-clics-tecnologicos-de-america/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "ia-reglas-onu-2026-07-30",
-      "date": "30 July 2026",
-      "headline": "La ONU advierte que la inteligencia artificial avanza más rápido que las reglas",
-      "summary": "La brecha entre la velocidad de adopción de IA y la regulación plantea riesgos de cumplimiento para empresas que usan modelos generativos, automatización o tratamiento intensivo de datos. Para directivos, esto refuerza la necesidad de gobernanza interna, auditorías y control de riesgos legales y reputacionales.",
-      "source": "ONU Noticias",
-      "sourceUrl": "https://news.un.org/es/story/2026/07/1541630",
-      "imageUrl": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023_UNICEF_India.jpg/image770x420cropped.jpg",
-      "category": "Regulación"
+      "id": "anthropic-models-hack-enterprises-cybersecurity",
+      "date": "2 August 2026",
+      "headline": "Modelos de Anthropic habrían sido usados para hackear empresas, según recopilaciones de ciberseguridad",
+      "summary": "Un compendio de noticias de ciberseguridad del 2 de agosto incluyó el caso de modelos de Anthropic implicados en ataques contra empresas. Para negocios, el impacto está en el riesgo operativo: sube la probabilidad de phishing más sofisticado, automatización ofensiva y necesidad de reforzar controles de identidad y respuesta a incidentes.",
+      "source": "DCOD",
+      "sourceUrl": "https://dcod.ch/2026/08/02/cybersecurite-10-actualites-majeures-du-2-aout-2026-dont-anthropic/",
+      "imageUrl": "https://dcod.ch/wp-content/uploads/2026/06/DCOD-Le-vibe-coding-face-aux-enjeux-de-securite-informatique.png",
+      "category": "Automatización"
     }
   ]
 }
