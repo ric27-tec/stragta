@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-05T09:31:21.562Z",
+  "lastUpdated": "2026-08-06T09:35:54.505Z",
   "articles": [
     {
-      "id": "deepseek-v4-flash-api-costs-enterprise-ai",
-      "date": "2 August 2026",
-      "headline": "DeepSeek lanza V4-Flash y presiona a la baja el coste de la IA empresarial",
-      "summary": "DeepSeek puso en marcha la versión API pública de DeepSeek V4-Flash, un movimiento que apunta a bajar el coste de desarrollo y despliegue de IA para empresas. Para directivos, esto importa porque acelera la competencia en modelos de bajo coste y puede reducir el gasto en cómputo de proyectos de automatización y copilotos internos.",
-      "source": "News CnYes",
-      "sourceUrl": "https://news.cnyes.com/news/id/6556202",
-      "imageUrl": "https://news.cnyes.com/assets/images/og-image.png",
+      "id": "alibaba-qwen3-max-ai-model-market-rally",
+      "date": "3 August 2026",
+      "headline": "Alibaba lanza su modelo de IA más grande y hace subir sus acciones",
+      "summary": "Alibaba presentó su modelo de IA más capaz hasta la fecha, y Reuters informó que el anuncio impulsó con fuerza sus acciones. Para empresas que compran IA o infraestructura, la señal es que la competencia en modelos avanzados sigue presionando precios y acelerando la carrera por rendimiento y coste.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sitemap/2026-08/03/1/",
+      "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "openai-billion-revenue-brussels-tightens-ai-control",
-      "date": "2 August 2026",
-      "headline": "OpenAI supera los mil millones mientras Bruselas endurece el control sobre la IA",
-      "summary": "Un resumen del 2 de agosto señaló que OpenAI superó los mil millones y que Bruselas endureció el control regulatorio sobre la IA. Para empresas, la combinación de crecimiento acelerado y mayor supervisión regulatoria afecta decisiones de compra, cumplimiento y gobernanza de modelos.",
-      "source": "The Automated Daily",
-      "sourceUrl": "https://theautomateddaily.com/episodes/2026-08-02-openai-supera-mil-millones-bruselas-endurece-control-ia-es",
-      "imageUrl": "https://cdn.theautomateddaily.com/images/tech/2026-08-02/cover-og.jpg",
+      "id": "openai-chatgpt-scam-network-cambodia",
+      "date": "3 August 2026",
+      "headline": "OpenAI ayuda a desbaratar una red de estafas que usaba ChatGPT",
+      "summary": "Help Net Security informó que OpenAI detalló una operación de fraude que utilizaba ChatGPT y que estaba operando desde Camboya. Para empresas y pymes, el impacto práctico es claro: aumenta el riesgo de ingeniería social asistida por IA y la necesidad de controles más fuertes sobre identidad, pagos y verificación interna.",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/08/03/openai-disrupts-chatgpt-scam-operation/",
+      "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/03103910/chatgpt.webp",
       "category": "Regulación"
     },
     {
-      "id": "anthropic-models-hack-enterprises-cybersecurity",
-      "date": "2 August 2026",
-      "headline": "Modelos de Anthropic habrían sido usados para hackear empresas, según recopilaciones de ciberseguridad",
-      "summary": "Un compendio de noticias de ciberseguridad del 2 de agosto incluyó el caso de modelos de Anthropic implicados en ataques contra empresas. Para negocios, el impacto está en el riesgo operativo: sube la probabilidad de phishing más sofisticado, automatización ofensiva y necesidad de reforzar controles de identidad y respuesta a incidentes.",
-      "source": "DCOD",
-      "sourceUrl": "https://dcod.ch/2026/08/02/cybersecurite-10-actualites-majeures-du-2-aout-2026-dont-anthropic/",
-      "imageUrl": "https://dcod.ch/wp-content/uploads/2026/06/DCOD-Le-vibe-coding-face-aux-enjeux-de-securite-informatique.png",
+      "id": "elastic-defend-vulnerable-driver-coverage",
+      "date": "3 August 2026",
+      "headline": "Elastic amplía la cobertura contra drivers vulnerables a más de 800",
+      "summary": "Help Net Security reportó que Elastic Defend amplió su cobertura para detectar más de 800 drivers vulnerables, reforzando la defensa frente a ataques BYOVD. Para organizaciones con equipos Windows y operaciones distribuidas, esto apunta a una prioridad creciente: bloquear técnicas de evasión que pueden paralizar endpoints y aumentar costes de respuesta.",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/08/03/elastic-defend-vulnerable-driver-detection/",
+      "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/03095324/elastic-1500.webp",
       "category": "Automatización"
     }
   ]

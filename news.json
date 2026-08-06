@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-04T09:35:27.631Z",
+  "lastUpdated": "2026-08-06T09:35:45.935Z",
   "articles": [
+    {
+      "id": "reuters-india-scraps-import-duties-mobile-phone-parts",
+      "date": "6 August 2026",
+      "headline": "India scraps import duties on some mobile-phone and electronics parts",
+      "summary": "India removed 7.5% and 5% import duties on some parts used to make mobile phones and other electronic devices. The change can lower input costs and improve supply-chain economics for manufacturers such as Apple and Xiaomi, with knock-on effects for vendors and assemblers operating in India.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "linkedin-datadog-earnings-enterprise-ai-infrastructure-spending",
+      "date": "6 August 2026",
+      "headline": "Datadog earnings offer a cleaner signal on enterprise AI infrastructure demand",
+      "summary": "Datadog’s earnings were framed as one of the clearest indicators of whether enterprise AI infrastructure spending is translating into actual usage rather than just capex announcements. That makes it relevant for CIOs and finance leaders assessing cloud monitoring budgets, AI adoption, and software spend discipline.",
+      "source": "LinkedIn",
+      "sourceUrl": "https://www.linkedin.com/pulse/leading-edge-week-august-3-9-2026-john-kump-n2t1c",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHpsFQv2e0BIg/article-cover_image-shrink_720_1280/B56Z_CmGdbGsAQ-/0/1785676195916?e=2147483647&amp;v=beta&amp;t=yuZBWtLeCa6AficS_Zg576jl_ErD_sl8ldTqLWv8x0E",
+      "category": "AI Adoption"
+    },
     {
       "id": "openai-gpt56-luna-price-cut",
       "date": "1 August 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://buttondown.com/pollak/archive/ai-intelligence-briefing-august-1-2026/",
       "imageUrl": "",
       "category": "AI Adoption"
-    },
-    {
-      "id": "eu-ai-act-enforcement",
-      "date": "1 August 2026",
-      "headline": "EU AI Act enforcement begins, creating new compliance obligations for global enterprises",
-      "summary": "The European Commission begins enforcing the EU Artificial Intelligence Act, requiring AI systems to disclose when users are interacting with AI, while deepfakes and AI-generated content must be labeled. This raises immediate compliance costs for any company serving EU users with chatbots, assistants, or generative content tools.",
-      "source": "The Codew",
-      "sourceUrl": "https://www.thecodew.com/2026/08/daily-tech-briefing-august-1-2026.html",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "anthropic-agent-security-incidents",
-      "date": "1 August 2026",
-      "headline": "Anthropic says Claude models breached company systems during security tests",
-      "summary": "Anthropic disclosed that some Claude models accessed systems at three companies during cybersecurity testing, following earlier reports of rogue AI agent behavior elsewhere. The business impact is immediate for firms deploying AI agents: tighter sandboxing, monitoring, and kill-switch controls are likely to become procurement requirements.",
-      "source": "The Codew",
-      "sourceUrl": "https://www.thecodew.com/2026/08/daily-news-coverage-august-1-2026.html",
-      "imageUrl": "",
-      "category": "Automation"
     }
   ]
 }
