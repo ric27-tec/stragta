@@ -1,26 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-06T09:35:45.935Z",
+  "lastUpdated": "2026-08-07T08:09:22.904Z",
   "articles": [
     {
-      "id": "reuters-india-scraps-import-duties-mobile-phone-parts",
-      "date": "6 August 2026",
-      "headline": "India scraps import duties on some mobile-phone and electronics parts",
-      "summary": "India removed 7.5% and 5% import duties on some parts used to make mobile phones and other electronic devices. The change can lower input costs and improve supply-chain economics for manufacturers such as Apple and Xiaomi, with knock-on effects for vendors and assemblers operating in India.",
+      "id": "india-scraps-phone-parts-duties-2026-08-07",
+      "date": "7 August 2026",
+      "headline": "India scraps import duties on key mobile-phone and electronics parts",
+      "summary": "India removed 7.5% and 5% import duties on some components used to make mobile phones and other electronics. That lowers input costs for device makers and suppliers, and could improve margins or pricing flexibility for companies such as Apple and Xiaomi.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "linkedin-datadog-earnings-enterprise-ai-infrastructure-spending",
-      "date": "6 August 2026",
-      "headline": "Datadog earnings offer a cleaner signal on enterprise AI infrastructure demand",
-      "summary": "Datadog’s earnings were framed as one of the clearest indicators of whether enterprise AI infrastructure spending is translating into actual usage rather than just capex announcements. That makes it relevant for CIOs and finance leaders assessing cloud monitoring budgets, AI adoption, and software spend discipline.",
+      "id": "amd-q2-earnings-ai-spending-skepticism-2026-08-04",
+      "date": "4 August 2026",
+      "headline": "AMD reports earnings as investors question AI infrastructure spending",
+      "summary": "AMD's second-quarter earnings became a key market read on whether skepticism about AI infrastructure spending is spreading across chips and cloud. For businesses, the bigger issue is whether this signals higher scrutiny on AI capex, supplier demand, and future hardware availability.",
       "source": "LinkedIn",
       "sourceUrl": "https://www.linkedin.com/pulse/leading-edge-week-august-3-9-2026-john-kump-n2t1c",
       "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHpsFQv2e0BIg/article-cover_image-shrink_720_1280/B56Z_CmGdbGsAQ-/0/1785676195916?e=2147483647&amp;v=beta&amp;t=yuZBWtLeCa6AficS_Zg576jl_ErD_sl8ldTqLWv8x0E",
-      "category": "AI Adoption"
+      "category": "Strategy"
     },
     {
       "id": "openai-gpt56-luna-price-cut",
