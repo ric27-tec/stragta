@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-07T08:09:22.904Z",
+  "lastUpdated": "2026-08-08T07:43:10.195Z",
   "articles": [
     {
-      "id": "india-scraps-phone-parts-duties-2026-08-07",
-      "date": "7 August 2026",
-      "headline": "India scraps import duties on key mobile-phone and electronics parts",
-      "summary": "India removed 7.5% and 5% import duties on some components used to make mobile phones and other electronics. That lowers input costs for device makers and suppliers, and could improve margins or pricing flexibility for companies such as Apple and Xiaomi.",
+      "id": "reuters-cloudflare-ai-spending",
+      "date": "5 August 2026",
+      "headline": "Cloudflare shares jump after forecast raise on higher AI-driven spending",
+      "summary": "Cloudflare raised its annual forecast and said enterprise spending on AI infrastructure is driving demand for its networking and security products. For businesses, this signals continued pressure to invest in cloud, edge security, and AI-ready infrastructure as AI adoption expands.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "amd-q2-earnings-ai-spending-skepticism-2026-08-04",
-      "date": "4 August 2026",
-      "headline": "AMD reports earnings as investors question AI infrastructure spending",
-      "summary": "AMD's second-quarter earnings became a key market read on whether skepticism about AI infrastructure spending is spreading across chips and cloud. For businesses, the bigger issue is whether this signals higher scrutiny on AI capex, supplier demand, and future hardware availability.",
-      "source": "LinkedIn",
-      "sourceUrl": "https://www.linkedin.com/pulse/leading-edge-week-august-3-9-2026-john-kump-n2t1c",
-      "imageUrl": "https://media.licdn.com/dms/image/v2/D5612AQHpsFQv2e0BIg/article-cover_image-shrink_720_1280/B56Z_CmGdbGsAQ-/0/1785676195916?e=2147483647&amp;v=beta&amp;t=yuZBWtLeCa6AficS_Zg576jl_ErD_sl8ldTqLWv8x0E",
+      "id": "reuters-spacex-ai-spending-earnings",
+      "date": "5 August 2026",
+      "headline": "SpaceX shares fall after first earnings report as AI spending climbs",
+      "summary": "SpaceX reported revenue growth and narrower losses, but investors sold the stock after it highlighted heavy AI-related capital spending, including data centers. The reaction matters for businesses because it reinforces how quickly AI infrastructure can absorb capital and shape market expectations for infrastructure-intensive companies.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/sp-500-dow-futures-inch-up-mideast-hopes-offset-spacex-amd-drag-2026-08-05/",
+      "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "openai-gpt56-luna-price-cut",
-      "date": "1 August 2026",
-      "headline": "OpenAI cuts GPT-5.6 Luna prices by 80% as AI cost pressure intensifies",
-      "summary": "OpenAI sharply reduced pricing for one of its GPT-5.6 models, signaling that enterprise AI buyers are becoming highly sensitive to token costs. For businesses, this could lower inference spend and accelerate adoption of AI tools, while also increasing pricing pressure across the model market.",
-      "source": "AI Intelligence Briefing",
-      "sourceUrl": "https://buttondown.com/pollak/archive/ai-intelligence-briefing-august-1-2026/",
+      "id": "nyt-google-ai-researchers-new-startup",
+      "date": "5 August 2026",
+      "headline": "Four top Google AI researchers form new start-up",
+      "summary": "Several senior Google AI researchers left to launch a new artificial intelligence company, with Jeff Dean leading the effort and Google providing backing. This is relevant to business leaders because it shows continued competition for elite AI talent and potential shifts in where frontier model innovation will come from.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
     }
   ]
 }
