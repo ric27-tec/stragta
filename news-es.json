@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-06T09:35:54.505Z",
+  "lastUpdated": "2026-08-09T07:48:44.109Z",
   "articles": [
+    {
+      "id": "meta-explicit-ai-ads-minors",
+      "date": "6 August 2026",
+      "headline": "Los anuncios de Meta están plagados de contenido explícito de menores hecho con IA",
+      "summary": "Meta enfrenta un problema de seguridad y moderación publicitaria que puede elevar el riesgo regulatorio y dañar la confianza de anunciantes y usuarios. Para empresas que compran publicidad digital, el caso subraya el riesgo de invertir en plataformas con controles débiles sobre contenido sintético y cumplimiento.",
+      "source": "WIRED en Español",
+      "sourceUrl": "https://es.wired.com/",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
     {
       "id": "alibaba-qwen3-max-ai-model-market-rally",
       "date": "3 August 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.helpnetsecurity.com/2026/08/03/openai-disrupts-chatgpt-scam-operation/",
       "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/03103910/chatgpt.webp",
       "category": "Regulación"
-    },
-    {
-      "id": "elastic-defend-vulnerable-driver-coverage",
-      "date": "3 August 2026",
-      "headline": "Elastic amplía la cobertura contra drivers vulnerables a más de 800",
-      "summary": "Help Net Security reportó que Elastic Defend amplió su cobertura para detectar más de 800 drivers vulnerables, reforzando la defensa frente a ataques BYOVD. Para organizaciones con equipos Windows y operaciones distribuidas, esto apunta a una prioridad creciente: bloquear técnicas de evasión que pueden paralizar endpoints y aumentar costes de respuesta.",
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/2026/08/03/elastic-defend-vulnerable-driver-detection/",
-      "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/03095324/elastic-1500.webp",
-      "category": "Automatización"
     }
   ]
 }

@@ -1,16 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-08T07:43:10.195Z",
+  "lastUpdated": "2026-08-09T07:48:39.714Z",
   "articles": [
     {
-      "id": "reuters-cloudflare-ai-spending",
-      "date": "5 August 2026",
-      "headline": "Cloudflare shares jump after forecast raise on higher AI-driven spending",
-      "summary": "Cloudflare raised its annual forecast and said enterprise spending on AI infrastructure is driving demand for its networking and security products. For businesses, this signals continued pressure to invest in cloud, edge security, and AI-ready infrastructure as AI adoption expands.",
+      "id": "airbnb-hits-four-year-high-as-investors-cheer-revenue-forecast-raise-ai-payoff-2026-08-08",
+      "date": "8 August 2026",
+      "headline": "Airbnb lifts revenue outlook as investors focus on AI payoff",
+      "summary": "Reuters reports that Airbnb shares hit a four-year high after the company raised its annual revenue forecast and investors cheered its AI-related gains. For businesses, this is a signal that AI features are beginning to show up in revenue guidance and market valuation, not just product demos.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "AI Adoption"
+    },
+    {
+      "id": "us-productivity-rises-faster-than-expected-second-quarter-2026-08-06",
+      "date": "6 August 2026",
+      "headline": "US productivity rises faster than expected as firms invest in AI",
+      "summary": "U.S. worker productivity grew faster than expected in the second quarter, and Reuters says further gains are likely as businesses invest in artificial intelligence. For business leaders, this points to AI continuing to support output growth while helping contain wage inflation, which can affect hiring plans, pricing, and margins.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/us-productivity-rises-faster-than-expected-second-quarter-2026-08-06/",
+      "imageUrl": "",
+      "category": "AI Adoption"
     },
     {
       "id": "reuters-spacex-ai-spending-earnings",
@@ -19,16 +29,6 @@
       "summary": "SpaceX reported revenue growth and narrower losses, but investors sold the stock after it highlighted heavy AI-related capital spending, including data centers. The reaction matters for businesses because it reinforces how quickly AI infrastructure can absorb capital and shape market expectations for infrastructure-intensive companies.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/business/media-telecom/sp-500-dow-futures-inch-up-mideast-hopes-offset-spacex-amd-drag-2026-08-05/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "nyt-google-ai-researchers-new-startup",
-      "date": "5 August 2026",
-      "headline": "Four top Google AI researchers form new start-up",
-      "summary": "Several senior Google AI researchers left to launch a new artificial intelligence company, with Jeff Dean leading the effort and Google providing backing. This is relevant to business leaders because it shows continued competition for elite AI talent and potential shifts in where frontier model innovation will come from.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/section/technology",
       "imageUrl": "",
       "category": "Strategy"
     }
