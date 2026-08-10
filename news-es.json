@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-09T07:48:44.109Z",
+  "lastUpdated": "2026-08-10T08:23:16.047Z",
   "articles": [
     {
-      "id": "meta-explicit-ai-ads-minors",
-      "date": "6 August 2026",
-      "headline": "Los anuncios de Meta están plagados de contenido explícito de menores hecho con IA",
-      "summary": "Meta enfrenta un problema de seguridad y moderación publicitaria que puede elevar el riesgo regulatorio y dañar la confianza de anunciantes y usuarios. Para empresas que compran publicidad digital, el caso subraya el riesgo de invertir en plataformas con controles débiles sobre contenido sintético y cumplimiento.",
-      "source": "WIRED en Español",
-      "sourceUrl": "https://es.wired.com/",
-      "imageUrl": "",
+      "id": "cyber-news-roundup-august-7-2026",
+      "date": "7 August 2026",
+      "headline": "Resumen de ciberseguridad del 7 de agosto de 2026",
+      "summary": "Este resumen agrupa incidentes y alertas de seguridad con potencial impacto operativo para empresas, incluyendo riesgos de brechas, interrupciones y respuesta a incidentes. Es útil para equipos de TI y dirección porque prioriza amenazas que pueden afectar continuidad, cumplimiento y costes de remediación.",
+      "source": "Integrity360",
+      "sourceUrl": "https://www.integrity360.com/es/cyber-news-roundup-august-7-2026",
+      "imageUrl": "https://www.integrity360.com/hubfs/i360_Threat-Intel-Weekly-Update_A.png",
       "category": "Regulación"
     },
     {
-      "id": "alibaba-qwen3-max-ai-model-market-rally",
-      "date": "3 August 2026",
-      "headline": "Alibaba lanza su modelo de IA más grande y hace subir sus acciones",
-      "summary": "Alibaba presentó su modelo de IA más capaz hasta la fecha, y Reuters informó que el anuncio impulsó con fuerza sus acciones. Para empresas que compran IA o infraestructura, la señal es que la competencia en modelos avanzados sigue presionando precios y acelerando la carrera por rendimiento y coste.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/sitemap/2026-08/03/1/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
+      "id": "seo-retorno-real-07-agosto-2026",
+      "date": "7 August 2026",
+      "headline": "El SEO puede ganar visibilidad y no generar negocio: cómo medir su retorno real",
+      "summary": "La pieza se centra en cómo evaluar el retorno económico del SEO, un tema relevante para pymes y áreas de marketing que necesitan justificar inversión digital con métricas de negocio. Ayuda a evitar gasto ineficiente en canales que generan tráfico pero no ingresos.",
+      "source": "Noticias de la Ciencia y la Tecnología",
+      "sourceUrl": "https://noticiasdelaciencia.com/",
+      "imageUrl": "https://noticiasdelaciencia.com/upload/images/08_2018/2533_img_1.png",
+      "category": "Estrategia"
     },
     {
-      "id": "openai-chatgpt-scam-network-cambodia",
-      "date": "3 August 2026",
-      "headline": "OpenAI ayuda a desbaratar una red de estafas que usaba ChatGPT",
-      "summary": "Help Net Security informó que OpenAI detalló una operación de fraude que utilizaba ChatGPT y que estaba operando desde Camboya. Para empresas y pymes, el impacto práctico es claro: aumenta el riesgo de ingeniería social asistida por IA y la necesidad de controles más fuertes sobre identidad, pagos y verificación interna.",
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/2026/08/03/openai-disrupts-chatgpt-scam-operation/",
-      "imageUrl": "https://img.helpnetsecurity.com/wp-content/uploads/2026/08/03103910/chatgpt.webp",
+      "id": "brecha-salud-150810-personas-2026",
+      "date": "7 August 2026",
+      "headline": "Notificación de una brecha que afectó a 150.810 personas",
+      "summary": "El reporte señala una brecha de datos con un volumen significativo de afectados y notificación a autoridades sanitarias de Estados Unidos. Para empresas, este tipo de incidente implica riesgo legal, de reputación y de costes de notificación, respuesta y posible litigio.",
+      "source": "Radar TNE",
+      "sourceUrl": "https://circulotne.com/noticias-de-tecnologia-ia-hoy-agosto-revista-tne.html",
+      "imageUrl": "https://circulotne.com/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-06-at-4.09.23-PM.jpeg",
       "category": "Regulación"
     }
   ]
