@@ -1,16 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-10T08:23:06.805Z",
+  "lastUpdated": "2026-08-12T08:10:55.207Z",
   "articles": [
     {
-      "id": "reuters-cloudflare-shares-ai-spending",
-      "date": "8 August 2026",
-      "headline": "Cloudflare shares jump after forecast raise on higher AI-driven spending",
-      "summary": "Cloudflare raised its annual forecast, saying enterprise spending on AI infrastructure is boosting demand for its networking and security products. That suggests businesses are still increasing AI-related infrastructure budgets, which may affect cloud, security, and edge-network spending plans.",
+      "id": "unitree-ipo-china-humanoid-robot-maker",
+      "date": "12 August 2026",
+      "headline": "Unitree prices Shanghai IPO at $904 million as humanoid robot demand surges",
+      "summary": "Chinese robot maker Unitree priced its Shanghai IPO at 150.80 yuan per share and aims to raise 6.1 billion yuan, making it the first mainland-listed humanoid robot manufacturer. The deal was more than 8,000 times oversubscribed, signaling strong investor appetite for robotics that could reshape automation demand, supplier spending, and long-term labor costs.",
+      "source": "Japan Times",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/08/12/tech/unitree-china-humanoid-robot-makers/",
+      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/12/556764.jpg?v=3.1",
+      "category": "Automation"
+    },
+    {
+      "id": "coreweave-spending-ai-cloud-demand-surge",
+      "date": "12 August 2026",
+      "headline": "CoreWeave raises spending plan after AI cloud demand beats estimates",
+      "summary": "CoreWeave increased its 2026 capital spending forecast after posting stronger-than-expected quarterly results, citing surging demand for AI cloud computing services. For businesses, the key implication is that AI infrastructure demand remains intense, which can keep capacity tight and cloud costs elevated for companies relying on large-scale model training or inference.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "AI Adoption"
     },
     {
       "id": "us-productivity-rises-faster-than-expected-second-quarter-2026-08-06",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.reuters.com/business/us-productivity-rises-faster-than-expected-second-quarter-2026-08-06/",
       "imageUrl": "",
       "category": "AI Adoption"
-    },
-    {
-      "id": "reuters-spacex-ai-spending-earnings",
-      "date": "5 August 2026",
-      "headline": "SpaceX shares fall after first earnings report as AI spending climbs",
-      "summary": "SpaceX reported revenue growth and narrower losses, but investors sold the stock after it highlighted heavy AI-related capital spending, including data centers. The reaction matters for businesses because it reinforces how quickly AI infrastructure can absorb capital and shape market expectations for infrastructure-intensive companies.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/media-telecom/sp-500-dow-futures-inch-up-mideast-hopes-offset-spacex-amd-drag-2026-08-05/",
-      "imageUrl": "",
-      "category": "Strategy"
     }
   ]
 }
