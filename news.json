@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-12T08:10:55.207Z",
+  "lastUpdated": "2026-08-13T08:14:22.401Z",
   "articles": [
     {
-      "id": "unitree-ipo-china-humanoid-robot-maker",
-      "date": "12 August 2026",
-      "headline": "Unitree prices Shanghai IPO at $904 million as humanoid robot demand surges",
-      "summary": "Chinese robot maker Unitree priced its Shanghai IPO at 150.80 yuan per share and aims to raise 6.1 billion yuan, making it the first mainland-listed humanoid robot manufacturer. The deal was more than 8,000 times oversubscribed, signaling strong investor appetite for robotics that could reshape automation demand, supplier spending, and long-term labor costs.",
-      "source": "Japan Times",
-      "sourceUrl": "https://www.japantimes.co.jp/business/2026/08/12/tech/unitree-china-humanoid-robot-makers/",
-      "imageUrl": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/12/556764.jpg?v=3.1",
-      "category": "Automation"
+      "id": "coreweave-stock-surge-ai-cloud-demand",
+      "date": "13 August 2026",
+      "headline": "CoreWeave shares jump as revenue doubles and backlog hits $104 billion",
+      "summary": "CoreWeave’s surge signals that demand for AI cloud capacity remains intense, even as investors worry about infrastructure constraints and bubble risk. For businesses, this points to continued pressure on AI compute availability and pricing, especially for companies building AI products or buying large amounts of cloud capacity.",
+      "source": "WSJ",
+      "sourceUrl": "https://www.wsj.com/tech",
+      "imageUrl": "",
+      "category": "Strategy"
     },
     {
-      "id": "coreweave-spending-ai-cloud-demand-surge",
-      "date": "12 August 2026",
-      "headline": "CoreWeave raises spending plan after AI cloud demand beats estimates",
-      "summary": "CoreWeave increased its 2026 capital spending forecast after posting stronger-than-expected quarterly results, citing surging demand for AI cloud computing services. For businesses, the key implication is that AI infrastructure demand remains intense, which can keep capacity tight and cloud costs elevated for companies relying on large-scale model training or inference.",
+      "id": "ryanair-google-cloud-ai-airline-operations",
+      "date": "13 August 2026",
+      "headline": "Ryanair signs five-year Google Cloud deal and expands AI use in operations",
+      "summary": "The deal shows how large operators are using cloud and AI to improve scheduling, customer operations, and efficiency. SMEs and larger firms should read this as evidence that AI adoption is moving from experimentation to core operational infrastructure in cost-sensitive industries.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "us-productivity-rises-faster-than-expected-second-quarter-2026-08-06",
-      "date": "6 August 2026",
-      "headline": "US productivity rises faster than expected as firms invest in AI",
-      "summary": "U.S. worker productivity grew faster than expected in the second quarter, and Reuters says further gains are likely as businesses invest in artificial intelligence. For business leaders, this points to AI continuing to support output growth while helping contain wage inflation, which can affect hiring plans, pricing, and margins.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/us-productivity-rises-faster-than-expected-second-quarter-2026-08-06/",
-      "imageUrl": "",
+      "id": "meta-open-weight-push-ai-regulation",
+      "date": "10 August 2026",
+      "headline": "Meta doubles down on open-weight AI as Zuckerberg calls for new rules",
+      "summary": "Meta’s move adds momentum to the open-weight AI debate and could influence how enterprises choose between proprietary and open models. Businesses should watch for downstream effects on model availability, deployment flexibility, and future regulatory expectations around AI releases.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "AI Adoption"
     }
   ]
