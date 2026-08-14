@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-13T08:14:22.401Z",
+  "lastUpdated": "2026-08-14T08:09:09.751Z",
   "articles": [
+    {
+      "id": "google-gemini-3-7-flash-coding-agent-workflows",
+      "date": "14 August 2026",
+      "headline": "Google unveils Gemini 3.7 Flash for coding and agent workflows",
+      "summary": "Google launched Gemini 3.7 Flash, a new AI model aimed at software coding and automated business tasks. For companies, the key implication is faster AI-assisted development and workflow automation, which could reduce software delivery time and improve productivity, even though Google did not disclose timing for a flagship Pro release.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "flock-rolls-out-auditing-accountability-controls",
+      "date": "13 August 2026",
+      "headline": "Flock adds police auditing and accountability controls after surveillance scrutiny",
+      "summary": "Flock introduced new safety controls in response to concerns about surveillance and police misuse of its technology. For businesses that buy or deploy monitoring, security, or workplace tracking tools, the story highlights rising compliance and reputational risk around data use and oversight.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Regulation"
+    },
     {
       "id": "coreweave-stock-surge-ai-cloud-demand",
       "date": "13 August 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.wsj.com/tech",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "ryanair-google-cloud-ai-airline-operations",
-      "date": "13 August 2026",
-      "headline": "Ryanair signs five-year Google Cloud deal and expands AI use in operations",
-      "summary": "The deal shows how large operators are using cloud and AI to improve scheduling, customer operations, and efficiency. SMEs and larger firms should read this as evidence that AI adoption is moving from experimentation to core operational infrastructure in cost-sensitive industries.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "meta-open-weight-push-ai-regulation",
-      "date": "10 August 2026",
-      "headline": "Meta doubles down on open-weight AI as Zuckerberg calls for new rules",
-      "summary": "Meta’s move adds momentum to the open-weight AI debate and could influence how enterprises choose between proprietary and open models. Businesses should watch for downstream effects on model availability, deployment flexibility, and future regulatory expectations around AI releases.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "AI Adoption"
     }
   ]
 }

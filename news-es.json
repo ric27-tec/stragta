@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-13T08:14:29.778Z",
+  "lastUpdated": "2026-08-14T08:09:19.936Z",
   "articles": [
     {
-      "id": "tech-pulse-daily-2026-08-10",
-      "date": "10 August 2026",
-      "headline": "Google DeepMind lanza WeatherNext 2 para generar pronósticos en menos de dos minutos",
-      "summary": "DeepMind presentó WeatherNext 2, un modelo atmosférico que calcula pronósticos de conjunto de 1.000 miembros en menos de dos minutos. Para empresas con logística, energía, retail o cadenas de suministro, esto puede mejorar la planificación operativa ante clima extremo y reducir costes por decisiones tardías.",
-      "source": "Tech Pulse Daily",
-      "sourceUrl": "https://techbytes.app/tech-pulse-daily/2026/august/10/",
-      "imageUrl": "https://techbytes.app/images/openchamber-open-sources-risc-v-agentic-ide-compete-claude-code-codex.jpg",
-      "category": "Investigación"
-    },
-    {
-      "id": "new-mexico-meta-public-nuisance",
-      "date": "8 August 2026",
-      "headline": "Nuevo México declara a las plataformas de Meta como un 'perjuicio público' por daños a la salud mental",
-      "summary": "Un regulador/autoridad estatal elevó el riesgo legal y reputacional para Meta, con posibles efectos sobre costes de cumplimiento, litigios y diseño de producto. Para empresas que dependen de publicidad o integración con plataformas sociales, el caso refuerza la probabilidad de más presión regulatoria sobre uso de datos, salud mental y seguridad de menores.",
+      "id": "zoom-screen-share-vulnerability-2026-08-11",
+      "date": "11 August 2026",
+      "headline": "Un fallo en Zoom al compartir pantalla dejaba expuestas computadoras a hackers",
+      "summary": "WIRED en Español informó de una vulnerabilidad ya corregida en Zoom que permitía a atacantes comprometer equipos durante una videollamada. Para empresas, el caso refuerza el riesgo operativo de las herramientas de colaboración y la necesidad de aplicar parches, revisar permisos y reforzar controles de seguridad.",
       "source": "WIRED en Español",
       "sourceUrl": "https://es.wired.com/",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "cyber-news-roundup-august-7-2026",
-      "date": "7 August 2026",
-      "headline": "Resumen de ciberseguridad del 7 de agosto de 2026",
-      "summary": "Este resumen agrupa incidentes y alertas de seguridad con potencial impacto operativo para empresas, incluyendo riesgos de brechas, interrupciones y respuesta a incidentes. Es útil para equipos de TI y dirección porque prioriza amenazas que pueden afectar continuidad, cumplimiento y costes de remediación.",
-      "source": "Integrity360",
-      "sourceUrl": "https://www.integrity360.com/es/cyber-news-roundup-august-7-2026",
-      "imageUrl": "https://www.integrity360.com/hubfs/i360_Threat-Intel-Weekly-Update_A.png",
+      "id": "meta-security-child-safety-fine-2026-08-11",
+      "date": "11 August 2026",
+      "headline": "Meta recibe una multa de US$567 millones por seguridad infantil",
+      "summary": "BBC News Mundo informó de la mayor sanción en un caso de seguridad infantil contra una gran plataforma social. Para empresas que dependen de publicidad digital, plataformas sociales o cumplimiento de datos y seguridad, este fallo subraya el aumento del riesgo regulatorio y financiero para las plataformas tecnológicas.",
+      "source": "BBC News Mundo",
+      "sourceUrl": "https://www.bbc.com/mundo/topics/cyx5krnw38vt",
+      "imageUrl": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/mundo/images/metadata/poster-1024x576.png",
       "category": "Regulación"
+    },
+    {
+      "id": "ai-created-functional-viruses-2026-08-11",
+      "date": "11 August 2026",
+      "headline": "La IA habría diseñado virus funcionales en un laboratorio por primera vez",
+      "summary": "Un reporte de CS TIC TV indica que un estudio en Science mostró que la inteligencia artificial diseñó virus funcionales por primera vez. Aunque es una noticia de investigación, para empresas de biotecnología, salud y bioseguridad implica nuevos riesgos de dual use, supervisión regulatoria y control de acceso a modelos avanzados.",
+      "source": "BLOG CS TIC TV",
+      "sourceUrl": "https://blog.cstictv.com/2026/08/11/",
+      "imageUrl": "",
+      "category": "Investigación"
     }
   ]
 }
