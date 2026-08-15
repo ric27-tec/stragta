@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-14T08:09:19.936Z",
+  "lastUpdated": "2026-08-15T07:24:24.895Z",
   "articles": [
     {
-      "id": "zoom-screen-share-vulnerability-2026-08-11",
-      "date": "11 August 2026",
-      "headline": "Un fallo en Zoom al compartir pantalla dejaba expuestas computadoras a hackers",
-      "summary": "WIRED en Español informó de una vulnerabilidad ya corregida en Zoom que permitía a atacantes comprometer equipos durante una videollamada. Para empresas, el caso refuerza el riesgo operativo de las herramientas de colaboración y la necesidad de aplicar parches, revisar permisos y reforzar controles de seguridad.",
-      "source": "WIRED en Español",
-      "sourceUrl": "https://es.wired.com/",
-      "imageUrl": "",
-      "category": "Regulación"
+      "id": "china-export-controls-entities",
+      "date": "13 August 2026",
+      "headline": "China adds European entities to export-control list",
+      "summary": "China expanded export controls to 14 European entities, restricting dual-use shipments such as rare earths and permanent magnets without special authorization. That increases supply-chain risk for manufacturers and hardware buyers, especially those dependent on critical minerals, magnets, and industrial inputs tied to electronics and defense supply chains.",
+      "source": "CSIS",
+      "sourceUrl": "https://www.csis.org/analysis/pactech-pulse-august-2026",
+      "imageUrl": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-10/251007_PacTech_Pulse_cropped.jpg?VersionId=OriKuh0Xgn56.X8AXKCX09OF6yfQR3BW",
+      "category": "Estrategia"
     },
     {
-      "id": "meta-security-child-safety-fine-2026-08-11",
-      "date": "11 August 2026",
-      "headline": "Meta recibe una multa de US$567 millones por seguridad infantil",
-      "summary": "BBC News Mundo informó de la mayor sanción en un caso de seguridad infantil contra una gran plataforma social. Para empresas que dependen de publicidad digital, plataformas sociales o cumplimiento de datos y seguridad, este fallo subraya el aumento del riesgo regulatorio y financiero para las plataformas tecnológicas.",
-      "source": "BBC News Mundo",
-      "sourceUrl": "https://www.bbc.com/mundo/topics/cyx5krnw38vt",
-      "imageUrl": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/mundo/images/metadata/poster-1024x576.png",
-      "category": "Regulación"
+      "id": "openai-cyber-risk-controls",
+      "date": "13 August 2026",
+      "headline": "OpenAI tightens controls after cybersecurity risk concerns in upcoming model",
+      "summary": "OpenAI reportedly flagged a possible critical cybersecurity risk in an upcoming model and tightened controls around its release. For enterprises adopting frontier AI, this reinforces the need for vendor due diligence, restricted deployments, and internal governance before rolling out new models into sensitive workflows.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
+      "imageUrl": "",
+      "category": "Adopción de IA"
     },
     {
-      "id": "ai-created-functional-viruses-2026-08-11",
-      "date": "11 August 2026",
-      "headline": "La IA habría diseñado virus funcionales en un laboratorio por primera vez",
-      "summary": "Un reporte de CS TIC TV indica que un estudio en Science mostró que la inteligencia artificial diseñó virus funcionales por primera vez. Aunque es una noticia de investigación, para empresas de biotecnología, salud y bioseguridad implica nuevos riesgos de dual use, supervisión regulatoria y control de acceso a modelos avanzados.",
-      "source": "BLOG CS TIC TV",
-      "sourceUrl": "https://blog.cstictv.com/2026/08/11/",
+      "id": "cybersecurity-spending-ai-risks",
+      "date": "12 August 2026",
+      "headline": "Companies ramp up cybersecurity spending as AI risks grow",
+      "summary": "Gartner estimates information-security spending will rise 12.5% in 2026 to $240 billion, signaling that AI-driven threats are forcing companies to spend more on protection. For business leaders, this points to higher security budgets, stronger demand for managed security services, and more pressure to harden AI-enabled workflows and customer data.",
+      "source": "Moneycontrol",
+      "sourceUrl": "https://www.moneycontrol.com/world/openai-meta-anthropic-to-jpmorgan-companies-ramp-up-cybersecurity-spending-as-ai-risks-grow-article-14002771.html",
       "imageUrl": "",
-      "category": "Investigación"
+      "category": "Regulación"
     }
   ]
 }
