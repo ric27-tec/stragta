@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-15T07:24:17.930Z",
+  "lastUpdated": "2026-08-16T07:25:12.836Z",
   "articles": [
     {
-      "id": "google-gemini-37-flash-coding-agents",
-      "date": "13 August 2026",
-      "headline": "Google unveils Gemini 3.7 Flash for coding and agent workflows",
-      "summary": "Google’s new model is aimed at coding and agentic workflows, which could improve automation and software-development productivity for enterprises. Businesses that rely on software teams or AI assistants may see lower development friction and faster deployment cycles.",
+      "id": "reuters-alphabet-spacex-bet",
+      "date": "14 August 2026",
+      "headline": "Alphabet’s SpaceX bet grows 100-fold over a decade to $94 billion",
+      "summary": "Alphabet’s large and growing investment in SpaceX highlights how strategic tech capital is concentrating around space, communications, and infrastructure assets. For business leaders, the signal is that competitive pressure and supplier dependence in advanced connectivity and launch-related services may keep rising.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "reuters-ai-bond-yields-risk",
+      "date": "14 August 2026",
+      "headline": "AI-driven surge in bond yields could be next risk for markets and growth",
+      "summary": "Reuters flagged AI-related market pressures as a potential driver of higher bond yields, which matters for financing costs across corporate borrowing, capex plans, and valuations. If borrowing becomes more expensive, it could slow investment in AI infrastructure, software rollouts, and broader expansion budgets.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "ai-agents-cybersecurity-spending-boom",
-      "date": "12 August 2026",
-      "headline": "AI agents’ hacking skills are driving a rush in cybersecurity spending",
-      "summary": "Security teams are bracing for more capable AI-driven attacks, pushing companies to increase spending on protection tools and services. For businesses, this points to higher security budgets, stronger compliance demands, and more urgency around identity, endpoint, and email defenses.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&amp;w=1920&amp;h=1080",
-      "category": "Regulation"
-    },
-    {
-      "id": "optical-components-shortages-cloud-builders",
-      "date": "12 August 2026",
-      "headline": "Optical component shortages are forcing cloud builders to widen their supplier base",
-      "summary": "Severe shortages of high-speed optical components are reshaping data-center design and forcing cloud operators to rely on more vendors. For businesses, that can mean tighter cloud infrastructure supply, higher costs, and slower expansion of AI and storage capacity.",
-      "source": "IEEE ComSoc Technology Blog",
-      "sourceUrl": "https://techblog.comsoc.org/2026/08/",
-      "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "reuters-robotics-physical-ai-eu",
+      "date": "10 August 2026",
+      "headline": "Robotics and physical AI: securing EU market access after digital omnibus",
+      "summary": "EU market access rules for AI-enabled physical products are tightening around safety, cybersecurity, privacy, and non-discrimination risks. Manufacturers and integrators should treat this as a practical compliance issue that can affect product design, certification timelines, and time to market.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-pracin-2026-08-10/",
+      "imageUrl": "",
+      "category": "Regulation"
     }
   ]
 }

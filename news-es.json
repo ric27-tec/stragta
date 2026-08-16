@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-15T07:24:24.895Z",
+  "lastUpdated": "2026-08-16T07:25:21.453Z",
   "articles": [
+    {
+      "id": "nvidia-ai-infrastructure-financing",
+      "date": "14 August 2026",
+      "headline": "Nvidia joins funding push to scale AI infrastructure beyond $500 billion",
+      "summary": "Nvidia announced financing partnerships with major asset managers to help raise more than $500 billion in third-party capital for AI infrastructure. For businesses, this signals continued heavy investment in AI capacity, with likely effects on cloud pricing, GPU supply, and the cost of scaling AI workloads.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/machine-learning-ai/the-week-of-aug-10-14-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltb9d2f12fd68e635a/6a7f4e580dd8b203ca32a4b6/081426_IWK_Roundup_GettyImages-1839464937.png?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Estrategia"
+    },
     {
       "id": "china-export-controls-entities",
       "date": "13 August 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
       "imageUrl": "",
       "category": "Adopción de IA"
-    },
-    {
-      "id": "cybersecurity-spending-ai-risks",
-      "date": "12 August 2026",
-      "headline": "Companies ramp up cybersecurity spending as AI risks grow",
-      "summary": "Gartner estimates information-security spending will rise 12.5% in 2026 to $240 billion, signaling that AI-driven threats are forcing companies to spend more on protection. For business leaders, this points to higher security budgets, stronger demand for managed security services, and more pressure to harden AI-enabled workflows and customer data.",
-      "source": "Moneycontrol",
-      "sourceUrl": "https://www.moneycontrol.com/world/openai-meta-anthropic-to-jpmorgan-companies-ramp-up-cybersecurity-spending-as-ai-risks-grow-article-14002771.html",
-      "imageUrl": "",
-      "category": "Regulación"
     }
   ]
 }
