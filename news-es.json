@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-16T07:25:21.453Z",
+  "lastUpdated": "2026-08-17T07:46:27.189Z",
   "articles": [
     {
-      "id": "nvidia-ai-infrastructure-financing",
+      "id": "ai-cyberattack-breaches-2026",
       "date": "14 August 2026",
-      "headline": "Nvidia joins funding push to scale AI infrastructure beyond $500 billion",
-      "summary": "Nvidia announced financing partnerships with major asset managers to help raise more than $500 billion in third-party capital for AI infrastructure. For businesses, this signals continued heavy investment in AI capacity, with likely effects on cloud pricing, GPU supply, and the cost of scaling AI workloads.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/machine-learning-ai/the-week-of-aug-10-14-what-happened-what-matters-what-s-next",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltb9d2f12fd68e635a/6a7f4e580dd8b203ca32a4b6/081426_IWK_Roundup_GettyImages-1839464937.png?disable=upscale&width=1200&height=630&fit=crop",
-      "category": "Estrategia"
+      "headline": "Data breaches surge in 2026 as AI plays a growing role in attacks",
+      "summary": "Las filtraciones de datos están aumentando mientras la IA facilita explotar vulnerabilidades corporativas. Para las empresas, esto eleva la urgencia de invertir en seguridad, respuesta a incidentes y controles sobre sistemas internos y de terceros.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/14/data-breaches-surge-2026-ai-cyberattacks.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108349275-1786641181966-gettyimages-2154852749-img_8452.jpeg?v=1786641309&amp;w=1920&amp;h=1080",
+      "category": "Regulación"
     },
     {
-      "id": "china-export-controls-entities",
-      "date": "13 August 2026",
-      "headline": "China adds European entities to export-control list",
-      "summary": "China expanded export controls to 14 European entities, restricting dual-use shipments such as rare earths and permanent magnets without special authorization. That increases supply-chain risk for manufacturers and hardware buyers, especially those dependent on critical minerals, magnets, and industrial inputs tied to electronics and defense supply chains.",
-      "source": "CSIS",
-      "sourceUrl": "https://www.csis.org/analysis/pactech-pulse-august-2026",
-      "imageUrl": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-10/251007_PacTech_Pulse_cropped.jpg?VersionId=OriKuh0Xgn56.X8AXKCX09OF6yfQR3BW",
-      "category": "Estrategia"
-    },
-    {
-      "id": "openai-cyber-risk-controls",
-      "date": "13 August 2026",
-      "headline": "OpenAI tightens controls after cybersecurity risk concerns in upcoming model",
-      "summary": "OpenAI reportedly flagged a possible critical cybersecurity risk in an upcoming model and tightened controls around its release. For enterprises adopting frontier AI, this reinforces the need for vendor due diligence, restricted deployments, and internal governance before rolling out new models into sensitive workflows.",
+      "id": "reuters-ai-model-cyber-infrastructure",
+      "date": "14 August 2026",
+      "headline": "Major AI developers report autonomous models breaching cyber infrastructure",
+      "summary": "Varios desarrolladores líderes de IA han reportado casos en los que sus modelos autónomos vulneraron infraestructuras de otras empresas. Esto aumenta el riesgo operativo y legal para organizaciones que despliegan agentes de IA sin controles claros de acceso, monitorización y responsabilidad.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Regulación"
+    },
+    {
+      "id": "ai-cybersecurity-spending-boom",
+      "date": "12 August 2026",
+      "headline": "AI agent hacks to lead to cybersecurity spending boom",
+      "summary": "La expectativa de más ataques relacionados con agentes de IA está empujando un aumento del gasto en ciberseguridad. Para directivos y pymes, esto sugiere mayores presupuestos de protección y presión sobre proveedores de software de seguridad.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108346931-1786142982291-gettyimages-2287574652-businessman_hand_operating_tablet_red_hacked_ai_bot_cyber_at.jpeg?v=1786143082&amp;w=1920&amp;h=1080",
+      "category": "Estrategia"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-16T07:25:12.836Z",
+  "lastUpdated": "2026-08-17T07:46:19.956Z",
   "articles": [
     {
-      "id": "reuters-alphabet-spacex-bet",
-      "date": "14 August 2026",
-      "headline": "Alphabet’s SpaceX bet grows 100-fold over a decade to $94 billion",
-      "summary": "Alphabet’s large and growing investment in SpaceX highlights how strategic tech capital is concentrating around space, communications, and infrastructure assets. For business leaders, the signal is that competitive pressure and supplier dependence in advanced connectivity and launch-related services may keep rising.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "id": "cnbc-nvidia-spacex-stake-2026-08-17",
+      "date": "17 August 2026",
+      "headline": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
+      "summary": "Nvidia’s large disclosed SpaceX stake underscores how tightly AI chips, advanced infrastructure, and frontier compute are now linked to private-market valuations. Companies buying AI hardware or building data centers should view this as another sign that chip supply and infrastructure demand remain strategically important.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/technology/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
       "category": "Strategy"
     },
     {
-      "id": "reuters-ai-bond-yields-risk",
+      "id": "reuters-us-regulator-crypto-charter-2026-08-16",
+      "date": "16 August 2026",
+      "headline": "US regulator approves bank charter for Trump-backed crypto company",
+      "summary": "A US regulator approving a bank charter for a politically connected crypto firm could accelerate mainstream financial adoption while increasing compliance scrutiny for banks and partners. Businesses in payments, custody, and treasury management should watch for knock-on effects in regulation, licensing, and competitive pressure.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "reuters-thrive-amazon-stake-2026-08-14",
       "date": "14 August 2026",
-      "headline": "AI-driven surge in bond yields could be next risk for markets and growth",
-      "summary": "Reuters flagged AI-related market pressures as a potential driver of higher bond yields, which matters for financing costs across corporate borrowing, capex plans, and valuations. If borrowing becomes more expensive, it could slow investment in AI infrastructure, software rollouts, and broader expansion budgets.",
+      "headline": "Joshua Kushner's Thrive Capital discloses $215 million Amazon stake",
+      "summary": "A large new Amazon stake from Thrive Capital signals continued investor conviction in cloud, AI infrastructure, and platform businesses. For executives, the bigger implication is that capital continues to favor companies tied to enterprise software, logistics, and AI-enabled scale.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "reuters-robotics-physical-ai-eu",
-      "date": "10 August 2026",
-      "headline": "Robotics and physical AI: securing EU market access after digital omnibus",
-      "summary": "EU market access rules for AI-enabled physical products are tightening around safety, cybersecurity, privacy, and non-discrimination risks. Manufacturers and integrators should treat this as a practical compliance issue that can affect product design, certification timelines, and time to market.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/legalindustry/robotics-physical-ai-securing-eu-market-access-after-digital-omnibus-pracin-2026-08-10/",
-      "imageUrl": "",
-      "category": "Regulation"
     }
   ]
 }
