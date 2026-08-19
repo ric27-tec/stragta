@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-18T07:32:08.109Z",
+  "lastUpdated": "2026-08-19T07:32:26.844Z",
   "articles": [
     {
-      "id": "bis-export-license-country-group-d5-macau",
-      "date": "15 August 2026",
-      "headline": "U.S. export guidance tightens for advanced computing shipments tied to China-linked ownership",
-      "summary": "BIS clarified that advanced-computing export licenses are required for entities with ultimate parent companies in Country Group D:5 or Macau, even if subsidiaries are located elsewhere. This raises compliance, contract-review, and supply-chain risk for chip buyers, cloud providers, and global hardware distributors.",
-      "source": "OriginBrief",
-      "sourceUrl": "https://www.originbrief.app/en/reports/semiconductor-chip-industry/2026-08-17/weekly",
-      "imageUrl": "https://www.originbrief.app/report-preview.png",
-      "category": "Regulación"
-    },
-    {
-      "id": "nvidia-500b-ai-infrastructure",
-      "date": "14 August 2026",
-      "headline": "Nvidia moves to mobilize $500 billion for AI infrastructure, signaling a new financing model for enterprise compute",
-      "summary": "Nvidia’s financing push could accelerate data-center and GPU deployment, which matters for firms planning AI capacity, cloud costs, and supplier strategy. Business leaders should watch for spillover effects on hardware demand, financing terms, and the economics of scaling AI workloads.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/machine-learning-ai/the-week-of-aug-10-14-what-happened-what-matters-what-s-next",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/bltb9d2f12fd68e635a/6a7f4e580dd8b203ca32a4b6/081426_IWK_Roundup_GettyImages-1839464937.png?disable=upscale&width=1200&height=630&fit=crop",
+      "id": "reuters-data-centre-freeze-ai-boom",
+      "date": "19 August 2026",
+      "headline": "Governments are freezing new data centre builds as AI infrastructure strains power and water supplies",
+      "summary": "Regulators and cities are increasingly restricting or banning new data centre construction because of electricity costs, water use, land scarcity and community pressure. This raises execution risk and capex uncertainty for cloud buyers, AI deployers, and any business planning new infrastructure-dependent workloads.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "alibaba-cloud-modular-capacity",
-      "date": "14 August 2026",
-      "headline": "Alibaba Cloud says it cut AI data-center build time to 100 days and tripled modular capacity",
-      "summary": "Faster build cycles and more modular capacity can reduce time-to-market for enterprise AI projects and increase competitive pressure in cloud infrastructure. Companies buying cloud or AI services should watch whether this translates into lower deployment friction or more aggressive pricing.",
-      "source": "DIGITIMES",
-      "sourceUrl": "https://www.digitimes.com/regions/",
+      "id": "apple-eu-app-store-fees",
+      "date": "18 August 2026",
+      "headline": "Apple overhauls EU App Store fees and loosens rules for alternative app stores",
+      "summary": "Changes to App Store fees and distribution rules can alter customer-acquisition costs, pricing strategy, and app monetization for software vendors. Businesses selling digital products in Europe may need to reassess margins, channel mix, and compliance processes.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Estrategia"
+    },
+    {
+      "id": "techcrunch-august-2026-etched-valuation",
+      "date": "17 August 2026",
+      "headline": "Etched’s valuation doubles to $21B as AI-chip investors keep funding alternatives to Nvidia",
+      "summary": "A rapid valuation jump in an AI-chip startup signals continuing investor appetite for infrastructure that could challenge or complement incumbent accelerators. For businesses tracking AI compute costs, it suggests the market still expects major shifts in hardware supply, pricing, and procurement options.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/",
+      "imageUrl": "",
+      "category": "Investigación"
     }
   ]
 }
