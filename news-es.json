@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-19T07:32:26.844Z",
+  "lastUpdated": "2026-08-20T07:35:35.146Z",
   "articles": [
     {
-      "id": "reuters-data-centre-freeze-ai-boom",
-      "date": "19 August 2026",
-      "headline": "Governments are freezing new data centre builds as AI infrastructure strains power and water supplies",
-      "summary": "Regulators and cities are increasingly restricting or banning new data centre construction because of electricity costs, water use, land scarcity and community pressure. This raises execution risk and capex uncertainty for cloud buyers, AI deployers, and any business planning new infrastructure-dependent workloads.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "apple-eu-app-store-fees",
-      "date": "18 August 2026",
-      "headline": "Apple overhauls EU App Store fees and loosens rules for alternative app stores",
-      "summary": "Changes to App Store fees and distribution rules can alter customer-acquisition costs, pricing strategy, and app monetization for software vendors. Businesses selling digital products in Europe may need to reassess margins, channel mix, and compliance processes.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "techcrunch-august-2026-etched-valuation",
+      "id": "tech-current-daily-brief-2026-08-17",
       "date": "17 August 2026",
-      "headline": "Etched’s valuation doubles to $21B as AI-chip investors keep funding alternatives to Nvidia",
-      "summary": "A rapid valuation jump in an AI-chip startup signals continuing investor appetite for infrastructure that could challenge or complement incumbent accelerators. For businesses tracking AI compute costs, it suggests the market still expects major shifts in hardware supply, pricing, and procurement options.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/",
+      "headline": "OpenAI amplía anuncios en ChatGPT y crecen las obligaciones ocultas de la IA en grandes tecnológicas",
+      "summary": "La ampliación de anuncios en ChatGPT sugiere una monetización más agresiva de productos de IA, relevante para empresas que dependen de la plataforma o compiten en publicidad digital. El mismo briefing destaca que nueve grandes tecnológicas acumulan cerca de 3 billones de dólares en compromisos ligados a IA, sobre todo en centros de datos, chips y equipamiento, lo que puede presionar inversión, costes y valoración del sector.",
+      "source": "Tech Current Daily Brief",
+      "sourceUrl": "https://teccurrent.com/articles/daily-brief-2026-08-17/",
+      "imageUrl": "https://teccurrent.com/article-images/news.webp",
+      "category": "Estrategia"
+    },
+    {
+      "id": "wsj-alibaba-game-sale-ai-focus-2026-08-17",
+      "date": "17 August 2026",
+      "headline": "Alibaba vende su negocio de videojuegos por 1.500 millones y acelera su giro hacia la IA",
+      "summary": "La desinversión muestra una reasignación de capital hacia IA en una gran tecnológica china, con posibles efectos sobre competencia, gasto de inversión y prioridades de producto. Para empresas que compran tecnología o venden a Asia, el movimiento refuerza que la presión por concentrar recursos en IA está alterando carteras y estrategias globales.",
+      "source": "The Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N",
       "imageUrl": "",
-      "category": "Investigación"
+      "category": "Estrategia"
+    },
+    {
+      "id": "stocktitan-hive-ai-cloud-deal-2026-08-17",
+      "date": "17 August 2026",
+      "headline": "HIVE cierra un contrato de 350 millones de dólares para servicios cloud de IA",
+      "summary": "El acuerdo apunta a una demanda comercial fuerte de capacidad de nube para IA y puede mejorar ingresos recurrentes de proveedores que pivotan desde cripto hacia infraestructura de IA. Para compradores corporativos, señala un mercado todavía competitivo pero con señales de consolidación y especialización en cómputo para IA.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/2026-08-17/",
+      "imageUrl": "https://static.stocktitan.net/img/stock_titan_thumbnail.webp",
+      "category": "Estrategia"
     }
   ]
 }

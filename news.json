@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-19T07:32:18.370Z",
+  "lastUpdated": "2026-08-20T07:35:22.313Z",
   "articles": [
     {
-      "id": "anthropic-revenue-run-rate",
-      "date": "15 August 2026",
-      "headline": "Anthropic’s annualized revenue run rate tops $65 billion",
-      "summary": "Anthropic’s rapid revenue growth signals accelerating enterprise demand for AI tools and could intensify competition in model pricing, cloud spend, and productivity software budgets. For businesses, the key implication is that leading AI vendors are scaling faster than expected, which may affect procurement decisions and integration roadmaps.",
+      "id": "reuters-ant-international-ai-banks-2026-08-20",
+      "date": "20 August 2026",
+      "headline": "Ant International upgrades AI model as banks adopt specialized tools for liquidity risk",
+      "summary": "Ant International launched an upgraded AI model and said major global banks are signing up as financial institutions accelerate specialized AI adoption for liquidity risk management. For businesses, this signals continued enterprise demand for AI that can directly affect treasury operations, risk controls, and financial planning.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "AI Adoption"
     },
     {
-      "id": "us-urge-apple-memory-chips",
-      "date": "15 August 2026",
-      "headline": "U.S. urges Apple not to buy Chinese memory chips",
-      "summary": "The policy pressure highlights ongoing tech decoupling and supply-chain risk in memory chips, with potential implications for sourcing, costs, and inventory planning across the electronics industry. Companies exposed to Asian semiconductor supply chains may need to reassess supplier diversification and compliance risk.",
-      "source": "The Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/tech",
-      "imageUrl": "",
-      "category": "Regulation"
+      "id": "cnn-chatgpt-for-teens-2026-08-19",
+      "date": "19 August 2026",
+      "headline": "OpenAI rolls out ChatGPT for Teens with extra safety protections",
+      "summary": "OpenAI is introducing a teen-focused ChatGPT experience with additional safety protections. While consumer-facing, the move matters for employers and schools because it shows how AI platforms are tightening age-specific controls and safety features that can spill over into broader governance expectations.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "AI Adoption"
     },
     {
-      "id": "zai-cyberdefense-model",
-      "date": "15 August 2026",
-      "headline": "China’s Z.ai says new model nears Anthropic in cyber-defence tests",
-      "summary": "If the claims hold, more capable AI-assisted cyber defense could improve detection and code review for enterprises, while also raising the bar for attackers. Business leaders should see this as another sign that AI is moving deeper into security operations and software assurance workflows.",
-      "source": "Enterprise AI Newsletter",
-      "sourceUrl": "https://enterpriseai.economictimes.indiatimes.com/newsletter?for_date=2026-08-15&activity_id=304",
+      "id": "techcrunch-amazon-prime-air-nearly-500-cities-2026-08-18",
+      "date": "18 August 2026",
+      "headline": "Amazon Prime Air expands toward nearly 500 U.S. cities",
+      "summary": "Amazon’s Prime Air is expanding rapidly, with coverage reported in nearly 500 U.S. cities. For local businesses and e-commerce operators, faster drone delivery could raise competitive pressure on fulfillment speed and last-mile expectations.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/",
       "imageUrl": "",
-      "category": "Research"
+      "category": "Automation"
     }
   ]
 }
