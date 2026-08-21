@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-20T07:35:35.146Z",
+  "lastUpdated": "2026-08-21T07:37:12.795Z",
   "articles": [
     {
-      "id": "tech-current-daily-brief-2026-08-17",
-      "date": "17 August 2026",
-      "headline": "OpenAI amplía anuncios en ChatGPT y crecen las obligaciones ocultas de la IA en grandes tecnológicas",
-      "summary": "La ampliación de anuncios en ChatGPT sugiere una monetización más agresiva de productos de IA, relevante para empresas que dependen de la plataforma o compiten en publicidad digital. El mismo briefing destaca que nueve grandes tecnológicas acumulan cerca de 3 billones de dólares en compromisos ligados a IA, sobre todo en centros de datos, chips y equipamiento, lo que puede presionar inversión, costes y valoración del sector.",
-      "source": "Tech Current Daily Brief",
-      "sourceUrl": "https://teccurrent.com/articles/daily-brief-2026-08-17/",
-      "imageUrl": "https://teccurrent.com/article-images/news.webp",
-      "category": "Estrategia"
-    },
-    {
-      "id": "wsj-alibaba-game-sale-ai-focus-2026-08-17",
-      "date": "17 August 2026",
-      "headline": "Alibaba vende su negocio de videojuegos por 1.500 millones y acelera su giro hacia la IA",
-      "summary": "La desinversión muestra una reasignación de capital hacia IA en una gran tecnológica china, con posibles efectos sobre competencia, gasto de inversión y prioridades de producto. Para empresas que compran tecnología o venden a Asia, el movimiento refuerza que la presión por concentrar recursos en IA está alterando carteras y estrategias globales.",
-      "source": "The Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N",
+      "id": "reuters-india-it-ai-contracts",
+      "date": "20 August 2026",
+      "headline": "La IA está reconfigurando los contratos de servicios TI en India",
+      "summary": "Los clientes están exigiendo más por menos, lo que presiona márgenes y acelera la automatización en uno de los principales centros globales de servicios tecnológicos. Para grandes empresas y pymes que subcontratan desarrollo, soporte o back office, esto puede traducirse en renegociaciones, menor coste unitario y cambios en la estructura de proveedores.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
+      "category": "Automatización"
+    },
+    {
+      "id": "anthropic-65b-run-rate",
+      "date": "18 August 2026",
+      "headline": "Anthropic alcanza una tasa anualizada de ingresos de 65.000 millones de dólares",
+      "summary": "Anthropic está creciendo a una velocidad que confirma una demanda empresarial muy fuerte por IA generativa, con implicaciones directas para gasto en modelos, competencia entre proveedores y negociación de contratos corporativos. Para las empresas, esto sugiere más presión sobre precios, más concentración de oferta y mayor urgencia por definir una estrategia de IA con varios proveedores.",
+      "source": "The Art of CTO",
+      "sourceUrl": "https://theartofcto.com/daily-sync/2026-08-18-daily-sync",
+      "imageUrl": "https://theartofcto.com/og-image.png",
       "category": "Estrategia"
     },
     {
-      "id": "stocktitan-hive-ai-cloud-deal-2026-08-17",
-      "date": "17 August 2026",
-      "headline": "HIVE cierra un contrato de 350 millones de dólares para servicios cloud de IA",
-      "summary": "El acuerdo apunta a una demanda comercial fuerte de capacidad de nube para IA y puede mejorar ingresos recurrentes de proveedores que pivotan desde cripto hacia infraestructura de IA. Para compradores corporativos, señala un mercado todavía competitivo pero con señales de consolidación y especialización en cómputo para IA.",
-      "source": "StockTitan",
-      "sourceUrl": "https://www.stocktitan.net/news/2026-08-17/",
-      "imageUrl": "https://static.stocktitan.net/img/stock_titan_thumbnail.webp",
+      "id": "openai-ohio-data-center",
+      "date": "18 August 2026",
+      "headline": "OpenAI cierra un gran arrendamiento de centro de datos en Ohio con respaldo de Nvidia",
+      "summary": "El acuerdo refuerza la carrera por infraestructura de IA y apunta a mayor demanda de energía, tierra, construcción y hardware especializado. Para empresas de nube, chips y servicios industriales, esto puede traducirse en más inversión, más competencia por capacidad y posibles cambios en costes de infraestructura.",
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/print-edition/20260818/business-and-finance",
+      "imageUrl": "",
       "category": "Estrategia"
     }
   ]

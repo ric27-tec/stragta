@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-20T07:35:22.313Z",
+  "lastUpdated": "2026-08-21T07:37:03.110Z",
   "articles": [
     {
-      "id": "reuters-ant-international-ai-banks-2026-08-20",
+      "id": "reuters-prime-video-latin-america-investment",
       "date": "20 August 2026",
-      "headline": "Ant International upgrades AI model as banks adopt specialized tools for liquidity risk",
-      "summary": "Ant International launched an upgraded AI model and said major global banks are signing up as financial institutions accelerate specialized AI adoption for liquidity risk management. For businesses, this signals continued enterprise demand for AI that can directly affect treasury operations, risk controls, and financial planning.",
+      "headline": "Prime Video plans to invest more than $2 billion in Latin America",
+      "summary": "Amazon’s streaming unit plans a major expansion across Mexico, Brazil, Argentina, Colombia, and Chile through 2030. For businesses, the move signals continued pressure in regional media, sports rights, advertising, and cloud-backed digital content competition.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
     },
     {
-      "id": "cnn-chatgpt-for-teens-2026-08-19",
-      "date": "19 August 2026",
-      "headline": "OpenAI rolls out ChatGPT for Teens with extra safety protections",
-      "summary": "OpenAI is introducing a teen-focused ChatGPT experience with additional safety protections. While consumer-facing, the move matters for employers and schools because it shows how AI platforms are tightening age-specific controls and safety features that can spill over into broader governance expectations.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "AI Adoption"
+      "id": "reuters-marvell-google-custom-ai-chip-deal",
+      "date": "20 August 2026",
+      "headline": "Marvell gives Google option to buy a $12.2 billion stake in custom AI chip deal",
+      "summary": "The deal underscores how hyperscalers are locking in custom silicon to control AI infrastructure costs and supply. That matters for enterprises because it can reshape cloud pricing, chip demand, and the balance of power in AI infrastructure.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Strategy"
     },
     {
-      "id": "techcrunch-amazon-prime-air-nearly-500-cities-2026-08-18",
-      "date": "18 August 2026",
-      "headline": "Amazon Prime Air expands toward nearly 500 U.S. cities",
-      "summary": "Amazon’s Prime Air is expanding rapidly, with coverage reported in nearly 500 U.S. cities. For local businesses and e-commerce operators, faster drone delivery could raise competitive pressure on fulfillment speed and last-mile expectations.",
+      "id": "techcrunch-micro1-ai-training-boom",
+      "date": "20 August 2026",
+      "headline": "AI data startup Micro1 reaches $500 million gross run rate amid AI training boom",
+      "summary": "Micro1’s rapid scale points to continued enterprise demand for data and model-training infrastructure. Businesses tracking AI adoption should note the strength of the training ecosystem, which can influence vendor availability, pricing, and project timelines.",
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/08/",
       "imageUrl": "",
-      "category": "Automation"
+      "category": "AI Adoption"
     }
   ]
 }
