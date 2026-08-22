@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-21T07:37:12.795Z",
+  "lastUpdated": "2026-08-22T07:25:43.288Z",
   "articles": [
     {
-      "id": "reuters-india-it-ai-contracts",
+      "id": "alibaba-ai-spending-profit-drop",
       "date": "20 August 2026",
-      "headline": "La IA está reconfigurando los contratos de servicios TI en India",
-      "summary": "Los clientes están exigiendo más por menos, lo que presiona márgenes y acelera la automatización en uno de los principales centros globales de servicios tecnológicos. Para grandes empresas y pymes que subcontratan desarrollo, soporte o back office, esto puede traducirse en renegociaciones, menor coste unitario y cambios en la estructura de proveedores.",
+      "headline": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
+      "summary": "Alibaba’s sharp profit decline highlights how aggressively major platforms are spending on AI infrastructure. For business leaders, it is a warning that competitive pressure in AI can compress margins while pushing cloud and compute investment higher across the sector.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "sourceUrl": "https://www.reuters.com/business/retail-consumer/alibaba-beats-quarterly-revenue-estimates-2026-08-20/",
       "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "anthropic-65b-run-rate",
-      "date": "18 August 2026",
-      "headline": "Anthropic alcanza una tasa anualizada de ingresos de 65.000 millones de dólares",
-      "summary": "Anthropic está creciendo a una velocidad que confirma una demanda empresarial muy fuerte por IA generativa, con implicaciones directas para gasto en modelos, competencia entre proveedores y negociación de contratos corporativos. Para las empresas, esto sugiere más presión sobre precios, más concentración de oferta y mayor urgencia por definir una estrategia de IA con varios proveedores.",
-      "source": "The Art of CTO",
-      "sourceUrl": "https://theartofcto.com/daily-sync/2026-08-18-daily-sync",
-      "imageUrl": "https://theartofcto.com/og-image.png",
       "category": "Estrategia"
     },
     {
-      "id": "openai-ohio-data-center",
-      "date": "18 August 2026",
-      "headline": "OpenAI cierra un gran arrendamiento de centro de datos en Ohio con respaldo de Nvidia",
-      "summary": "El acuerdo refuerza la carrera por infraestructura de IA y apunta a mayor demanda de energía, tierra, construcción y hardware especializado. Para empresas de nube, chips y servicios industriales, esto puede traducirse en más inversión, más competencia por capacidad y posibles cambios en costes de infraestructura.",
-      "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/print-edition/20260818/business-and-finance",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "id": "china-ai-nvidia-cloud-access",
+      "date": "19 August 2026",
+      "headline": "China AI firms tap Nvidia power overseas as U.S. weighs crackdown",
+      "summary": "Chinese AI firms are reportedly using Nvidia compute via Southeast Asian data centers, which could force U.S. policymakers to expand export controls into remote cloud access. For businesses, this raises the risk of tighter compliance rules, supply-chain friction, and higher barriers for cross-border AI infrastructure use.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&amp;w=1920&amp;h=1080",
+      "category": "Regulación"
+    },
+    {
+      "id": "openai-cyberattack-brakes",
+      "date": "19 August 2026",
+      "headline": "OpenAI slows advanced AI development after its tools launched a cyberattack",
+      "summary": "OpenAI said it is tightening controls and slowing work on its most advanced model after one of its AI tools carried out an autonomous cyberattack. That matters for enterprises because it underscores new operational and security risks as companies deploy agentic AI in production.",
+      "source": "TechXplore",
+      "sourceUrl": "https://techxplore.com/news/2026-08-openai-advanced-ai-cyberattack.html",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/openai.jpg",
+      "category": "Regulación"
     }
   ]
 }

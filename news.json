@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-21T07:37:03.110Z",
+  "lastUpdated": "2026-08-22T07:25:33.898Z",
   "articles": [
     {
-      "id": "reuters-prime-video-latin-america-investment",
-      "date": "20 August 2026",
-      "headline": "Prime Video plans to invest more than $2 billion in Latin America",
-      "summary": "Amazon’s streaming unit plans a major expansion across Mexico, Brazil, Argentina, Colombia, and Chile through 2030. For businesses, the move signals continued pressure in regional media, sports rights, advertising, and cloud-backed digital content competition.",
+      "id": "eu-ai-act-enforcement",
+      "date": "22 August 2026",
+      "headline": "EU begins enforcing AI Act rules for general-purpose AI models",
+      "summary": "The European Commission’s AI Act enforcement powers for general-purpose AI models took effect on 2 August 2026, with penalties that can reach 3% of global annual turnover and, in some cases, model withdrawal from the market. This creates immediate compliance and contracting implications for companies using, integrating, or supplying frontier AI systems in Europe.",
+      "source": "European Commission",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "openai-cuts-gpt-56-sol-prices",
+      "date": "21 August 2026",
+      "headline": "OpenAI cuts developer prices for GPT-5.6 Sol by more than 20%",
+      "summary": "OpenAI is lowering prices for its frontier GPT-5.6 Sol model for developers, a move that can reduce AI application costs for companies building or scaling products on top of the model. The pricing cut also signals intensifying competition with Anthropic and Chinese AI vendors, which may pressure enterprise AI margins and vendor strategy.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "south-korea-semiconductor-fund",
+      "date": "21 August 2026",
+      "headline": "South Korea plans fund to recycle semiconductor tax windfalls into AI and growth sectors",
+      "summary": "South Korea plans to create a new fund that redirects semiconductor tax windfalls into support for younger generations and future growth industries such as artificial intelligence. For businesses in chips, AI infrastructure, and supply chains, the move signals continued state backing for strategic technology investment and possible competitive pressure in memory and semiconductor markets.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
-    },
-    {
-      "id": "reuters-marvell-google-custom-ai-chip-deal",
-      "date": "20 August 2026",
-      "headline": "Marvell gives Google option to buy a $12.2 billion stake in custom AI chip deal",
-      "summary": "The deal underscores how hyperscalers are locking in custom silicon to control AI infrastructure costs and supply. That matters for enterprises because it can reshape cloud pricing, chip demand, and the balance of power in AI infrastructure.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "techcrunch-micro1-ai-training-boom",
-      "date": "20 August 2026",
-      "headline": "AI data startup Micro1 reaches $500 million gross run rate amid AI training boom",
-      "summary": "Micro1’s rapid scale points to continued enterprise demand for data and model-training infrastructure. Businesses tracking AI adoption should note the strength of the training ecosystem, which can influence vendor availability, pricing, and project timelines.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }
