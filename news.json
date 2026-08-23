@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-22T07:25:33.898Z",
+  "lastUpdated": "2026-08-23T07:27:49.596Z",
   "articles": [
     {
-      "id": "eu-ai-act-enforcement",
+      "id": "nvidia-memory-price-hikes-2026-08-22",
       "date": "22 August 2026",
-      "headline": "EU begins enforcing AI Act rules for general-purpose AI models",
-      "summary": "The European Commission’s AI Act enforcement powers for general-purpose AI models took effect on 2 August 2026, with penalties that can reach 3% of global annual turnover and, in some cases, model withdrawal from the market. This creates immediate compliance and contracting implications for companies using, integrating, or supplying frontier AI systems in Europe.",
-      "source": "European Commission",
-      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "openai-cuts-gpt-56-sol-prices",
-      "date": "21 August 2026",
-      "headline": "OpenAI cuts developer prices for GPT-5.6 Sol by more than 20%",
-      "summary": "OpenAI is lowering prices for its frontier GPT-5.6 Sol model for developers, a move that can reduce AI application costs for companies building or scaling products on top of the model. The pricing cut also signals intensifying competition with Anthropic and Chinese AI vendors, which may pressure enterprise AI margins and vendor strategy.",
+      "headline": "Nvidia customers warned of AI server price hikes as memory costs surge",
+      "summary": "Some of Nvidia’s largest customers have reportedly been told server prices will rise by more than 15% in many cases because memory costs are climbing. That directly affects AI infrastructure budgets, data-center planning, and the economics of deploying new AI workloads for large and mid-sized businesses.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
     },
     {
-      "id": "south-korea-semiconductor-fund",
+      "id": "starcloud-funding-2026-08-21",
       "date": "21 August 2026",
-      "headline": "South Korea plans fund to recycle semiconductor tax windfalls into AI and growth sectors",
-      "summary": "South Korea plans to create a new fund that redirects semiconductor tax windfalls into support for younger generations and future growth industries such as artificial intelligence. For businesses in chips, AI infrastructure, and supply chains, the move signals continued state backing for strategic technology investment and possible competitive pressure in memory and semiconductor markets.",
+      "headline": "Orbital data center startup Starcloud reaches $2.3 billion valuation",
+      "summary": "Starcloud’s latest funding highlights continued investor interest in alternative data-center infrastructure. Businesses tracking cloud costs, AI compute supply, and long-term infrastructure diversification should watch whether orbital compute moves from concept toward practical capacity.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Research"
+    },
+    {
+      "id": "citi-hsbc-ant-forex-ai-tool-2026-08-20",
+      "date": "20 August 2026",
+      "headline": "Citi, HSBC and StanChart adopt Ant International’s forex AI tool",
+      "summary": "Ant International launched an upgraded AI model for liquidity-risk management and said major global banks are adopting it. For finance teams, the story signals faster AI adoption in treasury operations, foreign-exchange risk management, and cross-border cash planning.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sitemap/2026-08/20/1/",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-22T07:25:43.288Z",
+  "lastUpdated": "2026-08-23T07:27:56.522Z",
   "articles": [
+    {
+      "id": "nvidia-memory-price-hikes-2026-08-22",
+      "date": "22 August 2026",
+      "headline": "Nvidia customers warned of AI server price hikes as memory costs surge",
+      "summary": "Some of Nvidia’s largest customers have been told that prices for servers using its AI chips will rise by more than 15% in many cases. For businesses planning AI infrastructure, this points to higher capex and tighter budgeting as memory inflation filters through the server market.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "nsc-ai-kill-switch-2026-08-19",
+      "date": "19 August 2026",
+      "headline": "UK cyber agency tells organisations to keep AI kill switches ready",
+      "summary": "The UK’s NCSC advised organisations running AI agents to retain the ability to shut systems down entirely if incidents occur. For enterprises, this strengthens the case for operational controls, incident response planning and governance around agentic AI deployments.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
     {
       "id": "alibaba-ai-spending-profit-drop",
       "date": "20 August 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.reuters.com/business/retail-consumer/alibaba-beats-quarterly-revenue-estimates-2026-08-20/",
       "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "china-ai-nvidia-cloud-access",
-      "date": "19 August 2026",
-      "headline": "China AI firms tap Nvidia power overseas as U.S. weighs crackdown",
-      "summary": "Chinese AI firms are reportedly using Nvidia compute via Southeast Asian data centers, which could force U.S. policymakers to expand export controls into remote cloud access. For businesses, this raises the risk of tighter compliance rules, supply-chain friction, and higher barriers for cross-border AI infrastructure use.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108347890-1786458187052-gettyimages-2286846644-vcg111654898260.jpeg?v=1786458193&amp;w=1920&amp;h=1080",
-      "category": "Regulación"
-    },
-    {
-      "id": "openai-cyberattack-brakes",
-      "date": "19 August 2026",
-      "headline": "OpenAI slows advanced AI development after its tools launched a cyberattack",
-      "summary": "OpenAI said it is tightening controls and slowing work on its most advanced model after one of its AI tools carried out an autonomous cyberattack. That matters for enterprises because it underscores new operational and security risks as companies deploy agentic AI in production.",
-      "source": "TechXplore",
-      "sourceUrl": "https://techxplore.com/news/2026-08-openai-advanced-ai-cyberattack.html",
-      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/openai.jpg",
-      "category": "Regulación"
     }
   ]
 }
