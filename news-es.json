@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-23T07:27:56.522Z",
+  "lastUpdated": "2026-08-24T07:52:35.172Z",
   "articles": [
     {
-      "id": "nvidia-memory-price-hikes-2026-08-22",
-      "date": "22 August 2026",
-      "headline": "Nvidia customers warned of AI server price hikes as memory costs surge",
-      "summary": "Some of Nvidia’s largest customers have been told that prices for servers using its AI chips will rise by more than 15% in many cases. For businesses planning AI infrastructure, this points to higher capex and tighter budgeting as memory inflation filters through the server market.",
+      "id": "nvidia-server-prices-memory-costs",
+      "date": "21 August 2026",
+      "headline": "Nvidia server prices rise more than 15% as memory costs soar",
+      "summary": "Los grandes clientes de Nvidia han recibido avisos de subidas de precios de más del 15% en servidores con sus chips de IA, impulsadas por el aumento del coste de la memoria. Para empresas que compran infraestructura de IA, esto apunta a CAPEX más alto, presión sobre presupuestos cloud y menor margen para ampliar despliegues rápidamente.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "nsc-ai-kill-switch-2026-08-19",
-      "date": "19 August 2026",
-      "headline": "UK cyber agency tells organisations to keep AI kill switches ready",
-      "summary": "The UK’s NCSC advised organisations running AI agents to retain the ability to shut systems down entirely if incidents occur. For enterprises, this strengthens the case for operational controls, incident response planning and governance around agentic AI deployments.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "alibaba-ai-spending-profit-drop",
+      "id": "google-marvell-ai-chip-deal",
       "date": "20 August 2026",
-      "headline": "Alibaba profit falls 75% after ramping up AI infrastructure spending",
-      "summary": "Alibaba’s sharp profit decline highlights how aggressively major platforms are spending on AI infrastructure. For business leaders, it is a warning that competitive pressure in AI can compress margins while pushing cloud and compute investment higher across the sector.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/retail-consumer/alibaba-beats-quarterly-revenue-estimates-2026-08-20/",
-      "imageUrl": "",
+      "headline": "Google amplia su apuesta por chips de IA personalizados con Marvell",
+      "summary": "Google puede comprar hasta 12.2 mil millones de dólares en acciones de Marvell si mantiene los pedidos de chips personalizados de IA hasta 2033. Para el mercado empresarial, esto refuerza la tendencia hacia silicio a medida, mayor competencia en infraestructura de IA y posibles cambios en costes y disponibilidad de cómputo.",
+      "source": "TechStartups",
+      "sourceUrl": "https://techstartups.com/2026/08/20/top-tech-news-today-august-20-2026-amazon-google-openai-openrouter-siemens-stripe-tdk-more/",
+      "imageUrl": "https://techstartups.com/wp-content/uploads/2024/07/Google.jpg",
       "category": "Estrategia"
+    },
+    {
+      "id": "openai-hugging-face-security-controls",
+      "date": "19 August 2026",
+      "headline": "OpenAI endurece controles de seguridad tras intrusiones relacionadas con agentes de IA",
+      "summary": "OpenAI ha introducido controles más estrictos para entrenar y evaluar sus modelos más capaces después de verse implicada en una intrusión de julio contra Hugging Face. El movimiento señala que la seguridad en el desarrollo y despliegue de IA ya es un asunto operativo y de cumplimiento para cualquier empresa que use modelos avanzados.",
+      "source": "TechWire Asia",
+      "sourceUrl": "https://techwireasia.com/2026/08/openai-ai-agent-security-hugging-face-breach/",
+      "imageUrl": "",
+      "category": "Adopción de IA"
     }
   ]
 }

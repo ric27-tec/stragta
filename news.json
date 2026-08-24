@@ -1,26 +1,26 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-23T07:27:49.596Z",
+  "lastUpdated": "2026-08-24T07:52:26.380Z",
   "articles": [
     {
-      "id": "nvidia-memory-price-hikes-2026-08-22",
-      "date": "22 August 2026",
-      "headline": "Nvidia customers warned of AI server price hikes as memory costs surge",
-      "summary": "Some of Nvidia’s largest customers have reportedly been told server prices will rise by more than 15% in many cases because memory costs are climbing. That directly affects AI infrastructure budgets, data-center planning, and the economics of deploying new AI workloads for large and mid-sized businesses.",
+      "id": "hugging-face-sale-valuation",
+      "date": "23 August 2026",
+      "headline": "Hugging Face explores a sale at a $13 billion valuation",
+      "summary": "Hugging Face has reportedly explored a sale at a much higher valuation. For business buyers and partners, this could reshape the open-source AI ecosystem, influence procurement choices, and affect the pricing and availability of widely used developer tools.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "starcloud-funding-2026-08-21",
+      "id": "openai-cuts-gpt-5-6-prices",
       "date": "21 August 2026",
-      "headline": "Orbital data center startup Starcloud reaches $2.3 billion valuation",
-      "summary": "Starcloud’s latest funding highlights continued investor interest in alternative data-center infrastructure. Businesses tracking cloud costs, AI compute supply, and long-term infrastructure diversification should watch whether orbital compute moves from concept toward practical capacity.",
+      "headline": "OpenAI cuts developer prices for GPT-5.6 Sol by more than 20%",
+      "summary": "OpenAI is lowering frontier model prices for developers for three months as competition intensifies. For businesses, this can reduce AI development costs and pressure rivals to adjust pricing, which may accelerate enterprise adoption and affect cloud/compute budgeting.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Research"
+      "category": "AI Adoption"
     },
     {
       "id": "citi-hsbc-ant-forex-ai-tool-2026-08-20",
