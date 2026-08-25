@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-24T07:52:26.380Z",
+  "lastUpdated": "2026-08-25T07:38:29.993Z",
   "articles": [
     {
-      "id": "hugging-face-sale-valuation",
-      "date": "23 August 2026",
-      "headline": "Hugging Face explores a sale at a $13 billion valuation",
-      "summary": "Hugging Face has reportedly explored a sale at a much higher valuation. For business buyers and partners, this could reshape the open-source AI ecosystem, influence procurement choices, and affect the pricing and availability of widely used developer tools.",
+      "id": "reuters-unitree-ipo-bubble",
+      "date": "24 August 2026",
+      "headline": "Unitree’s sharp post-IPO drop raises concerns about robotics bubble risk",
+      "summary": "A steep decline in shares of China’s best-known humanoid robot maker has revived concerns about bubble risk and retail investor losses in the robotics sector. For businesses, the warning is that robotics enthusiasm may be running ahead of commercial readiness, affecting procurement, capital allocation, and supplier valuations.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "openai-cuts-gpt-5-6-prices",
-      "date": "21 August 2026",
-      "headline": "OpenAI cuts developer prices for GPT-5.6 Sol by more than 20%",
-      "summary": "OpenAI is lowering frontier model prices for developers for three months as competition intensifies. For businesses, this can reduce AI development costs and pressure rivals to adjust pricing, which may accelerate enterprise adoption and affect cloud/compute budgeting.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "techtarget-uk-broadband-social-tariffs",
+      "date": "24 August 2026",
+      "headline": "UK broadband firms accused of failing low-income households on social tariffs",
+      "summary": "The report highlights a gap between affordability policy and actual broadband adoption, which matters for small businesses and home-based workers relying on connectivity. It also signals potential regulatory pressure on telecom providers to improve access and pricing transparency.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Regulation"
     },
     {
-      "id": "citi-hsbc-ant-forex-ai-tool-2026-08-20",
-      "date": "20 August 2026",
-      "headline": "Citi, HSBC and StanChart adopt Ant International’s forex AI tool",
-      "summary": "Ant International launched an upgraded AI model for liquidity-risk management and said major global banks are adopting it. For finance teams, the story signals faster AI adoption in treasury operations, foreign-exchange risk management, and cross-border cash planning.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/sitemap/2026-08/20/1/",
-      "imageUrl": "",
-      "category": "AI Adoption"
+      "id": "cnn-canadian-auto-tariffs-tech",
+      "date": "22 August 2026",
+      "headline": "Trump threatens 50% tariffs on Canadian auto imports, rattling supply chains",
+      "summary": "The tariff threat increases uncertainty for manufacturers and suppliers that rely on cross-border North American production. Even though it is framed as a trade issue, the business impact is technological too, because auto and industrial firms may need to revise sourcing, logistics, and production systems quickly.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Regulation"
     }
   ]
 }
