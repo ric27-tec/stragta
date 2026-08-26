@@ -1,7 +1,17 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-25T07:38:29.993Z",
+  "lastUpdated": "2026-08-26T07:40:14.442Z",
   "articles": [
+    {
+      "id": "china-ai-plan-chips-compliance",
+      "date": "24 August 2026",
+      "headline": "China’s new five-year internet-tech plan targets AI chips and tighter oversight",
+      "summary": "China’s 2026-2030 plan pushes cybersecurity and informatization companies to develop advanced AI chips, foundation models, AI agents, and embodied intelligence while also tightening rules on data, algorithms, and competition. For businesses, this raises both opportunity and compliance pressure: chip demand and AI development support may increase, but operating in China will likely involve more scrutiny over data handling, antitrust, and platform practices.",
+      "source": "MLex",
+      "sourceUrl": "https://www.mlex.com/mlex/articles/2516756/china-s-five-year-internet-tech-plan-targets-ai-chips-cutthroat-competition",
+      "imageUrl": "https://www.mlex.com/images/.png",
+      "category": "Regulation"
+    },
     {
       "id": "reuters-unitree-ipo-bubble",
       "date": "24 August 2026",
@@ -20,16 +30,6 @@
       "source": "TechTarget",
       "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "cnn-canadian-auto-tariffs-tech",
-      "date": "22 August 2026",
-      "headline": "Trump threatens 50% tariffs on Canadian auto imports, rattling supply chains",
-      "summary": "The tariff threat increases uncertainty for manufacturers and suppliers that rely on cross-border North American production. Even though it is framed as a trade issue, the business impact is technological too, because auto and industrial firms may need to revise sourcing, logistics, and production systems quickly.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Regulation"
     }
   ]

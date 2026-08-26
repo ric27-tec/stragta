@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-25T07:38:42.322Z",
+  "lastUpdated": "2026-08-26T07:40:25.490Z",
   "articles": [
     {
-      "id": "china-ai-plan-data-algorithm-controls-2026-08-24",
-      "date": "24 August 2026",
-      "headline": "China vincula el apoyo a chips de IA con controles más estrictos sobre datos y algoritmos",
-      "summary": "La hoja de ruta apunta a más apoyo para chips y modelos avanzados, pero también a mayor supervisión sobre datos, precios, antimonopolio y uso indebido de IA. Para multinacionales y proveedores tecnológicos, esto puede cambiar costes de cumplimiento, estrategia de producto y acceso al mercado chino.",
-      "source": "Windows Forum",
-      "sourceUrl": "https://windowsforum.com/windows-news.4/china-ai-plan-ties-chip-support-to-data-and-algorithm-controls.443475/",
-      "imageUrl": "https://windowsforum.com/attachments/windowsforum-china-ai-plan-ties-chip-support-to-data-and-algorithm-controls-webp.177642/",
+      "id": "daily-ai-thread-eu-ai-act-2026-08-25",
+      "date": "25 August 2026",
+      "headline": "EU AI Act transparency rules require disclosure for chatbots and AI-generated content",
+      "summary": "Las nuevas obligaciones de transparencia para chatbots y contenido generado por IA impactan directamente a empresas que operan en la UE o venden allí. Obligan a revisar flujos de atención al cliente, marketing y contenido sintético para evitar sanciones y costes de cumplimiento.",
+      "source": "Daily AI Thread",
+      "sourceUrl": "https://www.dailyaithread.com/en/topics/policy",
+      "imageUrl": "https://www.dailyaithread.com/og-image.png",
+      "category": "Regulación"
+    },
+    {
+      "id": "reuters-hugging-face-sale-2026-08-23",
+      "date": "23 August 2026",
+      "headline": "Hugging Face explores sale at valuation of $13 billion",
+      "summary": "La posible venta de Hugging Face a una valoración de 13.000 millones de dólares indica mayor presión competitiva y de consolidación en la cadena de herramientas de IA. Para empresas que compran o integran modelos y plataformas, esto puede cambiar precios, soporte y poder de negociación con proveedores de IA.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/hugging-face-exploring-sale-valuing-it-13-billion-business-insider-says-2026-08-23/",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "openai-gpt-5-6-price-cut-2026-08-22",
-      "date": "22 August 2026",
-      "headline": "OpenAI recorta más de 20% el precio de GPT-5.6 Sol para desarrolladores",
-      "summary": "La bajada de precio puede reducir costes de automatización y acelerar pilotos de IA en empresas que compran modelos por API. También presiona a competidores y proveedores de software para ajustar márgenes, pricing y planes de adopción.",
-      "source": "Economic Times India (CIO)",
-      "sourceUrl": "https://cio.economictimes.indiatimes.com/newsletter?for_date=2026-08-22&activity_id=7",
-      "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "nvidia-gigawatt-data-center-deal-2026-08-22",
-      "date": "22 August 2026",
-      "headline": "Nvidia anuncia un acuerdo para un centro de datos de un gigavatio con Cloverleaf",
-      "summary": "Un proyecto de esta escala apunta a mayor demanda de infraestructura de IA, energía y capacidad cloud, con impacto potencial en proveedores de chips, construcción y servicios asociados. Para las empresas, esto sugiere más presión sobre disponibilidad y costes de cómputo en IA de alto volumen.",
-      "source": "Tech Bytes Daily",
-      "sourceUrl": "https://techbytes.app/tech-pulse-daily/2026/august/22/",
-      "imageUrl": "https://blogs.techbytes.app/images/tech_pulse_hero_aug22_2026.jpg",
+      "id": "global-advisors-nvidia-price-increase-2026-08-23",
+      "date": "23 August 2026",
+      "headline": "Nvidia notifies enterprise clients of more than 15% price increases across AI hardware suite",
+      "summary": "Un aumento de precios en hardware de IA encarece los planes de despliegue, eleva el coste total de propiedad y puede retrasar renovaciones o expansiones de centros de datos. Esto afecta directamente a presupuestos de IA, nube e infraestructura para empresas grandes y medianas.",
+      "source": "Global Advisors",
+      "sourceUrl": "https://globaladvisors.biz/2026/08/23/global-advisors-news-brief-2026-08-23/",
+      "imageUrl": "https://globaladvisors.biz/wp-content/uploads/2026/07/20260620_GlobalAdvisors_Marketing_Photos_News_Illustration_MW.png",
       "category": "Estrategia"
     }
   ]
