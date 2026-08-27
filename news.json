@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-26T07:40:14.442Z",
+  "lastUpdated": "2026-08-27T18:01:50.999Z",
   "articles": [
+    {
+      "id": "nvidia-ai-infrastructure-capital",
+      "date": "24 August 2026",
+      "headline": "NVIDIA expands AI infrastructure strategy with financing and site guarantees",
+      "summary": "A weekly semiconductor roundup highlights NVIDIA’s push beyond chips into financing and physical infrastructure for AI data centers. That matters for businesses because it can affect AI capacity availability, deployment timelines, and future cloud and infrastructure costs.",
+      "source": "OriginBrief",
+      "sourceUrl": "https://www.originbrief.app/en/reports/semiconductor-chip-industry/2026-08-24/weekly",
+      "imageUrl": "https://www.originbrief.app/report-preview.png",
+      "category": "Strategy"
+    },
+    {
+      "id": "openai-cyber-attacks-warning",
+      "date": "23 August 2026",
+      "headline": "OpenAI leader warns of persistent AI cyber-attacks",
+      "summary": "An OpenAI executive warned that businesses should prepare for ongoing, AI-driven cyber-attacks as models gain more offensive capability. For companies, the practical impact is higher pressure on security teams, phishing defenses, and incident response planning.",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "imageUrl": "https://i.guim.co.uk/img/media/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bf99c405619203c4887891d6f3c423b",
+      "category": "Regulation"
+    },
     {
       "id": "china-ai-plan-chips-compliance",
       "date": "24 August 2026",
@@ -10,26 +30,6 @@
       "source": "MLex",
       "sourceUrl": "https://www.mlex.com/mlex/articles/2516756/china-s-five-year-internet-tech-plan-targets-ai-chips-cutthroat-competition",
       "imageUrl": "https://www.mlex.com/images/.png",
-      "category": "Regulation"
-    },
-    {
-      "id": "reuters-unitree-ipo-bubble",
-      "date": "24 August 2026",
-      "headline": "Unitree’s sharp post-IPO drop raises concerns about robotics bubble risk",
-      "summary": "A steep decline in shares of China’s best-known humanoid robot maker has revived concerns about bubble risk and retail investor losses in the robotics sector. For businesses, the warning is that robotics enthusiasm may be running ahead of commercial readiness, affecting procurement, capital allocation, and supplier valuations.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "techtarget-uk-broadband-social-tariffs",
-      "date": "24 August 2026",
-      "headline": "UK broadband firms accused of failing low-income households on social tariffs",
-      "summary": "The report highlights a gap between affordability policy and actual broadband adoption, which matters for small businesses and home-based workers relying on connectivity. It also signals potential regulatory pressure on telecom providers to improve access and pricing transparency.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
-      "imageUrl": "",
       "category": "Regulation"
     }
   ]

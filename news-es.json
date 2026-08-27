@@ -1,35 +1,35 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-26T07:40:25.490Z",
+  "lastUpdated": "2026-08-27T18:02:04.114Z",
   "articles": [
     {
-      "id": "daily-ai-thread-eu-ai-act-2026-08-25",
-      "date": "25 August 2026",
-      "headline": "EU AI Act transparency rules require disclosure for chatbots and AI-generated content",
-      "summary": "Las nuevas obligaciones de transparencia para chatbots y contenido generado por IA impactan directamente a empresas que operan en la UE o venden allí. Obligan a revisar flujos de atención al cliente, marketing y contenido sintético para evitar sanciones y costes de cumplimiento.",
-      "source": "Daily AI Thread",
-      "sourceUrl": "https://www.dailyaithread.com/en/topics/policy",
-      "imageUrl": "https://www.dailyaithread.com/og-image.png",
+      "id": "boston-scientific-cyberattack-global-disruption",
+      "date": "26 August 2026",
+      "headline": "Boston Scientific says cyberattack is causing global disruption to operations",
+      "summary": "A cyberattack disrupting a major medical-device manufacturer is a business-risk story, not just a security headline. It can affect production, shipments, customer support, and compliance for healthcare buyers that depend on uninterrupted supply.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/",
+      "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "reuters-hugging-face-sale-2026-08-23",
-      "date": "23 August 2026",
-      "headline": "Hugging Face explores sale at valuation of $13 billion",
-      "summary": "La posible venta de Hugging Face a una valoración de 13.000 millones de dólares indica mayor presión competitiva y de consolidación en la cadena de herramientas de IA. Para empresas que compran o integran modelos y plataformas, esto puede cambiar precios, soporte y poder de negociación con proveedores de IA.",
+      "id": "anthropic-investor-revenue-expectations",
+      "date": "26 August 2026",
+      "headline": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue",
+      "summary": "A huge revenue outlook from a leading AI company underscores how aggressively the market is pricing enterprise adoption of AI. For businesses, this signals intensifying competition, likely higher spending on AI tooling, and continued pressure to evaluate ROI carefully.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/hugging-face-exploring-sale-valuing-it-13-billion-business-insider-says-2026-08-23/",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "global-advisors-nvidia-price-increase-2026-08-23",
+      "id": "nvidia-profit-doubles-ai-spending",
       "date": "23 August 2026",
-      "headline": "Nvidia notifies enterprise clients of more than 15% price increases across AI hardware suite",
-      "summary": "Un aumento de precios en hardware de IA encarece los planes de despliegue, eleva el coste total de propiedad y puede retrasar renovaciones o expansiones de centros de datos. Esto afecta directamente a presupuestos de IA, nube e infraestructura para empresas grandes y medianas.",
-      "source": "Global Advisors",
-      "sourceUrl": "https://globaladvisors.biz/2026/08/23/global-advisors-news-brief-2026-08-23/",
-      "imageUrl": "https://globaladvisors.biz/wp-content/uploads/2026/07/20260620_GlobalAdvisors_Marketing_Photos_News_Illustration_MW.png",
+      "headline": "Nvidia profit doubles as AI spending keeps surging",
+      "summary": "Nvidia’s blowout results point to continued heavy investment in AI infrastructure, which can influence chip supply, cloud pricing, and enterprise AI planning. Companies dependent on GPUs, memory, and cloud capacity should expect demand pressure to remain elevated.",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/section/technology",
+      "imageUrl": "",
       "category": "Estrategia"
     }
   ]
