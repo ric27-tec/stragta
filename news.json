@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-27T18:01:50.999Z",
+  "lastUpdated": "2026-08-28T19:11:36.652Z",
   "articles": [
     {
-      "id": "nvidia-ai-infrastructure-capital",
-      "date": "24 August 2026",
-      "headline": "NVIDIA expands AI infrastructure strategy with financing and site guarantees",
-      "summary": "A weekly semiconductor roundup highlights NVIDIA’s push beyond chips into financing and physical infrastructure for AI data centers. That matters for businesses because it can affect AI capacity availability, deployment timelines, and future cloud and infrastructure costs.",
-      "source": "OriginBrief",
-      "sourceUrl": "https://www.originbrief.app/en/reports/semiconductor-chip-industry/2026-08-24/weekly",
-      "imageUrl": "https://www.originbrief.app/report-preview.png",
+      "id": "bbc-ai-services-costs-2026-08-28",
+      "date": "28 August 2026",
+      "headline": "Buyers of AI services struggle to control costs as sellers rethink pricing",
+      "summary": "This is directly relevant to SMEs and enterprise buyers because AI procurement is still unstable and pricing remains hard to forecast. Businesses adopting AI tools should expect pressure on budgets, contract negotiations, and ROI calculations.",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/business/technology-of-business",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "reuters-solstice-element-merge-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Solstice and Element terminate $14.5 billion merger after shareholder feedback",
+      "summary": "The collapse of this large deal matters for executives because it signals weaker appetite for mega-mergers in a strategically important tech-adjacent market. It can affect supplier planning, capital allocation, and competitive positioning across the affected industry.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "openai-cyber-attacks-warning",
-      "date": "23 August 2026",
-      "headline": "OpenAI leader warns of persistent AI cyber-attacks",
-      "summary": "An OpenAI executive warned that businesses should prepare for ongoing, AI-driven cyber-attacks as models gain more offensive capability. For companies, the practical impact is higher pressure on security teams, phishing defenses, and incident response planning.",
-      "source": "The Guardian",
-      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "imageUrl": "https://i.guim.co.uk/img/media/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/master/3333.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2bf99c405619203c4887891d6f3c423b",
-      "category": "Regulation"
-    },
-    {
-      "id": "china-ai-plan-chips-compliance",
-      "date": "24 August 2026",
-      "headline": "China’s new five-year internet-tech plan targets AI chips and tighter oversight",
-      "summary": "China’s 2026-2030 plan pushes cybersecurity and informatization companies to develop advanced AI chips, foundation models, AI agents, and embodied intelligence while also tightening rules on data, algorithms, and competition. For businesses, this raises both opportunity and compliance pressure: chip demand and AI development support may increase, but operating in China will likely involve more scrutiny over data handling, antitrust, and platform practices.",
-      "source": "MLex",
-      "sourceUrl": "https://www.mlex.com/mlex/articles/2516756/china-s-five-year-internet-tech-plan-targets-ai-chips-cutthroat-competition",
-      "imageUrl": "https://www.mlex.com/images/.png",
-      "category": "Regulation"
+      "id": "cnn-chipmakers-ai-boom-2026-08-26",
+      "date": "26 August 2026",
+      "headline": "Chipmakers continue to benefit as Big Tech is overshadowed by the AI boom",
+      "summary": "This theme matters for business decision-makers because it points to ongoing strength in semiconductor demand tied to AI infrastructure spending. Higher demand can influence chip pricing, supply availability, and capex planning for cloud, hardware, and enterprise IT buyers.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Research"
     }
   ]
 }

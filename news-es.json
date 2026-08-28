@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-27T18:02:04.114Z",
+  "lastUpdated": "2026-08-28T19:11:46.025Z",
   "articles": [
     {
-      "id": "boston-scientific-cyberattack-global-disruption",
-      "date": "26 August 2026",
-      "headline": "Boston Scientific says cyberattack is causing global disruption to operations",
-      "summary": "A cyberattack disrupting a major medical-device manufacturer is a business-risk story, not just a security headline. It can affect production, shipments, customer support, and compliance for healthcare buyers that depend on uninterrupted supply.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/08/",
+      "id": "ai-costs-buyer-sellers",
+      "date": "28 August 2026",
+      "headline": "AI buyers struggle to control costs as sellers remain unsure how to price services",
+      "summary": "Reporting on AI services says buyers are having trouble controlling costs while vendors are still uncertain about pricing models. For companies adopting AI, this raises budgeting risk and makes vendor negotiation, usage governance, and chargeback controls more important.",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/business/technology-of-business",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Adopción de IA"
     },
     {
-      "id": "anthropic-investor-revenue-expectations",
+      "id": "chipmakers-overshadow-big-tech",
       "date": "26 August 2026",
-      "headline": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue",
-      "summary": "A huge revenue outlook from a leading AI company underscores how aggressively the market is pricing enterprise adoption of AI. For businesses, this signals intensifying competition, likely higher spending on AI tooling, and continued pressure to evaluate ROI carefully.",
+      "headline": "Chipmakers are outperforming Big Tech as AI boom reshapes markets",
+      "summary": "Market coverage noted that semiconductor makers are now outpacing some of the largest technology firms as investors favor AI hardware exposure. That matters for businesses because it can affect financing conditions, vendor pricing, and procurement timing for chips and related infrastructure.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Estrategia"
+    },
+    {
+      "id": "crowdstrike-revenue-forecast",
+      "date": "26 August 2026",
+      "headline": "CrowdStrike raises annual revenue forecast on strong cybersecurity demand",
+      "summary": "Cybersecurity demand remains strong enough for CrowdStrike to lift its annual revenue outlook, underscoring continued enterprise spending on security. Businesses should read this as a sign that security budgets are still being prioritized, especially for operational resilience and breach risk reduction.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "nvidia-profit-doubles-ai-spending",
-      "date": "23 August 2026",
-      "headline": "Nvidia profit doubles as AI spending keeps surging",
-      "summary": "Nvidia’s blowout results point to continued heavy investment in AI infrastructure, which can influence chip supply, cloud pricing, and enterprise AI planning. Companies dependent on GPUs, memory, and cloud capacity should expect demand pressure to remain elevated.",
-      "source": "The New York Times",
-      "sourceUrl": "https://www.nytimes.com/section/technology",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Regulación"
     }
   ]
 }
