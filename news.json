@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-28T19:11:36.652Z",
+  "lastUpdated": "2026-08-29T12:55:12.998Z",
   "articles": [
     {
-      "id": "bbc-ai-services-costs-2026-08-28",
+      "id": "sk-hynix-hbm4e-indiana-2029",
       "date": "28 August 2026",
-      "headline": "Buyers of AI services struggle to control costs as sellers rethink pricing",
-      "summary": "This is directly relevant to SMEs and enterprise buyers because AI procurement is still unstable and pricing remains hard to forecast. Businesses adopting AI tools should expect pressure on budgets, contract negotiations, and ROI calculations.",
-      "source": "BBC",
-      "sourceUrl": "https://www.bbc.com/business/technology-of-business",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "reuters-solstice-element-merge-2026-08-27",
-      "date": "27 August 2026",
-      "headline": "Solstice and Element terminate $14.5 billion merger after shareholder feedback",
-      "summary": "The collapse of this large deal matters for executives because it signals weaker appetite for mega-mergers in a strategically important tech-adjacent market. It can affect supplier planning, capital allocation, and competitive positioning across the affected industry.",
+      "headline": "SK Hynix plans HBM4E volume production in Indiana as memory shortage seen lasting through 2030",
+      "summary": "SK Hynix said it will begin volume production of next-generation HBM4E chips at its Indiana facility in the third quarter of 2029. The company’s warning that the memory chip shortage could persist through 2030 matters for AI infrastructure budgets, server procurement, and long-term supply planning.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "cnn-chipmakers-ai-boom-2026-08-26",
-      "date": "26 August 2026",
-      "headline": "Chipmakers continue to benefit as Big Tech is overshadowed by the AI boom",
-      "summary": "This theme matters for business decision-makers because it points to ongoing strength in semiconductor demand tied to AI infrastructure spending. Higher demand can influence chip pricing, supply availability, and capex planning for cloud, hardware, and enterprise IT buyers.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Research"
+      "id": "qwen3-8-flash-lower-training-costs",
+      "date": "28 August 2026",
+      "headline": "Alibaba’s Qwen3.8-Flash aims to cut AI training costs",
+      "summary": "Reuters reported that Alibaba’s Qwen launched Qwen3.8-Flash with lower training costs. For businesses using or buying AI, lower training costs can pressure model pricing, improve deployment economics, and accelerate adoption of AI tools.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "enterprise-ai-cost-pressure-mckinsey",
+      "date": "27 August 2026",
+      "headline": "McKinsey says enterprise AI gains are rising, but costs remain a hurdle",
+      "summary": "IT Pro’s August technology archive highlights McKinsey’s finding that AI is beginning to pay off for enterprises, while rising costs and limited efficiency gains still constrain impact. That is directly relevant for companies deciding whether to scale pilots into production.",
+      "source": "IT Pro",
+      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/08",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }
