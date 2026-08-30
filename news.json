@@ -1,32 +1,32 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-29T12:55:12.998Z",
+  "lastUpdated": "2026-08-30T12:29:32.557Z",
   "articles": [
     {
-      "id": "sk-hynix-hbm4e-indiana-2029",
-      "date": "28 August 2026",
-      "headline": "SK Hynix plans HBM4E volume production in Indiana as memory shortage seen lasting through 2030",
-      "summary": "SK Hynix said it will begin volume production of next-generation HBM4E chips at its Indiana facility in the third quarter of 2029. The company’s warning that the memory chip shortage could persist through 2030 matters for AI infrastructure budgets, server procurement, and long-term supply planning.",
+      "id": "cxmt-memory-profit",
+      "date": "29 August 2026",
+      "headline": "China’s CXMT swings to profit as memory prices rise on computing demand",
+      "summary": "CXMT’s first earnings release since listing showed a sharp turnaround to profit in the first half, helped by higher prices and sales of memory products. For businesses, this points to continued strength in memory demand tied to AI and computing infrastructure, which can influence hardware costs and supply planning.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "qwen3-8-flash-lower-training-costs",
-      "date": "28 August 2026",
-      "headline": "Alibaba’s Qwen3.8-Flash aims to cut AI training costs",
-      "summary": "Reuters reported that Alibaba’s Qwen launched Qwen3.8-Flash with lower training costs. For businesses using or buying AI, lower training costs can pressure model pricing, improve deployment economics, and accelerate adoption of AI tools.",
+      "id": "solstice-element-merger",
+      "date": "27 August 2026",
+      "headline": "Solstice and Element terminate $14.5 billion merger after shareholder feedback",
+      "summary": "The deal collapse signals how shareholder pressure can derail large technology transactions even after months of negotiation. For executives, it is a reminder that strategic acquisitions in tech can face major financing, governance, and valuation risk.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
     },
     {
-      "id": "enterprise-ai-cost-pressure-mckinsey",
+      "id": "mckinsey-ai-enterprise-costs",
       "date": "27 August 2026",
-      "headline": "McKinsey says enterprise AI gains are rising, but costs remain a hurdle",
-      "summary": "IT Pro’s August technology archive highlights McKinsey’s finding that AI is beginning to pay off for enterprises, while rising costs and limited efficiency gains still constrain impact. That is directly relevant for companies deciding whether to scale pilots into production.",
+      "headline": "McKinsey says enterprise AI is paying off, but costs remain a hurdle",
+      "summary": "McKinsey’s latest findings highlight that AI is finally producing enterprise gains, but the gap between individual productivity wins and organization-wide impact remains wide. For businesses, rising AI costs and limited efficiency improvements mean leaders still need careful ROI tracking before scaling deployments.",
       "source": "IT Pro",
       "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/08",
       "imageUrl": "",

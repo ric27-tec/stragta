@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-28T19:11:46.025Z",
+  "lastUpdated": "2026-08-30T12:29:40.343Z",
   "articles": [
     {
-      "id": "ai-costs-buyer-sellers",
-      "date": "28 August 2026",
-      "headline": "AI buyers struggle to control costs as sellers remain unsure how to price services",
-      "summary": "Reporting on AI services says buyers are having trouble controlling costs while vendors are still uncertain about pricing models. For companies adopting AI, this raises budgeting risk and makes vendor negotiation, usage governance, and chargeback controls more important.",
-      "source": "BBC",
-      "sourceUrl": "https://www.bbc.com/business/technology-of-business",
+      "id": "cxmt-profit-memory-demand-2026-08-29",
+      "date": "29 August 2026",
+      "headline": "China’s CXMT posts sharp turnaround as memory demand surges",
+      "summary": "CXMT’s swing to profit highlights how AI-driven demand is lifting memory prices and reshaping chip supply dynamics. That matters for companies that rely on servers, cloud infrastructure and device supply chains because memory costs can affect capital spending and deployment timelines.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "chipmakers-overshadow-big-tech",
-      "date": "26 August 2026",
-      "headline": "Chipmakers are outperforming Big Tech as AI boom reshapes markets",
-      "summary": "Market coverage noted that semiconductor makers are now outpacing some of the largest technology firms as investors favor AI hardware exposure. That matters for businesses because it can affect financing conditions, vendor pricing, and procurement timing for chips and related infrastructure.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
       "category": "Estrategia"
     },
     {
-      "id": "crowdstrike-revenue-forecast",
-      "date": "26 August 2026",
-      "headline": "CrowdStrike raises annual revenue forecast on strong cybersecurity demand",
-      "summary": "Cybersecurity demand remains strong enough for CrowdStrike to lift its annual revenue outlook, underscoring continued enterprise spending on security. Businesses should read this as a sign that security budgets are still being prioritized, especially for operational resilience and breach risk reduction.",
+      "id": "nvidia-huggingface-deal-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+      "summary": "The deal could tighten Nvidia’s grip on the AI stack and shift how enterprises source models, tools and infrastructure. For businesses, it may influence cloud and GPU procurement, vendor concentration risk and pricing power across AI software and hardware.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Estrategia"
+    },
+    {
+      "id": "anthropic-model-hardware-standard-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Anthropic unveils framework for AI agents to operate physical devices",
+      "summary": "Anthropic’s hardware standard is aimed at autonomous workflows in labs and manufacturing, which could reduce manual work and speed up industrial processes. Businesses in advanced manufacturing, research and automation should watch for lower operating costs and new integration requirements.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/anthropic-unveils-new-framework-allowing-ai-agents-operate-physical-devices-2026-08-27/",
+      "imageUrl": "",
+      "category": "Automatización"
     }
   ]
 }
