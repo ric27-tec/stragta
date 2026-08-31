@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-30T12:29:40.343Z",
+  "lastUpdated": "2026-08-31T14:44:43.380Z",
   "articles": [
+    {
+      "id": "ai-cyber-defense-letter",
+      "date": "27 August 2026",
+      "headline": "More than 100 companies back major AI cyber-defense push",
+      "summary": "OpenAI, Anthropic, Microsoft, AMD and more than 100 other companies signed a letter urging businesses and policymakers to prioritize cybersecurity in the age of AI. The business relevance is direct: firms adopting AI tools are being pushed to strengthen defensive controls, and the signal may accelerate enterprise spending on security and governance.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108227989-1763533629489-gettyimages-2242189230-20090101251022-99-402650.jpeg?v=1773154443&amp;w=1920&amp;h=1080",
+      "category": "Regulación"
+    },
+    {
+      "id": "tlt-ai-brief-august-2026",
+      "date": "26 August 2026",
+      "headline": "EU AI Act transparency rules now apply to businesses using AI in the EU",
+      "summary": "The EU AI Act’s transparency obligations began applying on 2 August 2026 to businesses that develop or deploy AI systems whose outputs are intended for use in the EU. Companies operating in Europe now need to review disclosure, labeling, and governance processes, or face compliance and operational risk.",
+      "source": "TLT",
+      "sourceUrl": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-august-2026",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
     {
       "id": "cxmt-profit-memory-demand-2026-08-29",
       "date": "29 August 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
-    },
-    {
-      "id": "nvidia-huggingface-deal-2026-08-27",
-      "date": "27 August 2026",
-      "headline": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
-      "summary": "The deal could tighten Nvidia’s grip on the AI stack and shift how enterprises source models, tools and infrastructure. For businesses, it may influence cloud and GPU procurement, vendor concentration risk and pricing power across AI software and hardware.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "anthropic-model-hardware-standard-2026-08-27",
-      "date": "27 August 2026",
-      "headline": "Anthropic unveils framework for AI agents to operate physical devices",
-      "summary": "Anthropic’s hardware standard is aimed at autonomous workflows in labs and manufacturing, which could reduce manual work and speed up industrial processes. Businesses in advanced manufacturing, research and automation should watch for lower operating costs and new integration requirements.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/anthropic-unveils-new-framework-allowing-ai-agents-operate-physical-devices-2026-08-27/",
-      "imageUrl": "",
-      "category": "Automatización"
     }
   ]
 }

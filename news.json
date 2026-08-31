@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-30T12:29:32.557Z",
+  "lastUpdated": "2026-08-31T14:44:32.637Z",
   "articles": [
     {
-      "id": "cxmt-memory-profit",
+      "id": "sk-hynix-indiana-memory-shortage-2030",
       "date": "29 August 2026",
-      "headline": "China’s CXMT swings to profit as memory prices rise on computing demand",
-      "summary": "CXMT’s first earnings release since listing showed a sharp turnaround to profit in the first half, helped by higher prices and sales of memory products. For businesses, this points to continued strength in memory demand tied to AI and computing infrastructure, which can influence hardware costs and supply planning.",
+      "headline": "SK Hynix says Indiana AI chip output starts in 2029 as memory shortage may last through 2030",
+      "summary": "SK Hynix said it plans to begin volume production of next-generation HBM4E chips at its Indiana facility in the third quarter of 2029. The company also warned that the current memory chip shortage could persist through the end of 2030, which matters for AI infrastructure budgets, supply planning, and hardware procurement.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "solstice-element-merger",
-      "date": "27 August 2026",
-      "headline": "Solstice and Element terminate $14.5 billion merger after shareholder feedback",
-      "summary": "The deal collapse signals how shareholder pressure can derail large technology transactions even after months of negotiation. For executives, it is a reminder that strategic acquisitions in tech can face major financing, governance, and valuation risk.",
+      "id": "marvell-google-ai-chip-outlook",
+      "date": "28 August 2026",
+      "headline": "Marvell’s AI chip deal with Google fails to lift long-term outlook enough for investors",
+      "summary": "Marvell reportedly signed a major new AI chip agreement with Google, but it did not provide a meaningful increase to its long-term revenue outlook. For businesses tracking AI infrastructure costs and supplier momentum, the story suggests that large chip deals are not yet translating into the demand visibility investors want.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "mckinsey-ai-enterprise-costs",
-      "date": "27 August 2026",
-      "headline": "McKinsey says enterprise AI is paying off, but costs remain a hurdle",
-      "summary": "McKinsey’s latest findings highlight that AI is finally producing enterprise gains, but the gap between individual productivity wins and organization-wide impact remains wide. For businesses, rising AI costs and limited efficiency improvements mean leaders still need careful ROI tracking before scaling deployments.",
-      "source": "IT Pro",
-      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/08",
+      "id": "cursor-ai-hack-seven-companies",
+      "date": "28 August 2026",
+      "headline": "Russian-speaking cybercriminals used Cursor AI tool to hack seven companies",
+      "summary": "Reuters reported that cybercriminals abused an AI coding tool to break into seven companies, underscoring how developer productivity tools can also expand attack surfaces. That raises immediate risk concerns for enterprises relying on AI-assisted software development, identity controls, and vendor security reviews.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Regulation"
     }
   ]
 }
