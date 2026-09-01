@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-08-31T14:44:43.380Z",
+  "lastUpdated": "2026-09-01T12:17:23.715Z",
   "articles": [
     {
-      "id": "ai-cyber-defense-letter",
-      "date": "27 August 2026",
-      "headline": "More than 100 companies back major AI cyber-defense push",
-      "summary": "OpenAI, Anthropic, Microsoft, AMD and more than 100 other companies signed a letter urging businesses and policymakers to prioritize cybersecurity in the age of AI. The business relevance is direct: firms adopting AI tools are being pushed to strengthen defensive controls, and the signal may accelerate enterprise spending on security and governance.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108227989-1763533629489-gettyimages-2242189230-20090101251022-99-402650.jpeg?v=1773154443&amp;w=1920&amp;h=1080",
-      "category": "Regulación"
-    },
-    {
-      "id": "tlt-ai-brief-august-2026",
-      "date": "26 August 2026",
-      "headline": "EU AI Act transparency rules now apply to businesses using AI in the EU",
-      "summary": "The EU AI Act’s transparency obligations began applying on 2 August 2026 to businesses that develop or deploy AI systems whose outputs are intended for use in the EU. Companies operating in Europe now need to review disclosure, labeling, and governance processes, or face compliance and operational risk.",
-      "source": "TLT",
-      "sourceUrl": "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-august-2026",
-      "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "cxmt-profit-memory-demand-2026-08-29",
+      "id": "sk-hynix-indiana-ai-chip-output-2026-08-29",
       "date": "29 August 2026",
-      "headline": "China’s CXMT posts sharp turnaround as memory demand surges",
-      "summary": "CXMT’s swing to profit highlights how AI-driven demand is lifting memory prices and reshaping chip supply dynamics. That matters for companies that rely on servers, cloud infrastructure and device supply chains because memory costs can affect capital spending and deployment timelines.",
+      "headline": "SK Hynix empezará producción de chips de IA en Indiana en 2029 y ve escasez de memoria hasta 2030",
+      "summary": "SK Hynix dijo que abrirá producción de chips de IA en Indiana en 2029 y que prevé escasez de memoria hasta 2030. Para empresas que dependen de servidores, almacenamiento o hardware de IA, esto sugiere presión prolongada sobre precios y planificación de capacidad.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
+    },
+    {
+      "id": "nvidia-forecast-chip-rally-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Nvidia impulsa un rally en chips al proyectar que el boom de la IA sigue fuerte",
+      "summary": "Nvidia señaló una proyección de ingresos a largo plazo que alivió el miedo del mercado a una desaceleración en el gasto en IA. Para empresas y proveedores, esto refuerza que la demanda de chips e infraestructura de IA seguirá alta, con implicaciones para costes, capacidad y planificación de compras.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-2026-08-27/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "cyber-defensive-surge-ai-hacks-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Grandes tecnológicas piden una ofensiva defensiva contra el aumento de ataques impulsados por IA",
+      "summary": "OpenAI, Anthropic, Microsoft, Alphabet y Amazon instaron a gobiernos y organizaciones a priorizar la defensa ante una próxima ola de hackeos potenciados por IA. Para empresas de todos los tamaños, esto eleva la urgencia de reforzar ciberseguridad, respuesta a incidentes y gobierno del uso de IA.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/major-tech-companies-call-defensive-surge-defeat-ai-driven-hacks-2026-08-27/",
+      "imageUrl": "",
+      "category": "Regulación"
     }
   ]
 }

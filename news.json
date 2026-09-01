@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-08-31T14:44:32.637Z",
+  "lastUpdated": "2026-09-01T12:17:14.865Z",
   "articles": [
     {
-      "id": "sk-hynix-indiana-memory-shortage-2030",
+      "id": "anthropic-supply-chain-risk-overturned",
+      "date": "1 September 2026",
+      "headline": "Federal judge orders Pentagon to remove Anthropic supply-chain risk label",
+      "summary": "A court ruling removes a Pentagon designation that had labeled Anthropic a supply-chain risk, reducing a potential compliance and procurement obstacle for enterprises and government buyers. The decision matters for companies using frontier AI because it lowers immediate uncertainty around vendor approval and contract risk.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Regulation"
+    },
+    {
+      "id": "openai-sb-energy-warrants",
+      "date": "31 August 2026",
+      "headline": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
+      "summary": "The deal points to the continuing capital intensity of AI infrastructure and the way cloud, power, and energy assets are becoming strategic inputs for frontier AI. Business leaders should watch this trend because it can influence data-center economics, electricity demand, and the long-term cost of AI adoption.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
+    {
+      "id": "tech-backlash-ai-data-centers-elections",
       "date": "29 August 2026",
-      "headline": "SK Hynix says Indiana AI chip output starts in 2029 as memory shortage may last through 2030",
-      "summary": "SK Hynix said it plans to begin volume production of next-generation HBM4E chips at its Indiana facility in the third quarter of 2029. The company also warned that the current memory chip shortage could persist through the end of 2030, which matters for AI infrastructure budgets, supply planning, and hardware procurement.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "marvell-google-ai-chip-outlook",
-      "date": "28 August 2026",
-      "headline": "Marvell’s AI chip deal with Google fails to lift long-term outlook enough for investors",
-      "summary": "Marvell reportedly signed a major new AI chip agreement with Google, but it did not provide a meaningful increase to its long-term revenue outlook. For businesses tracking AI infrastructure costs and supplier momentum, the story suggests that large chip deals are not yet translating into the demand visibility investors want.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "cursor-ai-hack-seven-companies",
-      "date": "28 August 2026",
-      "headline": "Russian-speaking cybercriminals used Cursor AI tool to hack seven companies",
-      "summary": "Reuters reported that cybercriminals abused an AI coding tool to break into seven companies, underscoring how developer productivity tools can also expand attack surfaces. That raises immediate risk concerns for enterprises relying on AI-assisted software development, identity controls, and vendor security reviews.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
-      "imageUrl": "",
+      "headline": "Tech backlash intensifies as AI angst collides with social media fears",
+      "summary": "The article highlights rising political and public pressure around big tech, including a landmark settlement involving Meta. Businesses should note the growing regulatory and reputational risk around AI, data centers, and platform power, which can affect compliance costs and public-sector policy.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&amp;w=1920&amp;h=1080",
       "category": "Regulation"
     }
   ]
