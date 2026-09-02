@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-01T12:17:14.865Z",
+  "lastUpdated": "2026-09-02T11:54:24.236Z",
   "articles": [
+    {
+      "id": "ai-cyber-defense-push-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "Major tech companies call for a defensive surge to defeat AI-driven hacks",
+      "summary": "OpenAI, Anthropic, Microsoft, Alphabet, and Amazon backed a society-wide push to strengthen defenses against AI-enabled hacking. For businesses, this raises the urgency of upgrading security controls, employee training, and incident response as attackers gain better automation tools.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/major-tech-companies-call-defensive-surge-defeat-ai-driven-hacks-2026-08-27/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "ai-cyber-defense-letter-2026-08-27",
+      "date": "27 August 2026",
+      "headline": "More than 100 companies sign AI cyber defense letter",
+      "summary": "More than 100 companies and entities, including OpenAI, Anthropic, Microsoft, and AMD, signed a call for businesses and policymakers to prioritize cybersecurity in the age of AI. The message signals that cybersecurity spending and governance are becoming board-level business issues, not just IT concerns.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/27/ai-cyber-defense-letter.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108227989-1763533629489-gettyimages-2242189230-20090101251022-99-402650.jpeg?v=1773154443&amp;w=1920&amp;h=1080",
+      "category": "Regulation"
+    },
     {
       "id": "anthropic-supply-chain-risk-overturned",
       "date": "1 September 2026",
@@ -10,26 +30,6 @@
       "source": "CNN Business",
       "sourceUrl": "https://www.cnn.com/business/tech",
       "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Regulation"
-    },
-    {
-      "id": "openai-sb-energy-warrants",
-      "date": "31 August 2026",
-      "headline": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports",
-      "summary": "The deal points to the continuing capital intensity of AI infrastructure and the way cloud, power, and energy assets are becoming strategic inputs for frontier AI. Business leaders should watch this trend because it can influence data-center economics, electricity demand, and the long-term cost of AI adoption.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "tech-backlash-ai-data-centers-elections",
-      "date": "29 August 2026",
-      "headline": "Tech backlash intensifies as AI angst collides with social media fears",
-      "summary": "The article highlights rising political and public pressure around big tech, including a landmark settlement involving Meta. Businesses should note the growing regulatory and reputational risk around AI, data centers, and platform power, which can affect compliance costs and public-sector policy.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&amp;w=1920&amp;h=1080",
       "category": "Regulation"
     }
   ]

@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-01T12:17:23.715Z",
+  "lastUpdated": "2026-09-02T11:54:37.448Z",
   "articles": [
     {
-      "id": "sk-hynix-indiana-ai-chip-output-2026-08-29",
-      "date": "29 August 2026",
-      "headline": "SK Hynix empezará producción de chips de IA en Indiana en 2029 y ve escasez de memoria hasta 2030",
-      "summary": "SK Hynix dijo que abrirá producción de chips de IA en Indiana en 2029 y que prevé escasez de memoria hasta 2030. Para empresas que dependen de servidores, almacenamiento o hardware de IA, esto sugiere presión prolongada sobre precios y planificación de capacidad.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "id": "nvidia-price-hike-enterprise-it-costs",
+      "date": "1 September 2026",
+      "headline": "Nvidia price hike is set to raise IT costs for enterprise buyers",
+      "summary": "Analysts say a coming Nvidia price increase will lift costs for companies buying AI infrastructure, not just those expanding large-scale AI deployments. That matters for budgeting because it can affect server refresh plans, cloud economics, and total cost of ownership across enterprise IT stacks.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "nvidia-forecast-chip-rally-2026-08-27",
+      "id": "salesforce-anthropic-claudeforce",
       "date": "27 August 2026",
-      "headline": "Nvidia impulsa un rally en chips al proyectar que el boom de la IA sigue fuerte",
-      "summary": "Nvidia señaló una proyección de ingresos a largo plazo que alivió el miedo del mercado a una desaceleración en el gasto en IA. Para empresas y proveedores, esto refuerza que la demanda de chips e infraestructura de IA seguirá alta, con implicaciones para costes, capacidad y planificación de compras.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/business/nvidia-rises-after-signaling-longer-ai-spending-runway-2026-08-27/",
+      "headline": "Salesforce broadens Anthropic integration as enterprise AI competition deepens",
+      "summary": "Salesforce and Anthropic are expanding their collaboration to connect Claude-style reasoning with enterprise workflows and data. For businesses, this points to a stronger push toward embedded AI in CRM and operations, with implications for productivity, vendor lock-in, and software purchasing decisions.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/enterprise-software/info/news",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Adopción de IA"
     },
     {
-      "id": "cyber-defensive-surge-ai-hacks-2026-08-27",
+      "id": "ai-enterprise-costs-mckinsey-gap",
       "date": "27 August 2026",
-      "headline": "Grandes tecnológicas piden una ofensiva defensiva contra el aumento de ataques impulsados por IA",
-      "summary": "OpenAI, Anthropic, Microsoft, Alphabet y Amazon instaron a gobiernos y organizaciones a priorizar la defensa ante una próxima ola de hackeos potenciados por IA. Para empresas de todos los tamaños, esto eleva la urgencia de reforzar ciberseguridad, respuesta a incidentes y gobierno del uso de IA.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/major-tech-companies-call-defensive-surge-defeat-ai-driven-hacks-2026-08-27/",
+      "headline": "McKinsey says enterprise AI gains are real, but costs remain a major hurdle",
+      "summary": "McKinsey reports that AI is finally delivering measurable enterprise benefits, but the gap between individual productivity gains and organization-wide impact remains significant because costs are still high. That is especially relevant for leaders evaluating whether AI pilots will scale into durable operating savings.",
+      "source": "IT Pro",
+      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/08",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Adopción de IA"
     }
   ]
 }
