@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-02T11:54:37.448Z",
+  "lastUpdated": "2026-09-03T11:52:48.692Z",
   "articles": [
     {
-      "id": "nvidia-price-hike-enterprise-it-costs",
-      "date": "1 September 2026",
-      "headline": "Nvidia price hike is set to raise IT costs for enterprise buyers",
-      "summary": "Analysts say a coming Nvidia price increase will lift costs for companies buying AI infrastructure, not just those expanding large-scale AI deployments. That matters for budgeting because it can affect server refresh plans, cloud economics, and total cost of ownership across enterprise IT stacks.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "id": "naver-cloud-security-ai-model",
+      "date": "3 September 2026",
+      "headline": "Naver Cloud gana un proyecto gubernamental para crear un modelo de IA especializado en ciberseguridad",
+      "summary": "Naver Cloud liderará un consorcio para desarrollar una IA de ciberseguridad con apoyo estatal y uso de GPUs y chips Nvidia de alto rendimiento. El anuncio refuerza la demanda de infraestructura de IA y señala que gobiernos y empresas están priorizando herramientas automáticas para defensa ante amenazas más sofisticadas.",
+      "source": "Pulse",
+      "sourceUrl": "https://pulse.mk.co.kr/news/all/12143169",
+      "imageUrl": "https://pimg.mk.co.kr/news/cms/202609/03/news-p.v1.20260903.4e08201abec64afab4793b26b9e213c6_R.png",
+      "category": "Adopción de IA"
     },
     {
-      "id": "salesforce-anthropic-claudeforce",
-      "date": "27 August 2026",
-      "headline": "Salesforce broadens Anthropic integration as enterprise AI competition deepens",
-      "summary": "Salesforce and Anthropic are expanding their collaboration to connect Claude-style reasoning with enterprise workflows and data. For businesses, this points to a stronger push toward embedded AI in CRM and operations, with implications for productivity, vendor lock-in, and software purchasing decisions.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/enterprise-software/info/news",
+      "id": "google-gemini-flash-cyber",
+      "date": "3 September 2026",
+      "headline": "Google presenta Gemini 3.8 Flash y Flash Cyber para detección y parcheo de vulnerabilidades",
+      "summary": "Google lanzó una versión centrada en ciberseguridad que, según la cobertura, mejora la detección de vulnerabilidades y la remediación con menor coste que modelos más grandes. Para empresas, esto apunta a más automatización en seguridad y a una posible reducción del coste de operación de equipos de ciberdefensa.",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/",
       "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "ai-enterprise-costs-mckinsey-gap",
-      "date": "27 August 2026",
-      "headline": "McKinsey says enterprise AI gains are real, but costs remain a major hurdle",
-      "summary": "McKinsey reports that AI is finally delivering measurable enterprise benefits, but the gap between individual productivity gains and organization-wide impact remains significant because costs are still high. That is especially relevant for leaders evaluating whether AI pilots will scale into durable operating savings.",
-      "source": "IT Pro",
-      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/08",
-      "imageUrl": "",
-      "category": "Adopción de IA"
+      "id": "eu-chip-shortage-bank-trigger",
+      "date": "3 September 2026",
+      "headline": "La propuesta europea de crisis de chips incluye al sector bancario como disparador de escasez",
+      "summary": "La UE plantea un régimen de respuesta a escasez de chips que incorpora banca, infraestructura de mercados financieros e infraestructura digital entre los sectores críticos. Para empresas, esto aumenta la probabilidad de intervenciones regulatorias en cadena de suministro de semiconductores si hay tensión de oferta.",
+      "source": "AI Pulse Daily Brief",
+      "sourceUrl": "https://buttondown.com/Horizonscan/archive/ai-pulse-daily-brief-2026-09-03/",
+      "imageUrl": "https://assets.buttondown.email/images/72313a34-4c2d-4cf0-a1a1-5d6169b3c639.png",
+      "category": "Regulación"
     }
   ]
 }
