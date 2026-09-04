@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-03T11:52:35.408Z",
+  "lastUpdated": "2026-09-04T11:58:47.860Z",
   "articles": [
     {
-      "id": "ai-driven-cyber-risk-fsb-2026-08-31",
-      "date": "31 August 2026",
-      "headline": "AI-driven cyber risk is now the top concern for global financial stability",
-      "summary": "The Financial Stability Board said AI is the most immediate cyber risk to the global financial system, warning that advanced models can change the speed, scale, and economics of attacks. For businesses, this raises urgency around fraud controls, security monitoring, and vendor risk management, especially in finance and other regulated sectors.",
+      "id": "openai-1b-cyberdefense",
+      "date": "3 September 2026",
+      "headline": "OpenAI commits $1 billion to cyberdefense effort amid rising AI-enabled attacks",
+      "summary": "OpenAI said it will provide subsidized access to its AI cybersecurity tools, training, and technical support to organizations protecting critical services. For businesses, the move signals a stronger push toward AI-assisted defense as attacks become more automated and harder to detect.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/ai-driven-cyber-risk-is-top-concern-global-financial-stability-watchdog-says-2026-08-31/",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "nvidia-mediatek-custom-ai-chip-2026-08-31",
-      "date": "31 August 2026",
-      "headline": "Nvidia to invest $3.5 billion in MediaTek for custom AI processors and automotive silicon",
-      "summary": "Nvidia’s move to co-develop custom processors with MediaTek signals a deeper push into proprietary AI infrastructure and automotive chips. Businesses should watch for downstream effects on hardware choices, pricing, and the competitive pressure on in-house silicon strategies.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/audio/2026-08-31/bloomberg-intelligence-nvidia-to-invest-in-mediatek-podcast",
+      "id": "openai-astra-cybersecurity-threshold",
+      "date": "3 September 2026",
+      "headline": "OpenAI says upcoming Astra model meets its critical cybersecurity threshold",
+      "summary": "OpenAI classified its upcoming Astra model as capable of finding previously unknown vulnerabilities and developing exploits with appropriate tools and access. For businesses, that raises both opportunity and risk: stronger defensive automation is possible, but so is faster adversary capability if safeguards fail.",
+      "source": "VentureBeat",
+      "sourceUrl": "https://venturebeat.com/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Research"
     },
     {
-      "id": "openai-eu-dsa-risk-audits-2026-08-31",
-      "date": "31 August 2026",
-      "headline": "EU regulators can demand risk audits and fixes from OpenAI under digital platform rules",
-      "summary": "European regulators designated OpenAI’s ChatGPT as a very large online platform, bringing strict transparency, audit, and systemic-risk obligations. Companies using generative AI in Europe may face tighter compliance expectations, more documentation, and greater scrutiny of AI workflows.",
-      "source": "AI News for August 31, 2026 — Daily Edition",
-      "sourceUrl": "https://aiweekly.co/ai-news-today/edition/2026-08-31",
+      "id": "nvidia-crowdstrike-safemind",
+      "date": "2 September 2026",
+      "headline": "Nvidia and CrowdStrike launch SafeMind to help defend enterprises from autonomous cyberattacks",
+      "summary": "Nvidia and CrowdStrike introduced a new family of agentic AI models aimed at finding attack paths and closing them for customers. That matters for enterprises because it points to a new class of security tooling designed to reduce breach risk and lower the operational burden on security teams.",
+      "source": "The Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "AI Adoption"
     }
   ]
 }

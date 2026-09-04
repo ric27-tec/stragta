@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-03T11:52:48.692Z",
+  "lastUpdated": "2026-09-04T11:58:57.075Z",
   "articles": [
     {
-      "id": "naver-cloud-security-ai-model",
-      "date": "3 September 2026",
-      "headline": "Naver Cloud gana un proyecto gubernamental para crear un modelo de IA especializado en ciberseguridad",
-      "summary": "Naver Cloud liderará un consorcio para desarrollar una IA de ciberseguridad con apoyo estatal y uso de GPUs y chips Nvidia de alto rendimiento. El anuncio refuerza la demanda de infraestructura de IA y señala que gobiernos y empresas están priorizando herramientas automáticas para defensa ante amenazas más sofisticadas.",
-      "source": "Pulse",
-      "sourceUrl": "https://pulse.mk.co.kr/news/all/12143169",
-      "imageUrl": "https://pimg.mk.co.kr/news/cms/202609/03/news-p.v1.20260903.4e08201abec64afab4793b26b9e213c6_R.png",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "google-gemini-flash-cyber",
-      "date": "3 September 2026",
-      "headline": "Google presenta Gemini 3.8 Flash y Flash Cyber para detección y parcheo de vulnerabilidades",
-      "summary": "Google lanzó una versión centrada en ciberseguridad que, según la cobertura, mejora la detección de vulnerabilidades y la remediación con menor coste que modelos más grandes. Para empresas, esto apunta a más automatización en seguridad y a una posible reducción del coste de operación de equipos de ciberdefensa.",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "eu-chip-shortage-bank-trigger",
-      "date": "3 September 2026",
-      "headline": "La propuesta europea de crisis de chips incluye al sector bancario como disparador de escasez",
-      "summary": "La UE plantea un régimen de respuesta a escasez de chips que incorpora banca, infraestructura de mercados financieros e infraestructura digital entre los sectores críticos. Para empresas, esto aumenta la probabilidad de intervenciones regulatorias en cadena de suministro de semiconductores si hay tensión de oferta.",
-      "source": "AI Pulse Daily Brief",
-      "sourceUrl": "https://buttondown.com/Horizonscan/archive/ai-pulse-daily-brief-2026-09-03/",
-      "imageUrl": "https://assets.buttondown.email/images/72313a34-4c2d-4cf0-a1a1-5d6169b3c639.png",
+      "id": "palo-alto-cyber-ai-debt",
+      "date": "1 September 2026",
+      "headline": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+      "summary": "Palo Alto’s CEO said companies need to modernize roughly $1 trillion of aging cybersecurity infrastructure because AI-enabled attacks operate at machine speed. For businesses, this points to higher security spending, faster refresh cycles, and greater urgency to update defenses before deploying more AI tools.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108137400-17458546272025-03-25t214352z_1459184385_rc2kkda23vt6_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&amp;w=1920&amp;h=1080",
       "category": "Regulación"
+    },
+    {
+      "id": "anthropic-lambda-cloud-deal",
+      "date": "1 September 2026",
+      "headline": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda",
+      "summary": "Anthropic’s reported $35 billion compute contract highlights how expensive frontier AI infrastructure has become and how concentrated demand for cloud capacity remains. For companies buying AI services or planning their own deployments, the deal signals continued pressure on compute availability and pricing across the ecosystem.",
+      "source": "Reuters / Investing.com",
+      "sourceUrl": "https://www.reuters.com/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "memory-shortage-ai",
+      "date": "1 September 2026",
+      "headline": "AI boom is driving a memory-chip shortage that could raise device prices",
+      "summary": "AI data centers are tightening memory supply, which is already pushing up costs for phones and computers. Businesses that buy hardware at scale should expect budget pressure, longer lead times, and potentially higher prices for servers, endpoints, and storage-related components.",
+      "source": "ABC News Australia",
+      "sourceUrl": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/07a99e3b925b58d09342b5012f86f7f2?impolicy=wcms_watermark_news&amp;cropH=822&amp;cropW=1462&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485&amp;imformat=generic",
+      "category": "Estrategia"
     }
   ]
 }
