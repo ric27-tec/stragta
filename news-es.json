@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-04T11:58:57.075Z",
+  "lastUpdated": "2026-09-05T11:04:58.555Z",
   "articles": [
     {
-      "id": "palo-alto-cyber-ai-debt",
-      "date": "1 September 2026",
-      "headline": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
-      "summary": "Palo Alto’s CEO said companies need to modernize roughly $1 trillion of aging cybersecurity infrastructure because AI-enabled attacks operate at machine speed. For businesses, this points to higher security spending, faster refresh cycles, and greater urgency to update defenses before deploying more AI tools.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108137400-17458546272025-03-25t214352z_1459184385_rc2kkda23vt6_rtrmadp_0_paloalto-stocks.jpeg?v=1745854692&amp;w=1920&amp;h=1080",
+      "id": "openai-1b-cyberdefense",
+      "date": "3 September 2026",
+      "headline": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "summary": "OpenAI pledged $1 billion in subsidized access to its AI cybersecurity tools, training and technical support for organizations protecting critical services. For businesses, this signals both rising AI-enabled cyber risk and a growing market for defensive automation, with implications for security budgets and vendor selection.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "anthropic-lambda-cloud-deal",
-      "date": "1 September 2026",
-      "headline": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda",
-      "summary": "Anthropic’s reported $35 billion compute contract highlights how expensive frontier AI infrastructure has become and how concentrated demand for cloud capacity remains. For companies buying AI services or planning their own deployments, the deal signals continued pressure on compute availability and pricing across the ecosystem.",
-      "source": "Reuters / Investing.com",
-      "sourceUrl": "https://www.reuters.com/",
-      "imageUrl": "",
+      "id": "tsmc-ai-demand",
+      "date": "3 September 2026",
+      "headline": "TSMC says it still cannot keep pace with AI boom despite fivefold capacity expansion",
+      "summary": "TSMC said it is expanding capacity sharply but remains unable to satisfy booming AI demand. For companies buying chips, cloud infrastructure or AI services, this suggests continued supply pressure, elevated pricing and longer planning horizons for hardware and compute procurement.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/09/03/2003863578",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/09/03/p09-260903-606.jpg",
       "category": "Estrategia"
     },
     {
-      "id": "memory-shortage-ai",
-      "date": "1 September 2026",
-      "headline": "AI boom is driving a memory-chip shortage that could raise device prices",
-      "summary": "AI data centers are tightening memory supply, which is already pushing up costs for phones and computers. Businesses that buy hardware at scale should expect budget pressure, longer lead times, and potentially higher prices for servers, endpoints, and storage-related components.",
-      "source": "ABC News Australia",
-      "sourceUrl": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
-      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/07a99e3b925b58d09342b5012f86f7f2?impolicy=wcms_watermark_news&amp;cropH=822&amp;cropW=1462&amp;xPos=0&amp;yPos=39&amp;width=862&amp;height=485&amp;imformat=generic",
-      "category": "Estrategia"
+      "id": "eu-ai-enforcement-requests",
+      "date": "3 September 2026",
+      "headline": "EU starts using new powers to send AI information requests to dozens of companies",
+      "summary": "The European Union began using new powers to request information from companies after incidents this summer highlighted AI risks. Businesses deploying or selling AI in Europe may face more compliance work, documentation demands and potential scrutiny over model safety and governance.",
+      "source": "Enterprise AI / Economic Times",
+      "sourceUrl": "https://enterpriseai.economictimes.indiatimes.com/newsletter?for_date=2026-09-03&activity_id=304",
+      "imageUrl": "",
+      "category": "Regulación"
     }
   ]
 }

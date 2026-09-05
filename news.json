@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-04T11:58:47.860Z",
+  "lastUpdated": "2026-09-05T11:04:50.428Z",
   "articles": [
     {
       "id": "openai-1b-cyberdefense",
-      "date": "3 September 2026",
-      "headline": "OpenAI commits $1 billion to cyberdefense effort amid rising AI-enabled attacks",
-      "summary": "OpenAI said it will provide subsidized access to its AI cybersecurity tools, training, and technical support to organizations protecting critical services. For businesses, the move signals a stronger push toward AI-assisted defense as attacks become more automated and harder to detect.",
+      "date": "4 September 2026",
+      "headline": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
+      "summary": "OpenAI is putting significant resources behind cybersecurity tools, training, and technical support for organizations protecting critical services. For businesses, the move signals faster availability of AI-powered defense capabilities as AI-enabled attacks intensify, while also raising the bar for security vendors and internal risk teams.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "openai-astra-cybersecurity-threshold",
-      "date": "3 September 2026",
-      "headline": "OpenAI says upcoming Astra model meets its critical cybersecurity threshold",
-      "summary": "OpenAI classified its upcoming Astra model as capable of finding previously unknown vulnerabilities and developing exploits with appropriate tools and access. For businesses, that raises both opportunity and risk: stronger defensive automation is possible, but so is faster adversary capability if safeguards fail.",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/",
-      "imageUrl": "",
-      "category": "Research"
-    },
-    {
-      "id": "nvidia-crowdstrike-safemind",
-      "date": "2 September 2026",
-      "headline": "Nvidia and CrowdStrike launch SafeMind to help defend enterprises from autonomous cyberattacks",
-      "summary": "Nvidia and CrowdStrike introduced a new family of agentic AI models aimed at finding attack paths and closing them for customers. That matters for enterprises because it points to a new class of security tooling designed to reduce breach risk and lower the operational burden on security teams.",
-      "source": "The Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/cio-journal/nvidia-and-crowdstrike-develop-new-cybersecurity-ai-models-937bb2aa",
+      "id": "nvidia-huggingface-13b",
+      "date": "4 September 2026",
+      "headline": "Nvidia bets $13 billion on open AI models with Hugging Face deal",
+      "summary": "Nvidia’s large bet on open AI models strengthens demand for its chips and expands the ecosystem of companies likely to spend on AI infrastructure. Executives should watch this as another sign that AI compute spending remains a strategic cost driver for cloud, software, and enterprise buyers.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "AI Adoption"
+    },
+    {
+      "id": "nvidia-openai-105b",
+      "date": "2 September 2026",
+      "headline": "Nvidia agrees to provide up to $105 billion guarantee for OpenAI Ohio data center lease",
+      "summary": "Nvidia’s massive financing commitment underscores how expensive AI infrastructure has become and how deeply chipmakers are now involved in funding it. This has direct implications for cloud capacity planning, future GPU supply, and the economics of enterprise AI adoption.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/openai/",
+      "imageUrl": "",
+      "category": "Strategy"
     }
   ]
 }
