@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-05T11:04:50.428Z",
+  "lastUpdated": "2026-09-06T11:28:23.364Z",
   "articles": [
     {
-      "id": "openai-1b-cyberdefense",
+      "id": "tesla-cybercab-investigation",
       "date": "4 September 2026",
-      "headline": "OpenAI commits $1 billion to cyberdefense effort amid AI safety scrutiny",
-      "summary": "OpenAI is putting significant resources behind cybersecurity tools, training, and technical support for organizations protecting critical services. For businesses, the move signals faster availability of AI-powered defense capabilities as AI-enabled attacks intensify, while also raising the bar for security vendors and internal risk teams.",
+      "headline": "US Regulators Open Investigation Into Tesla’s Cybercab Certification",
+      "summary": "The National Highway Traffic Safety Administration opened an investigation into whether Tesla properly certified its autonomous Cybercab robotaxi. The case could affect autonomous vehicle timelines, compliance costs, and broader confidence in commercial deployment of self-driving services.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "nvidia-huggingface-13b",
-      "date": "4 September 2026",
-      "headline": "Nvidia bets $13 billion on open AI models with Hugging Face deal",
-      "summary": "Nvidia’s large bet on open AI models strengthens demand for its chips and expands the ecosystem of companies likely to spend on AI infrastructure. Executives should watch this as another sign that AI compute spending remains a strategic cost driver for cloud, software, and enterprise buyers.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "nvidia-openai-105b",
-      "date": "2 September 2026",
-      "headline": "Nvidia agrees to provide up to $105 billion guarantee for OpenAI Ohio data center lease",
-      "summary": "Nvidia’s massive financing commitment underscores how expensive AI infrastructure has become and how deeply chipmakers are now involved in funding it. This has direct implications for cloud capacity planning, future GPU supply, and the economics of enterprise AI adoption.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/openai/",
+      "id": "nvidia-acquires-hugging-face",
+      "date": "3 September 2026",
+      "headline": "Nvidia Acquires Hugging Face",
+      "summary": "Nvidia’s reported $13 billion acquisition of Hugging Face signals a deeper push to control the AI software stack, not just chips. For businesses, this could influence model deployment choices, vendor lock-in risk, and the economics of enterprise AI adoption.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "tsmc-ai-boom-capacity",
+      "date": "3 September 2026",
+      "headline": "TSMC Says It Still Cannot Keep Up With AI Boom Despite Fivefold Capacity Expansion",
+      "summary": "TSMC said demand from the AI boom remains ahead of its expanded manufacturing plans, underscoring continued pressure on advanced chip supply. That matters for enterprises because tight wafer supply can keep AI hardware expensive and delay infrastructure rollouts.",
+      "source": "Taipei Times",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/09/03/2003863578",
+      "imageUrl": "https://img.taipeitimes.com/images/2026/09/03/p09-260903-606.jpg",
+      "category": "Research"
     }
   ]
 }
