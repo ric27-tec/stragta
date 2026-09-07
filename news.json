@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-06T11:28:23.364Z",
+  "lastUpdated": "2026-09-07T13:12:12.507Z",
   "articles": [
     {
-      "id": "tesla-cybercab-investigation",
-      "date": "4 September 2026",
-      "headline": "US Regulators Open Investigation Into Tesla’s Cybercab Certification",
-      "summary": "The National Highway Traffic Safety Administration opened an investigation into whether Tesla properly certified its autonomous Cybercab robotaxi. The case could affect autonomous vehicle timelines, compliance costs, and broader confidence in commercial deployment of self-driving services.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "id": "eu-cra-vulnerability-notification",
+      "date": "11 September 2026",
+      "headline": "EU chip security rules begin requiring vulnerability and incident notifications",
+      "summary": "The EU’s Cyber Resilience Act starts requiring manufacturers to notify actively exploited vulnerabilities and serious incidents affecting digital products. Businesses buying hardware and software in Europe should expect tighter compliance obligations, more security disclosures, and higher vendor scrutiny.",
+      "source": "Interoperable Europe Portal",
+      "sourceUrl": "https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/trusted-and-secure-chips-rp-2026",
+      "imageUrl": "https://interoperable-europe.ec.europa.eu/themes/ventuno/assets/images/og-image.png",
       "category": "Regulation"
     },
     {
-      "id": "nvidia-acquires-hugging-face",
-      "date": "3 September 2026",
-      "headline": "Nvidia Acquires Hugging Face",
-      "summary": "Nvidia’s reported $13 billion acquisition of Hugging Face signals a deeper push to control the AI software stack, not just chips. For businesses, this could influence model deployment choices, vendor lock-in risk, and the economics of enterprise AI adoption.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/videos/2026-09-03/bloomberg-tech-9-03-2026-video",
-      "imageUrl": "",
-      "category": "Strategy"
+      "id": "broadcom-ai-revenue-outlook",
+      "date": "6 September 2026",
+      "headline": "Broadcom lifts AI semiconductor revenue outlook sharply",
+      "summary": "Broadcom’s huge AI chip revenue and higher forecast signal sustained demand for AI infrastructure across data centers and enterprise workloads. That can affect supplier planning, chip availability, and the cost structure of AI deployments for large and mid-sized businesses.",
+      "source": "AI & Data Science News",
+      "sourceUrl": "https://letsdatascience.com/news",
+      "imageUrl": "https://letsdatascience.com/lds-og-image.png",
+      "category": "Research"
     },
     {
-      "id": "tsmc-ai-boom-capacity",
-      "date": "3 September 2026",
-      "headline": "TSMC Says It Still Cannot Keep Up With AI Boom Despite Fivefold Capacity Expansion",
-      "summary": "TSMC said demand from the AI boom remains ahead of its expanded manufacturing plans, underscoring continued pressure on advanced chip supply. That matters for enterprises because tight wafer supply can keep AI hardware expensive and delay infrastructure rollouts.",
-      "source": "Taipei Times",
-      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/09/03/2003863578",
-      "imageUrl": "https://img.taipeitimes.com/images/2026/09/03/p09-260903-606.jpg",
-      "category": "Research"
+      "id": "tcs-ai-data-center-campus",
+      "date": "5 September 2026",
+      "headline": "TCS unit to invest up to $7.4 billion in AI data center campus",
+      "summary": "India’s TCS is planning a major AI data center campus investment, signaling more demand for compute, power, and infrastructure services. For businesses, this points to rising AI infrastructure spending and potentially stronger competition for capacity, which can affect cloud costs and deployment plans.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Strategy"
     }
   ]
 }

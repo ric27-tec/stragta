@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-06T11:28:32.055Z",
+  "lastUpdated": "2026-09-07T13:12:22.520Z",
   "articles": [
     {
-      "id": "tesla-cybercab-probe",
-      "date": "4 September 2026",
-      "headline": "EE. UU. abre una investigación sobre la certificación del robotaxi Cybercab de Tesla",
-      "summary": "La investigación regulatoria puede retrasar despliegues comerciales y elevar el escrutinio sobre la monetización de robotaxis, un frente clave para la estrategia de movilidad de Tesla. Para empresas que trabajan en AV, software de conducción o movilidad compartida, el caso subraya el riesgo regulatorio y de cumplimiento en lanzamientos de IA física.",
+      "id": "tcs-ai-data-center-campus",
+      "date": "5 September 2026",
+      "headline": "India's TCS unit to invest up to $7.4 billion in AI data center campus",
+      "summary": "TCS plans a large AI data center investment in India, signaling continued demand for compute, storage, and power infrastructure. This matters for enterprises because it points to more regional cloud capacity, potential price pressure over time, and stronger competition for AI infrastructure supply.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Regulación"
-    },
-    {
-      "id": "docusign-mcp-server-agents",
-      "date": "4 September 2026",
-      "headline": "DocuSign abrirá su servidor MCP a cualquier agente de IA el 30 de septiembre",
-      "summary": "La apertura de MCP acerca flujos de firma y gestión de acuerdos a agentes de IA, lo que puede reducir fricción operativa en ventas, compras y legal. Para empresas, el impacto está en automatización con controles gobernados sobre acciones sensibles.",
-      "source": "PR Newswire",
-      "sourceUrl": "https://www.prnewswire.com/news-releases/business-technology-latest-news/",
-      "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "dell-ai-server-forecast",
-      "date": "4 September 2026",
-      "headline": "Dell eleva su previsión fiscal 2027 por la fortaleza de sus servidores de IA",
-      "summary": "La mejora de guía sugiere demanda sólida en infraestructura de IA y puede apuntar a mayor gasto corporativo en hardware y centros de datos. Para compradores empresariales, es una señal sobre disponibilidad, precios y prioridad de inversión en servidores para IA.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/enterprise/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
       "category": "Estrategia"
+    },
+    {
+      "id": "nvidia-hugging-face-deal",
+      "date": "4 September 2026",
+      "headline": "Nvidia bets $13 billion on open AI models with Hugging Face deal",
+      "summary": "Nvidia’s reported $12.9 billion acquisition of Hugging Face would deepen its control over the AI developer ecosystem and could accelerate enterprise adoption of open models. For businesses, the bigger implication is stronger pressure on AI infrastructure spending and a possible shift in how companies source and deploy models at scale.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/magnificent-seven/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
+    {
+      "id": "us-china-ai-safety-talks",
+      "date": "4 September 2026",
+      "headline": "US and China prepare mid-September AI safety talks",
+      "summary": "The planned AI safety talks add another layer of geopolitical risk around advanced AI development, export controls, and cross-border policy coordination. Companies building AI products, chips, or cloud services should watch for compliance changes that could affect market access, procurement, and product roadmaps.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Regulación"
     }
   ]
 }
