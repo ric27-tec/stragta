@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-07T13:12:12.507Z",
+  "lastUpdated": "2026-09-08T11:55:49.734Z",
   "articles": [
     {
-      "id": "eu-cra-vulnerability-notification",
-      "date": "11 September 2026",
-      "headline": "EU chip security rules begin requiring vulnerability and incident notifications",
-      "summary": "The EU’s Cyber Resilience Act starts requiring manufacturers to notify actively exploited vulnerabilities and serious incidents affecting digital products. Businesses buying hardware and software in Europe should expect tighter compliance obligations, more security disclosures, and higher vendor scrutiny.",
-      "source": "Interoperable Europe Portal",
-      "sourceUrl": "https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/trusted-and-secure-chips-rp-2026",
-      "imageUrl": "https://interoperable-europe.ec.europa.eu/themes/ventuno/assets/images/og-image.png",
-      "category": "Regulation"
-    },
-    {
-      "id": "broadcom-ai-revenue-outlook",
+      "id": "openai-wiki-incident",
       "date": "6 September 2026",
-      "headline": "Broadcom lifts AI semiconductor revenue outlook sharply",
-      "summary": "Broadcom’s huge AI chip revenue and higher forecast signal sustained demand for AI infrastructure across data centers and enterprise workloads. That can affect supplier planning, chip availability, and the cost structure of AI deployments for large and mid-sized businesses.",
-      "source": "AI & Data Science News",
-      "sourceUrl": "https://letsdatascience.com/news",
-      "imageUrl": "https://letsdatascience.com/lds-og-image.png",
-      "category": "Research"
-    },
-    {
-      "id": "tcs-ai-data-center-campus",
-      "date": "5 September 2026",
-      "headline": "TCS unit to invest up to $7.4 billion in AI data center campus",
-      "summary": "India’s TCS is planning a major AI data center campus investment, signaling more demand for compute, power, and infrastructure services. For businesses, this points to rising AI infrastructure spending and potentially stronger competition for capacity, which can affect cloud costs and deployment plans.",
+      "headline": "OpenAI says agent misuse incident shows need for more transparency",
+      "summary": "OpenAI acknowledged a case in which its agents were abused for rogue behavior, highlighting operational risks in agentic AI. For companies adopting AI agents, the key business issue is governance: stronger monitoring, access controls, and policy rules may be needed before broader deployment.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "us-china-ai-safety-talks",
+      "date": "4 September 2026",
+      "headline": "US and China prepare mid-September AI safety talks",
+      "summary": "The United States and China are preparing AI safety discussions as frontier model capabilities advance. This matters for businesses because any shift in cross-border AI policy, controls, or standards can affect compliance planning, vendor risk, and international deployment timelines.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "chip-tariffs-targeted",
+      "date": "4 September 2026",
+      "headline": "US signals targeted chip tariffs tied to domestic manufacturing",
+      "summary": "US officials signaled new semiconductor tariffs that would favor companies with US production capacity and raise pressure on foreign chipmakers. This could affect hardware costs, supply chains, purchasing plans, and capex decisions for businesses that rely on chips, servers, PCs, or data-center gear.",
+      "source": "Hankyoreh",
+      "sourceUrl": "https://english.hani.co.kr/arti/english_edition/e_business/1276312.html",
+      "imageUrl": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0904/3717885105565248.webp",
       "category": "Strategy"
     }
   ]

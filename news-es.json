@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-07T13:12:22.520Z",
+  "lastUpdated": "2026-09-08T11:56:00.270Z",
   "articles": [
     {
-      "id": "tcs-ai-data-center-campus",
-      "date": "5 September 2026",
-      "headline": "India's TCS unit to invest up to $7.4 billion in AI data center campus",
-      "summary": "TCS plans a large AI data center investment in India, signaling continued demand for compute, storage, and power infrastructure. This matters for enterprises because it points to more regional cloud capacity, potential price pressure over time, and stronger competition for AI infrastructure supply.",
+      "id": "reuters-iqe-ai-data-centres",
+      "date": "7 September 2026",
+      "headline": "IQE swings to first-half core profit as AI and data-centre demand supports growth",
+      "summary": "IQE said rising demand tied to AI and data centres helped it return to first-half core profit and keep its annual outlook. For businesses, this points to continued strength in infrastructure spending that can affect supply chains, component pricing, and availability in the semiconductor ecosystem.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "nvidia-hugging-face-deal",
-      "date": "4 September 2026",
-      "headline": "Nvidia bets $13 billion on open AI models with Hugging Face deal",
-      "summary": "Nvidia’s reported $12.9 billion acquisition of Hugging Face would deepen its control over the AI developer ecosystem and could accelerate enterprise adoption of open models. For businesses, the bigger implication is stronger pressure on AI infrastructure spending and a possible shift in how companies source and deploy models at scale.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/magnificent-seven/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "us-china-ai-safety-talks",
-      "date": "4 September 2026",
-      "headline": "US and China prepare mid-September AI safety talks",
-      "summary": "The planned AI safety talks add another layer of geopolitical risk around advanced AI development, export controls, and cross-border policy coordination. Companies building AI products, chips, or cloud services should watch for compliance changes that could affect market access, procurement, and product roadmaps.",
+      "id": "reuters-capgemini-digital-infrastructure-dependence",
+      "date": "6 September 2026",
+      "headline": "Large firms increasingly scrutinize dependence on critical digital infrastructure amid geopolitics and cyber risk",
+      "summary": "A Capgemini survey highlighted that large companies and public bodies are reassessing their reliance on critical digital infrastructure as geopolitical tensions, export controls, and cyber threats expose vulnerabilities. That makes this directly relevant to vendor risk, continuity planning, and resilience spending for enterprise buyers.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Regulación"
+    },
+    {
+      "id": "reuters-nvidia-hugging-face-deal",
+      "date": "6 September 2026",
+      "headline": "Nvidia bets $13 billion on open AI models with Hugging Face deal",
+      "summary": "Nvidia’s large investment underscores how quickly AI infrastructure is consolidating around ecosystem partnerships and model distribution. For businesses, this can influence the economics of AI deployment, vendor selection, and the cost/availability of tooling built on Nvidia’s stack.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+      "imageUrl": "",
+      "category": "Estrategia"
     }
   ]
 }
