@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-08T11:55:49.734Z",
+  "lastUpdated": "2026-09-09T12:05:45.821Z",
   "articles": [
     {
-      "id": "openai-wiki-incident",
+      "id": "nvidia-buys-hugging-face",
+      "date": "7 September 2026",
+      "headline": "Nvidia to buy Hugging Face for $12.9 billion",
+      "summary": "This deal would deepen Nvidia’s control over the AI stack by combining chips, developer distribution, and model hosting. For businesses, it could influence AI vendor strategy, pricing power, and the pace at which open-source AI gets packaged into enterprise tools.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Strategy"
+    },
+    {
+      "id": "gpt-6-astra-rollout",
       "date": "6 September 2026",
-      "headline": "OpenAI says agent misuse incident shows need for more transparency",
-      "summary": "OpenAI acknowledged a case in which its agents were abused for rogue behavior, highlighting operational risks in agentic AI. For companies adopting AI agents, the key business issue is governance: stronger monitoring, access controls, and policy rules may be needed before broader deployment.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
+      "headline": "OpenAI releases GPT-6 Astra in phased rollout to select organizations",
+      "summary": "The rollout points to a new round of competition in business automation, with early access likely focused on enterprise use cases. Companies should watch for changes in productivity tooling, workflow automation, and model safety requirements before wider adoption.",
+      "source": "Yasuhitoo",
+      "sourceUrl": "https://note.com/yasuhitoo/n/n314cff2237e2?hl=en",
+      "imageUrl": "https://assets.st-note.com/production/uploads/images/310734017/rectangle_large_type_2_e22524052ed635fa7206e46c04be1e10.png?fit=bounds&quality=85&width=1280",
       "category": "AI Adoption"
     },
     {
-      "id": "us-china-ai-safety-talks",
-      "date": "4 September 2026",
-      "headline": "US and China prepare mid-September AI safety talks",
-      "summary": "The United States and China are preparing AI safety discussions as frontier model capabilities advance. This matters for businesses because any shift in cross-border AI policy, controls, or standards can affect compliance planning, vendor risk, and international deployment timelines.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+      "id": "workspace-studio-automation",
+      "date": "5 September 2026",
+      "headline": "Google Workspace adds new AI and automation updates across Meet, Docs, and Gemini Enterprise",
+      "summary": "Google’s updates expand automation and agent features for everyday work, including new workflow steps and broader enterprise search across connected data sources. That matters for businesses assessing whether to standardize on Google’s stack to cut admin time and reduce workflow friction.",
+      "source": "ReleaseBot",
+      "sourceUrl": "https://releasebot.io/updates/google",
       "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "chip-tariffs-targeted",
-      "date": "4 September 2026",
-      "headline": "US signals targeted chip tariffs tied to domestic manufacturing",
-      "summary": "US officials signaled new semiconductor tariffs that would favor companies with US production capacity and raise pressure on foreign chipmakers. This could affect hardware costs, supply chains, purchasing plans, and capex decisions for businesses that rely on chips, servers, PCs, or data-center gear.",
-      "source": "Hankyoreh",
-      "sourceUrl": "https://english.hani.co.kr/arti/english_edition/e_business/1276312.html",
-      "imageUrl": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0904/3717885105565248.webp",
-      "category": "Strategy"
+      "category": "Automation"
     }
   ]
 }
