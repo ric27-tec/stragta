@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-09T12:05:57.633Z",
+  "lastUpdated": "2026-09-10T11:59:57.937Z",
   "articles": [
     {
-      "id": "nvidia-acquires-hugging-face",
-      "date": "7 September 2026",
-      "headline": "Nvidia buys Hugging Face in $12.9bn deal",
-      "summary": "Nvidia’s acquisition of Hugging Face signals deeper consolidation in the AI stack and stronger control over open-source model distribution. For businesses, this could affect vendor choice, developer tooling, and the economics of deploying AI at scale.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "id": "google-finland-ai-infra-2026-09-09",
+      "date": "9 September 2026",
+      "headline": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
+      "summary": "Google’s planned infrastructure spend and energy deal point to continued hyperscaler demand for compute, cooling and power. For businesses, this signals that AI capacity expansion remains capital-intensive and that cloud and energy costs may stay elevated, especially for firms relying on large-scale model training or inference.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "gpt-6-astra-rollout",
-      "date": "6 September 2026",
-      "headline": "OpenAI begins phased rollout of GPT-6 Astra to select organizations",
-      "summary": "A phased enterprise rollout suggests another jump in model capability for automation, content generation, and internal assistants. Businesses should expect rapid experimentation, but also more pressure to update policies for data handling, accuracy checks, and model governance.",
-      "source": "Weekly AI News [PEST Edition]",
-      "sourceUrl": "https://note.com/yasuhitoo/n/n314cff2237e2?hl=en",
-      "imageUrl": "https://assets.st-note.com/production/uploads/images/310734017/rectangle_large_type_2_e22524052ed635fa7206e46c04be1e10.png?fit=bounds&quality=85&width=1280",
-      "category": "Adopción de IA"
+      "id": "apple-smartphones-prices-ai-boom-2026-09-08",
+      "date": "8 September 2026",
+      "headline": "Smartphones are going to cost more as the AI boom pushes inflation",
+      "summary": "Rising costs tied to the AI build-out are flowing through to consumer hardware pricing. That matters for companies that refresh fleets of phones, tablets, and edge devices, because procurement budgets may need to absorb higher device prices and longer replacement cycles.",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/business/technology/",
+      "imageUrl": "",
+      "category": "Estrategia"
     },
     {
-      "id": "google-workspace-ai-updates",
-      "date": "5 September 2026",
-      "headline": "Google Workspace adds new automation and AI features for business users",
-      "summary": "Google expanded Workspace with more automation steps, broader Gemini custom instructions, and new enterprise workflow tools. These updates matter for firms looking to reduce manual work, connect internal systems, and standardize AI use across teams.",
-      "source": "Google Release Notes",
-      "sourceUrl": "https://releasebot.io/updates/google",
+      "id": "mistral-samsung-series-d-2026-09-08",
+      "date": "8 September 2026",
+      "headline": "Mistral raises 3 billion euros in Series D led by Samsung Electronics",
+      "summary": "The funding round strengthens one of Europe’s leading AI model companies and signals continued competitive investment in frontier AI. For businesses, this may expand model choice, but it also underscores that enterprise AI suppliers are still burning significant capital and racing to scale.",
+      "source": "Venture Atlas",
+      "sourceUrl": "https://www.ventureatlas.org/news",
       "imageUrl": "",
-      "category": "Automatización"
+      "category": "Adopción de IA"
     }
   ]
 }

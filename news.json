@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-09T12:05:45.821Z",
+  "lastUpdated": "2026-09-10T11:59:44.872Z",
   "articles": [
     {
-      "id": "nvidia-buys-hugging-face",
-      "date": "7 September 2026",
-      "headline": "Nvidia to buy Hugging Face for $12.9 billion",
-      "summary": "This deal would deepen Nvidia’s control over the AI stack by combining chips, developer distribution, and model hosting. For businesses, it could influence AI vendor strategy, pricing power, and the pace at which open-source AI gets packaged into enterprise tools.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Strategy"
+      "id": "europe-cra-reporting-deadline",
+      "date": "11 September 2026",
+      "headline": "EU cybersecurity reporting duties begin for actively exploited vulnerabilities",
+      "summary": "New reporting obligations under the EU Cyber Resilience Act begin applying on 11 September 2026, requiring manufacturers to report actively exploited vulnerabilities and severe incidents. Businesses selling connected products or software into Europe need to prepare for faster incident reporting, tighter compliance workflows, and added legal exposure.",
+      "source": "ACBSEC",
+      "sourceUrl": "https://acbsec.com/en/blog/cybersecurity-final-stretch-2026/",
+      "imageUrl": "https://acbsec.com/assets/og-acbsec.jpg",
+      "category": "Regulation"
     },
     {
-      "id": "gpt-6-astra-rollout",
-      "date": "6 September 2026",
-      "headline": "OpenAI releases GPT-6 Astra in phased rollout to select organizations",
-      "summary": "The rollout points to a new round of competition in business automation, with early access likely focused on enterprise use cases. Companies should watch for changes in productivity tooling, workflow automation, and model safety requirements before wider adoption.",
-      "source": "Yasuhitoo",
-      "sourceUrl": "https://note.com/yasuhitoo/n/n314cff2237e2?hl=en",
-      "imageUrl": "https://assets.st-note.com/production/uploads/images/310734017/rectangle_large_type_2_e22524052ed635fa7206e46c04be1e10.png?fit=bounds&quality=85&width=1280",
-      "category": "AI Adoption"
-    },
-    {
-      "id": "workspace-studio-automation",
-      "date": "5 September 2026",
-      "headline": "Google Workspace adds new AI and automation updates across Meet, Docs, and Gemini Enterprise",
-      "summary": "Google’s updates expand automation and agent features for everyday work, including new workflow steps and broader enterprise search across connected data sources. That matters for businesses assessing whether to standardize on Google’s stack to cut admin time and reduce workflow friction.",
-      "source": "ReleaseBot",
-      "sourceUrl": "https://releasebot.io/updates/google",
+      "id": "anthropic-ai-cybersecurity-tools",
+      "date": "8 September 2026",
+      "headline": "OpenAI commits $1 billion to subsidized AI cybersecurity tools and support",
+      "summary": "OpenAI said it will provide $1 billion in subsidized access to AI cybersecurity tools, training, and technical support for organizations protecting critical services. The move matters for businesses because it may lower the cost of security tooling while signaling that AI-driven attacks and defensive automation are becoming a board-level risk.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
       "imageUrl": "",
-      "category": "Automation"
+      "category": "Regulation"
+    },
+    {
+      "id": "semiconductor-market-talk-openai-chatgpt6-astra",
+      "date": "7 September 2026",
+      "headline": "Semiconductor stocks recover as OpenAI release lifts sentiment",
+      "summary": "A market roundup reported that semiconductor shares have been recovering since late July, with sentiment improved further by OpenAI’s ChatGPT-6 Astra release. For companies that buy chips, build AI infrastructure, or depend on cloud capacity, this suggests continued strength in AI-related hardware demand and pricing pressure.",
+      "source": "Wall Street Journal",
+      "sourceUrl": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-867ac53d",
+      "imageUrl": "",
+      "category": "Strategy"
     }
   ]
 }
