@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-10T11:59:44.872Z",
+  "lastUpdated": "2026-09-11T11:58:40.627Z",
   "articles": [
     {
-      "id": "europe-cra-reporting-deadline",
-      "date": "11 September 2026",
-      "headline": "EU cybersecurity reporting duties begin for actively exploited vulnerabilities",
-      "summary": "New reporting obligations under the EU Cyber Resilience Act begin applying on 11 September 2026, requiring manufacturers to report actively exploited vulnerabilities and severe incidents. Businesses selling connected products or software into Europe need to prepare for faster incident reporting, tighter compliance workflows, and added legal exposure.",
-      "source": "ACBSEC",
-      "sourceUrl": "https://acbsec.com/en/blog/cybersecurity-final-stretch-2026/",
-      "imageUrl": "https://acbsec.com/assets/og-acbsec.jpg",
-      "category": "Regulation"
-    },
-    {
-      "id": "anthropic-ai-cybersecurity-tools",
-      "date": "8 September 2026",
-      "headline": "OpenAI commits $1 billion to subsidized AI cybersecurity tools and support",
-      "summary": "OpenAI said it will provide $1 billion in subsidized access to AI cybersecurity tools, training, and technical support for organizations protecting critical services. The move matters for businesses because it may lower the cost of security tooling while signaling that AI-driven attacks and defensive automation are becoming a board-level risk.",
+      "id": "us-accuses-chinese-ai-firms-copying",
+      "date": "9 September 2026",
+      "headline": "U.S. accuses Chinese AI firms of copying American AI technology",
+      "summary": "The U.S. government accused Chinese AI companies of maliciously copying technology from American firms, raising the risk of tighter export controls and broader geopolitical friction. Businesses exposed to AI supply chains, cross-border data flows, or China-related tech procurement should watch for compliance and sourcing impacts.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
+      "sourceUrl": "https://www.reuters.com/business/media-telecom/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "semiconductor-market-talk-openai-chatgpt6-astra",
-      "date": "7 September 2026",
-      "headline": "Semiconductor stocks recover as OpenAI release lifts sentiment",
-      "summary": "A market roundup reported that semiconductor shares have been recovering since late July, with sentiment improved further by OpenAI’s ChatGPT-6 Astra release. For companies that buy chips, build AI infrastructure, or depend on cloud capacity, this suggests continued strength in AI-related hardware demand and pricing pressure.",
-      "source": "Wall Street Journal",
-      "sourceUrl": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-867ac53d",
+      "id": "qualcomm-amazon-ai-chip-deal",
+      "date": "8 September 2026",
+      "headline": "Qualcomm strikes AI chip deal with Amazon, with stock purchase rights",
+      "summary": "Qualcomm said Amazon could buy up to $60 billion of its AI data-center chips and related products under a long-term partnership. The deal matters for businesses because it signals stronger competition in AI infrastructure and may influence future cloud and chip pricing.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/magnificent-seven/",
       "imageUrl": "",
       "category": "Strategy"
+    },
+    {
+      "id": "cognition-ai-raises-2bn",
+      "date": "8 September 2026",
+      "headline": "Cognition AI raises $2 billion at $48 billion valuation",
+      "summary": "Cognition AI secured a major funding round at a sharply higher valuation, underscoring investor appetite for AI coding tools. For companies, that suggests faster product development, more automation in software teams, and stronger pressure to adopt AI-assisted engineering workflows.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cognition-ai-raises-2-billion-48-billion-valuation-2026-09-08/",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-10T11:59:57.937Z",
+  "lastUpdated": "2026-09-11T11:58:48.649Z",
   "articles": [
     {
-      "id": "google-finland-ai-infra-2026-09-09",
-      "date": "9 September 2026",
-      "headline": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland",
-      "summary": "Google’s planned infrastructure spend and energy deal point to continued hyperscaler demand for compute, cooling and power. For businesses, this signals that AI capacity expansion remains capital-intensive and that cloud and energy costs may stay elevated, especially for firms relying on large-scale model training or inference.",
+      "id": "german-military-ai-tools",
+      "date": "10 September 2026",
+      "headline": "German military evaluating 30 AI tools for use from 2027",
+      "summary": "The evaluation of 30 AI tools signals growing institutional demand for enterprise-grade AI in regulated, mission-critical settings. Vendors serving government and large organizations may see new procurement opportunities, but also higher compliance and security requirements.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "apple-smartphones-prices-ai-boom-2026-09-08",
-      "date": "8 September 2026",
-      "headline": "Smartphones are going to cost more as the AI boom pushes inflation",
-      "summary": "Rising costs tied to the AI build-out are flowing through to consumer hardware pricing. That matters for companies that refresh fleets of phones, tablets, and edge devices, because procurement budgets may need to absorb higher device prices and longer replacement cycles.",
-      "source": "The Washington Post",
-      "sourceUrl": "https://www.washingtonpost.com/business/technology/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "mistral-samsung-series-d-2026-09-08",
-      "date": "8 September 2026",
-      "headline": "Mistral raises 3 billion euros in Series D led by Samsung Electronics",
-      "summary": "The funding round strengthens one of Europe’s leading AI model companies and signals continued competitive investment in frontier AI. For businesses, this may expand model choice, but it also underscores that enterprise AI suppliers are still burning significant capital and racing to scale.",
-      "source": "Venture Atlas",
-      "sourceUrl": "https://www.ventureatlas.org/news",
-      "imageUrl": "",
       "category": "Adopción de IA"
+    },
+    {
+      "id": "ottawa-ai-data-centre-framework",
+      "date": "9 September 2026",
+      "headline": "Major AI firms agree to Ottawa’s new data-centre framework",
+      "summary": "Canada’s new framework for data-centre development affects where AI infrastructure can be built and how public opposition is managed. That matters for enterprises planning cloud capacity, regional resilience, and long-term infrastructure costs.",
+      "source": "The Globe and Mail",
+      "sourceUrl": "https://www.theglobeandmail.com/business/technology/",
+      "imageUrl": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=956",
+      "category": "Regulación"
+    },
+    {
+      "id": "nvidia-hugging-face-acquisition",
+      "date": "7 September 2026",
+      "headline": "Nvidia to buy Hugging Face for $12.9 billion",
+      "summary": "Nvidia’s planned acquisition of Hugging Face would strengthen its position across the AI software stack and could accelerate enterprise adoption of open-source models and tooling. For buyers, that may deepen platform dependence while also shaping pricing, model access, and deployment choices.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Estrategia"
     }
   ]
 }
