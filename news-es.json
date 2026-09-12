@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-11T11:58:48.649Z",
+  "lastUpdated": "2026-09-12T11:25:20.788Z",
   "articles": [
+    {
+      "id": "us-china-ai-tech-security-sept-2026",
+      "date": "10 September 2026",
+      "headline": "US accuses Chinese AI firms of malicious copying of AI technology",
+      "summary": "The dispute adds to geopolitical and supply-chain risk around frontier AI development, especially for firms with exposure to China, cross-border research, or AI model supply chains. Businesses should factor in tighter scrutiny, potential sanctions pressure, and rising compliance costs when sourcing or partnering in AI.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
+      "imageUrl": "",
+      "category": "Estrategia"
+    },
     {
       "id": "german-military-ai-tools",
       "date": "10 September 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://www.theglobeandmail.com/business/technology/",
       "imageUrl": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=956",
       "category": "Regulación"
-    },
-    {
-      "id": "nvidia-hugging-face-acquisition",
-      "date": "7 September 2026",
-      "headline": "Nvidia to buy Hugging Face for $12.9 billion",
-      "summary": "Nvidia’s planned acquisition of Hugging Face would strengthen its position across the AI software stack and could accelerate enterprise adoption of open-source models and tooling. For buyers, that may deepen platform dependence while also shaping pricing, model access, and deployment choices.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Estrategia"
     }
   ]
 }
