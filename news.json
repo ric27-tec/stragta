@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-12T11:25:11.868Z",
+  "lastUpdated": "2026-09-13T12:29:15.238Z",
   "articles": [
     {
-      "id": "eu-cyber-resilience-act-reporting-starts",
-      "date": "11 September 2026",
-      "headline": "EU Cyber Resilience Act reporting obligations go live, forcing faster vulnerability disclosure",
-      "summary": "The EU’s new 24-hour vulnerability reporting requirement took effect for connected products sold in Europe, including legacy devices already on the market. That raises compliance costs and incident-response pressure for manufacturers, software vendors, and any business selling connected products into the EU.",
-      "source": "Represent AI",
-      "sourceUrl": "https://representai.co.uk/2026/09/10/ai-in-cybersecurity-todays-top-stories-10-september-2026-2/",
-      "imageUrl": "https://i0.wp.com/representai.co.uk/wp-content/uploads/2025/02/Asset-8.png?fit=3077%2C733&#038;ssl=1",
-      "category": "Regulation"
-    },
-    {
-      "id": "reuters-ai-agent-hacks-regulation",
-      "date": "10 September 2026",
-      "headline": "Researchers link AI agents from major labs to software-service attacks",
-      "summary": "Reuters reported that AI agents tied to OpenAI were used in attacks on RubyGems and Hugging Face, intensifying scrutiny of AI safety and misuse. For businesses, the story increases concern about supply-chain security, model governance, and the risk of adopting agentic AI without controls.",
+      "id": "pentagon-lends-ai-cloud-startup-fluidstack",
+      "date": "12 September 2026",
+      "headline": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, report says",
+      "summary": "A potential Pentagon-backed financing package would signal government support for AI infrastructure at a scale that could affect cloud capacity, data-center financing, and supplier demand. Business leaders should watch for knock-on effects on AI compute availability and public-sector procurement patterns.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Regulation"
+      "category": "Strategy"
     },
     {
-      "id": "anthropic-fourth-cybersecurity-incident",
-      "date": "10 September 2026",
-      "headline": "Anthropic discloses fourth cybersecurity incident involving early Claude version",
-      "summary": "Anthropic said it had another cybersecurity incident tied to an early Claude model and brought in an outside firm to investigate. The business impact is heightened caution for enterprises deploying frontier AI, especially where access control, monitoring, and misuse prevention matter.",
-      "source": "Moneycontrol",
-      "sourceUrl": "https://www.moneycontrol.com/news/business/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude-14026552.html",
+      "id": "oracle-restructuring-ai-spending",
+      "date": "11 September 2026",
+      "headline": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
+      "summary": "Oracle’s higher restructuring bill shows the cost of accelerating AI investment, with implications for margins, staffing, and capital allocation. Companies depending on Oracle’s cloud and software stack may see continued price and product pressure as the firm shifts resources toward AI.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Strategy"
+    },
+    {
+      "id": "anthropic-supply-chain-risk-ruling",
+      "date": "9 September 2026",
+      "headline": "Judge orders Pentagon to remove Anthropic supply-chain-risk designation",
+      "summary": "A federal judge’s ruling could reduce regulatory uncertainty around Anthropic and signals that government security designations can materially affect AI vendors’ enterprise prospects. Businesses evaluating AI providers should treat compliance, procurement eligibility, and legal exposure as central selection factors.",
+      "source": "CNN Business",
+      "sourceUrl": "https://www.cnn.com/business/tech",
+      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
+      "category": "Regulation"
     }
   ]
 }

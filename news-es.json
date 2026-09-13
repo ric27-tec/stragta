@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-12T11:25:20.788Z",
+  "lastUpdated": "2026-09-13T12:29:22.693Z",
   "articles": [
     {
-      "id": "us-china-ai-tech-security-sept-2026",
-      "date": "10 September 2026",
-      "headline": "US accuses Chinese AI firms of malicious copying of AI technology",
-      "summary": "The dispute adds to geopolitical and supply-chain risk around frontier AI development, especially for firms with exposure to China, cross-border research, or AI model supply chains. Businesses should factor in tighter scrutiny, potential sanctions pressure, and rising compliance costs when sourcing or partnering in AI.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "id": "eu-ai-rules-hacks",
+      "date": "11 September 2026",
+      "headline": "La UE exige a las tecnológicas reforzar el control de modelos de IA tras nuevos ciberataques",
+      "summary": "Con la aplicación plena de sus normas, Bruselas sube el listón de cumplimiento para empresas que desarrollan o despliegan IA en Europa. El impacto empresarial incluye más coste regulatorio, mayor necesidad de auditoría y riesgo de sanciones por incumplimiento.",
+      "source": "TechXplore",
+      "sourceUrl": "https://techxplore.com/news/2026-09-ai-eu-tech-firms-hacks.html",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents.jpg",
+      "category": "Regulación"
     },
     {
-      "id": "german-military-ai-tools",
+      "id": "openai-financial-services-chatgpt",
       "date": "10 September 2026",
-      "headline": "German military evaluating 30 AI tools for use from 2027",
-      "summary": "The evaluation of 30 AI tools signals growing institutional demand for enterprise-grade AI in regulated, mission-critical settings. Vendors serving government and large organizations may see new procurement opportunities, but also higher compliance and security requirements.",
+      "headline": "OpenAI lanza ChatGPT para el sector de servicios financieros",
+      "summary": "El movimiento apunta a una adopción empresarial más profunda de la IA en banca, seguros, gestión de activos y fintech. Para los directivos, puede acelerar automatización de análisis, atención y cumplimiento, pero también eleva la presión sobre controles de riesgo, datos y gobernanza.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Adopción de IA"
     },
     {
-      "id": "ottawa-ai-data-centre-framework",
-      "date": "9 September 2026",
-      "headline": "Major AI firms agree to Ottawa’s new data-centre framework",
-      "summary": "Canada’s new framework for data-centre development affects where AI infrastructure can be built and how public opposition is managed. That matters for enterprises planning cloud capacity, regional resilience, and long-term infrastructure costs.",
-      "source": "The Globe and Mail",
-      "sourceUrl": "https://www.theglobeandmail.com/business/technology/",
-      "imageUrl": "https://www.theglobeandmail.com/pf/resources/assets/meta/twitter-summary-240x240.png?d=956",
-      "category": "Regulación"
+      "id": "ai-agent-payment-standard",
+      "date": "10 September 2026",
+      "headline": "Ant International, Visa y Mastercard crean un estándar para pagos con agentes de IA",
+      "summary": "Las compañías acordaron un marco común de tipo “know your agent” para pagos realizados por agentes de IA. Esto puede facilitar comercio automatizado a escala, pero también obliga a comercios y procesadores a adaptar autenticación, fraude y conciliación de pagos.",
+      "source": "The TechEchelon Brief",
+      "sourceUrl": "https://www.techechelon.com/brief/2026-09-10",
+      "imageUrl": "",
+      "category": "Estrategia"
     }
   ]
 }
