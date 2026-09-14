@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-13T12:29:15.238Z",
+  "lastUpdated": "2026-09-14T13:33:26.070Z",
   "articles": [
     {
-      "id": "pentagon-lends-ai-cloud-startup-fluidstack",
-      "date": "12 September 2026",
-      "headline": "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, report says",
-      "summary": "A potential Pentagon-backed financing package would signal government support for AI infrastructure at a scale that could affect cloud capacity, data-center financing, and supplier demand. Business leaders should watch for knock-on effects on AI compute availability and public-sector procurement patterns.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "oracle-restructuring-ai-spending",
+      "id": "eu-cyber-resilience-act-24h-reporting",
       "date": "11 September 2026",
-      "headline": "Oracle to spend $700 million more on restructuring costs as it ramps up AI spending",
-      "summary": "Oracle’s higher restructuring bill shows the cost of accelerating AI investment, with implications for margins, staffing, and capital allocation. Companies depending on Oracle’s cloud and software stack may see continued price and product pressure as the firm shifts resources toward AI.",
+      "headline": "EU cyber law triggers urgent 24-hour vulnerability reporting for connected products",
+      "summary": "The EU’s Cyber Resilience Act reporting obligations began on 11 September, requiring manufacturers of connected products sold in Europe to report actively exploited vulnerabilities within 24 hours. For businesses, this raises compliance costs, accelerates incident-response timelines, and increases exposure to heavy penalties if reporting workflows are not already in place.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
       "imageUrl": "",
+      "category": "Regulation"
+    },
+    {
+      "id": "nvidia-groq-antitrust-investigation",
+      "date": "11 September 2026",
+      "headline": "U.S. regulators open antitrust probe into Nvidia’s Groq deal structure",
+      "summary": "U.S. authorities are investigating whether Nvidia structured its roughly $20 billion licensing arrangement with Groq to avoid antitrust review. The case matters to chip buyers, suppliers, and investors because it could reshape AI infrastructure deal-making and add regulatory risk to major semiconductor transactions.",
+      "source": "KillTheAI",
+      "sourceUrl": "https://killtheai.com/news/top-10-ai-news-today-september-11-2026/",
+      "imageUrl": "https://killtheai.com/images/news/top-10-ai-news-today-september-11-2026.webp",
       "category": "Strategy"
     },
     {
-      "id": "anthropic-supply-chain-risk-ruling",
-      "date": "9 September 2026",
-      "headline": "Judge orders Pentagon to remove Anthropic supply-chain-risk designation",
-      "summary": "A federal judge’s ruling could reduce regulatory uncertainty around Anthropic and signals that government security designations can materially affect AI vendors’ enterprise prospects. Businesses evaluating AI providers should treat compliance, procurement eligibility, and legal exposure as central selection factors.",
-      "source": "CNN Business",
-      "sourceUrl": "https://www.cnn.com/business/tech",
-      "imageUrl": "https://media.cnn.com/api/v1/images/cnn/cnn-placeholder-image.jpeg",
-      "category": "Regulation"
+      "id": "oracle-cloud-sales-ai-demand",
+      "date": "11 September 2026",
+      "headline": "Oracle cloud revenue surges on AI demand, beating Wall Street estimates",
+      "summary": "Oracle reported quarterly cloud infrastructure revenue up 121% to $7.4 billion, above analyst expectations, driven by AI demand. For businesses, the result signals continued pressure on cloud capacity and pricing dynamics as enterprises expand AI workloads.",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+      "imageUrl": "",
+      "category": "AI Adoption"
     }
   ]
 }

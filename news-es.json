@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-13T12:29:22.693Z",
+  "lastUpdated": "2026-09-14T13:33:34.829Z",
   "articles": [
     {
-      "id": "eu-ai-rules-hacks",
-      "date": "11 September 2026",
-      "headline": "La UE exige a las tecnológicas reforzar el control de modelos de IA tras nuevos ciberataques",
-      "summary": "Con la aplicación plena de sus normas, Bruselas sube el listón de cumplimiento para empresas que desarrollan o despliegan IA en Europa. El impacto empresarial incluye más coste regulatorio, mayor necesidad de auditoría y riesgo de sanciones por incumplimiento.",
-      "source": "TechXplore",
-      "sourceUrl": "https://techxplore.com/news/2026-09-ai-eu-tech-firms-hacks.html",
-      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/ai-agents.jpg",
-      "category": "Regulación"
+      "id": "cnbc-dell-ai-server-forecast",
+      "date": "13 September 2026",
+      "headline": "Dell shares rise after company lifts fiscal 2027 forecast on AI server strength",
+      "summary": "Dell raised its fiscal 2027 outlook on the back of strong AI server demand, underscoring that enterprise spending on AI infrastructure is still driving hardware revenue. For buyers, this can mean tighter supply, higher competition for capacity, and continued pressure on procurement timing and budgets.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/enterprise/",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
+      "category": "Estrategia"
     },
     {
-      "id": "openai-financial-services-chatgpt",
-      "date": "10 September 2026",
-      "headline": "OpenAI lanza ChatGPT para el sector de servicios financieros",
-      "summary": "El movimiento apunta a una adopción empresarial más profunda de la IA en banca, seguros, gestión de activos y fintech. Para los directivos, puede acelerar automatización de análisis, atención y cumplimiento, pero también eleva la presión sobre controles de riesgo, datos y gobernanza.",
+      "id": "reuters-asml-ai-boom-customer-mood",
+      "date": "12 September 2026",
+      "headline": "ASML says AI boom has transformed customer sentiment as it breaks ground on new plant",
+      "summary": "ASML’s CFO said the AI boom has changed the mood among customers, a sign that demand for chipmaking tools remains tied to AI infrastructure spending. For businesses, this matters because wafer-fab equipment demand, lead times, and capacity planning can affect downstream chip supply and pricing.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "ai-agent-payment-standard",
-      "date": "10 September 2026",
-      "headline": "Ant International, Visa y Mastercard crean un estándar para pagos con agentes de IA",
-      "summary": "Las compañías acordaron un marco común de tipo “know your agent” para pagos realizados por agentes de IA. Esto puede facilitar comercio automatizado a escala, pero también obliga a comercios y procesadores a adaptar autenticación, fraude y conciliación de pagos.",
-      "source": "The TechEchelon Brief",
-      "sourceUrl": "https://www.techechelon.com/brief/2026-09-10",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
+    },
+    {
+      "id": "techtarget-massachusetts-eo-658-ai-cloud-campuses",
+      "date": "10 September 2026",
+      "headline": "Massachusetts executive order adds power and community requirements for large AI and cloud campuses",
+      "summary": "The new executive order ties permitting for large AI and cloud sites to clean-power procurement, grid-cost responsibility, and community approval. That can affect where companies place AI infrastructure, how fast projects get approved, and the true cost of expanding data-center capacity.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
+      "imageUrl": "",
+      "category": "Regulación"
     }
   ]
 }
