@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-14T13:33:34.829Z",
+  "lastUpdated": "2026-09-15T12:24:28.525Z",
   "articles": [
     {
-      "id": "cnbc-dell-ai-server-forecast",
-      "date": "13 September 2026",
-      "headline": "Dell shares rise after company lifts fiscal 2027 forecast on AI server strength",
-      "summary": "Dell raised its fiscal 2027 outlook on the back of strong AI server demand, underscoring that enterprise spending on AI infrastructure is still driving hardware revenue. For buyers, this can mean tighter supply, higher competition for capacity, and continued pressure on procurement timing and budgets.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/enterprise/",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108285632-1774986309800-cnbc_versant_share.png?v=1774986411&amp;w=1920&amp;h=1080",
-      "category": "Estrategia"
-    },
-    {
-      "id": "reuters-asml-ai-boom-customer-mood",
-      "date": "12 September 2026",
-      "headline": "ASML says AI boom has transformed customer sentiment as it breaks ground on new plant",
-      "summary": "ASML’s CFO said the AI boom has changed the mood among customers, a sign that demand for chipmaking tools remains tied to AI infrastructure spending. For businesses, this matters because wafer-fab equipment demand, lead times, and capacity planning can affect downstream chip supply and pricing.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Estrategia"
-    },
-    {
-      "id": "techtarget-massachusetts-eo-658-ai-cloud-campuses",
-      "date": "10 September 2026",
-      "headline": "Massachusetts executive order adds power and community requirements for large AI and cloud campuses",
-      "summary": "The new executive order ties permitting for large AI and cloud sites to clean-power procurement, grid-cost responsibility, and community approval. That can affect where companies place AI infrastructure, how fast projects get approved, and the true cost of expanding data-center capacity.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "id": "cyber-resilience-act-business-need-know",
+      "date": "15 September 2026",
+      "headline": "Empresas deben prepararse para nuevas obligaciones del Cyber Resilience Act",
+      "summary": "Las nuevas reglas elevan el listón de cumplimiento para productos y servicios digitales, con impacto directo en proveedores de software, hardware y dispositivos conectados. Para negocios medianos y pequeños, esto puede traducirse en más exigencias de seguridad, documentación y selección de proveedores.",
+      "source": "ITPro",
+      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/09",
       "imageUrl": "",
       "category": "Regulación"
+    },
+    {
+      "id": "tech-stocks-slowdown-cybersecurity-rally",
+      "date": "14 September 2026",
+      "headline": "AI stocks sink while cybersecurity shares rally on slowdown fears",
+      "summary": "Los líderes de IA advirtieron sobre una desaceleración del desarrollo y eso presionó a las acciones vinculadas a centros de datos, chips y hardware de IA. Para empresas y pymes, la señal es doble: puede haber más cautela en inversiones de infraestructura de IA, mientras la ciberseguridad gana prioridad presupuestaria por el aumento percibido del riesgo operativo.",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
+      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&amp;w=1920&amp;h=1080",
+      "category": "Estrategia"
+    },
+    {
+      "id": "tech-layoffs-september-2026-ai-restructuring",
+      "date": "12 September 2026",
+      "headline": "Nueva oleada de despidos tecnológicos en septiembre por reestructuración y foco en IA",
+      "summary": "Varias tecnológicas recortaron plantilla mientras reasignaban gasto hacia inteligencia artificial, automatización y eficiencia operativa. Para directivos, esto refuerza que la IA ya está cambiando la planificación de talento, la estructura de costes y las prioridades de inversión en software y servicios digitales.",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
+      "imageUrl": "",
+      "category": "Automatización"
     }
   ]
 }

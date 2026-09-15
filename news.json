@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-14T13:33:26.070Z",
+  "lastUpdated": "2026-09-15T12:24:14.776Z",
   "articles": [
     {
-      "id": "eu-cyber-resilience-act-24h-reporting",
-      "date": "11 September 2026",
-      "headline": "EU cyber law triggers urgent 24-hour vulnerability reporting for connected products",
-      "summary": "The EU’s Cyber Resilience Act reporting obligations began on 11 September, requiring manufacturers of connected products sold in Europe to report actively exploited vulnerabilities within 24 hours. For businesses, this raises compliance costs, accelerates incident-response timelines, and increases exposure to heavy penalties if reporting workflows are not already in place.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+      "id": "trai-ai-voice-rules-2026-09-14",
+      "date": "14 September 2026",
+      "headline": "TRAI tightens rules as AI voice agents spread in business calling",
+      "summary": "India’s telecom regulator is moving to separate legitimate business calls from spam, scams, and impersonation as AI voice agents become more common. The rules matter for companies that rely on outbound calling, customer support, and automated sales because they raise compliance and operational requirements.",
+      "source": "Business Standard",
+      "sourceUrl": "https://www.business-standard.com/technology/tech-news",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "nvidia-groq-antitrust-investigation",
-      "date": "11 September 2026",
-      "headline": "U.S. regulators open antitrust probe into Nvidia’s Groq deal structure",
-      "summary": "U.S. authorities are investigating whether Nvidia structured its roughly $20 billion licensing arrangement with Groq to avoid antitrust review. The case matters to chip buyers, suppliers, and investors because it could reshape AI infrastructure deal-making and add regulatory risk to major semiconductor transactions.",
-      "source": "KillTheAI",
-      "sourceUrl": "https://killtheai.com/news/top-10-ai-news-today-september-11-2026/",
-      "imageUrl": "https://killtheai.com/images/news/top-10-ai-news-today-september-11-2026.webp",
-      "category": "Strategy"
+      "id": "boston-scientific-cyberincident-2026-09-14",
+      "date": "14 September 2026",
+      "headline": "Boston Scientific says cyber incident may hit quarterly and full-year results",
+      "summary": "Boston Scientific disclosed that a cybersecurity incident is likely to have a material impact on its third-quarter and full-year results. For business leaders, the case highlights how cyber incidents can quickly become earnings, continuity, and disclosure issues rather than just IT problems.",
+      "source": "Investor's Business Daily",
+      "sourceUrl": "https://www.investors.com/category/news/technology/",
+      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "category": "Regulation"
     },
     {
-      "id": "oracle-cloud-sales-ai-demand",
-      "date": "11 September 2026",
-      "headline": "Oracle cloud revenue surges on AI demand, beating Wall Street estimates",
-      "summary": "Oracle reported quarterly cloud infrastructure revenue up 121% to $7.4 billion, above analyst expectations, driven by AI demand. For businesses, the result signals continued pressure on cloud capacity and pricing dynamics as enterprises expand AI workloads.",
-      "source": "Bloomberg",
-      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+      "id": "tech-layoffs-september-2026",
+      "date": "12 September 2026",
+      "headline": "September tech layoffs continue as firms cut staff to fund AI investment",
+      "summary": "Global tech layoffs accelerated in early September, with more than 5,000 roles cut in the first 10 days and major companies including Uber, PayPal, Apple, Zomato, and Oracle linked to reductions. The business takeaway is that companies are still rebalancing headcount toward AI and automation, which can affect hiring, vendor demand, and labor planning across the sector.",
+      "source": "Livemint",
+      "sourceUrl": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
       "imageUrl": "",
-      "category": "AI Adoption"
+      "category": "Automation"
     }
   ]
 }
