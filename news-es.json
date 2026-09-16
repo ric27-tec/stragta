@@ -1,7 +1,27 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-15T12:24:28.525Z",
+  "lastUpdated": "2026-09-16T12:21:58.249Z",
   "articles": [
+    {
+      "id": "factory-raises-200m",
+      "date": "15 September 2026",
+      "headline": "Factory raises $200 million as enterprise AI agents gain traction in engineering",
+      "summary": "Factory’s large funding round signals strong investor appetite for AI agents that automate enterprise engineering work. For business leaders, this points to rising pressure to improve productivity, but also to reassess software budgets, governance, and cybersecurity controls around autonomous tools.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "imageUrl": "",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "ai-cyber-resilience-act-reporting",
+      "date": "10 September 2026",
+      "headline": "EU Cyber Resilience Act reporting obligations went live, forcing faster vulnerability disclosure",
+      "summary": "The EU’s new 24-hour vulnerability reporting rules materially raise compliance pressure for any company selling connected products into Europe, including legacy devices already in market. This increases legal, operational, and security-response demands, with substantial penalties for non-compliance.",
+      "source": "AI in Cybersecurity: Today's Top Stories",
+      "sourceUrl": "https://representai.co.uk/2026/09/10/ai-in-cybersecurity-todays-top-stories-10-september-2026-2/",
+      "imageUrl": "https://i0.wp.com/representai.co.uk/wp-content/uploads/2025/02/Asset-8.png?fit=3077%2C733&#038;ssl=1",
+      "category": "Regulación"
+    },
     {
       "id": "cyber-resilience-act-business-need-know",
       "date": "15 September 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/09",
       "imageUrl": "",
       "category": "Regulación"
-    },
-    {
-      "id": "tech-stocks-slowdown-cybersecurity-rally",
-      "date": "14 September 2026",
-      "headline": "AI stocks sink while cybersecurity shares rally on slowdown fears",
-      "summary": "Los líderes de IA advirtieron sobre una desaceleración del desarrollo y eso presionó a las acciones vinculadas a centros de datos, chips y hardware de IA. Para empresas y pymes, la señal es doble: puede haber más cautela en inversiones de infraestructura de IA, mientras la ciberseguridad gana prioridad presupuestaria por el aumento percibido del riesgo operativo.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&amp;w=1920&amp;h=1080",
-      "category": "Estrategia"
-    },
-    {
-      "id": "tech-layoffs-september-2026-ai-restructuring",
-      "date": "12 September 2026",
-      "headline": "Nueva oleada de despidos tecnológicos en septiembre por reestructuración y foco en IA",
-      "summary": "Varias tecnológicas recortaron plantilla mientras reasignaban gasto hacia inteligencia artificial, automatización y eficiencia operativa. Para directivos, esto refuerza que la IA ya está cambiando la planificación de talento, la estructura de costes y las prioridades de inversión en software y servicios digitales.",
-      "source": "Livemint",
-      "sourceUrl": "https://www.livemint.com/companies/news/tech-layoffs-2026-as-ai-takes-center-stage-heres-a-list-of-major-companies-that-laid-off-employees-11789203637160.html",
-      "imageUrl": "",
-      "category": "Automatización"
     }
   ]
 }
