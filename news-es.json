@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-16T12:21:58.249Z",
+  "lastUpdated": "2026-09-17T12:21:37.570Z",
   "articles": [
     {
-      "id": "factory-raises-200m",
-      "date": "15 September 2026",
-      "headline": "Factory raises $200 million as enterprise AI agents gain traction in engineering",
-      "summary": "Factory’s large funding round signals strong investor appetite for AI agents that automate enterprise engineering work. For business leaders, this points to rising pressure to improve productivity, but also to reassess software budgets, governance, and cybersecurity controls around autonomous tools.",
+      "id": "global-ai-stocks-fall-industry-chiefs-slow-down",
+      "date": "14 September 2026",
+      "headline": "Global AI stocks fall as industry chiefs call for slowing development",
+      "summary": "Las acciones vinculadas a la IA cayeron con fuerza tras las advertencias de varios líderes del sector sobre los riesgos del desarrollo acelerado. Para las empresas, esto importa porque el entusiasmo inversor sostiene gran parte del gasto en infraestructura de IA; un cambio de sentimiento puede encarecer financiación, frenar capex y afectar proveedores de chips y nube.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
+      "sourceUrl": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Estrategia"
     },
     {
-      "id": "ai-cyber-resilience-act-reporting",
-      "date": "10 September 2026",
-      "headline": "EU Cyber Resilience Act reporting obligations went live, forcing faster vulnerability disclosure",
-      "summary": "The EU’s new 24-hour vulnerability reporting rules materially raise compliance pressure for any company selling connected products into Europe, including legacy devices already in market. This increases legal, operational, and security-response demands, with substantial penalties for non-compliance.",
-      "source": "AI in Cybersecurity: Today's Top Stories",
-      "sourceUrl": "https://representai.co.uk/2026/09/10/ai-in-cybersecurity-todays-top-stories-10-september-2026-2/",
-      "imageUrl": "https://i0.wp.com/representai.co.uk/wp-content/uploads/2025/02/Asset-8.png?fit=3077%2C733&#038;ssl=1",
-      "category": "Regulación"
+      "id": "wall-street-ends-down-ai-slowdown-chipmakers",
+      "date": "14 September 2026",
+      "headline": "Wall Street ends down as AI slowdown calls hit chipmakers",
+      "summary": "El mercado cerró a la baja por la presión sobre Nvidia y otros fabricantes de chips, lo que refuerza la sensibilidad de semiconductores e infraestructura de IA a cualquier señal de desaceleración. Para directivos, el mensaje es que la cadena de suministro tecnológica puede moverse rápido y afectar costes, presupuestos de TI y planes de adopción de IA.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/",
+      "imageUrl": "",
+      "category": "Estrategia"
     },
     {
-      "id": "cyber-resilience-act-business-need-know",
-      "date": "15 September 2026",
-      "headline": "Empresas deben prepararse para nuevas obligaciones del Cyber Resilience Act",
-      "summary": "Las nuevas reglas elevan el listón de cumplimiento para productos y servicios digitales, con impacto directo en proveedores de software, hardware y dispositivos conectados. Para negocios medianos y pequeños, esto puede traducirse en más exigencias de seguridad, documentación y selección de proveedores.",
-      "source": "ITPro",
-      "sourceUrl": "https://www.itpro.com/uk/news/archive/2026/09",
+      "id": "samsung-sk-hynix-reject-power-prepayment-proposal",
+      "date": "14 September 2026",
+      "headline": "Samsung y SK Hynix rechazan propuesta de prepago eléctrico de KEPCO para megaclústeres de chips",
+      "summary": "Samsung Electronics y SK Hynix rechazaron una propuesta de prepago de electricidad vinculada a futuros megaclústeres semiconductores. El hecho es relevante para empresas porque muestra cómo energía, infraestructuras y expansión de chips pueden condicionar la oferta, los costes y la capacidad de producción de hardware crítico para IA y centros de datos.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/sitemap/2026-09/14/1/",
       "imageUrl": "",
-      "category": "Regulación"
+      "category": "Estrategia"
     }
   ]
 }
