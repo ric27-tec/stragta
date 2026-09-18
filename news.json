@@ -1,34 +1,34 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-17T12:21:27.477Z",
+  "lastUpdated": "2026-09-18T12:00:59.328Z",
   "articles": [
     {
-      "id": "us-china-ai-safeguards",
-      "date": "16 September 2026",
-      "headline": "US, China security experts propose nuclear-style safeguards for AI risks",
-      "summary": "Security experts from the US and China are proposing guardrails for frontier AI systems because failures could trigger military or cyber escalation. Businesses building or buying advanced AI should treat this as a signal that policy pressure, compliance expectations, and safety testing requirements are likely to tighten.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Regulation"
-    },
-    {
-      "id": "data-center-backlash",
-      "date": "16 September 2026",
-      "headline": "Residents and environmental groups push back against proposed data center projects in Silicon Valley",
-      "summary": "Local opposition to new data center projects highlights growing friction around AI infrastructure, power use, and permitting. Businesses depending on cloud expansion, AI workloads, or colocation capacity should watch for slower deployments and higher infrastructure costs.",
+      "id": "toyota-factory-automation-cost-2026",
+      "date": "17 September 2026",
+      "headline": "Toyota says factory modernization could cost 1 trillion yen a year from 2028",
+      "summary": "Toyota estimated that modernizing its factories with more automation and robotics could cost 1 trillion yen annually starting in 2028. The scale of spending signals continued capital demand for industrial automation vendors and may influence supplier planning across manufacturing and logistics.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Strategy"
+      "category": "Automation"
     },
     {
-      "id": "openai-regular-behavior-reports",
-      "date": "15 September 2026",
-      "headline": "OpenAI to regularly publish reports on unexpected or unauthorized AI behavior",
-      "summary": "OpenAI plans to publish recurring reports on harmful or unplanned model behavior as systems become more capable. For enterprises using AI in operations, this increases the importance of vendor transparency, model governance, and incident response planning.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/openai/",
+      "id": "ui-path-integration-service-agent-ready-2026",
+      "date": "16 September 2026",
+      "headline": "UiPath updates Integration Service for agent-ready connectivity",
+      "summary": "UiPath said its Integration Service now acts as an agent-ready layer for credentials, actions, and event sources, making it easier for coding agents and robots to connect to enterprise systems. For businesses, that can lower integration friction, improve automation reliability, and speed deployment across ERP, CRM, ITSM, and legacy tools.",
+      "source": "AI Agent Store",
+      "sourceUrl": "https://aiagentstore.ai/ai-agent-news/2026-september",
+      "imageUrl": "",
+      "category": "Automation"
+    },
+    {
+      "id": "ai-enterprise-agents-rewrite-stack-2026",
+      "date": "14 September 2026",
+      "headline": "AI agents are reshaping enterprise software economics",
+      "summary": "Enterprise software vendors are increasingly embedding AI agents that execute workflows, not just assist with them, changing how companies buy and deploy software. This shift could alter SaaS pricing, reduce some manual work, and force managers to rethink automation, integration, and vendor strategy.",
+      "source": "The Codew",
+      "sourceUrl": "https://www.thecodew.com/2026/09/enterprise-software-september-14-2026-ai-agents-rewrite-stack.html",
       "imageUrl": "",
       "category": "AI Adoption"
     }
