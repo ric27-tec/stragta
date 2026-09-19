@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-18T12:01:10.203Z",
+  "lastUpdated": "2026-09-19T11:44:36.429Z",
   "articles": [
     {
-      "id": "spain-ai-agent-breach-2026-09-16",
-      "date": "16 September 2026",
-      "headline": "Spain reports first personal data breach linked to an AI agent",
-      "summary": "Spain’s data protection watchdog said it received the first reported notification of a personal data breach allegedly carried out by an AI agent. The case is a warning for companies adopting autonomous systems, because it raises direct compliance, governance, and incident-response risks around agentic AI.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/cybersecurity/",
-      "imageUrl": "",
+      "id": "eu-cyber-resilience-act-reporting-starts",
+      "date": "18 September 2026",
+      "headline": "EU Cyber Resilience Act reporting obligations take effect, adding 24-hour incident deadlines",
+      "summary": "The EU’s Cyber Resilience Act is now forcing manufacturers of connected products to report actively exploited vulnerabilities and serious incidents very quickly, which raises compliance pressure across hardware, software, and IoT supply chains. For companies selling into Europe, this increases operational risk, incident-response workload, and the need for tighter vendor/security controls.",
+      "source": "Semiconductor Engineering",
+      "sourceUrl": "https://semiengineering.com/chip-industry-week-in-review-156/",
+      "imageUrl": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg",
       "category": "Regulación"
     },
     {
-      "id": "ai-stocks-cybersecurity-rally-2026-09-15",
+      "id": "chip-stocks-plunge-ai-slowdown",
       "date": "15 September 2026",
-      "headline": "AI stocks slide as cybersecurity names rally on slowdown fears",
-      "summary": "Tech stocks tied to the AI buildout fell while cybersecurity shares jumped, signaling a possible shift in enterprise spending priorities. For businesses, that points to continued pressure on AI infrastructure vendors and stronger near-term demand for security tools as boards reassess risk and budgets.",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/09/14/ai-stocks-slowdown-amodei-altman.html",
-      "imageUrl": "https://image.cnbcfm.com/api/v1/image/108269268-1771956503109-gettyimages-2261589230-INDIA_ANTHROPIC.jpeg?v=1778093790&amp;w=1920&amp;h=1080",
+      "headline": "Global chip stocks plunge as AI slowdown concerns intensify",
+      "summary": "Chip and memory shares fell sharply as investors reassessed near-term AI demand, signaling potential volatility in semiconductors, infrastructure spending, and supplier planning. Businesses buying GPUs, memory, or cloud capacity should expect continued pricing and budgeting uncertainty in the AI supply chain.",
+      "source": "TheCodeW",
+      "sourceUrl": "https://www.thecodew.com/2026/09/daily-news-coverage-september-15-2026-ai-slowdown-chip-selloff-trump-ai-regulation-microsoft-code.html",
+      "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "cybersecurity-stocks-rally-2026-09-15",
+      "id": "ai-fears-send-cybersecurity-stocks-higher",
       "date": "15 September 2026",
-      "headline": "Investors rotate into cybersecurity after AI spending slowdown warnings",
-      "summary": "Market coverage on September 15 said concerns about AI spending momentum pushed down chip and memory names while cybersecurity stocks rose. That matters for enterprises because it suggests capital may shift away from some AI infrastructure plans and toward security, compliance, and resilience spending.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/legal/transactional/investors-nervous-about-ai-spending-slowdown-after-industry-warnings-2026-09-15/",
+      "headline": "AI fears push investors toward cybersecurity stocks",
+      "summary": "Market rotation into cybersecurity reflects rising concern that AI-related threats and operational risks are increasing the value of defensive security spending. For enterprises and smaller firms alike, the signal is that security budgets and AI-risk controls are becoming more central to technology planning.",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/09/15/ai-cybersecurity-stocks",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Automatización"
     }
   ]
 }
