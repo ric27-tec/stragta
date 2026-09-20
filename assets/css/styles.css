@@ -346,6 +346,9 @@ h1.hero-title em {
   overflow: hidden;
   transition: background 0.3s;
 }
+.srv:nth-child(5) {
+  grid-column: 1 / -1;
+}
 .srv:hover {
   background: rgba(242,240,234,.07);
 }
@@ -409,6 +412,22 @@ h1.hero-title em {
 .srv-tag:hover {
   border-color: rgba(242,240,234,.35);
   color: rgba(242,240,234,.65);
+}
+.odoo-partner-marks {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1.8rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid rgba(242,240,234,.12);
+}
+.odoo-wordmark {
+  width: 76px;
+  height: auto;
+}
+.odoo-learning-partner {
+  width: 160px;
+  height: auto;
 }
 
 
@@ -772,6 +791,7 @@ footer {
   .hero-body { flex-direction: column; align-items: flex-start; }
   .services-top, .contact-inner { grid-template-columns: 1fr; gap: 2rem; }
   .services-grid, .process-grid { grid-template-columns: 1fr; }
+  .srv:nth-child(5) { grid-column: auto; }
   .map-header-row { flex-direction: column; gap: 1.5rem; }
   .news-grid { grid-template-columns: 1fr; }
   footer { flex-direction: column; align-items: flex-start; }
