@@ -3,6 +3,24 @@
    Manrope font, warm cream palette.
    ============================================================ */
 
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  src: url('/assets/fonts/manrope-latin-ext-wght-normal.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  src: url('/assets/fonts/manrope-latin-wght-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -61,7 +79,7 @@ nav.scrolled { box-shadow: 0 1px 20px rgba(28, 28, 20, 0.07); }
 
 .nav-logo-name {
   font-family: var(--f);
-  font-size: 1 rem;
+  font-size: 1rem;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
@@ -529,6 +547,13 @@ h1.hero-title em {
   flex-direction: column;
   gap: 0.9rem;
 }
+.hp-field {
+  position: absolute !important;
+  left: -10000px !important;
+  width: 1px !important;
+  height: 1px !important;
+  overflow: hidden !important;
+}
 .fg {
   display: flex;
   flex-direction: column;
@@ -588,6 +613,7 @@ h1.hero-title em {
   transition: opacity 0.2s;
   align-self: flex-start;
   margin-top: 0.25rem;
+  text-decoration: none;
 }
 .submit-btn:hover { opacity: 0.85; }
 .form-note {
@@ -596,6 +622,21 @@ h1.hero-title em {
   color: rgba(242,240,234,.25);
   margin-top: 0.35rem;
 }
+.form-privacy {
+  font-size: 0.7rem;
+  line-height: 1.55;
+  color: rgba(242,240,234,.48);
+}
+.form-privacy a { color: rgba(242,240,234,.75); }
+.form-consent {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.55rem;
+  font-size: 0.72rem;
+  line-height: 1.55;
+  color: rgba(242,240,234,.58);
+}
+.form-consent input { margin-top: 0.2rem; }
 .form-success {
   margin-top: 0.8rem;
   font-size: 0.8rem;
@@ -667,6 +708,47 @@ footer {
 }
 .footer-lang:hover { color: rgba(242, 240, 234, 0.5); }
 
+/* ── LEGAL PAGES ── */
+.legal-page {
+  min-height: 100vh;
+  padding: 8.5rem 8% 6rem;
+  background: var(--bg);
+}
+.legal-wrap { max-width: 860px; margin: 0 auto; }
+.legal-kicker {
+  margin-bottom: 1rem;
+  color: var(--muted);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+.legal-page h1 {
+  margin-bottom: 1.2rem;
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  line-height: 1;
+  letter-spacing: -0.04em;
+}
+.legal-updated { margin-bottom: 3rem; color: var(--muted); font-size: 0.8rem; }
+.legal-page h2 { margin: 2.5rem 0 0.8rem; font-size: 1.25rem; letter-spacing: -0.02em; }
+.legal-page h3 { margin: 1.5rem 0 0.5rem; font-size: 1rem; }
+.legal-page p, .legal-page li { color: #4f4e48; font-size: 0.94rem; line-height: 1.8; }
+.legal-page p + p { margin-top: 0.8rem; }
+.legal-page ul { margin: 0.7rem 0 0 1.3rem; }
+.legal-page a { color: var(--text); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.legal-note {
+  margin: 1.4rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid var(--accent);
+  background: #fff;
+}
+.contact-page .contact-form {
+  max-width: 720px;
+  padding: clamp(1.3rem, 4vw, 2.4rem);
+  background: var(--dark);
+}
+.contact-page .legal-updated { max-width: 650px; }
+
 /* ── REVEAL ANIMATIONS ── */
 .reveal {
   opacity: 0; transform: translateY(18px);
@@ -693,6 +775,8 @@ footer {
   .map-header-row { flex-direction: column; gap: 1.5rem; }
   .news-grid { grid-template-columns: 1fr; }
   footer { flex-direction: column; align-items: flex-start; }
+  .footer-links { flex-wrap: wrap; }
+  .legal-page { padding-left: 5%; padding-right: 5%; }
 }
 
  
@@ -756,6 +840,9 @@ footer {
       flex-direction: column;
       gap: 1.2rem;
       transition: border-color 0.2s;
+    }
+    .reviews-track.two-reviews .rev-card {
+      flex-basis: calc(50% - 0.7rem);
     }
     .rev-card:hover {
       border-color: var(--border2);
@@ -844,6 +931,7 @@ footer {
 
     @media (max-width: 900px) {
       .rev-card { flex: 0 0 calc(85vw - 2rem); }
+      .reviews-track.two-reviews .rev-card { flex-basis: calc(85vw - 2rem); }
       #reviews { padding-left: 4%; padding-right: 4%; }
       .reviews-header { flex-direction: column; align-items: flex-start; }
     }

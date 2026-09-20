@@ -3,16 +3,17 @@
     (function(){
       const track  = document.getElementById('reviews-track');
       const dotsEl = document.getElementById('reviews-dots');
+      if (!track || !dotsEl) return;
       const cards  = track.querySelectorAll('.rev-card');
       const total  = cards.length;
 
       // How many cards visible at once
       function visibleCount(){
-        return window.innerWidth < 900 ? 1 : 3;
+        return Math.min(total, window.innerWidth < 900 ? 1 : 3);
       }
 
       let current = 0;
-      const maxIndex = () => total - visibleCount();
+      const maxIndex = () => Math.max(0, total - visibleCount());
 
       // Build dots
       function buildDots(){
@@ -41,8 +42,8 @@
         updateDots();
       }
 
-      document.getElementById('rev-prev').addEventListener('click', () => goTo(current - 1));
-      document.getElementById('rev-next').addEventListener('click', () => goTo(current + 1));
+      document.getElementById('rev-prev')?.addEventListener('click', () => goTo(current - 1));
+      document.getElementById('rev-next')?.addEventListener('click', () => goTo(current + 1));
 
       // Touch/swipe support
       let touchStartX = 0;

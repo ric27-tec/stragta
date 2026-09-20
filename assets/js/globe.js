@@ -158,7 +158,7 @@ async function initGlobe() {
 
   try {
     worldData = await d3.json(
-      'https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json'
+      '/assets/data/countries-110m.json'
     );
     features = topojson.feature(
       worldData,

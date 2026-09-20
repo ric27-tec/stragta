@@ -138,35 +138,89 @@ function formatDate(str, lang) {
   }
 }
 
-function renderCard(article, lang) {
-  const art = article.imageUrl
-    ? `<img src="${article.imageUrl}" alt=""
-         style="width:100%;height:168px;object-fit:cover;display:block"
-         loading="lazy"
-         onerror="this.parentNode.innerHTML='${(CATEGORY_ART[article.category] || CATEGORY_ART['default']).replace(/'/g, '&apos;').replace(/"/g, '&quot;')}'"
-       />`
-    : (CATEGORY_ART[article.category] || CATEGORY_ART['default']);
+function safeExternalUrl(value) {
+  try {
+    const url = new URL(value);
+    return ['http:', 'https:'].includes(url.protocol) ? url.href : '';
+  } catch {
+    return '';
+  }
+}
 
+function renderCard(article, lang) {
+  const sourceUrl = safeExternalUrl(article.sourceUrl);
+  const imageUrl = safeExternalUrl(article.imageUrl);
+  const fallbackArt = CATEGORY_ART[article.category] || CATEGORY_ART.default;
   const readLabel = lang === 'es' ? 'Leer fuente' : 'Read source';
 
-  return `
-    <article class="news-card"
-      onclick="if(event.target.tagName!=='A') window.open('${article.sourceUrl}','_blank','noopener')">
-      <div class="news-art">${art}</div>
-      <div class="news-body">
-        <div class="news-meta">
-          <span class="news-cat">${article.category || 'Insights'}</span>
-          <span class="news-date">${formatDate(article.date, lang)}</span>
-        </div>
-        <h3 class="news-headline">${article.headline}</h3>
-        <p class="news-summary">${article.summary}</p>
-      </div>
-      <div class="news-footer">
-        <span class="news-source">${article.source}</span>
-        <a href="${article.sourceUrl}" target="_blank" rel="noopener noreferrer"
-           class="news-link" onclick="event.stopPropagation()">${readLabel} ↗</a>
-      </div>
-    </article>`;
+  const card = document.createElement('article');
+  card.className = 'news-card';
+  if (sourceUrl) {
+    card.tabIndex = 0;
+    card.setAttribute('role', 'link');
+    const openSource = () => window.open(sourceUrl, '_blank', 'noopener');
+    card.addEventListener('click', (event) => {
+      if (!event.target.closest('a')) openSource();
+    });
+    card.addEventListener('keydown', (event) => {
+      if (event.key === 'Enter' || event.key === ' ') {
+        event.preventDefault();
+        openSource();
+      }
+    });
+  }
+
+  const art = document.createElement('div');
+  art.className = 'news-art';
+  if (imageUrl) {
+    const image = document.createElement('img');
+    image.src = imageUrl;
+    image.alt = '';
+    image.loading = 'lazy';
+    image.style.cssText = 'width:100%;height:168px;object-fit:cover;display:block';
+    image.addEventListener('error', () => { art.innerHTML = fallbackArt; }, { once: true });
+    art.appendChild(image);
+  } else {
+    art.innerHTML = fallbackArt;
+  }
+
+  const body = document.createElement('div');
+  body.className = 'news-body';
+  const meta = document.createElement('div');
+  meta.className = 'news-meta';
+  const category = document.createElement('span');
+  category.className = 'news-cat';
+  category.textContent = article.category || 'Insights';
+  const date = document.createElement('span');
+  date.className = 'news-date';
+  date.textContent = formatDate(article.date, lang);
+  const headline = document.createElement('h3');
+  headline.className = 'news-headline';
+  headline.textContent = article.headline || '';
+  const summary = document.createElement('p');
+  summary.className = 'news-summary';
+  summary.textContent = article.summary || '';
+  meta.append(category, date);
+  body.append(meta, headline, summary);
+
+  const footer = document.createElement('div');
+  footer.className = 'news-footer';
+  const source = document.createElement('span');
+  source.className = 'news-source';
+  source.textContent = article.source || '';
+  footer.appendChild(source);
+  if (sourceUrl) {
+    const link = document.createElement('a');
+    link.href = sourceUrl;
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.className = 'news-link';
+    link.textContent = `${readLabel} ↗`;
+    footer.appendChild(link);
+  }
+
+  card.append(art, body, footer);
+  return card;
 }
 
 async function loadNews() {
@@ -205,11 +259,14 @@ async function loadNews() {
   }
 
   if (!articles.length) {
-    grid.innerHTML = `<div class="news-loading">${lang === 'es' ? 'Sin artículos por ahora.' : 'No articles yet.'}</div>`;
+    const empty = document.createElement('div');
+    empty.className = 'news-loading';
+    empty.textContent = lang === 'es' ? 'Sin artículos por ahora.' : 'No articles yet.';
+    grid.replaceChildren(empty);
     return;
   }
 
-  grid.innerHTML = articles.slice(0, 6).map(a => renderCard(a, lang)).join('');
+  grid.replaceChildren(...articles.slice(0, 6).map(article => renderCard(article, lang)));
 }
 
 document.addEventListener('DOMContentLoaded', loadNews);
