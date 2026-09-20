@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-19T11:44:36.429Z",
+  "lastUpdated": "2026-09-20T11:57:32.153Z",
   "articles": [
     {
-      "id": "eu-cyber-resilience-act-reporting-starts",
+      "id": "reuters-openai-cash-burn-2026-09-18",
       "date": "18 September 2026",
-      "headline": "EU Cyber Resilience Act reporting obligations take effect, adding 24-hour incident deadlines",
-      "summary": "The EU’s Cyber Resilience Act is now forcing manufacturers of connected products to report actively exploited vulnerabilities and serious incidents very quickly, which raises compliance pressure across hardware, software, and IoT supply chains. For companies selling into Europe, this increases operational risk, incident-response workload, and the need for tighter vendor/security controls.",
-      "source": "Semiconductor Engineering",
-      "sourceUrl": "https://semiengineering.com/chip-industry-week-in-review-156/",
-      "imageUrl": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg",
-      "category": "Regulación"
-    },
-    {
-      "id": "chip-stocks-plunge-ai-slowdown",
-      "date": "15 September 2026",
-      "headline": "Global chip stocks plunge as AI slowdown concerns intensify",
-      "summary": "Chip and memory shares fell sharply as investors reassessed near-term AI demand, signaling potential volatility in semiconductors, infrastructure spending, and supplier planning. Businesses buying GPUs, memory, or cloud capacity should expect continued pricing and budgeting uncertainty in the AI supply chain.",
-      "source": "TheCodeW",
-      "sourceUrl": "https://www.thecodew.com/2026/09/daily-news-coverage-september-15-2026-ai-slowdown-chip-selloff-trump-ai-regulation-microsoft-code.html",
+      "headline": "OpenAI expects to burn through $278 billion in cash through 2030, FT reports",
+      "summary": "La proyección de gasto masivo en cómputo e infraestructura refuerza la presión sobre el mercado de cloud, chips y centros de datos. Para directivos, esto señala posibles cambios en precios, disponibilidad y negociación de servicios de IA e infraestructura en los próximos años.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "ai-fears-send-cybersecurity-stocks-higher",
-      "date": "15 September 2026",
-      "headline": "AI fears push investors toward cybersecurity stocks",
-      "summary": "Market rotation into cybersecurity reflects rising concern that AI-related threats and operational risks are increasing the value of defensive security spending. For enterprises and smaller firms alike, the signal is that security budgets and AI-risk controls are becoming more central to technology planning.",
-      "source": "Axios",
-      "sourceUrl": "https://www.axios.com/2026/09/15/ai-cybersecurity-stocks",
+      "id": "reuters-disruption-automation-toyota-2026-09-18",
+      "date": "18 September 2026",
+      "headline": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
+      "summary": "Toyota anticipa un impacto financiero enorme ligado a la automatización industrial, una señal de que la adopción de robots y sistemas autónomos ya afecta estructuras de costes a gran escala. Para fabricantes, proveedores y pymes industriales, la noticia sugiere que la automatización puede cambiar precios, márgenes y decisiones de inversión.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Automatización"
+    },
+    {
+      "id": "reuters-tech-news-2026-09-18-imf-ai",
+      "date": "18 September 2026",
+      "headline": "IMF says AI could boost growth but also increase economic strains in the EU",
+      "summary": "El FMI advierte que la IA puede impulsar crecimiento, pero también aumentar tensiones económicas. Para empresas, eso implica un entorno donde la productividad puede subir, pero también crecer la presión regulatoria, competitiva y laboral en Europa.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/",
+      "imageUrl": "",
+      "category": "Regulación"
     }
   ]
 }
