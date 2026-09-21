@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-20T11:57:32.153Z",
+  "lastUpdated": "2026-09-21T13:32:25.353Z",
   "articles": [
     {
-      "id": "reuters-openai-cash-burn-2026-09-18",
-      "date": "18 September 2026",
-      "headline": "OpenAI expects to burn through $278 billion in cash through 2030, FT reports",
-      "summary": "La proyección de gasto masivo en cómputo e infraestructura refuerza la presión sobre el mercado de cloud, chips y centros de datos. Para directivos, esto señala posibles cambios en precios, disponibilidad y negociación de servicios de IA e infraestructura en los próximos años.",
+      "id": "imf-ai-growth-strains",
+      "date": "20 September 2026",
+      "headline": "El FMI advierte que la IA puede impulsar el crecimiento pero aumentar tensiones económicas en la UE",
+      "summary": "El FMI señaló que la IA podría elevar el crecimiento, aunque también intensificar desequilibrios económicos en Europa. Para responsables de negocio, la señal es que la adopción de IA seguirá trayendo productividad, pero con más presión sobre empleo, inversión y competencia sectorial.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "reuters-disruption-automation-toyota-2026-09-18",
+      "id": "salesforce-aiforce-business-data",
       "date": "18 September 2026",
-      "headline": "Toyota estimates factory automation could cost $6.4 billion per year from 2028",
-      "summary": "Toyota anticipa un impacto financiero enorme ligado a la automatización industrial, una señal de que la adopción de robots y sistemas autónomos ya afecta estructuras de costes a gran escala. Para fabricantes, proveedores y pymes industriales, la noticia sugiere que la automatización puede cambiar precios, márgenes y decisiones de inversión.",
+      "headline": "Salesforce lanza AIforce para explotar datos empresariales atrapados",
+      "summary": "Salesforce presentó AIforce, una capa de gestión de IA para su CRM que integra Claude de Anthropic y busca convertir datos dispersos en valor de negocio. Para empresas y pymes, el movimiento apunta a más automatización comercial y mejor uso de datos, pero también eleva la dependencia de plataformas y proveedores de IA.",
+      "source": "TechTarget Enterprise Technology News",
+      "sourceUrl": "https://www.techtarget.com/news/",
+      "imageUrl": "",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "openai-cash-burn-infrastructure",
+      "date": "18 September 2026",
+      "headline": "OpenAI prevé gastar 278.000 millones de dólares hasta 2030 en cómputo e infraestructura",
+      "summary": "OpenAI espera consumir 278.000 millones de dólares en efectivo entre 2026 y 2030 mientras acelera su gasto en capacidad de cómputo e infraestructura. La noticia importa a directivos porque refuerza la presión sobre centros de datos, cloud, semiconductores y costes de IA para todo el mercado.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
-      "category": "Automatización"
-    },
-    {
-      "id": "reuters-tech-news-2026-09-18-imf-ai",
-      "date": "18 September 2026",
-      "headline": "IMF says AI could boost growth but also increase economic strains in the EU",
-      "summary": "El FMI advierte que la IA puede impulsar crecimiento, pero también aumentar tensiones económicas. Para empresas, eso implica un entorno donde la productividad puede subir, pero también crecer la presión regulatoria, competitiva y laboral en Europa.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Regulación"
+      "category": "Estrategia"
     }
   ]
 }
