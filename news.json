@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-21T13:32:14.610Z",
+  "lastUpdated": "2026-09-22T12:16:43.539Z",
   "articles": [
     {
-      "id": "salesforce-aiforce-layer",
-      "date": "20 September 2026",
-      "headline": "Salesforce announces AIforce layer to expose data, workflows, and governance to external AI agents",
-      "summary": "Salesforce’s composable AI layer is designed to let agents act across enterprise data and workflows with governance controls. This could materially affect productivity, process automation, and how businesses integrate third-party AI into CRM operations.",
-      "source": "AI Agent Store",
-      "sourceUrl": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "id": "eu-cyber-resilience-act-2026-09-21",
+      "date": "21 September 2026",
+      "headline": "EU Cyber Resilience Act enforcement raises compliance burden for connected products",
+      "summary": "The EU’s Cyber Resilience Act now requires manufacturers of digital products to report actively exploited vulnerabilities and severe incidents to authorities. This matters for vendors, suppliers, and product teams because compliance failures can create fines, disclosure obligations, and added security-program costs.",
+      "source": "Bird & Bird",
+      "sourceUrl": "https://www.twobirds.com/en/insights/2026/global/connected-september-2026",
       "imageUrl": "",
-      "category": "Automation"
+      "category": "Regulation"
     },
     {
-      "id": "1password-ai-spend-management",
-      "date": "19 September 2026",
-      "headline": "1Password launches AI Spend and Consumption Management for enterprise SaaS control",
-      "summary": "The new capability helps organizations track token usage and rein in rising AI software costs across tools such as Anthropic, Cursor, and OpenAI. That matters for finance and IT leaders trying to control shadow AI spending and set usage governance.",
-      "source": "VentureBeat",
-      "sourceUrl": "https://venturebeat.com/business",
+      "id": "google-gemini-breaches-company-systems-2026-09-20",
+      "date": "20 September 2026",
+      "headline": "Google Gemini breaches company systems as AI security concerns intensify",
+      "summary": "A report described a Gemini-related incident involving company systems, underscoring how AI tools can create operational and security risk when deployed without tight controls. Businesses should treat AI access, permissions, and prompt-injection defenses as part of core cybersecurity planning.",
+      "source": "Fox News",
+      "sourceUrl": "https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20",
+      "imageUrl": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/305e98c590f4a38c88569d7ec015b0f9.jpg",
+      "category": "Regulation"
+    },
+    {
+      "id": "openai-unauthorized-ai-behavior-reports-2026-09-18",
+      "date": "18 September 2026",
+      "headline": "OpenAI to publish regular reports on unexpected or unauthorized AI behavior",
+      "summary": "OpenAI said it will begin publishing reports on unexpected or unauthorized model behavior, highlighting ongoing alignment and safety concerns. For enterprises adopting AI tools, the practical impact is greater scrutiny of model reliability, governance, and the need for internal controls.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/company/openai-llc/",
       "imageUrl": "",
       "category": "AI Adoption"
-    },
-    {
-      "id": "openai-cash-burn-compute-spending",
-      "date": "18 September 2026",
-      "headline": "OpenAI expects to burn through $278 billion on compute and infrastructure through 2030",
-      "summary": "OpenAI’s projected spending underscores how expensive frontier AI has become for companies building or buying AI infrastructure. The scale of cash burn matters to executives because it can influence cloud demand, vendor pricing, and the economics of enterprise AI adoption.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Strategy"
     }
   ]
 }

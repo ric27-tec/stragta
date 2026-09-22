@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-21T13:32:25.353Z",
+  "lastUpdated": "2026-09-22T12:16:56.963Z",
   "articles": [
     {
-      "id": "imf-ai-growth-strains",
+      "id": "reuters-ai-growth-strains-2026-09-20",
       "date": "20 September 2026",
-      "headline": "El FMI advierte que la IA puede impulsar el crecimiento pero aumentar tensiones económicas en la UE",
-      "summary": "El FMI señaló que la IA podría elevar el crecimiento, aunque también intensificar desequilibrios económicos en Europa. Para responsables de negocio, la señal es que la adopción de IA seguirá trayendo productividad, pero con más presión sobre empleo, inversión y competencia sectorial.",
+      "headline": "El FMI advierte que la IA puede impulsar el crecimiento, pero también aumentar las tensiones económicas en Europa",
+      "summary": "El FMI dijo a ministros de la UE que la inteligencia artificial podría elevar el crecimiento, pero también agravar desequilibrios económicos, un dato relevante para empresas expuestas a costes, productividad y planificación de inversión tecnológica. Para directivos, la señal es que la adopción de IA puede traer ventajas competitivas, pero con riesgos macroeconómicos y de asignación de capital en el entorno europeo.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Estrategia"
     },
     {
-      "id": "salesforce-aiforce-business-data",
-      "date": "18 September 2026",
-      "headline": "Salesforce lanza AIforce para explotar datos empresariales atrapados",
-      "summary": "Salesforce presentó AIforce, una capa de gestión de IA para su CRM que integra Claude de Anthropic y busca convertir datos dispersos en valor de negocio. Para empresas y pymes, el movimiento apunta a más automatización comercial y mejor uso de datos, pero también eleva la dependencia de plataformas y proveedores de IA.",
-      "source": "TechTarget Enterprise Technology News",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "id": "techcrunch-corridor-25m-smb-benefits-2026-09-19",
+      "date": "19 September 2026",
+      "headline": "Corridor levanta 25 millones de dólares para digitalizar el corretaje de beneficios para pymes",
+      "summary": "La startup Corridor consiguió 25 millones de dólares para construir una plataforma que automatiza y digitaliza la intermediación de beneficios para pequeñas y medianas empresas. El movimiento muestra cómo la IA y la automatización siguen entrando en procesos administrativos de alto coste, con potencial para reducir fricción, tiempo y gasto en operaciones internas.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/",
       "imageUrl": "",
-      "category": "Adopción de IA"
+      "category": "Automatización"
     },
     {
-      "id": "openai-cash-burn-infrastructure",
+      "id": "informationweek-sept14-18-2026-ai-code-of-conduct",
       "date": "18 September 2026",
-      "headline": "OpenAI prevé gastar 278.000 millones de dólares hasta 2030 en cómputo e infraestructura",
-      "summary": "OpenAI espera consumir 278.000 millones de dólares en efectivo entre 2026 y 2030 mientras acelera su gasto en capacidad de cómputo e infraestructura. La noticia importa a directivos porque refuerza la presión sobre centros de datos, cloud, semiconductores y costes de IA para todo el mercado.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Estrategia"
+      "headline": "Microsoft propone un código de conducta para sus sistemas de IA y se intensifica el debate sobre control y seguridad",
+      "summary": "Microsoft presentó un borrador de normas para mantener la IA bajo control humano, en un momento en que crece la preocupación por sistemas más autónomos. Para empresas, esto apunta a más presión sobre gobernanza, supervisión, controles de riesgo y decisiones sobre qué procesos pueden automatizarse sin perder trazabilidad.",
+      "source": "InformationWeek",
+      "sourceUrl": "https://www.informationweek.com/machine-learning-ai/the-week-of-sept-14-18-what-happened-what-matters-what-s-next",
+      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt5f985518d66ac8ab/6aad8ad2e2ed910eb9fd249a/091826_IWK_WeeklyRoundup_GettyImages-1974055076.png?disable=upscale&width=1200&height=630&fit=crop",
+      "category": "Regulación"
     }
   ]
 }
