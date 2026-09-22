@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Construye un agente de oportunidades comerciales | STRAGTA</title>
+  <meta name="description" content="Taller práctico de STRAGTA para construir, probar y programar un agente de oportunidades comerciales con evidencia pública, controles y validación humana." />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#F2F0EA" />
+  <link rel="canonical" href="https://www.stragta.com/formacion/agente_001/" />
+  <link rel="stylesheet" href="/assets/css/styles.css" />
+  <link rel="icon" href="/assets/favicons/favicon.ico" />
+</head>
+<body>
+<nav id="main-nav">
+  <a class="nav-logo" href="/es/"><span class="nav-logo-name">STRAGTA</span><span class="nav-logo-tagline">Guía estratégica para decisiones tecnológicas</span></a>
+  <div class="nav-right"><a class="nav-lang" href="/">EN</a><a class="nav-cta" href="/es/contacto/">Hablemos</a></div>
+</nav>
+<main class="ag-page">
+  <section class="ag-hero">
+    <div class="ag-wrap ag-hero-grid">
+      <div>
+        <p class="ag-eyebrow">Sesión práctica · formación STRAGTA</p>
+        <h1>Construye un agente de <em>oportunidades comerciales.</em></h1>
+        <p class="ag-lead">De noticias públicas a señales trazables y preguntas comerciales útiles. Un taller para construir, probar y programar un flujo que conserva la evidencia y deja la decisión a las personas.</p>
+      </div>
+      <aside class="ag-meta"><strong>Resultado del taller</strong>Una base de datos, un libro de Excel y un dashboard HTML que parten de la misma evidencia.<br><br><strong>Ejercicio</strong>Cooperativa ficticia en Nayón, Quito. Datos públicos y sintéticos; sin decisiones financieras ni contacto automático.</aside>
+    </div>
+  </section>
+
+  <div class="ag-nav"><div class="ag-wrap ag-nav-inner"><a href="#resultado">Resultado</a><a href="#principios">Principios</a><a href="#recorrido">Recorrido</a><a href="#pasos">Guía paso a paso</a><a href="#modelos">Modelos</a><a href="#control">Control</a></div></div>
+
+  <section class="ag-section" id="resultado"><div class="ag-wrap">
+    <p class="ag-kicker">Lo que vas a construir</p><h2>Un sistema que convierte hechos en conversaciones mejores.</h2>
+    <p class="ag-intro">El agente observa señales de entorno, pero no inventa intención de compra ni toma decisiones. Su trabajo es ordenar evidencia, proponer hipótesis y dejar claro qué debe revisar el equipo.</p>
+    <div class="ag-grid-3"><article><span class="ag-num">01 · ENTRADA</span><h3>Noticias con contexto</h3><p>Fichas públicas con fuente, URL, fechas, territorio, hecho comprobado y limitaciones.</p></article><article><span class="ag-num">02 · LECTURA</span><h3>Señales y oportunidades</h3><p>Una señal interpreta con prudencia. Una oportunidad agrupa señales y plantea una hipótesis validable.</p></article><article><span class="ag-num">03 · SALIDA</span><h3>Base, libro y dashboard</h3><p>La misma base estructurada alimenta un Excel para el equipo y un dashboard para priorizar.</p></article></div>
+  </div></section>
+
+  <section class="ag-section dark" id="principios"><div class="ag-wrap"><p class="ag-kicker">El criterio antes que la automatización</p><h2>La IA no sustituye el juicio.<br>Hace el trabajo revisable.</h2><div class="ag-principles"><div class="ag-principle"><b>Hecho</b><p>Lo que una fuente afirma y puede comprobarse.</p></div><div class="ag-principle"><b>Inferencia</b><p>Una lectura posible del efecto en un territorio o segmento.</p></div><div class="ag-principle"><b>Hipótesis comercial</b><p>Una conversación o acción que todavía debe ser validada.</p></div><div class="ag-principle"><b>Control humano</b><p>Nadie recibe una oferta, crédito o decisión automática por este flujo.</p></div></div></div></section>
+
+  <section class="ag-section mist" id="recorrido"><div class="ag-wrap"><p class="ag-kicker">El recorrido</p><h2>Cinco movimientos. Una misma evidencia.</h2><div class="ag-flow"><div><b>01</b><span>Definir perfil y reglas</span></div><div><b>02</b><span>Conservar las noticias</span></div><div><b>03</b><span>Generar señales y oportunidades</span></div><div><b>04</b><span>Actualizar el libro y dashboard</span></div><div><b>05</b><span>Respaldar y pedir validación</span></div></div><div class="ag-callout"><b>Regla de oro</b><p>Dos fuentes pueden describir el mismo acontecimiento. Se conservan ambas, pero se agrupan por <code>id_evento</code> para no contar dos veces la misma señal.</p></div></div></section>
+
+  <section class="ag-section" id="pasos"><div class="ag-wrap"><p class="ag-kicker">Guía del taller</p><h2>Construcción paso a paso.</h2><p class="ag-intro">Copia los bloques en un proyecto local de ChatGPT. El ejercicio está diseñado para trabajar únicamente con la información pública y sintética incluida.</p>
+    <div class="ag-steps">
+      <article class="ag-step"><div class="ag-step-head"><span class="ag-step-index">01</span><div><h3>Crea el proyecto y sus reglas</h3><p class="ag-step-summary">Prepara la estructura, el perfil y los límites antes de pedir cualquier búsqueda o análisis.</p></div></div><details><summary>Ver prompt y comprobación</summary><div class="ag-code-head"><b>Prompt 1</b><button class="ag-copy" data-copy="p1">Copiar</button></div><pre class="ag-code" id="p1">Vamos a construir un agente de oportunidades comerciales para una cooperativa ficticia. Trabaja únicamente dentro de la carpeta actual y no busques noticias todavía.
+
+PERFIL DEL EJEMPLO
+Nombre: Cooperativa Andina de Ahorro y Crédito.
+Ubicación: Nayón, Quito, Ecuador.
+Segmentos: familias, comercios, viveros y empresas de servicios.
+Productos: ahorro, depósitos a plazo, microcrédito y crédito productivo.
+Objetivo: observar señales públicas del entorno y proponer conversaciones comerciales para revisión humana.
+Zona horaria: America/Guayaquil.
+
+Crea las carpetas 01_entrada_noticias, 02_base_de_datos, 03_dashboard, 04_reportes y 05_respaldo. Crea PERFIL.md con el perfil anterior. Crea AGENTS.md con estas reglas: distingue HECHO, INFERENCIA e HIPÓTESIS COMERCIAL; conserva entidad, URL, fecha de publicación, fecha del hecho y fecha de captura; no inventes cifras, fuentes ni intención de compra; no uses datos personales o confidenciales; no decidas créditos, inversiones ni condiciones financieras; no contactes personas ni publiques información; conserva responsable, estado, fecha objetivo, notas y resultado cuando ya existan; guarda una copia en 05_respaldo antes de modificar el libro; deduplica por URL normalizada y por acontecimiento; y registra limitaciones y fallos.
+
+Crea FLUJO_AGENTE.md con este proceso: leer el perfil y las reglas, recibir noticias, conservar la evidencia, generar señales, proponer oportunidades, actualizar el libro y el dashboard, guardar respaldo y solicitar validación humana. No crees todavía el libro ni el dashboard. Muéstrame la lista de archivos creados y espera el siguiente paso.</pre><p>Comprueba que existan las cinco carpetas y los archivos <code>PERFIL.md</code>, <code>AGENTS.md</code> y <code>FLUJO_AGENTE.md</code>.</p></details></article>
+      <article class="ag-step"><div class="ag-step-head"><span class="ag-step-index">02</span><div><h3>Incorpora las noticias del demo</h3><p class="ag-step-summary">Usa 24 fichas ya recogidas durante 30 días. El objetivo no es buscar más, sino conservar y estructurar correctamente la evidencia disponible.</p></div></div><details><summary>Qué debe contener cada ficha</summary><ul><li><code>id_noticia</code>, <code>id_evento</code>, nivel de evidencia, categoría, título y entidad.</li><li>URL, fecha de publicación, fecha del hecho si existe, territorio, sector y hecho comprobado.</li><li>Limitaciones explícitas cuando falte un dato o la fuente no pruebe una relación local.</li></ul><p>El demo combina actividad local, tasas, cooperativas, clima, energía, geopolítica, movilidad, comercio y hogares en Ecuador, Quito y Pichincha. Algunas fichas comparten el mismo acontecimiento; el inventario debe reflejar 24 entradas, una ventana de 30 días y una fuente por ficha.</p><div class="ag-callout"><b>Importante</b><p>Una noticia puede orientar una pregunta comercial; por sí sola no demuestra demanda, capacidad de pago ni intención de compra.</p></div></details></article>
+      <article class="ag-step"><div class="ag-step-head"><span class="ag-step-index">03</span><div><h3>Crea la base, el libro y el dashboard</h3><p class="ag-step-summary">Los dos entregables visibles se generan desde una misma base estructurada y se mantienen sincronizados.</p></div></div><details><summary>Entregables y criterio de calidad</summary><ul><li><code>02_base_de_datos/base_agente_001.json</code> con noticias, señales y oportunidades.</li><li><code>02_base_de_datos/generar_agente_001.py</code>, el motor reproducible.</li><li><code>03_dashboard/agente_001.xlsx</code> con Noticias, Señales, Oportunidades, Seguimiento y Dashboard.</li><li><code>03_dashboard/index.html</code> autocontenido y <code>04_reportes/resumen_ultima.md</code>.</li></ul><p>El dashboard muestra primero los conteos y después de tres a cinco oportunidades. Cada una presenta tema, titulares enlazados, qué ocurrió, propuesta comercial y puntaje sobre 20. Los controles detallados permanecen en la base y el libro para el equipo interno.</p></details></article>
+      <article class="ag-step"><div class="ag-step-head"><span class="ag-step-index">04</span><div><h3>Prueba una segunda ejecución</h3><p class="ag-step-summary">La repetición correcta no duplica fichas, no borra notas humanas y deja un registro de cada ejecución.</p></div></div><details><summary>Ver prompt de ejecución</summary><div class="ag-code-head"><b>Prompt 4</b><button class="ag-copy" data-copy="p4">Copiar</button></div><pre class="ag-code" id="p4">Ejecuta el agente. Lee AGENTS.md, PERFIL.md, 01_entrada_noticias/noticias.json, 02_base_de_datos/base_agente_001.json, 02_base_de_datos/generar_agente_001.py y los archivos existentes en 03_dashboard. Detecta duplicados por URL normalizada y acontecimiento, conserva las oportunidades y campos manuales existentes y guarda un respaldo antes de modificar los archivos.
+
+Actualiza base_agente_001.json y ejecuta generar_agente_001.py para regenerar agente_001.xlsx e index.html con las mismas reglas. Mantén juntos el libro y el HTML en 03_dashboard. Conserva el generador y elimina únicamente archivos auxiliares innecesarios. Verifica que cada oportunidad visible muestre tema, noticias enlazadas, hecho, oportunidad comercial, prioridad y puntaje.
+
+Registra en 04_reportes/pruebas.md la fecha y hora America/Guayaquil, noticias nuevas, duplicados, oportunidades creadas o actualizadas, archivos modificados y limitaciones. Si no hay novedades, registra “sin novedades” y no inventes cambios. No busques nuevas fuentes durante esta prueba ni contactes personas.</pre></details></article>
+      <article class="ag-step"><div class="ag-step-head"><span class="ag-step-index">05</span><div><h3>Programa solo después de validar</h3><p class="ag-step-summary">Primero ejecuta el flujo de manera manual. Después, una rutina de lunes a viernes puede buscar como máximo cinco novedades y mantener dos días de solapamiento.</p></div></div><details><summary>Condiciones para programar</summary><ul><li>Prioriza fuentes oficiales con fecha y enlace verificables.</li><li>Respalda antes de modificar y conserva los campos manuales.</li><li>Si no hay novedades, registra exactamente “sin novedades”.</li><li>En un proyecto local, el equipo debe estar encendido, la aplicación abierta y la carpeta disponible a la hora elegida.</li></ul></details></article>
+    </div>
+  </div></section>
+
+  <section class="ag-section dark" id="modelos"><div class="ag-wrap"><p class="ag-kicker">Elegir el vehículo según el trayecto</p><h2>No hace falta el mismo modelo para todo.</h2><p class="ag-intro">La recomendación del taller separa rapidez, construcción, revisión y rescate. La disponibilidad concreta depende de tu espacio de trabajo.</p><div class="ag-models"><article class="ag-model"><h3>GPT-5.6 Luna</h3><p>Preparar y normalizar noticias; repetir una ejecución ya probada.</p><span class="ag-use">Bajo · rápido</span></article><article class="ag-model"><h3>GPT-5.6 Terra</h3><p>Construir la base, el libro y el dashboard sencillo.</p><span class="ag-use">Medio · equilibrio</span></article><article class="ag-model"><h3>GPT-5.6 Sol</h3><p>Resolver un fallo o revisar una parte compleja del flujo.</p><span class="ag-use">Medio · revisión</span></article><article class="ag-model"><h3>GPT-6 Astra</h3><p>Revisión profunda o una versión de producción más compleja.</p><span class="ag-use">Bajo o medio · profundo</span></article></div><p class="ag-intro">Consulta la <a style="color:var(--ag-lime)" href="https://developers.openai.com/api/docs/models" target="_blank" rel="noopener">documentación oficial de modelos de OpenAI</a> para comprobar disponibilidad y capacidades actuales antes del taller.</p></div></section>
+
+  <section class="ag-section mist" id="control"><div class="ag-wrap"><p class="ag-kicker">Lectura responsable</p><h2>La oportunidad es una hipótesis, no una orden.</h2><div class="ag-table-wrap"><table class="ag-table"><thead><tr><th>Elemento</th><th>Qué significa</th><th>Qué no significa</th></tr></thead><tbody><tr><td><strong>Noticia</strong></td><td>Una fuente afirma un hecho comprobable.</td><td>Que ese hecho afecte a cada cliente.</td></tr><tr><td><strong>Señal</strong></td><td>Una lectura posible del efecto para territorio o segmento.</td><td>Una prueba de demanda o capacidad de pago.</td></tr><tr><td><strong>Oportunidad</strong></td><td>Una hipótesis con una acción de validación.</td><td>Una decisión de crédito, inversión o contacto automático.</td></tr></tbody></table></div><div class="ag-callout"><b>Antes de utilizar información real</b><p>Revisa privacidad, retención, conectores y reglas de tu organización. Un proyecto local organiza archivos en tu equipo, pero no convierte automáticamente el procesamiento del modelo en procesamiento local. Mantén la aprobación humana antes de cualquier decisión financiera o contacto.</p></div></div></section>
+
+  <section class="ag-section dark"><div class="ag-wrap"><p class="ag-kicker">Checklist de cierre</p><h2>Antes de dar el flujo por bueno.</h2><div class="ag-privacy"><div><h3>Comprueba los conteos</h3><p>24 noticias, máximo ocho señales y entre tres y cinco oportunidades. Cada salida debe conservar sus enlaces y limitaciones.</p></div><div><h3>Comprueba la repetición</h3><p>Una nueva corrida no debe crear duplicados ni borrar notas humanas. Debe registrar qué cambió —o “sin novedades”.</p></div><div><h3>Comprueba los entregables</h3><p>El libro y el HTML abren correctamente y se regeneran desde la misma base estructurada.</p></div><div><h3>Comprueba el control</h3><p>Las fuentes, fechas, inferencias y pendientes siguen visibles para una revisión humana informada.</p></div></div></div></section>
+</main>
+<footer class="ag-footer"><div class="ag-wrap ag-footer-inner"><div><h2>La tecnología sirve cuando<br>las decisiones mejoran.</h2><p>STRAGTA · Estrategia, implementación y adopción tecnológica.</p></div><a class="ag-button" href="/es/contacto/">Hablemos de tu taller</a></div></footer>
+<script src="/assets/js/main.js"></script>
+<script>
+document.querySelectorAll('[data-copy]').forEach(function(button){button.addEventListener('click',function(){var text=document.getElementById(button.dataset.copy).innerText;navigator.clipboard.writeText(text).then(function(){var old=button.textContent;button.textContent='Copiado';setTimeout(function(){button.textContent=old},1600)})})});
+</script>
+</body>
+</html>
