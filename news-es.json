@@ -1,7 +1,17 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-22T12:16:56.963Z",
+  "lastUpdated": "2026-09-23T12:29:35.600Z",
   "articles": [
+    {
+      "id": "chipmakers-security-chip-design",
+      "date": "22 September 2026",
+      "headline": "Chipmakers move security into chip design as AI hardware expands",
+      "summary": "Los fabricantes de semiconductores están incorporando más seguridad directamente en el diseño y las pruebas de chips para proteger dispositivos conectados impulsados por IA. Para empresas y pymes, esto apunta a hardware más seguro pero también a mayores exigencias de compra, certificación y gestión de riesgos en equipos conectados.",
+      "source": "TechShots",
+      "sourceUrl": "https://www.techshotsapp.com/technology/chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
+      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/chipmakers-move-security-into-chip-design-as-ai-hardware-expands.webp",
+      "category": "Automatización"
+    },
     {
       "id": "reuters-ai-growth-strains-2026-09-20",
       "date": "20 September 2026",
@@ -21,16 +31,6 @@
       "sourceUrl": "https://techcrunch.com/2026/09/",
       "imageUrl": "",
       "category": "Automatización"
-    },
-    {
-      "id": "informationweek-sept14-18-2026-ai-code-of-conduct",
-      "date": "18 September 2026",
-      "headline": "Microsoft propone un código de conducta para sus sistemas de IA y se intensifica el debate sobre control y seguridad",
-      "summary": "Microsoft presentó un borrador de normas para mantener la IA bajo control humano, en un momento en que crece la preocupación por sistemas más autónomos. Para empresas, esto apunta a más presión sobre gobernanza, supervisión, controles de riesgo y decisiones sobre qué procesos pueden automatizarse sin perder trazabilidad.",
-      "source": "InformationWeek",
-      "sourceUrl": "https://www.informationweek.com/machine-learning-ai/the-week-of-sept-14-18-what-happened-what-matters-what-s-next",
-      "imageUrl": "https://eu-images.contentstack.com/v3/assets/blt69509c9116440be8/blt5f985518d66ac8ab/6aad8ad2e2ed910eb9fd249a/091826_IWK_WeeklyRoundup_GettyImages-1974055076.png?disable=upscale&width=1200&height=630&fit=crop",
-      "category": "Regulación"
     }
   ]
 }

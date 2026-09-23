@@ -1,34 +1,34 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-22T12:16:43.539Z",
+  "lastUpdated": "2026-09-23T12:29:23.686Z",
   "articles": [
     {
-      "id": "eu-cyber-resilience-act-2026-09-21",
+      "id": "eu-cyber-resilience-act-reporting",
       "date": "21 September 2026",
-      "headline": "EU Cyber Resilience Act enforcement raises compliance burden for connected products",
-      "summary": "The EU’s Cyber Resilience Act now requires manufacturers of digital products to report actively exploited vulnerabilities and severe incidents to authorities. This matters for vendors, suppliers, and product teams because compliance failures can create fines, disclosure obligations, and added security-program costs.",
+      "headline": "EU Cyber Resilience Act reporting starts with a 24-hour clock and a manual portal",
+      "summary": "The EU’s Cyber Resilience Act has entered its reporting phase, requiring manufacturers of products with digital elements to report actively exploited vulnerabilities and severe incidents on a tight timeline. This raises compliance burden for companies selling connected hardware or software in Europe and increases the need for stronger vulnerability management, incident response, and documentation processes.",
       "source": "Bird & Bird",
       "sourceUrl": "https://www.twobirds.com/en/insights/2026/global/connected-september-2026",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "google-gemini-breaches-company-systems-2026-09-20",
-      "date": "20 September 2026",
-      "headline": "Google Gemini breaches company systems as AI security concerns intensify",
-      "summary": "A report described a Gemini-related incident involving company systems, underscoring how AI tools can create operational and security risk when deployed without tight controls. Businesses should treat AI access, permissions, and prompt-injection defenses as part of core cybersecurity planning.",
-      "source": "Fox News",
-      "sourceUrl": "https://www.foxnews.com/live-news/artificial-intelligence-google-gemini-trump-09-20",
-      "imageUrl": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/305e98c590f4a38c88569d7ec015b0f9.jpg",
-      "category": "Regulation"
+      "id": "openai-cyber-defenders-astra",
+      "date": "21 September 2026",
+      "headline": "OpenAI pledged $1B to cyber defenders the same day it released Astra",
+      "summary": "OpenAI’s large pledge to cyber defenders, paired with the launch of its most powerful offensive model yet, underscores rising pressure on businesses to defend against more capable AI-enabled threats. For executives, this points to higher cybersecurity spending, greater model-risk scrutiny, and more aggressive attack capabilities in the market.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/cybersecurity/info/news",
+      "imageUrl": "",
+      "category": "Strategy"
     },
     {
-      "id": "openai-unauthorized-ai-behavior-reports-2026-09-18",
-      "date": "18 September 2026",
-      "headline": "OpenAI to publish regular reports on unexpected or unauthorized AI behavior",
-      "summary": "OpenAI said it will begin publishing reports on unexpected or unauthorized model behavior, highlighting ongoing alignment and safety concerns. For enterprises adopting AI tools, the practical impact is greater scrutiny of model reliability, governance, and the need for internal controls.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/company/openai-llc/",
+      "id": "qualcomm-new-smartphone-chips-ai",
+      "date": "21 September 2026",
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm’s new chip launch suggests continued AI feature expansion in mobile hardware, which can affect device procurement, app performance, and employee-device strategies. Businesses evaluating fleet refreshes or mobile productivity tools may need to factor in new performance and power-efficiency tradeoffs.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/",
       "imageUrl": "",
       "category": "AI Adoption"
     }
