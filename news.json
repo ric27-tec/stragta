@@ -1,7 +1,27 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-23T12:29:23.686Z",
+  "lastUpdated": "2026-09-24T12:28:29.235Z",
   "articles": [
+    {
+      "id": "eu-cyber-resilience-act-reporting",
+      "date": "22 September 2026",
+      "headline": "EU cyber reporting rules tighten as incident disclosure deadlines take effect",
+      "summary": "New EU cybersecurity reporting requirements now force manufacturers to report actively exploited vulnerabilities and severe incidents much faster, raising compliance pressure for vendors selling into Europe. Businesses that rely on connected products or software should expect shorter response windows, more vendor scrutiny, and higher disclosure discipline.",
+      "source": "SemiEngineering",
+      "sourceUrl": "https://semiengineering.com/chip-industry-week-in-review-156/",
+      "imageUrl": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg",
+      "category": "Regulation"
+    },
+    {
+      "id": "ai-slowdown-market-split",
+      "date": "21 September 2026",
+      "headline": "Tech leaders split over AI slowdown as regulation debate intensifies",
+      "summary": "A Reuters roundup says AI leaders remain divided over whether development should slow, with some calling for coordinated guardrails while others resist new regulation. For businesses, the dispute matters because it could influence compliance costs, procurement decisions, and the pace of AI product rollout across enterprise software and infrastructure.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/what-amodei-altman-musk-have-said-about-ai-risks-stoking-doom-fears-2026-09-14/",
+      "imageUrl": "",
+      "category": "Strategy"
+    },
     {
       "id": "eu-cyber-resilience-act-reporting",
       "date": "21 September 2026",
@@ -11,26 +31,6 @@
       "sourceUrl": "https://www.twobirds.com/en/insights/2026/global/connected-september-2026",
       "imageUrl": "",
       "category": "Regulation"
-    },
-    {
-      "id": "openai-cyber-defenders-astra",
-      "date": "21 September 2026",
-      "headline": "OpenAI pledged $1B to cyber defenders the same day it released Astra",
-      "summary": "OpenAI’s large pledge to cyber defenders, paired with the launch of its most powerful offensive model yet, underscores rising pressure on businesses to defend against more capable AI-enabled threats. For executives, this points to higher cybersecurity spending, greater model-risk scrutiny, and more aggressive attack capabilities in the market.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/cybersecurity/info/news",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "qualcomm-new-smartphone-chips-ai",
-      "date": "21 September 2026",
-      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "summary": "Qualcomm’s new chip launch suggests continued AI feature expansion in mobile hardware, which can affect device procurement, app performance, and employee-device strategies. Businesses evaluating fleet refreshes or mobile productivity tools may need to factor in new performance and power-efficiency tradeoffs.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/",
-      "imageUrl": "",
-      "category": "AI Adoption"
     }
   ]
 }

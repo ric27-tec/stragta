@@ -1,34 +1,34 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-23T12:29:35.600Z",
+  "lastUpdated": "2026-09-24T12:28:39.114Z",
   "articles": [
     {
-      "id": "chipmakers-security-chip-design",
-      "date": "22 September 2026",
-      "headline": "Chipmakers move security into chip design as AI hardware expands",
-      "summary": "Los fabricantes de semiconductores están incorporando más seguridad directamente en el diseño y las pruebas de chips para proteger dispositivos conectados impulsados por IA. Para empresas y pymes, esto apunta a hardware más seguro pero también a mayores exigencias de compra, certificación y gestión de riesgos en equipos conectados.",
-      "source": "TechShots",
-      "sourceUrl": "https://www.techshotsapp.com/technology/chipmakers-move-security-into-chip-design-as-ai-hardware-expands",
-      "imageUrl": "https://d3vnc3w6v6jm99.cloudfront.net/chipmakers-move-security-into-chip-design-as-ai-hardware-expands.webp",
-      "category": "Automatización"
-    },
-    {
-      "id": "reuters-ai-growth-strains-2026-09-20",
-      "date": "20 September 2026",
-      "headline": "El FMI advierte que la IA puede impulsar el crecimiento, pero también aumentar las tensiones económicas en Europa",
-      "summary": "El FMI dijo a ministros de la UE que la inteligencia artificial podría elevar el crecimiento, pero también agravar desequilibrios económicos, un dato relevante para empresas expuestas a costes, productividad y planificación de inversión tecnológica. Para directivos, la señal es que la adopción de IA puede traer ventajas competitivas, pero con riesgos macroeconómicos y de asignación de capital en el entorno europeo.",
+      "id": "china-virtual-hosts-livestream-shopping",
+      "date": "24 September 2026",
+      "headline": "China impulsa anfitriones virtuales con IA para reducir costes en el comercio por livestreaming",
+      "summary": "La adopción de presentadores virtuales muestra cómo la IA ya está sustituyendo trabajo humano en ventas digitales para recortar costes y mejorar eficiencia. Comercios y marcas pueden esperar presión competitiva similar en atención al cliente, marketing y ventas online.",
       "source": "Reuters",
       "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
-      "category": "Estrategia"
+      "category": "Adopción de IA"
     },
     {
-      "id": "techcrunch-corridor-25m-smb-benefits-2026-09-19",
-      "date": "19 September 2026",
-      "headline": "Corridor levanta 25 millones de dólares para digitalizar el corretaje de beneficios para pymes",
-      "summary": "La startup Corridor consiguió 25 millones de dólares para construir una plataforma que automatiza y digitaliza la intermediación de beneficios para pequeñas y medianas empresas. El movimiento muestra cómo la IA y la automatización siguen entrando en procesos administrativos de alto coste, con potencial para reducir fricción, tiempo y gasto en operaciones internas.",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/09/",
+      "id": "mcp-credentials-github-leak",
+      "date": "23 September 2026",
+      "headline": "Miles de archivos públicos de Model Context Protocol exponen credenciales no caducables en GitHub",
+      "summary": "La filtración deja abiertas redes corporativas, datos privados y costosas reservas de tokens de IA, elevando el riesgo operativo para empresas que experimentan con agentes y flujos automatizados. Obliga a reforzar gestión de secretos, revisión de repositorios y controles de acceso antes de escalar la IA.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
+      "imageUrl": "",
+      "category": "Regulación"
+    },
+    {
+      "id": "palo-alto-ai-security-service",
+      "date": "22 September 2026",
+      "headline": "Palo Alto Networks lanzará un servicio de ciberseguridad con modelos de Anthropic y OpenAI",
+      "summary": "El nuevo servicio apunta a detectar vulnerabilidades en sistemas corporativos usando modelos avanzados de IA, señal de que la automatización de defensa sigue acelerándose. Para empresas, puede reducir tiempos de análisis y ampliar la cobertura de seguridad, aunque también eleva la dependencia de proveedores de IA de terceros.",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
       "imageUrl": "",
       "category": "Automatización"
     }
