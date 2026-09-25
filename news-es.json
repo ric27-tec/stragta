@@ -1,36 +1,36 @@
 {
   "lang": "es",
-  "lastUpdated": "2026-09-24T12:28:39.114Z",
+  "lastUpdated": "2026-09-25T12:30:00.990Z",
   "articles": [
     {
-      "id": "china-virtual-hosts-livestream-shopping",
-      "date": "24 September 2026",
-      "headline": "China impulsa anfitriones virtuales con IA para reducir costes en el comercio por livestreaming",
-      "summary": "La adopción de presentadores virtuales muestra cómo la IA ya está sustituyendo trabajo humano en ventas digitales para recortar costes y mejorar eficiencia. Comercios y marcas pueden esperar presión competitiva similar en atención al cliente, marketing y ventas online.",
+      "id": "ai-great-britain-breaches-health-database",
+      "date": "25 September 2026",
+      "headline": "Australia endurece el tono regulatorio tras una brecha relacionada con un bot de OpenAI",
+      "summary": "La reacción del gobierno australiano sugiere más presión regulatoria sobre el uso de IA en sectores sensibles como salud y datos personales. Para empresas que despliegan IA, esto eleva el riesgo de cumplimiento, auditoría y gobernanza de datos.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Adopción de IA"
-    },
-    {
-      "id": "mcp-credentials-github-leak",
-      "date": "23 September 2026",
-      "headline": "Miles de archivos públicos de Model Context Protocol exponen credenciales no caducables en GitHub",
-      "summary": "La filtración deja abiertas redes corporativas, datos privados y costosas reservas de tokens de IA, elevando el riesgo operativo para empresas que experimentan con agentes y flujos automatizados. Obliga a reforzar gestión de secretos, revisión de repositorios y controles de acceso antes de escalar la IA.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "sourceUrl": "https://www.reuters.com/technology/artificial-intelligence/funding-frenzy-chip-wars-robot-dreams-inside-chinas-ai-boom-2026-09-23/",
       "imageUrl": "",
       "category": "Regulación"
     },
     {
-      "id": "palo-alto-ai-security-service",
-      "date": "22 September 2026",
-      "headline": "Palo Alto Networks lanzará un servicio de ciberseguridad con modelos de Anthropic y OpenAI",
-      "summary": "El nuevo servicio apunta a detectar vulnerabilidades en sistemas corporativos usando modelos avanzados de IA, señal de que la automatización de defensa sigue acelerándose. Para empresas, puede reducir tiempos de análisis y ampliar la cobertura de seguridad, aunque también eleva la dependencia de proveedores de IA de terceros.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/disrupted/",
-      "imageUrl": "",
-      "category": "Automatización"
+      "id": "akami-anthropic-ai-computing-agreement",
+      "date": "25 September 2026",
+      "headline": "Akamai se dispara por un acuerdo de computación con Anthropic valorado en 11.000 millones de dólares",
+      "summary": "El acuerdo refuerza la fuerte demanda por infraestructura de IA y puede mover expectativas sobre gasto cloud y capacidad de cómputo. Para empresas usuarias de IA, sugiere presión al alza en oferta, precios y priorización de recursos de infraestructura.",
+      "source": "Investors Business Daily",
+      "sourceUrl": "https://www.investors.com/technology/",
+      "imageUrl": "https://www.investors.com/wp-content/uploads/2016/06/ibd.jpg",
+      "category": "Adopción de IA"
+    },
+    {
+      "id": "tsmc-imec-cloud-alliance",
+      "date": "23 September 2026",
+      "headline": "IC-Link amplía su colaboración con TSMC para acelerar el acceso a nodos avanzados",
+      "summary": "La alianza crea un servicio gestionado en la nube para flujos EDA mixtos, reduciendo la fricción técnica y operativa para diseñar chips avanzados. Para empresas de semiconductores, IA, automoción e industrial, esto puede acortar ciclos de desarrollo y bajar la barrera de entrada a diseños complejos.",
+      "source": "imec",
+      "sourceUrl": "https://www.imec-int.com/en/press/ic-link-imec-expands-collaboration-tsmc-accelerate-customer-access-advanced-node-chip-design",
+      "imageUrl": "https://www.imec-int.com/sites/default/files/2026-09/IC%20Link%20slide.jpg",
+      "category": "Estrategia"
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-24T12:28:29.235Z",
+  "lastUpdated": "2026-09-25T12:29:53.422Z",
   "articles": [
     {
-      "id": "eu-cyber-resilience-act-reporting",
-      "date": "22 September 2026",
-      "headline": "EU cyber reporting rules tighten as incident disclosure deadlines take effect",
-      "summary": "New EU cybersecurity reporting requirements now force manufacturers to report actively exploited vulnerabilities and severe incidents much faster, raising compliance pressure for vendors selling into Europe. Businesses that rely on connected products or software should expect shorter response windows, more vendor scrutiny, and higher disclosure discipline.",
-      "source": "SemiEngineering",
-      "sourceUrl": "https://semiengineering.com/chip-industry-week-in-review-156/",
-      "imageUrl": "https://semiengineering.com/wp-content/uploads/AdobeStock_461734705-wafers-10-3-22.jpeg",
-      "category": "Regulation"
-    },
-    {
-      "id": "ai-slowdown-market-split",
-      "date": "21 September 2026",
-      "headline": "Tech leaders split over AI slowdown as regulation debate intensifies",
-      "summary": "A Reuters roundup says AI leaders remain divided over whether development should slow, with some calling for coordinated guardrails while others resist new regulation. For businesses, the dispute matters because it could influence compliance costs, procurement decisions, and the pace of AI product rollout across enterprise software and infrastructure.",
+      "id": "reuters-china-ai-film-video-subsidies",
+      "date": "25 September 2026",
+      "headline": "China targets film and video creators with AI subsidies to build its AI ecosystem",
+      "summary": "China is using subsidies, discounted office space, and computing resources to attract creators and startups into its AI push. For businesses, this signals stronger state support for AI content tools and more competition for compute, talent, and local market share in media-adjacent AI.",
       "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/what-amodei-altman-musk-have-said-about-ai-risks-stoking-doom-fears-2026-09-14/",
+      "sourceUrl": "https://www.reuters.com/technology/",
       "imageUrl": "",
       "category": "Strategy"
     },
     {
-      "id": "eu-cyber-resilience-act-reporting",
-      "date": "21 September 2026",
-      "headline": "EU Cyber Resilience Act reporting starts with a 24-hour clock and a manual portal",
-      "summary": "The EU’s Cyber Resilience Act has entered its reporting phase, requiring manufacturers of products with digital elements to report actively exploited vulnerabilities and severe incidents on a tight timeline. This raises compliance burden for companies selling connected hardware or software in Europe and increases the need for stronger vulnerability management, incident response, and documentation processes.",
-      "source": "Bird & Bird",
-      "sourceUrl": "https://www.twobirds.com/en/insights/2026/global/connected-september-2026",
+      "id": "techtarget-south-korea-breach-fines",
+      "date": "24 September 2026",
+      "headline": "South Korea’s 10% data breach fines raise global compliance pressure",
+      "summary": "South Korea’s tougher data-breach penalties are pushing firms toward stronger prevention controls and more conservative compliance practices. Multinational businesses may need to build to the strictest global standard to avoid fragmentation, higher legal risk, and costly policy mismatches.",
+      "source": "TechTarget",
+      "sourceUrl": "https://www.techtarget.com/news/",
       "imageUrl": "",
       "category": "Regulation"
+    },
+    {
+      "id": "reuters-oracle-layoffs-ai-data-centers",
+      "date": "23 September 2026",
+      "headline": "Oracle layoffs reflect pressure to fund AI chips and data centers",
+      "summary": "Oracle’s latest layoffs appear tied to the company’s effort to redirect spending toward AI infrastructure, including chips and data centers. For customers and suppliers, that points to continued cost discipline, shifting investment priorities, and possible changes in enterprise cloud planning.",
+      "source": "Yahoo Finance / Reuters",
+      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/zurich-cytora-win-2026-datos-130000443.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/a00ecc9c378ab10add880b2a54979dd6558cde7772cc1eed9efe25c95ba93a80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fdc5527a20ad55a0498c3931c4c80700f.jpg",
+      "category": "Strategy"
     }
   ]
 }
