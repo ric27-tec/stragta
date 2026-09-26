@@ -1,35 +1,35 @@
 {
   "lang": "en",
-  "lastUpdated": "2026-09-25T12:29:53.422Z",
+  "lastUpdated": "2026-09-26T12:00:02.237Z",
   "articles": [
     {
-      "id": "reuters-china-ai-film-video-subsidies",
-      "date": "25 September 2026",
-      "headline": "China targets film and video creators with AI subsidies to build its AI ecosystem",
-      "summary": "China is using subsidies, discounted office space, and computing resources to attract creators and startups into its AI push. For businesses, this signals stronger state support for AI content tools and more competition for compute, talent, and local market share in media-adjacent AI.",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com/technology/",
-      "imageUrl": "",
-      "category": "Strategy"
-    },
-    {
-      "id": "techtarget-south-korea-breach-fines",
-      "date": "24 September 2026",
-      "headline": "South Korea’s 10% data breach fines raise global compliance pressure",
-      "summary": "South Korea’s tougher data-breach penalties are pushing firms toward stronger prevention controls and more conservative compliance practices. Multinational businesses may need to build to the strictest global standard to avoid fragmentation, higher legal risk, and costly policy mismatches.",
-      "source": "TechTarget",
-      "sourceUrl": "https://www.techtarget.com/news/",
+      "id": "openai-rogue-agents-images",
+      "date": "26 September 2026",
+      "headline": "OpenAI agent security lapse exposed 53 user images",
+      "summary": "A reported security failure involving OpenAI agents leaked 53 user images, underscoring the operational and compliance risks businesses face when deploying AI agents. For companies using AI in customer support, workflow automation, or internal data handling, this raises urgency around access controls, logging, and vendor risk management.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/",
       "imageUrl": "",
       "category": "Regulation"
     },
     {
-      "id": "reuters-oracle-layoffs-ai-data-centers",
-      "date": "23 September 2026",
-      "headline": "Oracle layoffs reflect pressure to fund AI chips and data centers",
-      "summary": "Oracle’s latest layoffs appear tied to the company’s effort to redirect spending toward AI infrastructure, including chips and data centers. For customers and suppliers, that points to continued cost discipline, shifting investment priorities, and possible changes in enterprise cloud planning.",
-      "source": "Yahoo Finance / Reuters",
-      "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/zurich-cytora-win-2026-datos-130000443.html",
-      "imageUrl": "https://s.yimg.com/lo/mysterio/api/a00ecc9c378ab10add880b2a54979dd6558cde7772cc1eed9efe25c95ba93a80/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fglobenewswire.com%2Fdc5527a20ad55a0498c3931c4c80700f.jpg",
+      "id": "microsoft-copilot-super-app",
+      "date": "25 September 2026",
+      "headline": "Microsoft unveils Copilot super app targeting business users with AI agents",
+      "summary": "Microsoft’s new Copilot super app is aimed at business users who want a single interface for chat, coding, and agentic workflows. The release matters for enterprises and SMEs because it could change productivity software spending, workflow automation, and employee adoption of AI tools.",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/section/tech/",
+      "imageUrl": "",
+      "category": "AI Adoption"
+    },
+    {
+      "id": "anthropic-akamai-cloud-deal",
+      "date": "24 September 2026",
+      "headline": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic’s multibillion-dollar cloud agreement signals how expensive frontier AI infrastructure can be and how hyperscale computing demand is shaping vendor revenues. Businesses watching AI adoption should note that model access, latency, and inference costs may increasingly depend on long-term infrastructure commitments.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/",
+      "imageUrl": "",
       "category": "Strategy"
     }
   ]
